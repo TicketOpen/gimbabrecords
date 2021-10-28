@@ -1,5 +1,6 @@
 # 김밥레코드
 https://ticketopen.github.io/gimbabrecords/all.xml
+
 | Category     | URL                                                   | RSS Feed                                                          |
 | ------------ | ----------------------------------------------------- | ----------------------------------------------------------------- |
 | CD           | http://gimbabrecords.com/product/list.html?cate_no=24 | [RSS](https://ticketopen.github.io/gimbabrecords/cd.xml)          |
@@ -24,3 +25,10 @@ https://ticketopen.github.io/gimbabrecords/all.xml
 | Classical/Crossover | http://gimbabrecords.com/product/list.html?cate_no=50 |
 | Holiday             | http://gimbabrecords.com/product/list.html?cate_no=51 |
 | Japanese            | http://gimbabrecords.com/product/list.html?cate_no=90 |
+
+---
+
+### 한국
+- https://ticketopen.github.io/gimbabrecords/cd_korean.xml
+- https://ticketopen.github.io/gimbabrecords/vinyl_korean.xml
+- https://ticketopen.github.io/gimbabrecords/merch_dvd.xml
