@@ -14,7 +14,7 @@ https://ticketopen.github.io/gimbabrecords/all.xml
 | Bargain Bin  | http://gimbabrecords.com/product/list.html?cate_no=43 | [RSS](https://ticketopen.github.io/gimbabrecords/bargainbin.xml)  |
 
 ## CD
-| Category            |                                                       |                                                                              |
+| Category            | URL                                                   | RSS Feed                                                                     |
 | ------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------- |
 | Korean              | http://gimbabrecords.com/product/list.html?cate_no=29 | [RSS](https://ticketopen.github.io/gimbabrecords/cd_korean.xml)              |
 | Pop/Rock            | http://gimbabrecords.com/product/list.html?cate_no=30 | [RSS](https://ticketopen.github.io/gimbabrecords/cd_pop-rock.xml)            |
