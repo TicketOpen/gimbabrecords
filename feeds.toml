@@ -148,9 +148,29 @@ contentSelector = "span.inner_R.price"
 imageSelector = "img.thumb"
 waitUntil = "networkidle"
 
-[cd_classicalcrossover]
+[cd_classical-crossover]
 title = "김밥레코드 ─ CD ─ Classical/Crossover"
 url = "http://gimbabrecords.com/product/list.html?cate_no=50"
+entrySelector = "ul.prdList.column3 li.item.xans-record-"
+titleSelector = "p.name a span"
+linkSelector = "a.inner_L"
+contentSelector = "span.inner_R.price"
+imageSelector = "img.thumb"
+waitUntil = "networkidle"
+
+[cd_holiday]
+title = "김밥레코드 ─ CD ─ Holiday"
+url = "http://gimbabrecords.com/product/list.html?cate_no=51"
+entrySelector = "ul.prdList.column3 li.item.xans-record-"
+titleSelector = "p.name a span"
+linkSelector = "a.inner_L"
+contentSelector = "span.inner_R.price"
+imageSelector = "img.thumb"
+waitUntil = "networkidle"
+
+[cd_japanese]
+title = "김밥레코드 ─ CD ─ Japanese"
+url = "http://gimbabrecords.com/product/list.html?cate_no=90"
 entrySelector = "ul.prdList.column3 li.item.xans-record-"
 titleSelector = "p.name a span"
 linkSelector = "a.inner_L"
