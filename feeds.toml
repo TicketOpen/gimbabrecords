@@ -7,3 +7,53 @@ linkSelector = "a.inner_L"
 contentSelector = "span.inner_R.price"
 imageSelector = "img.thumb"
 waitUntil = "networkidle"
+
+[vinyl]
+title = "김밥레코드 ─ Vinyl"
+url = "http://gimbabrecords.com/product/list.html?cate_no=25"
+entrySelector = "ul.prdList.column3 li.item.xans-record-"
+titleSelector = "p.name a span"
+linkSelector = "a.inner_L"
+contentSelector = "span.inner_R.price"
+imageSelector = "img.thumb"
+waitUntil = "networkidle"
+
+[cassette]
+title = "김밥레코드 ─ Cassette"
+url = "http://gimbabrecords.com/product/list.html?cate_no=26"
+entrySelector = "ul.prdList.column3 li.item.xans-record-"
+titleSelector = "p.name a span"
+linkSelector = "a.inner_L"
+contentSelector = "span.inner_R.price"
+imageSelector = "img.thumb"
+waitUntil = "networkidle"
+
+[merch]
+title = "김밥레코드 ─ Movies/Merch"
+url = "http://gimbabrecords.com/product/list.html?cate_no=27"
+entrySelector = "ul.prdList.column3 li.item.xans-record-"
+titleSelector = "p.name a span"
+linkSelector = "a.inner_L"
+contentSelector = "span.inner_R.price"
+imageSelector = "img.thumb"
+waitUntil = "networkidle"
+
+[preorder]
+title = "김밥레코드 ─ Pre-Order"
+url = "http://gimbabrecords.com/product/list.html?cate_no=42"
+entrySelector = "ul.prdList.column3 li.item.xans-record-"
+titleSelector = "p.name a span"
+linkSelector = "a.inner_L"
+contentSelector = "span.inner_R.price"
+imageSelector = "img.thumb"
+waitUntil = "networkidle"
+
+[bargainbin]
+title = "김밥레코드 ─ Bargain Bin"
+url = "http://gimbabrecords.com/product/list.html?cate_no=43"
+entrySelector = "ul.prdList.column3 li.item.xans-record-"
+titleSelector = "p.name a span"
+linkSelector = "a.inner_L"
+contentSelector = "span.inner_R.price"
+imageSelector = "img.thumb"
+waitUntil = "networkidle"
