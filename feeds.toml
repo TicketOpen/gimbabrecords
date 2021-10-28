@@ -1,0 +1,9 @@
+[cd]
+title = "김밥레코드 ─ CD"
+url = "http://gimbabrecords.com/product/list.html?cate_no=24"
+entrySelector = "ul.prdList.column3 li.item.xans-record-"
+titleSelector = "p.name a span"
+linkSelector = "a.inner_L"
+contentSelector = "span.inner_R.price"
+imageSelector = "img.thumb"
+waitUntil = "networkidle"
