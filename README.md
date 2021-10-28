@@ -14,20 +14,20 @@ https://ticketopen.github.io/gimbabrecords/all.xml
 | Bargain Bin  | http://gimbabrecords.com/product/list.html?cate_no=43 | [RSS](https://ticketopen.github.io/gimbabrecords/bargainbin.xml)  |
 
 ## CD
-| Category            |                                                       |
-| ------------------- | ----------------------------------------------------- |
-| Korean              | http://gimbabrecords.com/product/list.html?cate_no=29 |
-| Pop/Rock            | http://gimbabrecords.com/product/list.html?cate_no=30 |
-| Electronic/Dance    | http://gimbabrecords.com/product/list.html?cate_no=31 |
-| R&B/Soul/Funk       | http://gimbabrecords.com/product/list.html?cate_no=44 |
-| Hip Hop             | http://gimbabrecords.com/product/list.html?cate_no=45 |
-| Jazz                | http://gimbabrecords.com/product/list.html?cate_no=46 |
-| Reggae              | http://gimbabrecords.com/product/list.html?cate_no=47 |
-| Soundtracks         | http://gimbabrecords.com/product/list.html?cate_no=48 |
-| World               | http://gimbabrecords.com/product/list.html?cate_no=79 |
-| Classical/Crossover | http://gimbabrecords.com/product/list.html?cate_no=50 |
-| Holiday             | http://gimbabrecords.com/product/list.html?cate_no=51 |
-| Japanese            | http://gimbabrecords.com/product/list.html?cate_no=90 |
+| Category            |                                                       |                                                                              |
+| ------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Korean              | http://gimbabrecords.com/product/list.html?cate_no=29 | [RSS](https://ticketopen.github.io/gimbabrecords/cd_korean.xml)              |
+| Pop/Rock            | http://gimbabrecords.com/product/list.html?cate_no=30 | [RSS](https://ticketopen.github.io/gimbabrecords/cd_pop-rock.xml             |
+| Electronic/Dance    | http://gimbabrecords.com/product/list.html?cate_no=31 | [RSS](https://ticketopen.github.io/gimbabrecords/cd_electronic-dance.xml)    | 
+| R&B/Soul/Funk       | http://gimbabrecords.com/product/list.html?cate_no=44 | [RSS](https://ticketopen.github.io/gimbabrecords/cd_soul-funk.xml)           |
+| Hip Hop             | http://gimbabrecords.com/product/list.html?cate_no=45 | [RSS](https://ticketopen.github.io/gimbabrecords/cd_hiphop.xml)              |
+| Jazz                | http://gimbabrecords.com/product/list.html?cate_no=46 | [RSS](https://ticketopen.github.io/gimbabrecords/cd_jazz.xml)                |
+| Reggae              | http://gimbabrecords.com/product/list.html?cate_no=47 | [RSS](https://ticketopen.github.io/gimbabrecords/cd_reggae.xml)              | 
+| Soundtracks         | http://gimbabrecords.com/product/list.html?cate_no=48 | [RSS](https://ticketopen.github.io/gimbabrecords/cd_soundtracks.xml)         | 
+| World               | http://gimbabrecords.com/product/list.html?cate_no=79 | [RSS](https://ticketopen.github.io/gimbabrecords/cd_world.xml)               | 
+| Classical/Crossover | http://gimbabrecords.com/product/list.html?cate_no=50 | [RSS](https://ticketopen.github.io/gimbabrecords/cd_classical-crossover.xml) |
+| Holiday             | http://gimbabrecords.com/product/list.html?cate_no=51 | [RSS](https://ticketopen.github.io/gimbabrecords/cd_holiday.xml)             |
+| Japanese            | http://gimbabrecords.com/product/list.html?cate_no=90 | [RSS](https://ticketopen.github.io/gimbabrecords/cd_japanese.xml)            |
 
 ## Vinyl
 | Category               |                                                        |
