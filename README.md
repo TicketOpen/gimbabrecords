@@ -17,7 +17,7 @@ https://ticketopen.github.io/gimbabrecords/all.xml
 | Category            |                                                       |                                                                              |
 | ------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------- |
 | Korean              | http://gimbabrecords.com/product/list.html?cate_no=29 | [RSS](https://ticketopen.github.io/gimbabrecords/cd_korean.xml)              |
-| Pop/Rock            | http://gimbabrecords.com/product/list.html?cate_no=30 | [RSS](https://ticketopen.github.io/gimbabrecords/cd_pop-rock.xml             |
+| Pop/Rock            | http://gimbabrecords.com/product/list.html?cate_no=30 | [RSS](https://ticketopen.github.io/gimbabrecords/cd_pop-rock.xml)            |
 | Electronic/Dance    | http://gimbabrecords.com/product/list.html?cate_no=31 | [RSS](https://ticketopen.github.io/gimbabrecords/cd_electronic-dance.xml)    | 
 | R&B/Soul/Funk       | http://gimbabrecords.com/product/list.html?cate_no=44 | [RSS](https://ticketopen.github.io/gimbabrecords/cd_soul-funk.xml)           |
 | Hip Hop             | http://gimbabrecords.com/product/list.html?cate_no=45 | [RSS](https://ticketopen.github.io/gimbabrecords/cd_hiphop.xml)              |
