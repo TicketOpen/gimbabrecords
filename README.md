@@ -1,5 +1,8 @@
 # 김밥레코드
 https://ticketopen.github.io/gimbabrecords/all.xml
+### 한국
+- https://ticketopen.github.io/gimbabrecords/cd_korean.xml
+- https://ticketopen.github.io/gimbabrecords/vinyl_korean.xml
 
 | Category     | URL                                                   | RSS Feed                                                          |
 | ------------ | ----------------------------------------------------- | ----------------------------------------------------------------- |
@@ -26,9 +29,34 @@ https://ticketopen.github.io/gimbabrecords/all.xml
 | Holiday             | http://gimbabrecords.com/product/list.html?cate_no=51 |
 | Japanese            | http://gimbabrecords.com/product/list.html?cate_no=90 |
 
----
+## Vinyl
+| Category               |                                                        |
+| ---------------------- | ------------------------------------------------------ |
+| Korean                 | http://gimbabrecords.com/product/list.html?cate_no=52 |
+| Pop/Rock               | http://gimbabrecords.com/product/list.html?cate_no=32 |
+| Electronic/Dance       | http://gimbabrecords.com/product/list.html?cate_no=33 |
+| R&B/Soul/Funk          | http://gimbabrecords.com/product/list.html?cate_no=53 |
+| Hip Hop                | http://gimbabrecords.com/product/list.html?cate_no=54 |
+| Jazz/ Blues            | http://gimbabrecords.com/product/list.html?cate_no=55 |
+| Classical/Crossover    | http://gimbabrecords.com/product/list.html?cate_no=56 |
+| Reggae                 | http://gimbabrecords.com/product/list.html?cate_no=57 |
+| Soundtracks            | http://gimbabrecords.com/product/list.html?cate_no=58 |
+| French                 | http://gimbabrecords.com/product/list.html?cate_no=59 |
+| Brazilian              | http://gimbabrecords.com/product/list.html?cate_no=60 |
+| Latin                  | http://gimbabrecords.com/product/list.html?cate_no=61 |
+| European/African/Asian | http://gimbabrecords.com/product/list.html?cate_no=62 |
+| Holiday                | http://gimbabrecords.com/product/list.html?cate_no=63 |
+| Japanese               | http://gimbabrecords.com/product/list.html?cate_no=93 |
 
-### 한국
-- https://ticketopen.github.io/gimbabrecords/cd_korean.xml
-- https://ticketopen.github.io/gimbabrecords/vinyl_korean.xml
-- https://ticketopen.github.io/gimbabrecords/merch_dvd.xml
+## Movies/Merch
+| Category        |                                                        |
+| --------------- | ------------------------------------------------------ |
+| DVD/Blu-Ray     | http://gimbabrecords.com/product/list.html?cate_no=64 |
+| Posters         | http://gimbabrecords.com/product/list.html?cate_no=34 |
+| Mugs/Gifts      | http://gimbabrecords.com/product/list.html?cate_no=35 |
+| Clothing        | http://gimbabrecords.com/product/list.html?cate_no=65 |
+| Bags            | http://gimbabrecords.com/product/list.html?cate_no=66 |
+| Players         | http://gimbabrecords.com/product/list.html?cate_no=67 |
+| Books/Magazines | http://gimbabrecords.com/product/list.html?cate_no=68 |
+| Accessories     | http://gimbabrecords.com/product/list.html?cate_no=69 |
+| Others          | http://gimbabrecords.com/product/list.html?cate_no=70 |
