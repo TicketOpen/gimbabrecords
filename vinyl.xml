@@ -4,9 +4,17 @@
         <title>김밥레코드 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 18:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 18:41:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Various Artists) / Eyes Wide Shut 아이즈 와이드 셧 (Mondo Vinyl, 180g 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17582&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17582&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Oct 2021 18:38:48 GMT</pubDate>
+            <content:encoded><![CDATA[77,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/78bad56245f2c355abd2144d8de30bff.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[OST (John Williams) / Superman: The Movie 슈퍼맨 (180g 2LP Black VInyl, Mondo Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17581&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Oct 2021 18:00:06 GMT</pubDate>
             <content:encoded><![CDATA[44,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202110/17407f9046a40c5235a973644e9c402d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유키카 / timeabout, [Time Light Ver.] (140g Yellow Transparent Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17567&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17567&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:00:06 GMT</pubDate>
-            <content:encoded><![CDATA[44,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/91d6c9db0a1221df5176803a24503437.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
