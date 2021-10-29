@@ -4,9 +4,17 @@
         <title>김밥레코드 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 05:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 17:43:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Convenience / Accelerator (White Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17590&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17590&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Fri, 29 Oct 2021 17:40:53 GMT</pubDate>
+            <content:encoded><![CDATA[14,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/40e71184eb44a5283729cf469f322e63.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Shame / Drunk Tank Pink (Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17528&amp;cate_no=26&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Oct 2021 18:00:13 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/cd33a673cfe4272e2a58049b3fb61d50.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jungle / Loving In Stereo (Cassette, 종이케이스)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17256&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17256&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:00:13 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/91e84bdf8bee7e98f08fccdb48e519a0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
