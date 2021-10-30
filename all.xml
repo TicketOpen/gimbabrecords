@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 17:43:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 05:36:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,38 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202110/6c24e7662c2f6a29fb3be2205533807d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Frank Sinatra / Sings For Only The Lonely (Vinyl, 2LP, 60th Anniversary Stereo Mix) *할인상품 (김밥레코드 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17605&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17605&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 30 Oct 2021 05:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[45,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/ae9c9642ff23982e851624d90eb07054.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Miles Davis / Jazz Track (180g Vinyl, Mono, RTI Pressing ; Side A는 사형대의 엘리베이터 OST 수록, Side B는 빌 에반스, 존 콜트레인 등과의 세션) (김밥레코드 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17604&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17604&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 30 Oct 2021 05:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/80e0829f6aa88ec9e9a80d3c7b87e5e9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Miles Davis / Porgy And Bess (Vinyl, 180g LP, Mono, RTI Pressing) (김밥레코드 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17603&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17603&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 30 Oct 2021 05:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/89c143038d4376ce424ceaff47d138d2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stefano Bollani / Que Bom (Feat. Caetano Veloso, Hamilton de Holanda, Jaques Morelenbaum , Joao Bosco) (Vinyl, 2LP) (김밥레코드 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17602&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17602&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 30 Oct 2021 05:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[45,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/829ce68b73a5ae506c6cb92bf79d855c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Secos & Molhados ‎/ Secos & Molhados (Vinyl) (김밥레코드 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17601&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17601&amp;cate_no=25&amp;display_group=1</guid>
@@ -166,38 +198,6 @@
             <pubDate>Fri, 29 Oct 2021 17:40:44 GMT</pubDate>
             <content:encoded><![CDATA[47,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202110/dc6ce653228266b5020581281ea0c72b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gal Costa / Gal Costa (1969) (Vinyl) (김밥레코드 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17593&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17593&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 29 Oct 2021 17:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[48,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/c5ffc05a8d0074857c7dd58e435abc8e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jorge Ben / Sacundin Ben Samba (Vinyl) (김밥레코드 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17592&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17592&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 29 Oct 2021 17:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[48,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/a0b5ef9f752adac74ea1315100405a6a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Antonio Carlos Jobim / Urubu (Vinyl) (김밥레코드 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17591&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17591&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 29 Oct 2021 17:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[48,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/242b0b022a0e74f59d47a99ca472252e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Convenience / Accelerator (Green Clover Vinyl + Download) (김밥레코드 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17589&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17589&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 29 Oct 2021 17:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[28,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/5cfb7471ec8cf8ea3f883108c949f5ad.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[The Convenience / Accelerator (White Cassette) (김밥레코드 ─ Cassette)]]></title>
