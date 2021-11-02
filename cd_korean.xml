@@ -4,9 +4,17 @@
         <title>김밥레코드 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 05:38:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 17:44:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엑스엑스엑스 (XXX) / 교미 (Kyomi) (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17606&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17606&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Tue, 02 Nov 2021 17:42:54 GMT</pubDate>
+            <content:encoded><![CDATA[12,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/d03c1b85cc2eb23ecf72cce9d6749125.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[해서웨이 (Hathaw9y) / Woo Scribbling Night (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17558&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Oct 2021 18:08:23 GMT</pubDate>
             <content:encoded><![CDATA[11,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/f9689af2757f1c01490ab6671554db01.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[김재훈 / 널 그리는 밤 (EP, CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17221&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17221&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[13,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/4f80fdecd77c22c018d911745c698816.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

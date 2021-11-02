@@ -4,7 +4,7 @@
         <title>김밥레코드 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 05:38:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 17:44:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 28 Oct 2021 18:00:26 GMT</pubDate>
             <content:encoded><![CDATA[22,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202109/138673bcb1610809e5a6a999edfc819f.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[듀스 Deux / 여름안에서 (7" Vinyl) *예약상품 (10월 22일경 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17343&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17343&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:00:26 GMT</pubDate>
-            <content:encoded><![CDATA[29,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202109/b6201bffaafdf9cc199f4dc8a2ef4358.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OST / Chungking Express 重慶森林 중경삼림 (CD, ARS Series, Limited Edition)  *예약상품 (11월말 배송 예정)]]></title>
@@ -38,14 +30,6 @@
             <pubDate>Thu, 28 Oct 2021 18:00:26 GMT</pubDate>
             <content:encoded><![CDATA[35,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202110/a87db3b2cd4b34d0c04149f0df6bfd31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pastor T. L. Barrett and the Youth for Christ Choir / I Shall Wear A Crown (Vinyl, 5LP Box Set, Limited Joyful Gold + White Vinyl -혼합색 바이닐) *예약상품 (10월 29일 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17492&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17492&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:00:26 GMT</pubDate>
-            <content:encoded><![CDATA[117,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/cc713283b028628c288c0f51cfc1a684.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Radiohead / KID A MNESIA (Indie Store Exclusive Red Vinyl, 3LP, 발매 21주년 기념반) *예약상품 (11월 8일 발송 예정)]]></title>
@@ -102,6 +86,22 @@
             <pubDate>Thu, 28 Oct 2021 18:00:26 GMT</pubDate>
             <content:encoded><![CDATA[62,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/06f76750ef60e1e491eec53e65fa5e6d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joe Hisaishi  / Kikujiro no Natsu OST 기쿠지로의 여름 (Vinyl) *예약상품 (12월 7일부터 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17239&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17239&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 02 Nov 2021 17:42:43 GMT</pubDate>
+            <content:encoded><![CDATA[58,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/f6fe9f2bc1ce59be9e522ddc93ddea47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joe Hisaishi / Kids Return OST 키즈 리턴 (Vinyl) *예약상품 (12월 7일부터 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17240&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17240&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 02 Nov 2021 17:42:43 GMT</pubDate>
+            <content:encoded><![CDATA[56,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/87edc06411f5e71fab8a27c1bf91fd0f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
