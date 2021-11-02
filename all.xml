@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 17:45:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 05:38:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202011/fa83c1269accece7b68283c12a8075f5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Radiohead / KID A MNESIA (국내반 3CD, 디지팩, 발매 21주년 기념반) *예약상품 (11월 18일경 발송 예정) (김밥레코드 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17407&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17407&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Oct 2021 18:00:26 GMT</pubDate>
+            <content:encoded><![CDATA[22,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202109/138673bcb1610809e5a6a999edfc819f.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[듀스 Deux / 여름안에서 (7" Vinyl) *예약상품 (10월 22일경 발송 예정) (김밥레코드 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17343&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17343&amp;cate_no=42&amp;display_group=1</guid>
@@ -446,14 +454,6 @@
             <pubDate>Thu, 28 Oct 2021 18:00:26 GMT</pubDate>
             <content:encoded><![CDATA[54,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201903/70ca136848dfda22bf23cf13ea168975.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Radiohead / KID A MNESIA (국내반 3CD, 디지팩, 발매 21주년 기념반) *예약상품 (11월 8일경 발송 예정) (김밥레코드 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17407&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17407&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:00:26 GMT</pubDate>
-            <content:encoded><![CDATA[22,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202109/138673bcb1610809e5a6a999edfc819f.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Radiohead / KID A MNESIA (3CD, UK Import, 디지팩, 발매 21주년 기념반) *예약상품 (11월 8일경 발송 예정) (김밥레코드 ─ Pre-Order)]]></title>
@@ -744,7 +744,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202109/138673bcb1610809e5a6a999edfc819f.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Radiohead / KID A MNESIA (국내반 3CD, 디지팩, 발매 21주년 기념반) *예약상품 (11월 8일경 발송 예정) (김밥레코드 ─ CD ─ Pop/Rock)]]></title>
+            <title><![CDATA[Radiohead / KID A MNESIA (국내반 3CD, 디지팩, 발매 21주년 기념반) *예약상품 (11월 18일경 발송 예정) (김밥레코드 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17407&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17407&amp;cate_no=30&amp;display_group=1</guid>
             <pubDate>Thu, 28 Oct 2021 18:39:40 GMT</pubDate>
