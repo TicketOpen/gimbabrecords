@@ -4,9 +4,17 @@
         <title>김밥레코드 ─ Movies/Merch</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 05:37:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 17:44:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신승은 / 인간관계 EP (가사집 + 다운로드 QR코드)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17621&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17621&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Fri, 05 Nov 2021 17:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[8,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/1620debc56f774ec279aa6f44917d1b0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[사뮈 (Samui) / Bone Face T-Shirts (Black, White, One Size)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17175&amp;cate_no=27&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Oct 2021 18:00:20 GMT</pubDate>
             <content:encoded><![CDATA[19,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202012/db511484d47f627fa446c40f5cc115cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[H a lot 오피셜 반팔 티셔츠]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=15793&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=15793&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:00:20 GMT</pubDate>
-            <content:encoded><![CDATA[23,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202011/fa83c1269accece7b68283c12a8075f5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
