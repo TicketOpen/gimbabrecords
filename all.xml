@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 05:37:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 17:42:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202110/84eacc31243276999c126104e36a6aff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Pedro Almodóvar (Pedro Almodovar) & Alberto Iglesias 알베르토 이글레시아스 / Film Music Collection 페드로 알모도바르의 영화음악 컴필레이션 (Vinyl, 2LP) (김밥레코드 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17633&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17633&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 06 Nov 2021 17:41:01 GMT</pubDate>
+            <content:encoded><![CDATA[55,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/9eab4f35276b3351db04d90027d49f91.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lana Del Rey / Blue Banisters (Black Vinyl, 2LP) (김밥레코드 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17632&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17632&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 06 Nov 2021 17:41:01 GMT</pubDate>
+            <content:encoded><![CDATA[45,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/7b30d037236c56844a35a7777c6b64c6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Naoko Gushima / Miss.g (Vinyl) (김밥레코드 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17630&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17630&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 06 Nov 2021 17:41:01 GMT</pubDate>
+            <content:encoded><![CDATA[55,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/c49b29e315e7526a591164784f566656.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Incidents / Variety 娯楽 (Vinyl, 2LP) *1인 1매만 구매가 가능합니다. (김밥레코드 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17629&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17629&amp;cate_no=25&amp;display_group=1</guid>
@@ -176,28 +200,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/f021aa6b1cfa393aebad7ab403a77c10.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Wayne Shorter / The All Seeing Eye (180g Vinyl, Blue Note Tone Poet Series) (김밥레코드 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17614&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17614&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 04 Nov 2021 17:42:53 GMT</pubDate>
-            <content:encoded><![CDATA[42,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/67fb0082660a8f11779d5bfb235074d9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[서사무엘 / UNITY II (180g LP) (김밥레코드 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17613&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17613&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 04 Nov 2021 05:35:35 GMT</pubDate>
-            <content:encoded><![CDATA[44,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/bb5498ef212b478112057e1754573341.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[저스디스 & 팔로알토 (Justhis & Paloalto) / 4 The Youth (Colored 2LP + 7" Vinyl) *예약상품 (2022년 3월말 발송 예정) (김밥레코드 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17612&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17612&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 04 Nov 2021 05:35:35 GMT</pubDate>
-            <content:encoded><![CDATA[68,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/2726d7a58254ca894e46df192a9cb36b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Lana Del Rey / Blue Banisters (Red Cassette, UK Import) (김밥레코드 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17631&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17631&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Sat, 06 Nov 2021 17:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/34d1c46f5cd12b8760a6c1466c89bdce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Low / Hey What (Cassette) (김밥레코드 ─ Cassette)]]></title>
@@ -286,14 +294,6 @@
             <pubDate>Thu, 28 Oct 2021 18:00:13 GMT</pubDate>
             <content:encoded><![CDATA[14,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202109/5739154de47bed76e290d3c45955cce1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Karen O / Crush Songs (Red Cassette) (김밥레코드 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17297&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17297&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:00:13 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202109/141677de437012ffca92da645498a382.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[신승은 / 인간관계 EP (가사집 + 다운로드 QR코드) (김밥레코드 ─ Movies/Merch)]]></title>
