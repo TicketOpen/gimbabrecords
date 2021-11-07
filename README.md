@@ -1,4 +1,4 @@
-# 김밥레코드
+# 김밥레코즈
 https://ticketopen.github.io/gimbabrecords/all.xml
 ### 한국
 - https://ticketopen.github.io/gimbabrecords/cd_korean.xml
