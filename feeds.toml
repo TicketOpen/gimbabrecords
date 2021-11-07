@@ -1,5 +1,5 @@
 [cd]
-title = "김밥레코드 ─ CD"
+title = "김밥레코즈 ─ CD"
 url = "http://gimbabrecords.com/product/list.html?cate_no=24"
 entrySelector = "ul.prdList.column3 li.item.xans-record-"
 titleSelector = "p.name a span"
@@ -9,7 +9,7 @@ imageSelector = "img.thumb"
 waitUntil = "networkidle"
 
 [vinyl]
-title = "김밥레코드 ─ Vinyl"
+title = "김밥레코즈 ─ Vinyl"
 url = "http://gimbabrecords.com/product/list.html?cate_no=25"
 entrySelector = "ul.prdList.column3 li.item.xans-record-"
 titleSelector = "p.name a span"
@@ -19,7 +19,7 @@ imageSelector = "img.thumb"
 waitUntil = "networkidle"
 
 [cassette]
-title = "김밥레코드 ─ Cassette"
+title = "김밥레코즈 ─ Cassette"
 url = "http://gimbabrecords.com/product/list.html?cate_no=26"
 entrySelector = "ul.prdList.column3 li.item.xans-record-"
 titleSelector = "p.name a span"
@@ -29,7 +29,7 @@ imageSelector = "img.thumb"
 waitUntil = "networkidle"
 
 [merch]
-title = "김밥레코드 ─ Movies/Merch"
+title = "김밥레코즈 ─ Movies/Merch"
 url = "http://gimbabrecords.com/product/list.html?cate_no=27"
 entrySelector = "ul.prdList.column3 li.item.xans-record-"
 titleSelector = "p.name a span"
@@ -39,7 +39,7 @@ imageSelector = "img.thumb"
 waitUntil = "networkidle"
 
 [preorder]
-title = "김밥레코드 ─ Pre-Order"
+title = "김밥레코즈 ─ Pre-Order"
 url = "http://gimbabrecords.com/product/list.html?cate_no=42"
 entrySelector = "ul.prdList.column3 li.item.xans-record-"
 titleSelector = "p.name a span"
@@ -49,7 +49,7 @@ imageSelector = "img.thumb"
 waitUntil = "networkidle"
 
 [bargainbin]
-title = "김밥레코드 ─ Bargain Bin"
+title = "김밥레코즈 ─ Bargain Bin"
 url = "http://gimbabrecords.com/product/list.html?cate_no=43"
 entrySelector = "ul.prdList.column3 li.item.xans-record-"
 titleSelector = "p.name a span"
@@ -59,7 +59,7 @@ imageSelector = "img.thumb"
 waitUntil = "networkidle"
 
 [cd_korean]
-title = "김밥레코드 ─ CD ─ Korean"
+title = "김밥레코즈 ─ CD ─ Korean"
 url = "http://gimbabrecords.com/product/list.html?cate_no=29"
 entrySelector = "ul.prdList.column3 li.item.xans-record-"
 titleSelector = "p.name a span"
@@ -69,7 +69,7 @@ imageSelector = "img.thumb"
 waitUntil = "networkidle"
 
 [cd_pop-rock]
-title = "김밥레코드 ─ CD ─ Pop/Rock"
+title = "김밥레코즈 ─ CD ─ Pop/Rock"
 url = "http://gimbabrecords.com/product/list.html?cate_no=30"
 entrySelector = "ul.prdList.column3 li.item.xans-record-"
 titleSelector = "p.name a span"
@@ -79,7 +79,7 @@ imageSelector = "img.thumb"
 waitUntil = "networkidle"
 
 [cd_electronic-dance]
-title = "김밥레코드 ─ CD ─ Electronic/Dance"
+title = "김밥레코즈 ─ CD ─ Electronic/Dance"
 url = "http://gimbabrecords.com/product/list.html?cate_no=31"
 entrySelector = "ul.prdList.column3 li.item.xans-record-"
 titleSelector = "p.name a span"
@@ -89,7 +89,7 @@ imageSelector = "img.thumb"
 waitUntil = "networkidle"
 
 [cd_soul-funk]
-title = "김밥레코드 ─ CD ─ R&B/Soul/Funk"
+title = "김밥레코즈 ─ CD ─ R&B/Soul/Funk"
 url = "http://gimbabrecords.com/product/list.html?cate_no=44"
 entrySelector = "ul.prdList.column3 li.item.xans-record-"
 titleSelector = "p.name a span"
@@ -99,7 +99,7 @@ imageSelector = "img.thumb"
 waitUntil = "networkidle"
 
 [cd_hiphop]
-title = "김밥레코드 ─ CD ─ Hip Hop"
+title = "김밥레코즈 ─ CD ─ Hip Hop"
 url = "http://gimbabrecords.com/product/list.html?cate_no=45"
 entrySelector = "ul.prdList.column3 li.item.xans-record-"
 titleSelector = "p.name a span"
@@ -109,7 +109,7 @@ imageSelector = "img.thumb"
 waitUntil = "networkidle"
 
 [cd_jazz]
-title = "김밥레코드 ─ CD ─ Jazz"
+title = "김밥레코즈 ─ CD ─ Jazz"
 url = "http://gimbabrecords.com/product/list.html?cate_no=46"
 entrySelector = "ul.prdList.column3 li.item.xans-record-"
 titleSelector = "p.name a span"
@@ -119,7 +119,7 @@ imageSelector = "img.thumb"
 waitUntil = "networkidle"
 
 [cd_reggae]
-title = "김밥레코드 ─ CD ─ Reggae"
+title = "김밥레코즈 ─ CD ─ Reggae"
 url = "http://gimbabrecords.com/product/list.html?cate_no=47"
 entrySelector = "ul.prdList.column3 li.item.xans-record-"
 titleSelector = "p.name a span"
@@ -129,7 +129,7 @@ imageSelector = "img.thumb"
 waitUntil = "networkidle"
 
 [cd_soundtracks]
-title = "김밥레코드 ─ CD ─ Soundtracks"
+title = "김밥레코즈 ─ CD ─ Soundtracks"
 url = "http://gimbabrecords.com/product/list.html?cate_no=48"
 entrySelector = "ul.prdList.column3 li.item.xans-record-"
 titleSelector = "p.name a span"
@@ -139,7 +139,7 @@ imageSelector = "img.thumb"
 waitUntil = "networkidle"
 
 [cd_world]
-title = "김밥레코드 ─ CD ─ World"
+title = "김밥레코즈 ─ CD ─ World"
 url = "http://gimbabrecords.com/product/list.html?cate_no=79"
 entrySelector = "ul.prdList.column3 li.item.xans-record-"
 titleSelector = "p.name a span"
@@ -149,7 +149,7 @@ imageSelector = "img.thumb"
 waitUntil = "networkidle"
 
 [cd_classical-crossover]
-title = "김밥레코드 ─ CD ─ Classical/Crossover"
+title = "김밥레코즈 ─ CD ─ Classical/Crossover"
 url = "http://gimbabrecords.com/product/list.html?cate_no=50"
 entrySelector = "ul.prdList.column3 li.item.xans-record-"
 titleSelector = "p.name a span"
@@ -159,7 +159,7 @@ imageSelector = "img.thumb"
 waitUntil = "networkidle"
 
 [cd_holiday]
-title = "김밥레코드 ─ CD ─ Holiday"
+title = "김밥레코즈 ─ CD ─ Holiday"
 url = "http://gimbabrecords.com/product/list.html?cate_no=51"
 entrySelector = "ul.prdList.column3 li.item.xans-record-"
 titleSelector = "p.name a span"
@@ -169,7 +169,7 @@ imageSelector = "img.thumb"
 waitUntil = "networkidle"
 
 [cd_japanese]
-title = "김밥레코드 ─ CD ─ Japanese"
+title = "김밥레코즈 ─ CD ─ Japanese"
 url = "http://gimbabrecords.com/product/list.html?cate_no=90"
 entrySelector = "ul.prdList.column3 li.item.xans-record-"
 titleSelector = "p.name a span"
@@ -179,7 +179,7 @@ imageSelector = "img.thumb"
 waitUntil = "networkidle"
 
 [vinyl_korean]
-title = "김밥레코드 ─ Vinyl ─ Korean"
+title = "김밥레코즈 ─ Vinyl ─ Korean"
 url = "http://gimbabrecords.com/product/list.html?cate_no=52"
 entrySelector = "ul.prdList.column3 li.item.xans-record-"
 titleSelector = "p.name a span"
@@ -189,7 +189,7 @@ imageSelector = "img.thumb"
 waitUntil = "networkidle"
 
 [merch_dvd]
-title = "김밥레코드 ─ Movies/Merch ─ DVD/Blu-Ray"
+title = "김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray"
 url = "http://gimbabrecords.com/product/list.html?cate_no=64"
 entrySelector = "ul.prdList.column3 li.item.xans-record-"
 titleSelector = "p.name a span"
