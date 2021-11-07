@@ -4,7 +4,7 @@
         <title>김밥레코드 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 17:42:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 05:37:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202109/1aa18b1f56c07a1255522941a5e515e3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Radiohead / KID A MNESIA (Indie Store Exclusive Red Vinyl, 3LP, 발매 21주년 기념반) *예약상품 (11월 8일 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17409&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17409&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:00:26 GMT</pubDate>
-            <content:encoded><![CDATA[88,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202109/bf6f465c581e1e881fb14334bbcf84d1.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[Makoto Matsushita / First Light (2022 repressing, Limited Orange Colored Vinyl) *예약상품 (3월 첫째주 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=13820&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=13820&amp;cate_no=42&amp;display_group=1</guid>
@@ -96,12 +88,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201903/70ca136848dfda22bf23cf13ea168975.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Radiohead / KID A MNESIA (3CD, UK Import, 디지팩, 발매 21주년 기념반) *예약상품 (11월 8일경 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17408&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17408&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:00:26 GMT</pubDate>
-            <content:encoded><![CDATA[31,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202109/138673bcb1610809e5a6a999edfc819f.png" length="0" type="image/png"/>
+            <title><![CDATA[Joe Hisaishi / Mr.Dough and the Egg Princess Soundtrack 빵반죽과 계란 공주 사운드트랙 (Vinyl, Studio Ghibli) *예약상품 (12월 7일부터 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17243&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17243&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sun, 07 Nov 2021 05:36:08 GMT</pubDate>
+            <content:encoded><![CDATA[40,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/52552e5949a960c48e314d81fc992a70.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joe Hisaishi / Orchestra stories : My Neighbor Totoro 이웃집 토로로 - 오케스트라 스토리 (새로운 편곡, 오케스트라 음악 입문자들을 위한 나레이션이 추가된 Side A와 연주만 이어지는 Side B로 구성) (Vinyl, Studio Ghibli)  *예약상품 (12월 7일 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17242&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17242&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sun, 07 Nov 2021 05:36:08 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/dd8b28c9a4699316b89502b18581cc9f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
