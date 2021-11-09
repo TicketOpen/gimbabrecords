@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 05:37:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 17:45:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Helado Negro / Far In (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17652&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17652&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 09 Nov 2021 17:43:26 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/6704ad4ea542855d07eade3be24cbff1.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Snail Mail / Valentine (CD, Digipack) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17651&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17651&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 09 Nov 2021 17:43:26 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/5c55f390876d37660a46e51d5f3b2d1e.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Circuit Des Yeux / -io (CD, Digipack) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17650&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17650&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 09 Nov 2021 17:43:26 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/390c383be5ebe2b14432c1749f486f9c.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Low / Hey What (CD, Digipack, US Import) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17620&amp;cate_no=24&amp;display_group=1</link>
@@ -80,28 +104,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202110/247be277c3a8f5313f3cb120edf6e4d2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Mndsgn /  Rare Pleasure (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17564&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17564&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 17:55:19 GMT</pubDate>
-            <content:encoded><![CDATA[20,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/c365568925ebef15e0c9f3fc6f64f519.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kiefer / Superbloom (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17563&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17563&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 17:55:19 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/57f1fb0daac0dcec45fcaa4c656c7ea6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kiefer / When There's Love Around (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17562&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17562&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 17:55:19 GMT</pubDate>
-            <content:encoded><![CDATA[20,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/84eacc31243276999c126104e36a6aff.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Alabama Shakes / Sound & Color (2LP, Deluxe Edition, Red + Black + Pink Mixed Colored Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17653&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17653&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 09 Nov 2021 17:43:36 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/ed81e6c9abe08cbabf40db0c1a6d938c.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Bing Crosby / Christmas Classics (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 08 Nov 2021 17:43:41 GMT</pubDate>
             <content:encoded><![CDATA[39,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/11de3613813513a80b39282891ba411b.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mankunku Quartet / Yakhal' Inkomo (Vinyl, Mr. Bongo Reissue) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17638&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17638&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 08 Nov 2021 17:43:41 GMT</pubDate>
-            <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/4a93a495762a7252a4d1a20cc778ab9c.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Lana Del Rey / Blue Banisters (Red Cassette, UK Import) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,6 +392,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202012/db511484d47f627fa446c40f5cc115cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Badbadnotgood / Talk Memory (CD) *예약상품 (11월 11일부터 배송 시작) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17609&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17609&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 03 Nov 2021 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/e7ee6d5fa300a4ffb1620082acdf52e7.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Badbadnotgood / Talk Memory (Black Vinyl, 2LP) *예약상품 (11월 11일부터 배송 시작) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17610&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17610&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 03 Nov 2021 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/1f5411606c3947d0358b50aebe908fd4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Tony Bennett & Lady Gaga / Love For Sale (Vinyl) *예약상품 (11월 24일부터 배송 예정) / 할인상품 (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17646&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17646&amp;cate_no=42&amp;display_group=1</guid>
@@ -430,22 +446,6 @@
             <pubDate>Wed, 03 Nov 2021 17:43:33 GMT</pubDate>
             <content:encoded><![CDATA[48,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/3f39863152d1fd7a42099e59d48d749a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Badbadnotgood / Talk Memory (Black Vinyl, 2LP) *예약상품 (11월 11일부터 배송 시작) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17610&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17610&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 03 Nov 2021 17:43:33 GMT</pubDate>
-            <content:encoded><![CDATA[47,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/1f5411606c3947d0358b50aebe908fd4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Badbadnotgood / Talk Memory (CD) *예약상품 (11월 11일부터 배송 시작) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17609&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17609&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 03 Nov 2021 17:43:33 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/e7ee6d5fa300a4ffb1620082acdf52e7.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Radiohead / KID A MNESIA (국내반 3CD, 디지팩, 발매 21주년 기념반) *예약상품 (11월 18일경 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -680,6 +680,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/f9689af2757f1c01490ab6671554db01.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Helado Negro / Far In (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17652&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17652&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 09 Nov 2021 17:44:27 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/6704ad4ea542855d07eade3be24cbff1.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Snail Mail / Valentine (CD, Digipack) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17651&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17651&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 09 Nov 2021 17:44:27 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/5c55f390876d37660a46e51d5f3b2d1e.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Circuit Des Yeux / -io (CD, Digipack) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17650&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17650&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 09 Nov 2021 17:44:27 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/390c383be5ebe2b14432c1749f486f9c.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[Low / Hey What (CD, Digipack, US Import) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17620&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17620&amp;cate_no=30&amp;display_group=1</guid>
@@ -750,30 +774,6 @@
             <pubDate>Thu, 28 Oct 2021 18:39:40 GMT</pubDate>
             <content:encoded><![CDATA[18,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202110/aac81ce0f214265d3c3e2c63eb722d6c.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bibio / Sleep On The Wing (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17447&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17447&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[18,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/ae8d9bdc385d6a9fdd2914489c4829d5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sufjan Stevens & Angelo De Augustine / A Beginner’s Mind (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17429&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17429&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[17,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/88978a7c2f7062a7d315a4f184c65efc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Radiohead / KID A MNESIA (3CD, UK Import, 디지팩, 발매 21주년 기념반) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17408&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17408&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[31,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202109/138673bcb1610809e5a6a999edfc819f.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Sufjan Stevens / Convocations (5CD Set) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
