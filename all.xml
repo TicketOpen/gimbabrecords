@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 05:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 17:39:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,38 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202110/4589561d8e9b057762d65159d4b9ae58.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Yaeji & OHHYUK / Year To Year / 29 (7" Vinyl) *예약상품 (2022년 2월초 발송 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17658&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17658&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 10 Nov 2021 17:37:47 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/e5a1a4f7e614c7f865c90fd62278a0fb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Isobel Campbell / Amorino (Vinyl, Gatefold Sleeve, Limited Edition) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17657&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17657&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 10 Nov 2021 17:37:47 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/9a24856009aba238c7f71b6b9c698c64.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Isobel Campbell / Milkwhite Sheets (Vinyl, Gatefold Sleeve, Limited Edition) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17656&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17656&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 10 Nov 2021 17:37:47 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/0fcca8c2b6a2536db9caff8a88d63abf.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rolling Stones / Let It Bleed (Vinyl, DSD Remastered) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17655&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17655&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 10 Nov 2021 17:37:47 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201510/1563_shop1_159194.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Alabama Shakes / Sound & Color (2LP, Deluxe Edition, Red + Black + Pink Mixed Colored Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17653&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17653&amp;cate_no=25&amp;display_group=1</guid>
@@ -166,38 +198,6 @@
             <pubDate>Mon, 08 Nov 2021 17:43:41 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/484a367d79601f45b6ee8b90704eb838.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Amy Winehouse / Back To Black (Vinyl, Picture Disc) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17642&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17642&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 08 Nov 2021 17:43:41 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/26d4b041e11ad708cefab6f691a6da71.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Sufjan Stevens & Angelo De Augustine / A Beginner’s Mind (Emerald City Green Colored Vinyl + Download) *단종된 컬러바이닐 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17641&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17641&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 08 Nov 2021 17:43:41 GMT</pubDate>
-            <content:encoded><![CDATA[33,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/5cc601e214e2b0ce321c15599c2897d4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pond / 9 (180g Coke Bottle Vinyl + Download Code, Limited) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17640&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17640&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 08 Nov 2021 17:43:41 GMT</pubDate>
-            <content:encoded><![CDATA[38,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/f02b19dcfb37c75094bc02dfae9e33a0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Marianne Faithfull / Broken English (180g Pink Vinyl + Download) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17639&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17639&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 08 Nov 2021 17:43:41 GMT</pubDate>
-            <content:encoded><![CDATA[39,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/11de3613813513a80b39282891ba411b.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Lana Del Rey / Blue Banisters (Red Cassette, UK Import) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202012/db511484d47f627fa446c40f5cc115cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Yaeji & OHHYUK / Year To Year / 29 (7" Vinyl) *예약상품 (2022년 2월초 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17658&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17658&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 10 Nov 2021 17:38:07 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/e5a1a4f7e614c7f865c90fd62278a0fb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Tony Bennett & Lady Gaga / Love For Sale (Vinyl) *예약상품 (11월 24일부터 배송 예정) / 할인상품 (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17646&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17646&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 28 Oct 2021 18:00:26 GMT</pubDate>
             <content:encoded><![CDATA[54,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201903/70ca136848dfda22bf23cf13ea168975.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joe Hisaishi / Mr.Dough and the Egg Princess Soundtrack 빵반죽과 계란 공주 사운드트랙 (Vinyl, Studio Ghibli) *예약상품 (12월 7일부터 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17243&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17243&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sun, 07 Nov 2021 05:36:08 GMT</pubDate>
-            <content:encoded><![CDATA[40,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/52552e5949a960c48e314d81fc992a70.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nick Mason (of Pink Floyd) / Nick Mason's Saucerful of Secrets: Live At The Roundhouse (2CD+DVD / 다이컷 아웃박스) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -1728,6 +1728,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202105/a32e0e60ec28d0451d6147b9d0a79fd7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Yaeji & OHHYUK / Year To Year / 29 (7" Vinyl) *예약상품 (2022년 2월초 발송 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17658&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17658&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 10 Nov 2021 17:39:28 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/e5a1a4f7e614c7f865c90fd62278a0fb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김목인 / 한 다발의 시선 (180g Colored Vinyl, 500매 한정반, 서울레코드페어 사이드-B 판매작) *한정기간 판매하는 사인반 / 예약상품 (11월 16일부터 배송 시작) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17623&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17623&amp;cate_no=52&amp;display_group=1</guid>
@@ -1814,14 +1822,6 @@
             <pubDate>Thu, 28 Oct 2021 18:08:29 GMT</pubDate>
             <content:encoded><![CDATA[29,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202109/b6201bffaafdf9cc199f4dc8a2ef4358.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서사무엘 / EGO EXPAND(100%) (Black Vinyl) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17342&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17342&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[44,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202109/d4aa50fe1ccda64b6a26542c4213a31e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Our Vinyl Weighs A Ton (DVD + CD Soundtrack) (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
