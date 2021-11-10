@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 17:45:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 05:37:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다린 / EP 갈래 (Be Love) (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17654&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17654&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 10 Nov 2021 05:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/bfbe1f18af74bf465c187a234d73ade4.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Helado Negro / Far In (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17652&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Oct 2021 17:55:19 GMT</pubDate>
             <content:encoded><![CDATA[17,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202110/4589561d8e9b057762d65159d4b9ae58.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pedro Almodovar & Alberto Iglesias /  Film Music Collection (12CD Box Set)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17565&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17565&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 17:55:19 GMT</pubDate>
-            <content:encoded><![CDATA[96,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/247be277c3a8f5313f3cb120edf6e4d2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
