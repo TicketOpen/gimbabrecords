@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 05:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 17:45:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17631&amp;cate_no=26&amp;display_group=1</guid>
             <pubDate>Sat, 06 Nov 2021 17:41:09 GMT</pubDate>
             <content:encoded><![CDATA[24,500원]]></content:encoded>
-            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202111/34d1c46f5cd12b8760a6c1466c89bdce.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/34d1c46f5cd12b8760a6c1466c89bdce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Low / Hey What (Cassette)]]></title>
@@ -21,7 +21,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17619&amp;cate_no=26&amp;display_group=1</guid>
             <pubDate>Thu, 04 Nov 2021 17:43:00 GMT</pubDate>
             <content:encoded><![CDATA[13,500원]]></content:encoded>
-            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202111/e88970084f9d6050fbefd9d19345a0cd.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/e88970084f9d6050fbefd9d19345a0cd.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[The Convenience / Accelerator (White Cassette)]]></title>
@@ -29,7 +29,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17590&amp;cate_no=26&amp;display_group=1</guid>
             <pubDate>Fri, 29 Oct 2021 17:40:53 GMT</pubDate>
             <content:encoded><![CDATA[14,300원]]></content:encoded>
-            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202110/40e71184eb44a5283729cf469f322e63.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/40e71184eb44a5283729cf469f322e63.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Shame / Drunk Tank Pink (Cassette)]]></title>
@@ -37,7 +37,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17528&amp;cate_no=26&amp;display_group=1</guid>
             <pubDate>Thu, 28 Oct 2021 18:00:13 GMT</pubDate>
             <content:encoded><![CDATA[14,300원]]></content:encoded>
-            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202110/f9a038bed31de4553920d23baae3ef95.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/f9a038bed31de4553920d23baae3ef95.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Sublime / Sublime (Cassette, 25th Anniversary)]]></title>
@@ -45,7 +45,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17486&amp;cate_no=26&amp;display_group=1</guid>
             <pubDate>Thu, 28 Oct 2021 18:00:13 GMT</pubDate>
             <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202110/3a8636b6dc7191f7362c24690e304bb2.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/3a8636b6dc7191f7362c24690e304bb2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Shura / Forevher (Blue Cassette, Deluxe Edition)]]></title>
@@ -53,7 +53,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17453&amp;cate_no=26&amp;display_group=1</guid>
             <pubDate>Thu, 28 Oct 2021 18:00:13 GMT</pubDate>
             <content:encoded><![CDATA[14,300원]]></content:encoded>
-            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202110/66af26885abcff6eeb3e098ae9b123e4.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/66af26885abcff6eeb3e098ae9b123e4.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Mitski / Be the Cowboy (Cassette)]]></title>
@@ -61,7 +61,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17450&amp;cate_no=26&amp;display_group=1</guid>
             <pubDate>Thu, 28 Oct 2021 18:00:13 GMT</pubDate>
             <content:encoded><![CDATA[14,300원]]></content:encoded>
-            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202110/79c31d1cd4124d53fe509179b94c341b.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/79c31d1cd4124d53fe509179b94c341b.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Sima Kim / Plugged Eyes (Cassette)]]></title>
@@ -69,7 +69,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17446&amp;cate_no=26&amp;display_group=1</guid>
             <pubDate>Thu, 28 Oct 2021 18:00:13 GMT</pubDate>
             <content:encoded><![CDATA[13,500원]]></content:encoded>
-            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202110/631e414a76e03d40da9c11ed57614332.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/631e414a76e03d40da9c11ed57614332.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[김현철 / City Breeze & Love Song (Limited Cassette) *1인 1매만 구매가 가능합니다.]]></title>
@@ -77,7 +77,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17431&amp;cate_no=26&amp;display_group=1</guid>
             <pubDate>Thu, 28 Oct 2021 18:00:13 GMT</pubDate>
             <content:encoded><![CDATA[21,000원]]></content:encoded>
-            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202110/09baa86a5a358659db4505b680b82cc8.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/09baa86a5a358659db4505b680b82cc8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sufjan Stevens & Angelo De Augustine / Beginner's Mind (Cassette)]]></title>
@@ -85,7 +85,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17430&amp;cate_no=26&amp;display_group=1</guid>
             <pubDate>Thu, 28 Oct 2021 18:00:13 GMT</pubDate>
             <content:encoded><![CDATA[14,000원]]></content:encoded>
-            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202110/815412dd78947931f817df5f4b22c770.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/815412dd78947931f817df5f4b22c770.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ashe / Ashlyn (Cassette)]]></title>
@@ -93,7 +93,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17349&amp;cate_no=26&amp;display_group=1</guid>
             <pubDate>Thu, 28 Oct 2021 18:00:13 GMT</pubDate>
             <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202109/75d2a78aeaa75758020437d09deefcfd.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202109/75d2a78aeaa75758020437d09deefcfd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Big Red Machine / How Long Do You Think It's Gonna Last? (Blue Cassette)]]></title>
@@ -101,7 +101,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17333&amp;cate_no=26&amp;display_group=1</guid>
             <pubDate>Thu, 28 Oct 2021 18:00:13 GMT</pubDate>
             <content:encoded><![CDATA[14,300원]]></content:encoded>
-            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202109/5739154de47bed76e290d3c45955cce1.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202109/5739154de47bed76e290d3c45955cce1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
