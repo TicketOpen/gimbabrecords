@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 17:43:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 05:38:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Calvin Keys / Shawn-Neeq (CD, Jewel Case, Black Jazz 재발매 시리즈) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17708&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17708&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 15 Nov 2021 05:36:06 GMT</pubDate>
+            <content:encoded><![CDATA[19,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/959b65a765ff89c62178bbeb34b4d2a2.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Beach House / Once Twice Melody (2CD) *예약상품 (3월 첫째주 발송 예정) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17689&amp;cate_no=24&amp;display_group=1</link>
@@ -96,12 +104,44 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/5c55f390876d37660a46e51d5f3b2d1e.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Circuit Des Yeux / -io (CD, Digipack) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17650&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17650&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 09 Nov 2021 17:43:26 GMT</pubDate>
-            <content:encoded><![CDATA[17,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/390c383be5ebe2b14432c1749f486f9c.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Roland Haynes / 2nd Wave (Vinyl, Black Jazz 재발매 시리즈) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17711&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17711&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 15 Nov 2021 05:36:14 GMT</pubDate>
+            <content:encoded><![CDATA[30,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/de54fdbc218fff5e02d35d093eb6c2e7.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Henry Franklin / The Skipper (Vinyl, Black Jazz 재발매 시리즈) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17710&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17710&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 15 Nov 2021 05:36:14 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/575f8c336fb12d73bd49c89d5f746dea.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gene Russell / Talk To My Lady (Vinyl, Black Jazz 재발매 시리즈) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17709&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17709&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 15 Nov 2021 05:36:14 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/0054a5ea2abfb665c4f756d724558c33.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Calvin Keys / Shawn-Neeq (Vinyl, Black Jazz 재발매 시리즈) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17707&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17707&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 15 Nov 2021 05:36:14 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/d7dae289a4bac60a87acc36fc50f3209.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rudolph Johnson / Spring Rain (Vinyl, Black Jazz 재발매 시리즈) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17705&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17705&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 15 Nov 2021 05:36:14 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/7f5a2b137b29a5c1da906cf5efb155a0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Spitz / Kachoufugetsu 花鳥風月 (Vinyl, 2LP) *1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl)]]></title>
@@ -158,46 +198,6 @@
             <pubDate>Sat, 13 Nov 2021 17:41:18 GMT</pubDate>
             <content:encoded><![CDATA[43,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/6a4c5f5cd333c9c27ed11d44382f9305.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Weyes Blood / Titanic Rising (Limited Rainbow Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17697&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17697&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 13 Nov 2021 17:41:18 GMT</pubDate>
-            <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/373f4f631e213c86fc64088dec653b79.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Abba / Voyage (Black Vinyl + Exclusive Poster + Postcard) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17696&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17696&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 13 Nov 2021 17:41:18 GMT</pubDate>
-            <content:encoded><![CDATA[36,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/e249a9fcd97a85e7a30ba8ca1ef15a7f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Abba / Voyage (Solid Blue Vinyl + Poster + Postcard, Indie Exclusive) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17695&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17695&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 13 Nov 2021 17:41:18 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/01c713cfc007be09d8580ac013f65dce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Snail Mail / Valentine (Limited Gold Colored Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17694&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17694&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 13 Nov 2021 17:41:18 GMT</pubDate>
-            <content:encoded><![CDATA[36,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/03c7423ca763218b48539e61219e900d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mac Miller / Faces (Vinyl. 3LP, Yellow Edition) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17693&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17693&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 13 Nov 2021 17:41:18 GMT</pubDate>
-            <content:encoded><![CDATA[70,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/7a903228eb171dd523ad03918aa47bb0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beach House / Once Twice Melody (2xCassette) *예약상품 (3월 첫째주 발송 예정) (김밥레코즈 ─ Cassette)]]></title>
@@ -1064,6 +1064,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202010/16cd43f40ea9f7426cf6f2dd3aeddd3b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Calvin Keys / Shawn-Neeq (CD, Jewel Case, Black Jazz 재발매 시리즈) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17708&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17708&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Mon, 15 Nov 2021 05:37:21 GMT</pubDate>
+            <content:encoded><![CDATA[19,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/959b65a765ff89c62178bbeb34b4d2a2.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[Enrico Rava / Edizione Speciale (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17662&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17662&amp;cate_no=46&amp;display_group=1</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Thu, 28 Oct 2021 18:40:16 GMT</pubDate>
             <content:encoded><![CDATA[17,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/26fcf67d625d8bd2ed8d6a8c8dcf6d57.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Toots Thielemans / The Brasil Project Vol.2 (CD, Limited Edition, JPN Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17213&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17213&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:40:16 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/a29aadc78e6c731b114accd8da07fc1f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
