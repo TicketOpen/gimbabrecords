@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 05:37:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 17:41:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김사월 / EP 드라이브 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17723&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17723&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 17 Nov 2021 17:39:18 GMT</pubDate>
+            <content:encoded><![CDATA[16,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/3c27076808eb8b0c076f40fcf68e2d51.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[이상의날개 / 희망과 절망의 경계 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17722&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17722&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 17 Nov 2021 17:39:18 GMT</pubDate>
+            <content:encoded><![CDATA[23,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/7bd471bcd8a7d66ed3fb004d88463f8f.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[전파사 / 억겁의 싸이-키 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17721&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17721&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 17 Nov 2021 17:39:18 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/174879532f9cfc7608b629e02f948619.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Doug Carn (feat. The Voice of Jean Carn) / Spirit of the New Land (CD, Jewel Case, Black Jazz 재발매 시리즈)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17719&amp;cate_no=24&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Thu, 11 Nov 2021 17:43:10 GMT</pubDate>
             <content:encoded><![CDATA[20,400원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/1feb45b3688b0ba88f9f028c497733f5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jan Lundgren, Lars Danielsson, Emile Parisien / Into the Night (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17661&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17661&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 11 Nov 2021 17:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[20,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/ad165f89844086a74b1d8d8a8c958aa6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[다린 / EP 갈래 (Be Love) (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17654&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17654&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 10 Nov 2021 05:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/bfbe1f18af74bf465c187a234d73ade4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Helado Negro / Far In (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17652&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17652&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 09 Nov 2021 17:43:26 GMT</pubDate>
-            <content:encoded><![CDATA[17,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/6704ad4ea542855d07eade3be24cbff1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
