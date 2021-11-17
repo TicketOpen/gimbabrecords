@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 17:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 05:37:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Doug Carn (feat. The Voice of Jean Carn) / Spirit of the New Land (CD, Jewel Case, Black Jazz 재발매 시리즈)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17719&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17719&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 17 Nov 2021 05:35:34 GMT</pubDate>
+            <content:encoded><![CDATA[17,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/be71d15d7d76238cd18d7c5aed17e2c6.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Calvin Keys / Shawn-Neeq (CD, Jewel Case, Black Jazz 재발매 시리즈)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17708&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 09 Nov 2021 17:43:26 GMT</pubDate>
             <content:encoded><![CDATA[17,700원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/6704ad4ea542855d07eade3be24cbff1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Snail Mail / Valentine (CD, Digipack)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17651&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17651&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 09 Nov 2021 17:43:26 GMT</pubDate>
-            <content:encoded><![CDATA[17,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/5c55f390876d37660a46e51d5f3b2d1e.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

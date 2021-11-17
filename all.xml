@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 17:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 05:37:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Doug Carn (feat. The Voice of Jean Carn) / Spirit of the New Land (CD, Jewel Case, Black Jazz 재발매 시리즈) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17719&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17719&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 17 Nov 2021 05:35:34 GMT</pubDate>
+            <content:encoded><![CDATA[17,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/be71d15d7d76238cd18d7c5aed17e2c6.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Calvin Keys / Shawn-Neeq (CD, Jewel Case, Black Jazz 재발매 시리즈) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17708&amp;cate_no=24&amp;display_group=1</link>
@@ -96,12 +104,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/6704ad4ea542855d07eade3be24cbff1.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Snail Mail / Valentine (CD, Digipack) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17651&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17651&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 09 Nov 2021 17:43:26 GMT</pubDate>
-            <content:encoded><![CDATA[17,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/5c55f390876d37660a46e51d5f3b2d1e.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Gene Russell / New Direction (Black Vinyl, Black Jazz 재발매 시리즈) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17720&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17720&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 17 Nov 2021 05:35:42 GMT</pubDate>
+            <content:encoded><![CDATA[32,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/25d3b56eb27cbacace527cbba3f1877f.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Ozzy Osbourne / Ozzmosis  (Limited Colored Vinyl, 500장 한정 컬러반, Play On Color 시리즈) *한정수량 할인 / 예약판매 (11월 23일부터 배송 시작) (김밥레코즈 ─ Vinyl)]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 15 Nov 2021 05:36:14 GMT</pubDate>
             <content:encoded><![CDATA[31,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/d7dae289a4bac60a87acc36fc50f3209.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rudolph Johnson / Spring Rain (Vinyl, Black Jazz 재발매 시리즈) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17705&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17705&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 15 Nov 2021 05:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[31,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/7f5a2b137b29a5c1da906cf5efb155a0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Beach House / Once Twice Melody (2xCassette) *예약상품 (3월 첫째주 발송 예정) (김밥레코즈 ─ Cassette)]]></title>
@@ -1064,6 +1064,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202010/16cd43f40ea9f7426cf6f2dd3aeddd3b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Doug Carn (feat. The Voice of Jean Carn) / Spirit of the New Land (CD, Jewel Case, Black Jazz 재발매 시리즈) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17719&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17719&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Wed, 17 Nov 2021 05:36:40 GMT</pubDate>
+            <content:encoded><![CDATA[17,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/be71d15d7d76238cd18d7c5aed17e2c6.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[Calvin Keys / Shawn-Neeq (CD, Jewel Case, Black Jazz 재발매 시리즈) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17708&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17708&amp;cate_no=46&amp;display_group=1</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Thu, 28 Oct 2021 18:40:16 GMT</pubDate>
             <content:encoded><![CDATA[25,700원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202109/c003b53fa90356e4ede0f9df54c667d4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Coltrane / Another Side Of John Coltrane (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17227&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17227&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:40:16 GMT</pubDate>
-            <content:encoded><![CDATA[17,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/26fcf67d625d8bd2ed8d6a8c8dcf6d57.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
