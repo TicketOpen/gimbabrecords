@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 05:37:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 17:44:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/8aa8e1606b2a2d37dd88f643253b7521.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Lee Konitz and Gerry Mulligan (Feat. Chet Baker) / Lee Konitz Plays With The Gerry Mulligan Quartet (Vinyl, Blue Note Tone Poet Series) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17733&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17733&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 21 Nov 2021 17:42:02 GMT</pubDate>
+            <content:encoded><![CDATA[42,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/b0b7a8d6801eb38e8b7d92f608d95d12.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lee Konitz & Martial Solal / Live at the Berlin Jazz Days 1980 (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17732&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17732&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 21 Nov 2021 17:42:02 GMT</pubDate>
+            <content:encoded><![CDATA[33,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/89fecaee7dceaa83cbe05cf64f01ea80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Various Artists (The Shins, Rufus Wainwright, Paul McCartney, Andrew Bird, Punch Brothers...) / Holidays Rule 2LP (Translucent Red Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17731&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17731&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Mon, 15 Nov 2021 17:43:22 GMT</pubDate>
             <content:encoded><![CDATA[46,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/45e8ca8268fc157126227da34a2b774d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Esperanza Spalding / Junjo (180g Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17715&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17715&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 15 Nov 2021 17:43:22 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/667e8301d5fadf7132897193439c6f99.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MC5 / Kick Out The Jams (180g Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17714&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17714&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 15 Nov 2021 17:43:22 GMT</pubDate>
-            <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/70588e30b9ed2f372e506896733d5002.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Kiefer / Kickinit Alone (Cassette) (김밥레코즈 ─ Cassette)]]></title>
