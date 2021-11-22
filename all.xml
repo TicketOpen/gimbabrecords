@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 05:38:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 17:46:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Adele / 30 (CD, Jewel Case) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17735&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17735&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Nov 2021 17:44:12 GMT</pubDate>
+            <content:encoded><![CDATA[19,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/247581fe99a503bda1af97ec8073475f.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Heather Woods Broderick / Invitation (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17729&amp;cate_no=24&amp;display_group=1</link>
@@ -96,12 +104,36 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/2ff2d44784800a2a56c435fba382f13c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ryo Fukui / My Favorite Tune (CD, EU Import) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17666&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17666&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 12 Nov 2021 05:35:35 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/8aa8e1606b2a2d37dd88f643253b7521.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Adele / 30 (Black Vinyl, 2LP) *11월 24일부터 배송이 시작됩니다. (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17738&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17738&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Nov 2021 17:44:21 GMT</pubDate>
+            <content:encoded><![CDATA[45,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/88a310655d4efa4473a9780d6dd0d591.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mira Calix / absent origin (2LP Vinyl + Download) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17737&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17737&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Nov 2021 17:44:21 GMT</pubDate>
+            <content:encoded><![CDATA[41,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/598509817f160372a63acc405cb56876.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Khruangbin / Mordechai Remixes (2LP Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17736&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17736&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Nov 2021 17:44:21 GMT</pubDate>
+            <content:encoded><![CDATA[34,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/65c60112e29a683b7af7aa1cea027fe0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Adele / 30 (Limited Clear Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17734&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17734&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Nov 2021 17:44:21 GMT</pubDate>
+            <content:encoded><![CDATA[55,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/1154e4211c170b4885f3bf1c8aee2d3c.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Lee Konitz and Gerry Mulligan (Feat. Chet Baker) / Lee Konitz Plays With The Gerry Mulligan Quartet (Vinyl, Blue Note Tone Poet Series) (김밥레코즈 ─ Vinyl)]]></title>
@@ -166,38 +198,6 @@
             <pubDate>Fri, 19 Nov 2021 17:42:46 GMT</pubDate>
             <content:encoded><![CDATA[37,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/b8be65dbc6e41ea43fd143135d276ddc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gene Russell / New Direction (Black Vinyl, Black Jazz 재발매 시리즈) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17720&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17720&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 17 Nov 2021 05:35:42 GMT</pubDate>
-            <content:encoded><![CDATA[32,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/25d3b56eb27cbacace527cbba3f1877f.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ozzy Osbourne / Ozzmosis  (Limited Colored Vinyl, 500장 한정 컬러반, Play On Color 시리즈) *한정수량 할인 / 예약판매 (11월 23일부터 배송 시작) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17718&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17718&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 15 Nov 2021 17:43:22 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/080181593741ec7515b9fd7b4da75e3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dr. Octagon / Moosebumpectomy: An Excision Of Modern Day Instrumentalization (LP+CD, Necrosis Black, RSD ltd) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17717&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17717&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 15 Nov 2021 17:43:22 GMT</pubDate>
-            <content:encoded><![CDATA[35,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/3a3a6349e97b885ed10c9b42d1544da2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Audioslave / Revelations  (Limited Colored Vinyl, 500장 한정 컬러반, Play On Color 시리즈) *한정수량 할인 / 예약판매 (11월 23일부터 배송 시작) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17716&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17716&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 15 Nov 2021 17:43:22 GMT</pubDate>
-            <content:encoded><![CDATA[46,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/45e8ca8268fc157126227da34a2b774d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kiefer / Kickinit Alone (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -680,6 +680,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202109/033ab96e9f6975eb148aff5c7322866d.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Adele / 30 (CD, Jewel Case) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17735&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17735&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Nov 2021 17:45:02 GMT</pubDate>
+            <content:encoded><![CDATA[19,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/247581fe99a503bda1af97ec8073475f.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[Heather Woods Broderick / Invitation (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17729&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17729&amp;cate_no=30&amp;display_group=1</guid>
@@ -766,14 +774,6 @@
             <pubDate>Thu, 04 Nov 2021 17:43:37 GMT</pubDate>
             <content:encoded><![CDATA[20,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/81ba7f463e9c5ba041d4f23ec641e2c3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iron and Wine / Our Endless Numbered Days (CD, Deluxe Edition, US Import) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17617&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17617&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 04 Nov 2021 17:43:37 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/a72ebc59f29bd78e0ea879d7cbd49d24.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Sufjan Stevens / Convocations (5CD Set) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>

@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 05:38:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 17:46:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Adele / 30 (CD, Jewel Case)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17735&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17735&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Nov 2021 17:45:02 GMT</pubDate>
+            <content:encoded><![CDATA[19,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/247581fe99a503bda1af97ec8073475f.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Heather Woods Broderick / Invitation (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17729&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 04 Nov 2021 17:43:37 GMT</pubDate>
             <content:encoded><![CDATA[20,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/81ba7f463e9c5ba041d4f23ec641e2c3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iron and Wine / Our Endless Numbered Days (CD, Deluxe Edition, US Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17617&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17617&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 04 Nov 2021 17:43:37 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/a72ebc59f29bd78e0ea879d7cbd49d24.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
