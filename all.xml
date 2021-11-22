@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 17:44:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 05:38:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202012/db511484d47f627fa446c40f5cc115cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ozzy Osbourne / Ozzmosis  (Limited Colored Vinyl, 500장 한정 컬러반, Play On Color 시리즈) *한정수량 할인 / 예약판매 (11월 23일부터 배송 시작) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17718&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17718&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 15 Nov 2021 17:43:46 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/080181593741ec7515b9fd7b4da75e3c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Audioslave / Revelations  (Limited Colored Vinyl, 500장 한정 컬러반, Play On Color 시리즈) *한정수량 할인 / 예약판매 (11월 23일부터 배송 시작) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17716&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17716&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 15 Nov 2021 17:43:46 GMT</pubDate>
+            <content:encoded><![CDATA[46,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/45e8ca8268fc157126227da34a2b774d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Beach House / Once Twice Melody (2xCassette) *예약상품 (3월 첫째주 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17690&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17690&amp;cate_no=42&amp;display_group=1</guid>
@@ -454,22 +470,6 @@
             <pubDate>Wed, 10 Nov 2021 17:38:07 GMT</pubDate>
             <content:encoded><![CDATA[20,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/e5a1a4f7e614c7f865c90fd62278a0fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Audioslave / Revelations  (Limited Colored Vinyl, 500장 한정 컬러반, Play On Color 시리즈) *한정수량 할인 / 예약판매 (11월 23일부터 배송 시작) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17716&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17716&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 15 Nov 2021 17:43:46 GMT</pubDate>
-            <content:encoded><![CDATA[46,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/45e8ca8268fc157126227da34a2b774d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ozzy Osbourne / Ozzmosis  (Limited Colored Vinyl, 500장 한정 컬러반, Play On Color 시리즈) *한정수량 할인 / 예약판매 (11월 23일부터 배송 시작) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17718&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17718&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 15 Nov 2021 17:43:46 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/080181593741ec7515b9fd7b4da75e3c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤시내 / 1집: 새 노래 모음 (Reel to Real Series, 180g LP) *예약상품 (12월 10일경 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
