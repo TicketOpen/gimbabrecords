@@ -4,9 +4,41 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 05:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 17:45:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mac Miller / K.I.D.S. (Transparent Black Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17760&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17760&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Wed, 24 Nov 2021 17:43:38 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/6379c3957c7129f573bf9c5dbdfc7448.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mac Miller / Best Day Ever (Transparent Black Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17759&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17759&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Wed, 24 Nov 2021 17:43:38 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/8ca9edfb08c021ecdad5ae4f85a57ff8.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mac Miller / Blue Slide Park (Transparent Black Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17758&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17758&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Wed, 24 Nov 2021 17:43:38 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/74eacadf638372e90c1530d593a73dc6.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mac Miller / Watching Movies With The Sound Off (Transparent Red Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17757&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17757&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Wed, 24 Nov 2021 17:43:38 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/66d9429e82a225b85bd2c89fd0708cb7.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Kiefer / Kickinit Alone (Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17728&amp;cate_no=26&amp;display_group=1</link>
@@ -70,38 +102,6 @@
             <pubDate>Fri, 29 Oct 2021 17:40:53 GMT</pubDate>
             <content:encoded><![CDATA[14,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202110/40e71184eb44a5283729cf469f322e63.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shame / Drunk Tank Pink (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17528&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17528&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:00:13 GMT</pubDate>
-            <content:encoded><![CDATA[14,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/f9a038bed31de4553920d23baae3ef95.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sublime / Sublime (Cassette, 25th Anniversary)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17486&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17486&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:00:13 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/3a8636b6dc7191f7362c24690e304bb2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shura / Forevher (Blue Cassette, Deluxe Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17453&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17453&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:00:13 GMT</pubDate>
-            <content:encoded><![CDATA[14,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/66af26885abcff6eeb3e098ae9b123e4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mitski / Be the Cowboy (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17450&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17450&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:00:13 GMT</pubDate>
-            <content:encoded><![CDATA[14,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/79c31d1cd4124d53fe509179b94c341b.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
