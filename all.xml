@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 17:43:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 05:38:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,12 +104,36 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/f9b54627726c5ea97b55f5b29e644535.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Fleet Foxes / Shore (Limited Crystal Clear Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17750&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17750&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 24 Nov 2021 05:35:55 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202111/451af24998c958c5663b5dff44e72ca7.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mariah Carey / #1 To Infinity (180g Vinyl, 2LP) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17749&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17749&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 24 Nov 2021 05:35:55 GMT</pubDate>
+            <content:encoded><![CDATA[53,000원]]></content:encoded>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202111/1dd45cba5ed3d5b8a54543bbf8fe61f3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Coldplay / Christmas Lights (Limited 7" Vinyl, Black Vinyl, 재활용 소재로 만든 바이닐) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17748&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17748&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 24 Nov 2021 05:35:55 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202111/eda1fddad71da6ed6f5b5817016826cd.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Oasis / Knebworth 1996 (Vinyl, 3LP / Triple Gatefold Set) *추가 할인상품 (자세한 내용은 상세설명 참조) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17744&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17744&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Tue, 23 Nov 2021 17:41:16 GMT</pubDate>
             <content:encoded><![CDATA[66,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/d61ec6309e4b9fbdcab1bd7d042ed92b.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202111/d61ec6309e4b9fbdcab1bd7d042ed92b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Oasis / Knebworth 1996 (Vinyl, 3LP / Triple Gatefold Set) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
@@ -117,7 +141,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17743&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Tue, 23 Nov 2021 17:41:16 GMT</pubDate>
             <content:encoded><![CDATA[68,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/0d2efb71268f1f934f5a2c2383768bcd.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202111/0d2efb71268f1f934f5a2c2383768bcd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Christina Aguilera / My Kind Of Christmas (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
@@ -125,7 +149,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17742&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Tue, 23 Nov 2021 17:41:16 GMT</pubDate>
             <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/ce6d27771a5ea317bf233b08ac2f7c09.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202111/ce6d27771a5ea317bf233b08ac2f7c09.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Frank Sinatra / A Jolly Christmas From Frank Sinatra (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
@@ -133,7 +157,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17741&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Tue, 23 Nov 2021 17:41:16 GMT</pubDate>
             <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/ff581dff3763d23a8e64029f37954363.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202111/ff581dff3763d23a8e64029f37954363.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Whitney Houston / One Wish - The Holiday Album (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
@@ -141,7 +165,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17740&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Tue, 23 Nov 2021 17:41:16 GMT</pubDate>
             <content:encoded><![CDATA[32,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/409bbccf37e6cc1dfe63885b5e2a330e.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202111/409bbccf37e6cc1dfe63885b5e2a330e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Adele / 30 (Black Vinyl, 2LP) *11월 24일부터 배송이 시작됩니다. (김밥레코즈 ─ Vinyl)]]></title>
@@ -149,7 +173,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17738&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Mon, 22 Nov 2021 17:44:21 GMT</pubDate>
             <content:encoded><![CDATA[45,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/88a310655d4efa4473a9780d6dd0d591.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202111/88a310655d4efa4473a9780d6dd0d591.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mira Calix / absent origin (2LP Vinyl + Download) (김밥레코즈 ─ Vinyl)]]></title>
@@ -157,7 +181,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17737&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Mon, 22 Nov 2021 17:44:21 GMT</pubDate>
             <content:encoded><![CDATA[41,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/598509817f160372a63acc405cb56876.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202111/598509817f160372a63acc405cb56876.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Khruangbin / Mordechai Remixes (2LP Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
@@ -165,7 +189,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17736&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Mon, 22 Nov 2021 17:44:21 GMT</pubDate>
             <content:encoded><![CDATA[34,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/65c60112e29a683b7af7aa1cea027fe0.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202111/65c60112e29a683b7af7aa1cea027fe0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Adele / 30 (Limited Clear Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
@@ -173,31 +197,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17734&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Mon, 22 Nov 2021 17:44:21 GMT</pubDate>
             <content:encoded><![CDATA[55,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/1154e4211c170b4885f3bf1c8aee2d3c.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lee Konitz and Gerry Mulligan (Feat. Chet Baker) / Lee Konitz Plays With The Gerry Mulligan Quartet (Vinyl, Blue Note Tone Poet Series) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17733&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17733&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 21 Nov 2021 17:42:02 GMT</pubDate>
-            <content:encoded><![CDATA[42,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/b0b7a8d6801eb38e8b7d92f608d95d12.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lee Konitz & Martial Solal / Live at the Berlin Jazz Days 1980 (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17732&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17732&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 21 Nov 2021 17:42:02 GMT</pubDate>
-            <content:encoded><![CDATA[33,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/89fecaee7dceaa83cbe05cf64f01ea80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists (The Shins, Rufus Wainwright, Paul McCartney, Andrew Bird, Punch Brothers...) / Holidays Rule 2LP (Translucent Red Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17731&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17731&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 20 Nov 2021 17:41:25 GMT</pubDate>
-            <content:encoded><![CDATA[37,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/8cc10ac605fef58946895284a2f28dac.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202111/1154e4211c170b4885f3bf1c8aee2d3c.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Kiefer / Kickinit Alone (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -296,7 +296,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202110/79c31d1cd4124d53fe509179b94c341b.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Oasis / Knebworth 1996 (3 DVD Set) *할인상품 / 예약상품 (김밥레코즈 ─ Movies/Merch)]]></title>
+            <title><![CDATA[Oasis / Knebworth 1996 (3 DVD Set) *할인상품 / 예약상품 (12월 8일경부터 배송 시작) (김밥레코즈 ─ Movies/Merch)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17747&amp;cate_no=27&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17747&amp;cate_no=27&amp;display_group=1</guid>
             <pubDate>Tue, 23 Nov 2021 17:41:32 GMT</pubDate>
@@ -392,20 +392,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202104/2ce7246311680a61261716a01d1b56d1.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Oasis / Knebworth 1996 (3 DVD Set) *할인상품 / 예약상품 (12월 8일경부터 배송 시작) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17747&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17747&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 23 Nov 2021 17:41:43 GMT</pubDate>
+            <content:encoded><![CDATA[30,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/054f0dc971f03acf0c0cfcb0a4703b47.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Oasis / Knebworth 1996 (Blu-Ray) *예약상품 (12월 8일경부터 배송 시작) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17746&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17746&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Tue, 23 Nov 2021 17:41:43 GMT</pubDate>
             <content:encoded><![CDATA[30,700원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/f7fe6517216a714a4d5560ab439f3d80.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Oasis / Knebworth 1996 (3 DVD Set) *할인상품 / 예약상품 (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17747&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17747&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 23 Nov 2021 17:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[30,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/054f0dc971f03acf0c0cfcb0a4703b47.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Oasis / Knebworth 1996 (Deluxe 2CD/DVD) *할인상품 / *예약상품 (12월 8일경부터 배송 시작) (김밥레코즈 ─ Pre-Order)]]></title>
