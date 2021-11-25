@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 17:45:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 05:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Marker Starling / Rosy Maze (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17772&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17772&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 25 Nov 2021 05:37:25 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/d7d7caeadac6a8074c5cc9ce358f9111.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marker Starling / I'm Willing (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17771&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17771&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 25 Nov 2021 05:37:25 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/f8d814eeac5a3998113fecdf4e7c7054.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marker Starling / Anchors & Ampersands (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17767&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17767&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 25 Nov 2021 05:37:25 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/f99beedaa73f84587df144672a8ccf42.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Convenience / Accelerator (CD, US Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17764&amp;cate_no=30&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Fri, 12 Nov 2021 17:43:47 GMT</pubDate>
             <content:encoded><![CDATA[21,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/2ff2d44784800a2a56c435fba382f13c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Helado Negro / Far In (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17652&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17652&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 09 Nov 2021 17:44:27 GMT</pubDate>
-            <content:encoded><![CDATA[17,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/6704ad4ea542855d07eade3be24cbff1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Snail Mail / Valentine (CD, Digipack)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17651&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17651&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 09 Nov 2021 17:44:27 GMT</pubDate>
-            <content:encoded><![CDATA[17,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/5c55f390876d37660a46e51d5f3b2d1e.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Circuit Des Yeux / -io (CD, Digipack)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17650&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17650&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 09 Nov 2021 17:44:27 GMT</pubDate>
-            <content:encoded><![CDATA[17,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/390c383be5ebe2b14432c1749f486f9c.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

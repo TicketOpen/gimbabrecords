@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 17:45:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 05:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Marker Starling / Rosy Maze (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17772&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17772&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 25 Nov 2021 05:36:36 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/d7d7caeadac6a8074c5cc9ce358f9111.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marker Starling / I'm Willing (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17771&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17771&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 25 Nov 2021 05:36:36 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/f8d814eeac5a3998113fecdf4e7c7054.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marker Starling / Anchors & Ampersands (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17767&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17767&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 25 Nov 2021 05:36:36 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/f99beedaa73f84587df144672a8ccf42.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Convenience / Accelerator (CD, US Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17764&amp;cate_no=24&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Wed, 17 Nov 2021 05:35:34 GMT</pubDate>
             <content:encoded><![CDATA[17,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/be71d15d7d76238cd18d7c5aed17e2c6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Calvin Keys / Shawn-Neeq (CD, Jewel Case, Black Jazz 재발매 시리즈)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17708&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17708&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 15 Nov 2021 05:36:06 GMT</pubDate>
-            <content:encoded><![CDATA[19,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/959b65a765ff89c62178bbeb34b4d2a2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beach House / Once Twice Melody (2CD) *예약상품 (3월 첫째주 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17689&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17689&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 12 Nov 2021 17:42:52 GMT</pubDate>
-            <content:encoded><![CDATA[21,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/4813751b1ec960f625783f03e32b1b80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pond / 9 (CD, Digi-sleeve)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17686&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17686&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 12 Nov 2021 17:42:52 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/208f29673ec81be94cbc2cfb5e401d6d.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
