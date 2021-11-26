@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 17:44:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 05:37:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 25 Nov 2021 17:43:05 GMT</pubDate>
             <content:encoded><![CDATA[35,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/b85c13f3cadf065f71b30b994fa0f721.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[김윤기 (Yoonkee Kim) / 제목없는 음반 (Untitled) (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17775&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17775&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Nov 2021 05:35:54 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/d0127502d62f36045b97b8d60b442750.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Marker Starling / Rosy Maze (CD)]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 17 Nov 2021 17:39:18 GMT</pubDate>
             <content:encoded><![CDATA[23,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/7bd471bcd8a7d66ed3fb004d88463f8f.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[전파사 / 억겁의 싸이-키 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17721&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17721&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 17 Nov 2021 17:39:18 GMT</pubDate>
-            <content:encoded><![CDATA[14,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/174879532f9cfc7608b629e02f948619.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

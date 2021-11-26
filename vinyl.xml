@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 17:44:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 05:37:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dexy's Midnight Runners / Searching For The Young Soul Rebels (Vinyl, Remastered) *2021 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17783&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17783&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Nov 2021 05:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/e812000cbdd9e699a01fd975f021a7a9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wilco / Wilco (The Album) (Vinyl w/ CD) *2021 블랙프라이데이 할인 (모서리에 작은 눌림자국이 있습니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17782&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17782&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Nov 2021 05:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[30,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/fe9dc8ccccbf2f9cce3690e489a52d7f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pure X / Pleasure (Vinyl) *2021 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17781&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17781&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Nov 2021 05:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/10383ffb48199d5f592f33c7bd48f015.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST (Emile Mosseri) / Minari 미나리 (Limited Solid Blue Vinyl, 3rd Pressing 불투명 블루바이닐) *2021 블랙프라이데이 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17780&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Thu, 25 Nov 2021 05:36:44 GMT</pubDate>
             <content:encoded><![CDATA[27,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/1d5ac222bc62c5c080c1912d976e7b1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mogwai ‎/ ZeroZeroZero (A Mogwai Soundtrack) (Limited White Colored Vinyl, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17766&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17766&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 25 Nov 2021 05:36:44 GMT</pubDate>
-            <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/eb7dfb08b0fc0079ce7a9ea01a6ec586.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mogwai / Ten Rapid (Collected Recordings 1996-1997) (Limited Dark Green Colored Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17765&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17765&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 25 Nov 2021 05:36:44 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/d8445d28cf79d09c4c980aa9d5b37fd5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Video Age / Pleasure Line (Limited Blushing Red Vinyl + Download) *한정판매 / 할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17763&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17763&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Nov 2021 17:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[28,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/a84b0208a909ddaee2851f3ec1dd674c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
