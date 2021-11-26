@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Holiday</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 05:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 17:44:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Michael Buble / Christmas (18 tracks CD + Christmas Ornament 크리스마스 장식물이 포함된 US Limited Edition) *2021 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17785&amp;cate_no=51&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17785&amp;cate_no=51&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Nov 2021 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/3a1ee0ac3ab527c4a2b5b81d872dc0fc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Frank Sinatra / Ultimate Christmas (CD) *한정할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=15883&amp;cate_no=51&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Oct 2021 18:42:39 GMT</pubDate>
             <content:encoded><![CDATA[22,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202011/f1b844dbc09fb240462a90ad2791113e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mariah Carey / Merry Christmas Anniversary Edition (Live, Duet, remix 등 18곡이 추가된 2CD, EU Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=14325&amp;cate_no=51&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=14325&amp;cate_no=51&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[23,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/20191217/6634397a9e58be1a60bcc2c8f38f2bd3.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

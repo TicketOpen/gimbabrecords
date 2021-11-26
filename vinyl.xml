@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 05:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 17:44:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Weeknd / The Highlights (Black Vinyl, 2LP, US Import - 캐나다 프레싱)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17786&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17786&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Nov 2021 17:43:09 GMT</pubDate>
+            <content:encoded><![CDATA[66,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/4dd8dc6732a3cded3805d1f84e4c5fd4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sidiku Buari (Buari) / Revolution (Live Disco Show In New York City) (Vinyl, 2LP, Remastered) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17784&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17784&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Nov 2021 17:43:09 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/685e6ce9ecb5329c2f61a5d4700c265d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dexy's Midnight Runners / Searching For The Young Soul Rebels (Vinyl, Remastered) *2021 블랙프라이데이 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17783&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 25 Nov 2021 05:36:44 GMT</pubDate>
             <content:encoded><![CDATA[29,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/13e68df1a744108eb80a448d8f044c7c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marker Starling / Trust An Amateur (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17769&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17769&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 25 Nov 2021 05:36:44 GMT</pubDate>
-            <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/8e8a7928426cb645b7d5a299a6e6060e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Market Starling / Anchors & Ampersands (Colored Vinyl) *모서리 눌림자국에 의한 할인상품 (유의사항을 참조하세요)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17768&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17768&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 25 Nov 2021 05:36:44 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/1d5ac222bc62c5c080c1912d976e7b1b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
