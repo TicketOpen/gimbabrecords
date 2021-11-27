@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 17:44:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 05:37:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Stephen Trask) / Hedwig and the Angry Inch  헤드윅 (Original Broadway Cast Recording) (Vinyl, Rocktober, Limited Colored Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17789&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17789&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 27 Nov 2021 05:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[58,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/cf8d14daeced539462a4dc51c0593774.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Radiohead / Kid A Mnesia (Vinyl, 3LP, Black Vinyl) *할인상품 (구매시 유의사항을 확인하세요)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17788&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17788&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 27 Nov 2021 05:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[78,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/6b8cb24f6abe75cf6e37e4829edd2081.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nirvana / Nevermind (30th Anniversary Limited Edition - LP + 7")]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17787&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17787&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 27 Nov 2021 05:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/b1f7d8d42bb854cacc3546bb85a4312f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Weeknd / The Highlights (Black Vinyl, 2LP, US Import - 캐나다 프레싱)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17786&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Thu, 25 Nov 2021 17:43:13 GMT</pubDate>
             <content:encoded><![CDATA[58,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/08eb9ae8eda2191dd90d1e7fb220a7b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Xenia Rubinos / Una Rosa (Limited Summer Sky Wave Vinyl) *할인상품 (구매 전 "구매시 유의사항"을 확인해 주세요)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17774&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17774&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 25 Nov 2021 17:43:13 GMT</pubDate>
-            <content:encoded><![CDATA[33,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/67bc4cf31dee9d41170d23cfce661de1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Donald Byrd / Places And Spaces (Blue Note Classic Series) *예약상품 (12월 10일경부터 배송시작) / 기존 수입분보다 판매가격이 높습니다. 자세한 내용은 상세설명을 참조하세요.]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17773&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17773&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 25 Nov 2021 17:43:13 GMT</pubDate>
-            <content:encoded><![CDATA[35,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/c7c64346bd7e47839d3479468689ab13.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marker Starling / I'm Willing (Colored Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17770&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17770&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 25 Nov 2021 05:36:44 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/13e68df1a744108eb80a448d8f044c7c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
