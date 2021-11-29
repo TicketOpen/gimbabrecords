@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 05:38:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 17:45:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잔나비 / 3집 환상의 나라 (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17794&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17794&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 29 Nov 2021 17:43:58 GMT</pubDate>
+            <content:encoded><![CDATA[22,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/127228d597051d0e5ad83ab7bdd09650.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Michael Buble / Christmas (18 tracks CD + Christmas Ornament 크리스마스 장식물이 포함된 US Limited Edition) *2021 블랙프라이데이 할인 (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17785&amp;cate_no=24&amp;display_group=1</link>
@@ -96,12 +104,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/547ebe9e57d443cdc2088ca73c06932b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김사월 / EP 드라이브 (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17723&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17723&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 17 Nov 2021 17:39:18 GMT</pubDate>
-            <content:encoded><![CDATA[16,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/3c27076808eb8b0c076f40fcf68e2d51.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Grouper / Shade (Black Vinyl, HQ Pressing) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17795&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17795&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 29 Nov 2021 17:44:05 GMT</pubDate>
+            <content:encoded><![CDATA[32,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/3a3e37e743d9a8f46c5f276bc96642cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Honne / Let's Just Say The World Ended A Week From Now, What Would You Do? (BLACK Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 26 Nov 2021 05:36:02 GMT</pubDate>
             <content:encoded><![CDATA[30,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/fe9dc8ccccbf2f9cce3690e489a52d7f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pure X / Pleasure (Vinyl) *2021 블랙프라이데이 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17781&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17781&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Nov 2021 05:36:02 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/10383ffb48199d5f592f33c7bd48f015.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mac Miller / K.I.D.S. (Transparent Black Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -584,6 +584,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/5aa86c214ecc614a9a0af1a54b74cd8e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[잔나비 / 3집 환상의 나라 (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17794&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17794&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 29 Nov 2021 17:44:35 GMT</pubDate>
+            <content:encoded><![CDATA[22,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/127228d597051d0e5ad83ab7bdd09650.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[김윤기 (Yoonkee Kim) / 제목없는 음반 (Untitled) (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17775&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17775&amp;cate_no=29&amp;display_group=1</guid>
@@ -670,14 +678,6 @@
             <pubDate>Thu, 28 Oct 2021 18:08:23 GMT</pubDate>
             <content:encoded><![CDATA[22,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202110/df73c9ab58663d8ec3dc0b435dbca363.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[소음발광 / 기쁨, 꽃 (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17441&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17441&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/83215918e36ae43a003c9f8ad95a6492.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Marker Starling / Rosy Maze (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
