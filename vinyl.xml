@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 05:38:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 17:47:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Makaya McCraven / Deciphering The Message (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17823&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17823&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 01 Dec 2021 17:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[30,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/5f75e78c0a5d756a7cf00623fa99893c.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Common / A Beautiful Revolution Part 2 (Black Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17822&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17822&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 01 Dec 2021 17:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[30,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/7fd8893238deb98c43752bf24a2ccb46.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[임용주 X 노디 / 붕괴(BBUREKA) (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17821&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 01 Dec 2021 05:36:32 GMT</pubDate>
             <content:encoded><![CDATA[39,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/a7844179ab4cfa0fc7cfef98df8e3a9a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sons Of Kemet / African Cosmology (Limited 12" Vinyl, 2021 RSD Black Friday Exclusive)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17810&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17810&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 01 Dec 2021 05:36:32 GMT</pubDate>
-            <content:encoded><![CDATA[24,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/1f27de6946b6ddd4d38cf7005156959e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / Tickets For Doomsday: Heavy Psychedelic Funk, Soul, Ballads & Dirges 1970-1975 (Vinyl, 2021 RSD Black Friday)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17809&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17809&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 01 Dec 2021 05:36:32 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/17c7345759abe80b59aca9b85a8b370e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
