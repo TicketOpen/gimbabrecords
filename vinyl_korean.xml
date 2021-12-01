@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 17:42:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 05:38:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임용주 X 노디 / 붕괴(BBUREKA) (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17821&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17821&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 01 Dec 2021 05:38:33 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/1914e2c12ecd03659f5fcbb39d265914.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[209km / 209km (EP, 7" Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17797&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Oct 2021 18:08:29 GMT</pubDate>
             <content:encoded><![CDATA[44,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202110/91d6c9db0a1221df5176803a24503437.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유하 / 정규 2집 낮잠 (180g LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17473&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17473&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[49,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/f0f1ddbc7cfd5f0b38b28cec4a5a085a.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
