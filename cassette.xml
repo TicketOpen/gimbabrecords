@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 05:38:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 17:44:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hookuo 후쿠오 / Beatshow in X-Mas (Cassette + Download Card)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17829&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17829&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 02 Dec 2021 17:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[16,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/b700d360616ecef5a56ad3274c0e8b34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beautiful Disco / Beaming Interlude (Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17828&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17828&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 02 Dec 2021 17:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[16,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/0e0cfb69cd64c204fb49eaabde33d6df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[은도희 (eundohee) / UNFORESEEN (Cassette + Download Card)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17827&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17827&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 02 Dec 2021 17:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[16,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/5420fadd006587ee974608552f03eb0c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Boyscott / Goosebumps (Blue Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17824&amp;cate_no=26&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Sat, 13 Nov 2021 17:41:26 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/23370bcaa037926cbdc70ae30c8f96ff.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kim Gordon / No Home Record (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17680&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17680&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Fri, 12 Nov 2021 17:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[18,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/583c26079ded00b1e5daa51c5022c1b3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Modest Mouse / The Golden Casket (Translucent Blue Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17679&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17679&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Fri, 12 Nov 2021 17:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[24,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/cb5987e2edff13b8ca035255f09f7b49.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lana Del Rey / Blue Banisters (Red Cassette, UK Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17631&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17631&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Sat, 06 Nov 2021 17:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[24,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/34d1c46f5cd12b8760a6c1466c89bdce.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

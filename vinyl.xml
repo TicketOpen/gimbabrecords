@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 05:38:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 17:44:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST / 택동영화사 30주년 기념 왕가위 영화 사운드트랙 + 보너스 턴테이블 박스셋 WKW Colored Vinyl Box Set w/ Turntable (13 LPs - 11편 영화 사운드트랙의 200매 한정제작 사운드트랙 + 보너스 턴테이블, 일련번호 표기) *1회 한정판매]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17825&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17825&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 02 Dec 2021 17:42:14 GMT</pubDate>
+            <content:encoded><![CDATA[1,210,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/891a1cbb37739e1d7edf12e15ff52188.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Makaya McCraven / Deciphering The Message (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17823&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 01 Dec 2021 05:36:32 GMT</pubDate>
             <content:encoded><![CDATA[32,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/6227700da7c3e2433414bc5c9f27b943.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Staple Singers / The Twenty-Fifth Day Of December (Limited Vinyl, 2021 RSD Black Friday Exclusive)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17811&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17811&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 01 Dec 2021 05:36:32 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/a7844179ab4cfa0fc7cfef98df8e3a9a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
