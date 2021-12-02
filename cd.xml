@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 17:47:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 05:38:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나선 (NASUN) / 동그라미 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17826&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17826&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 02 Dec 2021 05:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/918f618bd3c18e1d5f7e296921ef78e8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Chieftains / Chronicles: 60 years of The Chieftains (2CD, Jewel Case)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17800&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 24 Nov 2021 17:43:24 GMT</pubDate>
             <content:encoded><![CDATA[17,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/384e86990b0205294cc2238ab338a124.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oasis / Knebworth 1996 (Deluxe 2CD/DVD) *할인상품 / *예약상품 (12월 8일경부터 배송 시작)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17745&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17745&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 23 Nov 2021 17:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[38,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/80c28f01ca39178088fca8149ced8ddd.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
