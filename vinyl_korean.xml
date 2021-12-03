@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 05:38:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 17:45:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이정화 (+신중현과 덩키즈) / The Psychedelic Sound 싸이키데릭 싸운드 - 꽃잎, 봄비, 마음 (Vinyl, Limited Pressing, 접이식 포스터 포함)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17834&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17834&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Fri, 03 Dec 2021 17:45:43 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/3bb1dac96167380bfa45447ce99128d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤용균 + 신중현과 더 맨 / 내 곁에 있어주오 / 거짓말이야 (Vinyl, Limited Pressing, 접이식 포스터 포함)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17833&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17833&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Fri, 03 Dec 2021 17:45:43 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/d94a1e06753e1893bfcbb185f8b9ae97.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임용주 X 노디 / 붕괴(BBUREKA) (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17821&amp;cate_no=52&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 28 Oct 2021 18:08:29 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202110/b21c1cfe5898a5af0972078e76d4eab6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유키카 / timeabout, [Time Blue Ver.] (140g Blue Opaque Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17568&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17568&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[44,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/17407f9046a40c5235a973644e9c402d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유키카 / timeabout, [Time Light Ver.] (140g Yellow Transparent Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17567&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17567&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[44,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/91d6c9db0a1221df5176803a24503437.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

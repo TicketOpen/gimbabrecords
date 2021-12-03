@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 05:38:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 17:45:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이정화 (+신중현과 덩키즈) / The Psychedelic Sound 싸이키데릭 싸운드 - 꽃잎, 봄비, 마음 (Vinyl, Limited Pressing, 접이식 포스터 포함)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17834&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17834&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 03 Dec 2021 17:44:03 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/3bb1dac96167380bfa45447ce99128d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤용균 + 신중현과 더 맨 / 내 곁에 있어주오 / 거짓말이야 (Vinyl, Limited Pressing, 접이식 포스터 포함)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17833&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17833&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 03 Dec 2021 17:44:03 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/d94a1e06753e1893bfcbb185f8b9ae97.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Elvis Presley / Christmas with Elvis and the Royal Philharmonic Orchestra (Vinyl) *2021 블랙프라이데이 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17831&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 01 Dec 2021 05:36:32 GMT</pubDate>
             <content:encoded><![CDATA[38,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/1062b6fac59d78bac5a1906b72304649.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ozzy Osbourne / No More Tears (Limited Picture Disc, 2021 RSD Black Friday Exclusive)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17815&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17815&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 01 Dec 2021 05:36:32 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/57951cde107e963efb7d562fec2078b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mobb Deep / Free Agents (Limited Smokey Clear Vinyl, 2021 RSD Black Friday Exclusive) *할인상품 (모서리 눌림자국)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17814&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17814&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 01 Dec 2021 05:36:32 GMT</pubDate>
-            <content:encoded><![CDATA[43,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/876be8a542fb080a70c28828f8bf6a11.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
