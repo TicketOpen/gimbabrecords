@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 05:38:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 17:45:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kylie Minogue / Step Back In Time: The Definitive Collection (Expanded 3CD Edition) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17840&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17840&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Sat, 04 Dec 2021 17:44:26 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/72e46923d6e85664111a8f10c289121d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Chieftains / Chronicles: 60 years of The Chieftains (2CD, Jewel Case)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17800&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 12 Nov 2021 17:43:47 GMT</pubDate>
             <content:encoded><![CDATA[43,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/f9b54627726c5ea97b55f5b29e644535.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jose Gonzalez / Local Valley (CD, Digipack) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17682&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17682&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 12 Nov 2021 17:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[24,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/2f6d3606e77e6a5f7c01dc58424b19ef.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
