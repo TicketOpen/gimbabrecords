@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 17:46:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 05:38:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pedro Almodóvar (Pedro Almodovar) & Alberto Iglesias 알베르토 이글레시아스 / Film Music Collection 페드로 알모도바르의 영화음악 컴필레이션 (Limited to 200, White Colored Vinyl 2LP, LITA 20th Anniversary Edition) *1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17859&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17859&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Dec 2021 05:36:34 GMT</pubDate>
+            <content:encoded><![CDATA[66,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/5e8525f795d557c3355132c4b228ead0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chet Baker / Mr. B. (Limited Baby Blue Colored Vinyl, LITA 20th Anniversary Edition) *1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17858&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17858&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Dec 2021 05:36:34 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/3e69968a2f6acbd0d9847f3b305932aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Touch Of Class / Love Means Everything (Vinyl, 2021 Reissue, 일본 재발매반)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17857&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 07 Dec 2021 17:47:07 GMT</pubDate>
             <content:encoded><![CDATA[52,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/42eeafb7ade01b1e1ba74c688bce099b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nina Simone / Little Girl Blue (Vinyl, 2021 Stereo remaster, Kevin Gray mastering, Audiophile Pressing)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17846&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17846&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 06 Dec 2021 17:34:41 GMT</pubDate>
-            <content:encoded><![CDATA[42,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/d4c4d19da25b0dc2cbd0ac80475c06ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Richard Ashcroft / Acoustic Hymns Vol. 1 (Vinyl, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17844&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17844&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 04 Dec 2021 17:43:43 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/820eb3a17b1ae65bfb95785bd2dedf01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
