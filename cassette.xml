@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 05:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 17:46:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손성제 / 변해버린 너에게 (Limited Cassette, Made in US)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17862&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17862&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Fri, 10 Dec 2021 17:44:18 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/7f04e82d013590d3d4c1a13c8d7bfb56.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Hookuo 후쿠오 / Beatshow in X-Mas (Cassette + Download Card)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17829&amp;cate_no=26&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 12 Nov 2021 17:43:10 GMT</pubDate>
             <content:encoded><![CDATA[22,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/a92f0e2bfc9b430efcf552edd8cefc40.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vince Guaraldi Trio / A Charlie Brown Christmas (Limited Silver Cassette) *1인 최대 2매까지 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17685&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17685&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Sat, 13 Nov 2021 17:41:26 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/23370bcaa037926cbdc70ae30c8f96ff.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
