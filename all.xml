@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 05:37:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 17:44:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nat King Cole / Christmas Album (CD, Jewel Case, EU Import) *한정할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17871&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17871&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sat, 11 Dec 2021 17:42:18 GMT</pubDate>
+            <content:encoded><![CDATA[11,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/d191e4da7290f85d492289f17af2cd24.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / The Ultimate Motown Christmas Collection (2CD, US Import) *한정할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17870&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17870&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sat, 11 Dec 2021 17:42:18 GMT</pubDate>
+            <content:encoded><![CDATA[13,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/b84473bb82b3f1ed3e084bd14d4678c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamie Cullum / The Pianoman At Christmas (CD) *할인상품 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17869&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17869&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sat, 11 Dec 2021 17:42:18 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/9adc9942604f183838bc6fdee972c1c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vince Guaraldi / Peanuts Greatest Hits (CD, EU Import) *할인상품 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17868&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17868&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sat, 11 Dec 2021 17:42:18 GMT</pubDate>
+            <content:encoded><![CDATA[13,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/890ef30a8f537b19c8eb8598f6721d65.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kylie Minogue / Disco: Guest List Edition (2CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17866&amp;cate_no=24&amp;display_group=1</link>
@@ -72,36 +104,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/ddfe28ca8eb097af3d58a9369308bf2a.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Arturo O'Farrill & The Afro Latin Jazz Ensemble / ...dreaming in lions... (Paper Sleeve CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17799&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17799&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Nov 2021 17:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[17,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/3ed594e154ab6af9f00c095d4cddb458.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Melanie Charles / Y'all Don't (Really) Care About Black Women (CD, Jewel Case) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17798&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17798&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Nov 2021 17:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[17,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/33e87d110f9c7c4d30ddb893d2c25285.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[잔나비 / 3집 환상의 나라 (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17794&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17794&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 29 Nov 2021 17:43:58 GMT</pubDate>
-            <content:encoded><![CDATA[22,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/127228d597051d0e5ad83ab7bdd09650.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Michael Buble / Christmas (18 tracks CD + Christmas Ornament 크리스마스 장식물이 포함된 US Limited Edition) *2021 블랙프라이데이 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17785&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17785&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Nov 2021 17:43:01 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/3a1ee0ac3ab527c4a2b5b81d872dc0fc.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Madison Cunningham / Who Are You Now (Vinyl) *2021 블랙프라이데이 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17874&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17874&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 11 Dec 2021 17:42:26 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/8a8d2defab6bc2718b2244aa699626d0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Joe Hisaishi  / Kikujiro no Natsu OST 기쿠지로의 여름 (Vinyl) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 08 Dec 2021 05:36:41 GMT</pubDate>
             <content:encoded><![CDATA[38,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/05e19ce0d98461f613f8e15472cb480c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Various Artists) / Forrest Gump 포레스트 검프 (Vinyl, 2LP) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17852&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17852&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 08 Dec 2021 05:36:41 GMT</pubDate>
-            <content:encoded><![CDATA[47,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/2de7191d240bddc39c52653cbe6fd1e5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손성제 / 변해버린 너에게 (Limited Cassette, Made in US) (김밥레코즈 ─ Cassette)]]></title>
@@ -296,6 +296,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/a92f0e2bfc9b430efcf552edd8cefc40.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[A Charlie Brown Christmas 찰리 브라운 크리스마스 (Blu-Ray 블루레이) (김밥레코즈 ─ Movies/Merch)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17873&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17873&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Sat, 11 Dec 2021 17:42:38 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/7f3840e839c140a8854281df44a6eb31.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peanuts Holiday Anniversary Collection 피너츠 홀리데이 컬렉션 (Blu-ray, US IMPORT) (김밥레코즈 ─ Movies/Merch)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17872&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17872&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Sat, 11 Dec 2021 17:42:38 GMT</pubDate>
+            <content:encoded><![CDATA[54,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/af55d515ac543ce5661af02657b9ca5a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Oasis / Knebworth 1996 (3 DVD Set) *할인상품 (김밥레코즈 ─ Movies/Merch)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17747&amp;cate_no=27&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17747&amp;cate_no=27&amp;display_group=1</guid>
@@ -374,22 +390,6 @@
             <pubDate>Thu, 28 Oct 2021 18:00:20 GMT</pubDate>
             <content:encoded><![CDATA[88,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202104/abfafc58cf2630bbe05e2dd4e87eeb2c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vinyl Styl™ 7 9/16" X 7 5/8" 3 Mil Protective Outer Record Sleeve 100CT (7인치 보호비닐 100매) (김밥레코즈 ─ Movies/Merch)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=16342&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=16342&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:00:20 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202104/0384f01aa3c0d63360201f338dfd73d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안다영 Panorama Poster (양면 Offset 2도 인쇄) (김밥레코즈 ─ Movies/Merch)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=16320&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=16320&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:00:20 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202104/2ce7246311680a61261716a01d1b56d1.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Oasis / Knebworth 1996 (Blu-Ray) *예약상품 (12월 17일경부터 배송 시작) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -1064,6 +1064,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202010/7caacd2ad8aae9e433d934b91d6f20cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Vince Guaraldi / Peanuts Greatest Hits (CD, EU Import) *할인상품 (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17868&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17868&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Sat, 11 Dec 2021 17:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[13,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/890ef30a8f537b19c8eb8598f6721d65.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Arturo O'Farrill & The Afro Latin Jazz Ensemble / ...dreaming in lions... (Paper Sleeve CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17799&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17799&amp;cate_no=46&amp;display_group=1</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Thu, 28 Oct 2021 18:40:16 GMT</pubDate>
             <content:encoded><![CDATA[17,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202109/5ff2e3b73784181f76ef46bacb8e3a6f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kenny Barron / Dave Holland Trio Featuring Johnathan Blake / Without Deception (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17344&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17344&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:40:16 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202109/8f513990e492967101b0b149ac435681.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
@@ -1248,6 +1248,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201908/e8eea6ad67d9ad29e3534fb0b7c30fec.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Vince Guaraldi / Peanuts Greatest Hits (CD, EU Import) *할인상품 (김밥레코즈 ─ CD ─ Soundtracks)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17868&amp;cate_no=48&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17868&amp;cate_no=48&amp;display_group=1</guid>
+            <pubDate>Sat, 11 Dec 2021 17:43:39 GMT</pubDate>
+            <content:encoded><![CDATA[13,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/890ef30a8f537b19c8eb8598f6721d65.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Pedro Almodovar & Alberto Iglesias /  Film Music Collection (12CD Box Set) (김밥레코즈 ─ CD ─ Soundtracks)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17565&amp;cate_no=48&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17565&amp;cate_no=48&amp;display_group=1</guid>
@@ -1334,14 +1342,6 @@
             <pubDate>Thu, 28 Oct 2021 18:40:31 GMT</pubDate>
             <content:encoded><![CDATA[29,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202107/894c2bc52e189a2be84def38ff7d653e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (music by The Screentones) / Kodoku No Gourmet 고독한 미식가 (시즌 1) (CD) (김밥레코즈 ─ CD ─ Soundtracks)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=16866&amp;cate_no=48&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=16866&amp;cate_no=48&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[35,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202107/1f822ec21b13ad16cb5327ddd24a5290.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Gurrumul / The Gurrumul Story (CD, Jewel Case) (김밥레코즈 ─ CD ─ World)]]></title>
@@ -1536,6 +1536,38 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201512/2418_shop1_500135.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Nat King Cole / Christmas Album (CD, Jewel Case, EU Import) *한정할인 (김밥레코즈 ─ CD ─ Holiday)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17871&amp;cate_no=51&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17871&amp;cate_no=51&amp;display_group=1</guid>
+            <pubDate>Sat, 11 Dec 2021 17:43:57 GMT</pubDate>
+            <content:encoded><![CDATA[11,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/d191e4da7290f85d492289f17af2cd24.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / The Ultimate Motown Christmas Collection (2CD, US Import) *한정할인 (김밥레코즈 ─ CD ─ Holiday)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17870&amp;cate_no=51&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17870&amp;cate_no=51&amp;display_group=1</guid>
+            <pubDate>Sat, 11 Dec 2021 17:43:57 GMT</pubDate>
+            <content:encoded><![CDATA[13,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/b84473bb82b3f1ed3e084bd14d4678c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamie Cullum / The Pianoman At Christmas (CD) *할인상품 (김밥레코즈 ─ CD ─ Holiday)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17869&amp;cate_no=51&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17869&amp;cate_no=51&amp;display_group=1</guid>
+            <pubDate>Sat, 11 Dec 2021 17:43:57 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/9adc9942604f183838bc6fdee972c1c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vince Guaraldi / Peanuts Greatest Hits (CD, EU Import) *할인상품 (김밥레코즈 ─ CD ─ Holiday)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17868&amp;cate_no=51&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17868&amp;cate_no=51&amp;display_group=1</guid>
+            <pubDate>Sat, 11 Dec 2021 17:43:57 GMT</pubDate>
+            <content:encoded><![CDATA[13,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/890ef30a8f537b19c8eb8598f6721d65.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Elvis Presley / Christmas Peace (2CD, 하드커버) *2021 블랙프라이데이 할인 (김밥레코즈 ─ CD ─ Holiday)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17832&amp;cate_no=51&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17832&amp;cate_no=51&amp;display_group=1</guid>
@@ -1572,7 +1604,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=15865&amp;cate_no=51&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=15865&amp;cate_no=51&amp;display_group=1</guid>
             <pubDate>Thu, 28 Oct 2021 18:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <content:encoded><![CDATA[9,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202012/a861101aa7b3a28b9a6c5a6a77a1338a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1598,38 +1630,6 @@
             <pubDate>Thu, 28 Oct 2021 18:42:39 GMT</pubDate>
             <content:encoded><![CDATA[10,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202012/6e25531a37e6df42ceb46e4922590082.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Danny Elfman) ‎/ Tim Burton's The Nightmare Before Christmas 크리스마스의 악몽 (CD, US Import) *한정수량 할인 (김밥레코즈 ─ CD ─ Holiday)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=15860&amp;cate_no=51&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=15860&amp;cate_no=51&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202012/b3c1664e21df1449a342a49559780142.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Babyface / Christmas With Babyface (CD, US Import) *한정수량 할인 (김밥레코즈 ─ CD ─ Holiday)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=15859&amp;cate_no=51&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=15859&amp;cate_no=51&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[10,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202012/e7e839cb7f990423bb3c018d93e4107d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carpenters / Christmas Collection (2CD, UK Import) *한정수량 할인 (김밥레코즈 ─ CD ─ Holiday)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=15858&amp;cate_no=51&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=15858&amp;cate_no=51&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[14,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202012/b9df8c34633820db1047919699c1b0b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eric Clapton / Happy Xmas (Deluxe Version, CD, UK/ EU Import) *한정수량 할인 (김밥레코즈 ─ CD ─ Holiday)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=15857&amp;cate_no=51&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=15857&amp;cate_no=51&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[13,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202012/3bb99300bfd98eec22f77eb147947fac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ryo Fukui / My Favorite Tune (CD, EU Import) (김밥레코즈 ─ CD ─ Japanese)]]></title>
