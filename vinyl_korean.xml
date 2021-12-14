@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 05:38:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 17:41:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정서용 / 1집 휴가, 혼자서도 (140g Silver Vinyl, 한정반)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17884&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17884&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 14 Dec 2021 17:41:42 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/1ced274527b140516d233c0914df755e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[sAewoo in YUNHWAY / 2226 (180g 1LP, Half & Half Effect Vinyl) *예약상품 (2022년 4월 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17881&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17881&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 14 Dec 2021 17:41:42 GMT</pubDate>
+            <content:encoded><![CDATA[43,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/7dd0c945917263b8c05078dd32c7b1e8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이태훈 / 내게 보이기 시작한 (Colored Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17860&amp;cate_no=52&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 10 Nov 2021 17:39:28 GMT</pubDate>
             <content:encoded><![CDATA[20,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/e5a1a4f7e614c7f865c90fd62278a0fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서사무엘 / UNITY II (180g LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17613&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17613&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 04 Nov 2021 05:37:37 GMT</pubDate>
-            <content:encoded><![CDATA[44,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/bb5498ef212b478112057e1754573341.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[저스디스 & 팔로알토 (Justhis & Paloalto) / 4 The Youth (Colored 2LP + 7" Vinyl) *예약상품 (2022년 3월말 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17612&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17612&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 04 Nov 2021 05:37:37 GMT</pubDate>
-            <content:encoded><![CDATA[68,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/2726d7a58254ca894e46df192a9cb36b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
