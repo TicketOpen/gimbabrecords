@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 05:38:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 17:45:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보수동쿨러 / 정규 1집 모래 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17896&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17896&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 15 Dec 2021 17:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/096a09e51377a2fde0c4faf921d1f8bb.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[이주영 / 2집 발라드 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17895&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17895&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 15 Dec 2021 17:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/3474efd949e0fc1bd53a789235dda8cd.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Leo Nocentelli / Another Side (CD, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17888&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 06 Dec 2021 17:34:31 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/f5185f96458c93c337d83eb4c5cd9674.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kylie Minogue / Step Back In Time: The Definitive Collection (Expanded 3CD Edition) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17840&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17840&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sat, 04 Dec 2021 17:43:34 GMT</pubDate>
-            <content:encoded><![CDATA[24,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/72e46923d6e85664111a8f10c289121d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Elvis Presley / Christmas Peace (2CD, 하드커버) *2021 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17832&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17832&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 03 Dec 2021 05:36:04 GMT</pubDate>
-            <content:encoded><![CDATA[10,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/7434b8ae9a57599ba6a2ace5316b8281.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
