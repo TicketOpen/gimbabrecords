@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 17:45:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 05:38:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[John Carroll Kirby / Septet (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17899&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17899&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Dec 2021 05:36:05 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/42fbaa1287d68f14776619d0da8117ec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jimmy Heath / Love Letter (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17897&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17897&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Dec 2021 05:36:05 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/93f85f12d17279d3f0f4b2ca098f61fd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보수동쿨러 / 정규 1집 모래 (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17896&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 10 Dec 2021 17:44:04 GMT</pubDate>
             <content:encoded><![CDATA[19,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/d1b2bf8c7d7cc10458d30b3ae3a7b7b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[88rising / Head In The Clouds (CD, Jewel Case) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17855&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17855&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 08 Dec 2021 05:36:33 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/f91da0ff9d295ddc79b22647247434bf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[햄스터 파우더 클럽 / Goodnight Everyone, No More Magicpowder (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17845&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17845&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 06 Dec 2021 17:34:31 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/f5185f96458c93c337d83eb4c5cd9674.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

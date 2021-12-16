@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 17:45:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 05:38:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[John Carroll Kirby / Septet (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17899&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17899&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Dec 2021 05:36:05 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/42fbaa1287d68f14776619d0da8117ec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jimmy Heath / Love Letter (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17897&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17897&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Dec 2021 05:36:05 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/93f85f12d17279d3f0f4b2ca098f61fd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보수동쿨러 / 정규 1집 모래 (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17896&amp;cate_no=24&amp;display_group=1</link>
@@ -88,20 +104,36 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/d1b2bf8c7d7cc10458d30b3ae3a7b7b4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[88rising / Head In The Clouds (CD, Jewel Case) *할인상품 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17855&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17855&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 08 Dec 2021 05:36:33 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/f91da0ff9d295ddc79b22647247434bf.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Helado Negro / Private Energy (Expanded) (Vinyl, 2LP + Lyrics Zine) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17902&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17902&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Dec 2021 05:36:14 GMT</pubDate>
+            <content:encoded><![CDATA[36,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/0fada4da66757cc53a280f92463366e8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[햄스터 파우더 클럽 / Goodnight Everyone, No More Magicpowder (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17845&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17845&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 06 Dec 2021 17:34:31 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/f5185f96458c93c337d83eb4c5cd9674.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Helado Negro / Far In (Vinyl, 2LP) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17901&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17901&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Dec 2021 05:36:14 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/8a1858e8d9fd5ab684d566a31b94f8f2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / Leonardo Marques presents Ilha Do Corvo Sounds Volume I (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17900&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17900&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Dec 2021 05:36:14 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/b1d9041ff5e4310816b66803311fe72e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[John Carroll Kirby / Septet (Vinyl, 2LP, 보너스 트랙 3곡 수록) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17898&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17898&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Dec 2021 05:36:14 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/a0b3a2f9881dd0c632e11a19fcf7dce2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mother Freedom Band / Cutting The Chord (Vinyl, UK Reissue) (김밥레코즈 ─ Vinyl)]]></title>
@@ -166,38 +198,6 @@
             <pubDate>Tue, 14 Dec 2021 17:39:31 GMT</pubDate>
             <content:encoded><![CDATA[38,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/e2de7c86fa934a3fff37c49d558a0b1c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정서용 / 1집 휴가, 혼자서도 (140g Silver Vinyl, 한정반) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17884&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17884&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 14 Dec 2021 17:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/1ced274527b140516d233c0914df755e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Angelique Kidjo / Mother Nature (2LP, Gatefold Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17883&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17883&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 14 Dec 2021 17:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[38,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/845b331419fee15ea9dbd63eb4b45d43.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[sAewoo in YUNHWAY / 2226 (180g 1LP, Half & Half Effect Vinyl) *예약상품 (2022년 4월 발송 예정) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17881&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17881&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 14 Dec 2021 17:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[43,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/7dd0c945917263b8c05078dd32c7b1e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oliver Nelson / Skull Session (Limited Colored Vinyl, 300매 한정, LITA 20th Anniversary Edition) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17880&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17880&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 13 Dec 2021 17:44:37 GMT</pubDate>
-            <content:encoded><![CDATA[38,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/88d03545f1d2b0e2b76ca9516740827c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Leo Nocentelli / Another Side (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -1064,6 +1064,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202010/7caacd2ad8aae9e433d934b91d6f20cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[John Carroll Kirby / Septet (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17899&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17899&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Dec 2021 05:37:34 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/42fbaa1287d68f14776619d0da8117ec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jimmy Heath / Love Letter (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17897&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17897&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Dec 2021 05:37:34 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/93f85f12d17279d3f0f4b2ca098f61fd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Vince Guaraldi / Peanuts Greatest Hits (CD, EU Import) *할인상품 (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17868&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17868&amp;cate_no=46&amp;display_group=1</guid>
@@ -1142,22 +1158,6 @@
             <pubDate>Thu, 28 Oct 2021 18:40:16 GMT</pubDate>
             <content:encoded><![CDATA[24,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202110/48e16dbe41452995b471b4f1aeec0f2a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pat Metheny / Side-Eye NYC (V1.IV) (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17460&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17460&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:40:16 GMT</pubDate>
-            <content:encoded><![CDATA[23,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/b682f0197dd82b9f2ff575462c585eed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brandee Younger / Somewhere Different (CD, Jewel Case, EU Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17357&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17357&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:40:16 GMT</pubDate>
-            <content:encoded><![CDATA[17,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202109/5ff2e3b73784181f76ef46bacb8e3a6f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
