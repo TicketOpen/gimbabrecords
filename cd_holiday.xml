@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Holiday</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 05:38:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 17:45:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jose James / Merry Christmas (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17908&amp;cate_no=51&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17908&amp;cate_no=51&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Dec 2021 17:45:11 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/6ffb8895388438f4d09efc00537194f5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nat King Cole / Christmas Album (CD, Jewel Case, EU Import) *한정할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17871&amp;cate_no=51&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Oct 2021 18:42:39 GMT</pubDate>
             <content:encoded><![CDATA[11,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202012/da173bdb24d4ae2e0d25616399ac32d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Harry Connick Jr. / When My Heart Finds Christmas (CD, US Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=15862&amp;cate_no=51&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=15862&amp;cate_no=51&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[10,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202012/6e25531a37e6df42ceb46e4922590082.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

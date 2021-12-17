@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 05:38:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 17:45:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Matsubara Miki / Pocket Park (Limited Colored Vinyl) *예약상품 (12월 29일부터 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17909&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17909&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Dec 2021 17:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[56,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/e9547c871d2d79237828e378c0f92b0f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Helado Negro / Private Energy (Expanded) (Vinyl, 2LP + Lyrics Zine)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17902&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 14 Dec 2021 17:39:31 GMT</pubDate>
             <content:encoded><![CDATA[30,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/2dd304d6e21867ba97465fff56dc2a24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hiromi / Silver Lining Suite (180g 2LP, Gatefold Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17885&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17885&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 14 Dec 2021 17:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[38,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/e2de7c86fa934a3fff37c49d558a0b1c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
