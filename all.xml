@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 17:45:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 05:38:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/6f1f9ad8a9b00b749b0e2d038a9b0359.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[OST (Mark Knopfler) / Local Hero 시골 영웅 (Limited Edition Vinyl, Half-Speed Master) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17921&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17921&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 19 Dec 2021 05:36:31 GMT</pubDate>
+            <content:encoded><![CDATA[41,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/2930d8bb16ad8f1c3e3e34b728810c62.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lionel Loueke / HH (Coloed Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17920&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17920&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 19 Dec 2021 05:36:31 GMT</pubDate>
+            <content:encoded><![CDATA[36,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/2a7aed0498b598aad16da72692327850.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Dave Holland / Another Land (Limited Colored Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17919&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17919&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 17 Dec 2021 17:43:25 GMT</pubDate>
             <content:encoded><![CDATA[56,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/e9547c871d2d79237828e378c0f92b0f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Helado Negro / Private Energy (Expanded) (Vinyl, 2LP + Lyrics Zine) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17902&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17902&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Dec 2021 05:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[36,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/0fada4da66757cc53a280f92463366e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Helado Negro / Far In (Vinyl, 2LP) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17901&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17901&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Dec 2021 05:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/8a1858e8d9fd5ab684d566a31b94f8f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Leo Nocentelli / Another Side (Cassette) (김밥레코즈 ─ Cassette)]]></title>
