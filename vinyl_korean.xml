@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 05:39:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 17:48:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삐삐롱스타킹 / 3집 One Way Ticket (140g Colored Vinyl) & 바보버스 (42g Colored 7" Vinyl) 합본반 *예약상품 (3월 29일 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17924&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17924&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 20 Dec 2021 17:48:08 GMT</pubDate>
+            <content:encoded><![CDATA[64,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/3eeaff234c61bdaff5b23083b915e8ad.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정서용 / 1집 휴가, 혼자서도 (140g Silver Vinyl, 한정반)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17884&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 12 Nov 2021 05:37:48 GMT</pubDate>
             <content:encoded><![CDATA[42,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/81ff229c6921071937b44ce264f972f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yaeji 예지 & OHHYUK 오혁 / Year To Year / 29 (7" Vinyl) *예약상품 (2022년 2월 14일부터 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17658&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17658&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Wed, 10 Nov 2021 17:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[20,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/e5a1a4f7e614c7f865c90fd62278a0fb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
