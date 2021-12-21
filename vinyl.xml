@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 05:39:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 17:47:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Andra Day / Merry Christmas From Andra Day (Vinyl, Special Red Colored Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17935&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17935&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 21 Dec 2021 17:46:04 GMT</pubDate>
+            <content:encoded><![CDATA[32,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/73c130e91d2054c1c17e44ee6fbb4fe3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peggy Lee / Ultimate Christmas (Black Vinyl, 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17934&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17934&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 21 Dec 2021 17:46:04 GMT</pubDate>
+            <content:encoded><![CDATA[41,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/93d2fccb8d11e3276c90e3a9e2388810.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ennio Morricone / The Bird With The Crystal Plumage 수정 깃털의 새 OST (Limited Crystal Clear Vinyl, 2LP)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17931&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Sun, 19 Dec 2021 05:36:31 GMT</pubDate>
             <content:encoded><![CDATA[36,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/2a7aed0498b598aad16da72692327850.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dave Holland / Another Land (Limited Colored Vinyl, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17919&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17919&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 18 Dec 2021 17:43:40 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/dc95aaec1168702bc1d632656e60d502.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kurt Elling / Secrets Are The Best Stories (Colored Vinyl) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17918&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17918&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 18 Dec 2021 17:43:40 GMT</pubDate>
-            <content:encoded><![CDATA[35,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/51e03d591a94e1f7316d74387e1fecb5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
