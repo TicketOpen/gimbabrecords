@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 17:47:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 05:38:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Stephen Trask) / Hedwig and the Angry Inch 헤드윅 (Original Broadway Cast Recording) (Vinyl, Rocktober, Limited Colored Vinyl) *할인상품 (쟈켓 주름자국)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17945&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17945&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Dec 2021 05:37:16 GMT</pubDate>
+            <content:encoded><![CDATA[57,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/74d4601ebaa6af33e52a431b39ef30d9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Eddie Hazel / Game, Dames & Guitar Thangs (Electric Blue Colored Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17943&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 21 Dec 2021 05:37:22 GMT</pubDate>
             <content:encoded><![CDATA[59,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/51940003d5f3902f62b1d3cf913b1619.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (by Alexandre Desplat) / 해리포터와 죽음의 성물 1부 영화음악 (Harry Potter & The Deathly Hallows Part 1) (180g 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17930&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17930&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Dec 2021 05:37:22 GMT</pubDate>
-            <content:encoded><![CDATA[44,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/1bcfe9bbb72cb0c383ff8b66ddc81f2e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
