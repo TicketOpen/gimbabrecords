@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 05:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 17:47:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -52,7 +52,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=17907&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17907&amp;cate_no=24&amp;display_group=1</guid>
             <pubDate>Fri, 17 Dec 2021 17:43:18 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/6851c2082c113f25954f1991883b4f82.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -102,6 +102,38 @@
             <pubDate>Thu, 16 Dec 2021 05:36:05 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/93f85f12d17279d3f0f4b2ca098f61fd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Elliott Smith / Elliott Smith (Limited Purple Colored Vinyl, 25th Anniversary Remaster) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17949&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17949&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Dec 2021 17:45:10 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/5def4802fb1456856057f53320e76648.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andy Shauf / Wilds (Limited Blue Colored Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17948&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17948&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Dec 2021 17:45:10 GMT</pubDate>
+            <content:encoded><![CDATA[41,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/d80237870463a2abb36af3a34d9d5adb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alex Malheiros / Tempos Futuros (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17947&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17947&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Dec 2021 17:45:10 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/d29c6e443a95a83fa9b4813a4f053207.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Strawberry Guy / Taking My Time To Be (Cream Colored Vinyl) *할인상품 (쟈켓의 미세한 눌림자국) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17946&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17946&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Dec 2021 17:45:10 GMT</pubDate>
+            <content:encoded><![CDATA[28,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/d264f74630934627947a7a43f857f352.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OST (Stephen Trask) / Hedwig and the Angry Inch 헤드윅 (Original Broadway Cast Recording) (Vinyl, Rocktober, Limited Colored Vinyl) *할인상품 (쟈켓 주름자국) (김밥레코즈 ─ Vinyl)]]></title>
@@ -166,38 +198,6 @@
             <pubDate>Wed, 22 Dec 2021 17:46:03 GMT</pubDate>
             <content:encoded><![CDATA[32,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/747d329fcc8bb129cf60a80c3555cf1d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lauv / How I'm Feeling (~how i’m feeling~)  (Clear Vinyl, 2LP) *모서리 눌림에 의한 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17936&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17936&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 22 Dec 2021 17:46:03 GMT</pubDate>
-            <content:encoded><![CDATA[38,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/20200112/10938042b3ea23c7a84912f229d17f43.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Andra Day / Merry Christmas From Andra Day (Vinyl, Special Red Colored Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17935&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17935&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Dec 2021 17:46:04 GMT</pubDate>
-            <content:encoded><![CDATA[32,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/73c130e91d2054c1c17e44ee6fbb4fe3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Peggy Lee / Ultimate Christmas (Black Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17934&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17934&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Dec 2021 17:46:04 GMT</pubDate>
-            <content:encoded><![CDATA[41,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/93d2fccb8d11e3276c90e3a9e2388810.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ennio Morricone / The Bird With The Crystal Plumage 수정 깃털의 새 OST (Limited Crystal Clear Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17931&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17931&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Dec 2021 05:37:22 GMT</pubDate>
-            <content:encoded><![CDATA[59,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/51940003d5f3902f62b1d3cf913b1619.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The War On Drugs / I Don't Live Here Anymore (White Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -692,7 +692,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=17907&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17907&amp;cate_no=30&amp;display_group=1</guid>
             <pubDate>Fri, 17 Dec 2021 17:44:10 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/6851c2082c113f25954f1991883b4f82.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
