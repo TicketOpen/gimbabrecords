@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 17:47:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 05:38:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이상은 / 5집 언젠가는 (180g 1LP) *예약상품 (2월 28일 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17951&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17951&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 24 Dec 2021 05:37:01 GMT</pubDate>
+            <content:encoded><![CDATA[41,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/8e2c2a54377a992c1e437579574cb164.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이상은 / 6집 공무도하가 (180g Colored 2LP) *예약상품 (2월 28일 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17950&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17950&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 24 Dec 2021 05:37:01 GMT</pubDate>
+            <content:encoded><![CDATA[56,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/9bfd869538a215f57711cf71df8cb361.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Elliott Smith / Elliott Smith (Limited Purple Colored Vinyl, 25th Anniversary Remaster) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17949&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 22 Dec 2021 17:46:03 GMT</pubDate>
             <content:encoded><![CDATA[42,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/98e8e8604215d4bc63c797de885b05c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Snail Mail / Valentine (Black Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17938&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17938&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 22 Dec 2021 17:46:03 GMT</pubDate>
-            <content:encoded><![CDATA[36,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/77b1f3924e581d5db97557f177d16d6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sufjan Stevens & Angelo De Augustine / A Beginner’s Mind (Gold Colored Vinyl + Download)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17937&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17937&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 22 Dec 2021 17:46:03 GMT</pubDate>
-            <content:encoded><![CDATA[32,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/747d329fcc8bb129cf60a80c3555cf1d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
