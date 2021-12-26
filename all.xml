@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 05:38:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 17:46:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/7a2e2411ea8bf7467d887456321104ee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Mariya Takeuchi / Request (Vinyl, 2021 Reissue) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17955&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17955&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 26 Dec 2021 17:44:21 GMT</pubDate>
+            <content:encoded><![CDATA[51,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/86b75c175ae78c2bb4b007055123950c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mariya Takeuchi / Request (Vinyl, 2021 Reissue) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17954&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17954&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 26 Dec 2021 17:44:21 GMT</pubDate>
+            <content:encoded><![CDATA[52,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/7581f84730102a248a4265295fd7c062.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Dr. Lonnie Smith / Breathe (2LP, Gatefold Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17953&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17953&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Thu, 23 Dec 2021 17:45:10 GMT</pubDate>
             <content:encoded><![CDATA[28,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/d264f74630934627947a7a43f857f352.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Stephen Trask) / Hedwig and the Angry Inch 헤드윅 (Original Broadway Cast Recording) (Vinyl, Rocktober, Limited Colored Vinyl) *할인상품 (쟈켓 주름자국) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17945&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17945&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 23 Dec 2021 05:37:16 GMT</pubDate>
-            <content:encoded><![CDATA[57,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/74d4601ebaa6af33e52a431b39ef30d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Hazel / Game, Dames & Guitar Thangs (Electric Blue Colored Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17943&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17943&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 22 Dec 2021 17:46:03 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/2e7428570c13d8c7926b8f4bb6efe94b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The War On Drugs / I Don't Live Here Anymore (White Cassette) (김밥레코즈 ─ Cassette)]]></title>
