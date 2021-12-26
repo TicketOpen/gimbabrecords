@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 17:45:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 05:38:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Peach Pit / You And Your Friends (Vinyl) *할인상품 (모서리 작은 눌림자국)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17957&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17957&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 26 Dec 2021 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[32,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/895c9294a825e87634636bbc7e3b70d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Various Artists) / Friends 프렌즈 (25th Anniversary, Limited Hot Pink Colored Vinyl 2LP) *할인상품 (미세한 눌림자국)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17956&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17956&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 26 Dec 2021 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[43,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/7a2e2411ea8bf7467d887456321104ee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dr. Lonnie Smith / Breathe (2LP, Gatefold Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17953&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 22 Dec 2021 17:46:03 GMT</pubDate>
             <content:encoded><![CDATA[42,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/2e7428570c13d8c7926b8f4bb6efe94b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marvin Gaye / What's Going On (Limited Sun Yellow Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17942&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17942&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 22 Dec 2021 17:46:03 GMT</pubDate>
-            <content:encoded><![CDATA[41,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/1fc9ab9e3d1cc7c6515b969eab81a720.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Common / A Beautiful Revolution Part 2 (Neon Yellow Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17941&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17941&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 22 Dec 2021 17:46:03 GMT</pubDate>
-            <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/2138d7963076585d87a9b5d687938640.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
