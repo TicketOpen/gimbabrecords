@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Soundtracks</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 05:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 17:47:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Various Artists) / Midnight In Paris 미드나잇 인 파리 (CD, US Import) *할인상품 (상세설명을 참조해주세요.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17958&amp;cate_no=48&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17958&amp;cate_no=48&amp;display_group=1</guid>
+            <pubDate>Tue, 28 Dec 2021 17:46:28 GMT</pubDate>
+            <content:encoded><![CDATA[18,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/167fbb6f396dec5a3f7c02a8589154d3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST (Queen) / Bohemian Rhapsody 보헤미안 랩소디 (CD, 국내반)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17922&amp;cate_no=48&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Oct 2021 18:40:31 GMT</pubDate>
             <content:encoded><![CDATA[29,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202107/db7a1117b91f4b31f3511fa0aa456c75.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Various Artists) / Happy Together 해피투게더 (춘광사설) (CD, ARS Series, 택동영화사 30주년 기념 리마스터, w/ OBI)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=16909&amp;cate_no=48&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=16909&amp;cate_no=48&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202107/78aca1113fefff22e28948a999d581b7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
