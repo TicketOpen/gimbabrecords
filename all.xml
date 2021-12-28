@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 17:47:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 05:38:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -440,14 +440,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/3eeaff234c61bdaff5b23083b915e8ad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Matsubara Miki / Pocket Park (Limited Colored Vinyl) *예약상품 (12월 29일부터 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17909&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17909&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Dec 2021 17:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[56,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/e9547c871d2d79237828e378c0f92b0f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[sAewoo in YUNHWAY / 2226 (180g 1LP, Half & Half Effect Vinyl) *예약상품 (2022년 4월 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17881&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17881&amp;cate_no=42&amp;display_group=1</guid>
@@ -486,6 +478,14 @@
             <pubDate>Mon, 06 Dec 2021 17:35:05 GMT</pubDate>
             <content:encoded><![CDATA[69,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/a5de502f9580da150a92813400b54de6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yaeji 예지 & OHHYUK 오혁 / Year To Year / 29 (7" Vinyl) *예약상품 (2022년 2월 14일부터 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17658&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17658&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 28 Dec 2021 05:37:27 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/e5a1a4f7e614c7f865c90fd62278a0fb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Elvis Presley / Christmas with Elvis and the Royal Philharmonic Orchestra (Vinyl) *2021 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
