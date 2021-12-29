@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 17:47:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 05:39:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I Mean Us / Into Innerverse (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17959&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17959&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 29 Dec 2021 05:37:08 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/7d317db764c59ecaa3e8a3be61636778.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[OST (Various Artists) / Midnight In Paris 미드나잇 인 파리 (CD, US Import) *할인상품 (상세설명을 참조해주세요.)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17958&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 17 Dec 2021 05:36:15 GMT</pubDate>
             <content:encoded><![CDATA[22,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/48b1b16741327713b79698ea82f0493e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Carroll Kirby / Septet (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17899&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17899&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Dec 2021 05:36:05 GMT</pubDate>
-            <content:encoded><![CDATA[21,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/42fbaa1287d68f14776619d0da8117ec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

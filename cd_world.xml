@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 17:47:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 05:39:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I Mean Us / Into Innerverse (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17959&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17959&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Wed, 29 Dec 2021 05:38:38 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/7d317db764c59ecaa3e8a3be61636778.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Gurrumul / The Gurrumul Story (CD, Jewel Case)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17511&amp;cate_no=79&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Oct 2021 18:40:39 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202109/718fc1972b239139052f281eee9b2563.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[V/A (Mixed by 하세가와 요헤이 a.k.a 양평) / Groovy Flowers Of Asia ~ Twist & & A Go Go From Taiwan, Malaysia, Singapore & Hong Kong (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17300&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17300&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202109/a32258f24bb625763fad86fa18f2106e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
