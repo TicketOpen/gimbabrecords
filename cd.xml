@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 05:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 17:47:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팍 Pakk / 칠가살 七可煞 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17960&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17960&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 29 Dec 2021 17:45:06 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/9a4cf8a00e1135726b669b6b73da02f4.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[I Mean Us / Into Innerverse (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17959&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 17 Dec 2021 17:43:18 GMT</pubDate>
             <content:encoded><![CDATA[24,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/92eddc74b5d453595b5e09e331370107.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아톰뮤직하트 Atom Music Heart / 망명자 이즘 Exile Of Izm (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17903&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17903&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Dec 2021 05:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[22,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/48b1b16741327713b79698ea82f0493e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
