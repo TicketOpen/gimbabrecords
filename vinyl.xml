@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 05:39:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 16:42:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kate Kirby / Cool Dry Place (Coke Bottle Clear Vinyl, Limited) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17964&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17964&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 30 Dec 2021 16:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[29,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/0b038659a70443e2a3652d8a0f9e8796.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[George Benson / Breezin' (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17962&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17962&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 30 Dec 2021 16:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[28,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/e06ce8492ecc5fd4256232b75e7b2fe3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Peach Pit / You And Your Friends (Vinyl) *할인상품 (모서리 작은 눌림자국)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17957&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 23 Dec 2021 17:45:10 GMT</pubDate>
             <content:encoded><![CDATA[41,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/d80237870463a2abb36af3a34d9d5adb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alex Malheiros / Tempos Futuros (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17947&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17947&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 23 Dec 2021 17:45:10 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/d29c6e443a95a83fa9b4813a4f053207.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Strawberry Guy / Taking My Time To Be (Cream Colored Vinyl) *할인상품 (쟈켓의 미세한 눌림자국)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17946&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17946&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 23 Dec 2021 17:45:10 GMT</pubDate>
-            <content:encoded><![CDATA[28,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/d264f74630934627947a7a43f857f352.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

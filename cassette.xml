@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 05:39:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 16:42:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kate Kirby / Cool Dry Place (Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17965&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17965&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 30 Dec 2021 16:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/833f12a693eaec8d69350736e7f6a5b8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The War On Drugs / I Don't Live Here Anymore (White Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17944&amp;cate_no=26&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 24 Nov 2021 17:43:38 GMT</pubDate>
             <content:encoded><![CDATA[21,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/74eacadf638372e90c1530d593a73dc6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mac Miller / Watching Movies With The Sound Off (Transparent Red Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17757&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17757&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Nov 2021 17:43:38 GMT</pubDate>
-            <content:encoded><![CDATA[21,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/66d9429e82a225b85bd2c89fd0708cb7.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

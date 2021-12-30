@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Movies/Merch</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 05:39:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 16:42:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -60,7 +60,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=17746&amp;cate_no=27&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17746&amp;cate_no=27&amp;display_group=1</guid>
             <pubDate>Tue, 23 Nov 2021 17:41:32 GMT</pubDate>
-            <content:encoded><![CDATA[30,700원]]></content:encoded>
+            <content:encoded><![CDATA[31,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/f7fe6517216a714a4d5560ab439f3d80.png" length="0" type="image/png"/>
         </item>
         <item>
