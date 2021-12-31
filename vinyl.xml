@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 05:39:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 17:46:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The National / High Violet (10th Anniversary Expanded Edition, Purple Marble 3LP Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17970&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17970&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 31 Dec 2021 17:44:37 GMT</pubDate>
+            <content:encoded><![CDATA[59,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/9f6304cd64adcf97ff3dffede72470d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Doobie Brothers / Best Of the Doobies Vol.2 (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17969&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17969&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 31 Dec 2021 17:44:37 GMT</pubDate>
+            <content:encoded><![CDATA[22,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/59b496384483cfcc5acc2ccf57889995.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My Chemical Romance / Three Cheers For Sweet Revenge (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17968&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17968&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 31 Dec 2021 17:44:37 GMT</pubDate>
+            <content:encoded><![CDATA[28,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/be5255e5fa33de7ed07fd63f6b0f2214.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Didi Han / Wake Up (12" Vinyl, EP)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17967&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Fri, 24 Dec 2021 17:44:38 GMT</pubDate>
             <content:encoded><![CDATA[30,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/b393a62155336b59c9c2a943cf6015d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상은 / 5집 언젠가는 (180g 1LP) *예약상품 (2월 28일 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17951&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17951&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 24 Dec 2021 05:37:01 GMT</pubDate>
-            <content:encoded><![CDATA[41,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/8e2c2a54377a992c1e437579574cb164.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상은 / 6집 공무도하가 (180g Colored 2LP) *예약상품 (2월 28일 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17950&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17950&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 24 Dec 2021 05:37:01 GMT</pubDate>
-            <content:encoded><![CDATA[56,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/9bfd869538a215f57711cf71df8cb361.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Elliott Smith / Elliott Smith (Limited Purple Colored Vinyl, 25th Anniversary Remaster) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17949&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17949&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 23 Dec 2021 17:45:10 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/5def4802fb1456856057f53320e76648.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
