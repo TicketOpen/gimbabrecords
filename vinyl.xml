@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 05:38:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 17:46:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Various Artists) / Happy Together 해피투게더 (Black Vinyl, ARS Series, 책자 및 접이식 포스터 포함) *이너슬리브 찢어짐 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17971&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17971&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 02 Jan 2022 17:44:07 GMT</pubDate>
+            <content:encoded><![CDATA[77,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/d28107357d2083421f210d2a9f6a233b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The National / High Violet (10th Anniversary Expanded Edition, Purple Marble 3LP Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17970&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 24 Dec 2021 17:44:38 GMT</pubDate>
             <content:encoded><![CDATA[38,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/f8ec2d473e316f5c8779ea43d1604081.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gregory Porter / Still Rising (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17952&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17952&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 24 Dec 2021 17:44:38 GMT</pubDate>
-            <content:encoded><![CDATA[30,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/b393a62155336b59c9c2a943cf6015d2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
