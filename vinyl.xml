@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 05:39:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 17:48:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Reality / Disco Party (Vinyl, Limited Pressing)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17994&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17994&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Jan 2022 17:46:07 GMT</pubDate>
+            <content:encoded><![CDATA[54,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/d3e64d9d60630e128695c98af3f5d095.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Randy Goodrum / Red Eye (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17993&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17993&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Jan 2022 17:46:07 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/fd5fbefc9016f12c9f709a0090eaad44.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Goat Girl / On All Fours (Vinyl, 2LP) *할인상품 (커버 눌림자국 할인)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17988&amp;cate_no=25&amp;display_group=1</link>
@@ -37,7 +53,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17985&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Tue, 04 Jan 2022 05:37:47 GMT</pubDate>
             <content:encoded><![CDATA[52,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/c7b86849b9f8f9a8237454854e869201.png" length="0" type="image/png"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/5d5398d9ea598e7a611fbaf930971a00.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Little Simz / Grey Area (White Colored Vinyl) *구매 전 유의사항을 확인하세요.]]></title>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 03 Jan 2022 17:46:19 GMT</pubDate>
             <content:encoded><![CDATA[40,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/e05d766722934e294a390edc97a9bf64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Erykah Badu / Mama's Gun (Vinyl, 2LP, US Import) *할인상품 (쟈켓 뒷면 주름자국)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17976&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17976&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 03 Jan 2022 17:46:19 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/a036a0d1027fb1edbc6c1e4ea1938f89.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kid Cudi / Man On The Moon III The Chosen (Vinyl, 2LP) *할인상품 (유의사항을 확인하세요)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17975&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17975&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 03 Jan 2022 17:46:19 GMT</pubDate>
-            <content:encoded><![CDATA[41,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/550ffec04dc5e93d65d6c15b8abd7c5f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
