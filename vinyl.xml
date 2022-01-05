@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 17:48:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 05:39:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tahiti 80 / Wallpaper for the Soul (Expanded Edition) (Black Vinyl, 2LP) *추가 할인상품 (쟈켓 하단부 눌림자국)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17996&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17996&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jan 2022 05:37:24 GMT</pubDate>
+            <content:encoded><![CDATA[37,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/215e5b258e3c76a89ff96cae3eb32529.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tahiti 80 / Wallpaper for the Soul (Expanded Edition) (Black Vinyl, 2LP) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17995&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17995&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jan 2022 05:37:24 GMT</pubDate>
+            <content:encoded><![CDATA[39,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/d173edbff37bb97a0098a95dc8680d7a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Reality / Disco Party (Vinyl, Limited Pressing)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17994&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 04 Jan 2022 05:37:47 GMT</pubDate>
             <content:encoded><![CDATA[43,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/a0a06bcf8bb5586d98ceb1c714e14523.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[King Krule / You Heat Me Up, You Cool Me Down (Vinyl, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17980&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17980&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 03 Jan 2022 17:46:19 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/043a690427b466f5fc2f91a3fe00e932.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jeff Parker / Forfolks (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17977&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17977&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 03 Jan 2022 17:46:19 GMT</pubDate>
-            <content:encoded><![CDATA[40,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/e05d766722934e294a390edc97a9bf64.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
