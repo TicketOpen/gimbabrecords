@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 05:39:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 17:49:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Miles Davis / Live-Evil (Limited Teal Colored Vinyl, 2LP, 2021 RSD Black Friday)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17998&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17998&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jan 2022 17:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[43,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/264aac6cac40e5d43135790e17e4fff7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (by Quruli) / 조제, 호랑이 그리고 물고기들 ジョゼと虎と魚たち  (Vinyl, Limited Edition, 3rd pressing) *쟈켓 윗부분 흠집 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17997&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17997&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jan 2022 17:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[46,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/0c96ac46a28226f0f4ff15d52348e8e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tahiti 80 / Wallpaper for the Soul (Expanded Edition) (Black Vinyl, 2LP) *추가 할인상품 (쟈켓 하단부 눌림자국)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17996&amp;cate_no=25&amp;display_group=1</link>
@@ -24,7 +40,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/d173edbff37bb97a0098a95dc8680d7a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Reality / Disco Party (Vinyl, Limited Pressing)]]></title>
+            <title><![CDATA[Reality / Disco Party (Vinyl, Limited Pressing) *예약상품 (2월 9일부터 배송 시작)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17994&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17994&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Tue, 04 Jan 2022 17:46:07 GMT</pubDate>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 04 Jan 2022 05:37:47 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/e71601a0b85912db2c62e837edf62fc6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Weather Station / Ignorance (Silver Colored Vinyl, 1LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17982&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17982&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Jan 2022 05:37:47 GMT</pubDate>
-            <content:encoded><![CDATA[32,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/25d5de57a9a4b9eebc44847ec070c4c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Polo & Pan / Cyclorama (Vinyl, 2LP) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17981&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17981&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Jan 2022 05:37:47 GMT</pubDate>
-            <content:encoded><![CDATA[43,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/a0a06bcf8bb5586d98ceb1c714e14523.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
