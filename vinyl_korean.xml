@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 17:49:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 05:40:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[설 SURL / Beside / Colors (7" Vinyl, Limited Edition) *1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18000&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18000&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Thu, 06 Jan 2022 05:40:03 GMT</pubDate>
+            <content:encoded><![CDATA[27,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/39313fee41058fe83318a0bdc98edfaf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Didi Han / Wake Up (12" Vinyl, EP)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17967&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 01 Dec 2021 05:38:33 GMT</pubDate>
             <content:encoded><![CDATA[38,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/1914e2c12ecd03659f5fcbb39d265914.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[209km / 209km (EP, 7" Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17797&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17797&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Nov 2021 17:42:47 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/9f732a0b6cc868f917f00534ebeb5adb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
