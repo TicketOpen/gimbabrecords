@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 05:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 17:49:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/264aac6cac40e5d43135790e17e4fff7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Tahiti 80 / Wallpaper for the Soul (Expanded Edition) (Black Vinyl, 2LP) *추가 할인상품 (쟈켓 하단부 눌림자국)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17996&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17996&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 05 Jan 2022 05:37:24 GMT</pubDate>
-            <content:encoded><![CDATA[37,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/215e5b258e3c76a89ff96cae3eb32529.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tahiti 80 / Wallpaper for the Soul (Expanded Edition) (Black Vinyl, 2LP) *할인상품]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17995&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17995&amp;cate_no=25&amp;display_group=1</guid>
@@ -72,14 +64,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/fd5fbefc9016f12c9f709a0090eaad44.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Goat Girl / On All Fours (Vinyl, 2LP) *할인상품 (커버 눌림자국 할인)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17988&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17988&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Jan 2022 05:37:47 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/d679b53f79469cd18bd659b2b072cee7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Goat Girl / On All Fours (Vinyl, 2LP)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17987&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17987&amp;cate_no=25&amp;display_group=1</guid>
@@ -102,6 +86,22 @@
             <pubDate>Fri, 07 Jan 2022 05:37:50 GMT</pubDate>
             <content:encoded><![CDATA[52,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/5d5398d9ea598e7a611fbaf930971a00.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Little Simz / Grey Area (White Colored Vinyl) *구매 전 유의사항을 확인하세요.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17984&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17984&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 07 Jan 2022 17:46:54 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/c3bf71c4c2fc94f7ca99b0bf36e0ac9e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Weather Station / Ignorance (Deluxe, 2LP, Limited Blue Vinyl) *할인상품 (유의사항 참조)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17983&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17983&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 07 Jan 2022 17:46:54 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/e71601a0b85912db2c62e837edf62fc6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

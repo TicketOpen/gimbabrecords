@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 05:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 17:49:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,7 +88,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/e1c64563e794e6668026153a953bb735.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[도마 / 2집 도마 (CD) *예약상품 (1월 6일 발송 예정) (김밥레코즈 ─ CD)]]></title>
+            <title><![CDATA[도마 / 2집 도마 (CD) *예약상품 (1월 12일 발송 예정) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17961&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17961&amp;cate_no=24&amp;display_group=1</guid>
             <pubDate>Thu, 30 Dec 2021 16:40:55 GMT</pubDate>
@@ -136,14 +136,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/264aac6cac40e5d43135790e17e4fff7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Tahiti 80 / Wallpaper for the Soul (Expanded Edition) (Black Vinyl, 2LP) *추가 할인상품 (쟈켓 하단부 눌림자국) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17996&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17996&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 05 Jan 2022 05:37:24 GMT</pubDate>
-            <content:encoded><![CDATA[37,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/215e5b258e3c76a89ff96cae3eb32529.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tahiti 80 / Wallpaper for the Soul (Expanded Edition) (Black Vinyl, 2LP) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17995&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17995&amp;cate_no=25&amp;display_group=1</guid>
@@ -168,14 +160,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/fd5fbefc9016f12c9f709a0090eaad44.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Goat Girl / On All Fours (Vinyl, 2LP) *할인상품 (커버 눌림자국 할인) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17988&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17988&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Jan 2022 05:37:47 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/d679b53f79469cd18bd659b2b072cee7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Goat Girl / On All Fours (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17987&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17987&amp;cate_no=25&amp;display_group=1</guid>
@@ -198,6 +182,22 @@
             <pubDate>Fri, 07 Jan 2022 05:37:50 GMT</pubDate>
             <content:encoded><![CDATA[52,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/5d5398d9ea598e7a611fbaf930971a00.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Little Simz / Grey Area (White Colored Vinyl) *구매 전 유의사항을 확인하세요. (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17984&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17984&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 07 Jan 2022 17:46:54 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/c3bf71c4c2fc94f7ca99b0bf36e0ac9e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Weather Station / Ignorance (Deluxe, 2LP, Limited Blue Vinyl) *할인상품 (유의사항 참조) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17983&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17983&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 07 Jan 2022 17:46:54 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/e71601a0b85912db2c62e837edf62fc6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kate Kirby / Cool Dry Place (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -296,6 +296,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/74eacadf638372e90c1530d593a73dc6.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[버둥 / 정규 1집 지지않는 곳으로 가자 (에세이집 + 음원 다운로드코드) (김밥레코즈 ─ Movies/Merch)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18002&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18002&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Fri, 07 Jan 2022 17:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[25,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/3896efbadd598616d1005ed40a30c220.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Vinyl Styl™ Stylus Cleaning Kit 턴테이블 바늘 청소용 키트 (김밥레코즈 ─ Movies/Merch)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17877&amp;cate_no=27&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17877&amp;cate_no=27&amp;display_group=1</guid>
@@ -384,12 +392,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/53ac4b10170f97b92d4e006db72d29fb.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Audio Technica Turntable - AT-LP3 완전 자동 벨트 드라이브 스테레오 턴테이블 - 올 화이트 에디션 (*보너스 레코드 증정) (김밥레코즈 ─ Movies/Merch)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=16644&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=16644&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:00:20 GMT</pubDate>
-            <content:encoded><![CDATA[375,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202106/a3db0ed16a2d2e7d05efa34cbdef7ce1.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[도마 / 2집 도마 (CD) *예약상품 (1월 12일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17961&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17961&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 30 Dec 2021 16:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[19,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/fda6a5aa8d8993fa09a5fd4c1d4a2976.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Wooden Glass Featuring Billy Wooten / The Wooden Glass Recorded Live (Vinyl) *예약상품 (2월 9일부터 배송시작) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -448,28 +456,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202105/1db88507773ca92af87536fa1bab83ef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[도마 / 2집 도마 (CD) *예약상품 (1월 6일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17961&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17961&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 30 Dec 2021 16:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[19,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/fda6a5aa8d8993fa09a5fd4c1d4a2976.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Xenia Rubinos / Una Rosa (Limited Summer Sky Wave Vinyl) *예약상품 (1월 13일부터 배송) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17774&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17774&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Fri, 24 Dec 2021 05:37:20 GMT</pubDate>
             <content:encoded><![CDATA[35,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/67bc4cf31dee9d41170d23cfce661de1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[지누션 / THE REIGN (180g 1LP, Clear Transparent Vinyl) *예약상품 (1월 7일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17925&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17925&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 23 Dec 2021 05:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/8cd87921b937cddef98499a40e2e0d8a.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[sAewoo in YUNHWAY / 2226 (180g 1LP, Half & Half Effect Vinyl) *예약상품 (2022년 4월 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -486,6 +478,14 @@
             <pubDate>Fri, 12 Nov 2021 17:43:26 GMT</pubDate>
             <content:encoded><![CDATA[22,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/a92f0e2bfc9b430efcf552edd8cefc40.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beach House / Once Twice Melody (2CD) *예약상품 (3월 첫째주 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17689&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17689&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 07 Jan 2022 17:47:17 GMT</pubDate>
+            <content:encoded><![CDATA[21,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/4813751b1ec960f625783f03e32b1b80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Elvis Presley / Christmas with Elvis and the Royal Philharmonic Orchestra (Vinyl) *2021 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -616,7 +616,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/1727bc887baecc38418823c7345915f8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[도마 / 2집 도마 (CD) *예약상품 (1월 6일 발송 예정) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <title><![CDATA[도마 / 2집 도마 (CD) *예약상품 (1월 12일 발송 예정) (김밥레코즈 ─ CD ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17961&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17961&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Thu, 30 Dec 2021 16:41:33 GMT</pubDate>
@@ -1760,7 +1760,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/9bfd869538a215f57711cf71df8cb361.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지누션 / THE REIGN (180g 1LP, Clear Transparent Vinyl) *예약상품 (1월 7일 발송 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <title><![CDATA[지누션 / THE REIGN (180g 1LP, Clear Transparent Vinyl) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17925&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17925&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Thu, 23 Dec 2021 05:38:52 GMT</pubDate>
