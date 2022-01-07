@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 17:49:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 05:39:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Wed, 05 Jan 2022 17:47:28 GMT</pubDate>
             <content:encoded><![CDATA[43,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/264aac6cac40e5d43135790e17e4fff7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (by Quruli) / 조제, 호랑이 그리고 물고기들 ジョゼと虎と魚たち  (Vinyl, Limited Edition, 3rd pressing) *쟈켓 윗부분 흠집 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17997&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17997&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 05 Jan 2022 17:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[46,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/0c96ac46a28226f0f4ff15d52348e8e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tahiti 80 / Wallpaper for the Soul (Expanded Edition) (Black Vinyl, 2LP) *추가 할인상품 (쟈켓 하단부 눌림자국)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Tue, 04 Jan 2022 05:37:47 GMT</pubDate>
             <content:encoded><![CDATA[37,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/856bd88ef7c10e5d8e6ebd28d1957aa7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Idles / Crawler (Deluxe Vinyl, 2LP, 45rpm Half-Speed Master)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17985&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17985&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 07 Jan 2022 05:37:50 GMT</pubDate>
+            <content:encoded><![CDATA[52,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/5d5398d9ea598e7a611fbaf930971a00.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
