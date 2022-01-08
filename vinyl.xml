@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 05:39:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 17:46:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Shigeru Umebayashi and Nathaniel Méchaly) / The Grandmaster 일대종사 (Black Vinyl, 택동영화사 30주년 기념 ARS Series, 접이식 포스터 및 Booklet 포함) *할인상품 (PVC 포장지 파손할인)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18004&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18004&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 08 Jan 2022 17:44:58 GMT</pubDate>
+            <content:encoded><![CDATA[77,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/5e1a1ff6daf5e4ac0cd41daccd48c573.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Broken Social Scene / Live At Third Man Records (Vinyl, Direct-To-Acetate) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18003&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18003&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 08 Jan 2022 17:44:58 GMT</pubDate>
+            <content:encoded><![CDATA[24,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/b7c50732eddb7ecfa304866d7f9a9537.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Wooden Glass Featuring Billy Wooten / The Wooden Glass Recorded Live (Vinyl) *예약상품 (2월 9일부터 배송시작)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18001&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 07 Jan 2022 05:37:50 GMT</pubDate>
             <content:encoded><![CDATA[52,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/5d5398d9ea598e7a611fbaf930971a00.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Little Simz / Grey Area (White Colored Vinyl) *구매 전 유의사항을 확인하세요.]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17984&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17984&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 07 Jan 2022 17:46:54 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/c3bf71c4c2fc94f7ca99b0bf36e0ac9e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Weather Station / Ignorance (Deluxe, 2LP, Limited Blue Vinyl) *할인상품 (유의사항 참조)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17983&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17983&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 07 Jan 2022 17:46:54 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/e71601a0b85912db2c62e837edf62fc6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
