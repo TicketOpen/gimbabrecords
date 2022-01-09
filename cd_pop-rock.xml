@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 05:39:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 17:47:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Coral / Coral Island (2CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18006&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18006&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Sun, 09 Jan 2022 17:46:06 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/78b798f435b53aa17efe80e56e2f654b.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Bess Atwell / Already, Always (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18005&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18005&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Sun, 09 Jan 2022 17:46:06 GMT</pubDate>
+            <content:encoded><![CDATA[21,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/5b4ae6f1bd4c56940cb24a25fce13b91.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Jim Schmidt / Somethin' Right (CD, JPN Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17992&amp;cate_no=30&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 17 Dec 2021 17:44:10 GMT</pubDate>
             <content:encoded><![CDATA[24,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/92eddc74b5d453595b5e09e331370107.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Leo Nocentelli / Another Side (CD, Digipak)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17888&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17888&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 14 Dec 2021 17:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/6f1f9ad8a9b00b749b0e2d038a9b0359.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kylie Minogue / Disco: Guest List Edition (2CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17866&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17866&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 10 Dec 2021 17:44:49 GMT</pubDate>
-            <content:encoded><![CDATA[24,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/f5582d0cd0cb05aa73201ad4da5fdb57.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
