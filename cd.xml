@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 05:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 17:49:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Agustin Pereyra Lucena / La Rana (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18013&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18013&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 10 Jan 2022 17:47:44 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/4d02f42a76b8c7ab69587bcd756145c9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chet Baker ‎/ Chet Baker Sings And Plays From The Film "Let's Get Lost" (CD, JPN Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18008&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 03 Jan 2022 17:46:11 GMT</pubDate>
             <content:encoded><![CDATA[13,400원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/1727bc887baecc38418823c7345915f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kate Kirby / Cool Dry Place (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17966&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17966&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 30 Dec 2021 16:40:55 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/b8252ee973aac92e8b68447d8bede1e2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
