@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 05:39:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 17:49:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Makaya McCraven / Deciphering The Message (CD, Digipack)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18025&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18025&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 13 Jan 2022 17:48:55 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/064629ad979613624d11609eec6bf837.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chet Baker ‎/ Chet Baker Sings And Plays From The Film "Let's Get Lost" (CD, JPN Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18008&amp;cate_no=46&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 11 Nov 2021 17:44:40 GMT</pubDate>
             <content:encoded><![CDATA[20,400원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/ad165f89844086a74b1d8d8a8c958aa6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Badbadnotgood / Talk Memory (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17609&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17609&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Wed, 03 Nov 2021 17:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/e7ee6d5fa300a4ffb1620082acdf52e7.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
