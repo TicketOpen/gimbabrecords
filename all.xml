@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 17:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 05:39:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/78b798f435b53aa17efe80e56e2f654b.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Aura / Aura (Limited White Vinyl, 2021 reissue) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18043&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18043&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 15 Jan 2022 05:37:35 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/ac522cc4c081ba884c576d8c956799df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Sébastien Tellier (Sebastien Tellier) / Domesticated (Vinyl) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18042&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18042&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 13 Jan 2022 17:47:54 GMT</pubDate>
             <content:encoded><![CDATA[44,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/572eff5503993c4c968bb82c902b4fad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Charlap Trio / Street Of Dreams (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18023&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18023&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 13 Jan 2022 17:47:54 GMT</pubDate>
-            <content:encoded><![CDATA[30,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/8582a5c130dc43474d1a2f573000dac7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kate Kirby / Cool Dry Place (Cassette) (김밥레코즈 ─ Cassette)]]></title>
