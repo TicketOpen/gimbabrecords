@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 17:47:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 05:39:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프롬 Fromm / Cellophane (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18051&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18051&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sun, 16 Jan 2022 05:37:22 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/8664b4f5178a048c7191644d7f7ebad6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunset Rollercoaster / Vanilla Villa 香草度假村 EP (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18050&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 13 Jan 2022 17:47:46 GMT</pubDate>
             <content:encoded><![CDATA[17,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/34c030e678c7603337eef83f93b80bbd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Makaya McCraven / Deciphering The Message (CD, Digipack) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18025&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18025&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 13 Jan 2022 17:47:46 GMT</pubDate>
-            <content:encoded><![CDATA[17,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/064629ad979613624d11609eec6bf837.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Aura / Aura (Clear Vinyl, 2021 Reissue) (김밥레코즈 ─ Vinyl)]]></title>
@@ -584,6 +584,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202109/25801730574a53eb8daf60c7d8c825c5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[코토바 Cotoba / 세상은 곧 끝나니까 (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18052&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18052&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Sun, 16 Jan 2022 05:38:02 GMT</pubDate>
+            <content:encoded><![CDATA[14,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/4964c6606e44d985aa66486a202ff8e4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프롬 Fromm / Cellophane (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18051&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18051&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Sun, 16 Jan 2022 05:38:02 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/8664b4f5178a048c7191644d7f7ebad6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Various Artists (박새별, 유발이, 조동희, 장필순...) / 엄마의 노래 (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18027&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18027&amp;cate_no=29&amp;display_group=1</guid>
@@ -662,22 +678,6 @@
             <pubDate>Wed, 15 Dec 2021 17:44:38 GMT</pubDate>
             <content:encoded><![CDATA[20,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/096a09e51377a2fde0c4faf921d1f8bb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주영 / 2집 발라드 (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17895&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17895&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Wed, 15 Dec 2021 17:44:38 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/3474efd949e0fc1bd53a789235dda8cd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Asian Glow / Cull Ficle (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17882&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17882&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Tue, 14 Dec 2021 17:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/74b79725abd2e7bfc44f9d94d7f1cf76.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Wendy Wander / Spring Spring (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>

@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 17:47:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 05:39:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프롬 Fromm / Cellophane (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18051&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18051&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sun, 16 Jan 2022 05:37:22 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/8664b4f5178a048c7191644d7f7ebad6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunset Rollercoaster / Vanilla Villa 香草度假村 EP (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18050&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 13 Jan 2022 17:47:46 GMT</pubDate>
             <content:encoded><![CDATA[17,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/34c030e678c7603337eef83f93b80bbd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Makaya McCraven / Deciphering The Message (CD, Digipack)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18025&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18025&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 13 Jan 2022 17:47:46 GMT</pubDate>
-            <content:encoded><![CDATA[17,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/064629ad979613624d11609eec6bf837.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
