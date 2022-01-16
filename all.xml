@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 05:39:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 17:47:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코토바 Cotoba / 세상은 곧 끝나니까 (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18052&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18052&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sun, 16 Jan 2022 17:44:54 GMT</pubDate>
+            <content:encoded><![CDATA[14,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/4964c6606e44d985aa66486a202ff8e4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프롬 Fromm / Cellophane (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18051&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 13 Jan 2022 17:47:46 GMT</pubDate>
             <content:encoded><![CDATA[19,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/a39a7182161d13ca273cf8a52adbc870.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿤디판다 / The Spoiled Child (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18026&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18026&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 13 Jan 2022 17:47:46 GMT</pubDate>
-            <content:encoded><![CDATA[17,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/34c030e678c7603337eef83f93b80bbd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Aura / Aura (Clear Vinyl, 2021 Reissue) (김밥레코즈 ─ Vinyl)]]></title>
@@ -656,7 +656,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/fda6a5aa8d8993fa09a5fd4c1d4a2976.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[팍 Pakk / 칠가살 七可煞 (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <title><![CDATA[팎 Pakk / 칠가살 七可煞 (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17960&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17960&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Wed, 29 Dec 2021 17:45:55 GMT</pubDate>
