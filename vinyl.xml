@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 17:49:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 05:36:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST / Juno: Music From The Motion Picture 주노 OST (Limited Neon-Green Colored Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18065&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18065&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 19 Jan 2022 05:34:41 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/8e212220b3c96b501a3988c1d6e2dec3.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Randy Newman) / Music From Monsters, Inc. 몬스터 주식회사 (Vinyl, Picture Disc) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18064&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18064&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 19 Jan 2022 05:34:41 GMT</pubDate>
+            <content:encoded><![CDATA[32,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/7288704c946664921326f05535a43a7d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lee Konitz & The Brazilian Band / Brazilian Serenade (180g 1LP, Venus Records 한정반) *예약상품 (3월말 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18063&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 18 Jan 2022 17:47:51 GMT</pubDate>
             <content:encoded><![CDATA[55,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/fdb264f28b1f6dc379c703c43d2441f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Armed / Ultrapop (Indie Exclusive Limited Opaque Tan Colored Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18053&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18053&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 17 Jan 2022 05:38:32 GMT</pubDate>
-            <content:encoded><![CDATA[30,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/a8461a7aaa0649ef44bde78106a3cd0c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aura / Aura (Clear Vinyl, 2021 Reissue)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18046&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18046&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 15 Jan 2022 17:45:17 GMT</pubDate>
-            <content:encoded><![CDATA[35,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/1dc645ea1c98b1517c2f690cbaec0ecd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
