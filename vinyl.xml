@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 05:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 17:39:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이문세 / 골든베스트 (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18074&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18074&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 23 Jan 2022 17:37:42 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/877c67ff7df5760c88bb7618a9d3aaa0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Autechre / SIGN (2LP Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18073&amp;cate_no=25&amp;display_group=1</link>
@@ -38,14 +46,6 @@
             <pubDate>Fri, 21 Jan 2022 17:39:25 GMT</pubDate>
             <content:encoded><![CDATA[55,100원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/811a6f0a015182f4ecbeae9909177b47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Honne / Love Me / Love Me Not (Vinyl, 2LP) *할인상품 (모서리에 미세한 눌림 또는 흠집이 있습니다.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18067&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18067&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 20 Jan 2022 05:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[39,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/e0ae14c5a1e116c840ca069b00813dcb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OST / Juno: Music From The Motion Picture 주노 OST (Limited Neon-Green Colored Vinyl)]]></title>
