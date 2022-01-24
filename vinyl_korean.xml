@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 17:39:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 05:36:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위아더나잇 / BLUE AND SOME BLACK (180g Clear White Vinyl) *1인 1매만 구매 가능 (유의사항 참조바랍니다)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18075&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18075&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 24 Jan 2022 05:36:43 GMT</pubDate>
+            <content:encoded><![CDATA[50,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/246c2f83ee40066a90bebdf313b45c74.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[이문세 / 골든베스트 (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18074&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 10 Dec 2021 17:45:56 GMT</pubDate>
             <content:encoded><![CDATA[42,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/62b9c9ae23260251571bf65900b47f25.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[이정화 (+신중현과 덩키즈) / The Psychedelic Sound 싸이키데릭 싸운드 - 꽃잎, 봄비, 마음 (Vinyl, Limited Pressing, 접이식 포스터 포함)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17834&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17834&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Fri, 03 Dec 2021 17:45:43 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/3bb1dac96167380bfa45447ce99128d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
