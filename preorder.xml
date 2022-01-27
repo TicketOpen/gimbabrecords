@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 05:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 17:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김일두 / 새 계 절 (Vinyl, 2LP) *예약상품, 1인 1매만 구매 가능 (유의사항 참조바랍니다)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18087&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18087&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 26 Jan 2022 17:39:56 GMT</pubDate>
+            <content:encoded><![CDATA[58,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/eff48d89a6bfed175ba869560a4282be.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sir Roland Hanna Trio	/ Milano, Paris, New York (180g 1LP, Venus Records 한정반) *예약상품 (3월말 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18060&amp;cate_no=42&amp;display_group=1</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 18 Jan 2022 17:48:13 GMT</pubDate>
             <content:encoded><![CDATA[55,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/c7f6de7add5225839ca9297e96562930.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김일두 / 새 계 절 (Vinyl) *예약상품, 1인 1매만 구매 가능 (유의사항 참조바랍니다)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18087&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18087&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 26 Jan 2022 17:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[58,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/eff48d89a6bfed175ba869560a4282be.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김일두 SUSPENCE / 난 어쩔 수 없는 천재에요 (Vinyl) *예약상품, 1인 1매만 구매 가능 (유의사항 참조바랍니다)]]></title>
