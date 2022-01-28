@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 05:36:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 17:41:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ty Segall / Pig Man Lives Volume I (4LP Box Set)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18111&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18111&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 28 Jan 2022 17:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/e95d8e04d5e9c89c7ce8494de9821461.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Floating Points, Pharoah Sanders & The London Symphony Orchestra / Promises (Limited Marble Colored Vinyl) *유의사항을 참조해 주세요]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18110&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18110&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 28 Jan 2022 17:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/669f57b644512011804402d8ca0c0c6c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[haihm / NOWHERE (180g, 2LP, Black Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18106&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18106&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 28 Jan 2022 17:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[55,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/b44bd6b1e859d9efadfb71f776e34ba5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Doors / Soft Parade (Rhino 180g Vinyl / Stereo)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18091&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 25 Jan 2022 17:38:50 GMT</pubDate>
             <content:encoded><![CDATA[54,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/706f81d9e7b8dd529821f7433b6c895f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rodrigo Leao / A Estranha Beleza Da Vida (Vinyl, 음악가 사인반 - 한정판매)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18080&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18080&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 25 Jan 2022 17:38:50 GMT</pubDate>
-            <content:encoded><![CDATA[37,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/f1b8ff326f82f909899b15eafee64dfa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다정 Dajung / Jay Knife (Vinyl, Limited Pink + White Splatter) *1인 1매만 구매가 가능합니다. (1월 26일 이후 결제가 완료된 주문은 연휴 이후 배송이 진행될 수 있습니다.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18079&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18079&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 25 Jan 2022 17:38:50 GMT</pubDate>
-            <content:encoded><![CDATA[30,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/09ee4b80fc4713b19ef3d0e90d9b6a70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bastille / Doom Days (US Indie Exclusive, Red + Black Splatter Vinyl) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18078&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18078&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 25 Jan 2022 17:38:50 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/cbcba8db24d99b0a3abc78c55117105d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
