@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 05:36:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 17:38:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Miles Davis / Miles Smiles (CD, EU Import) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18112&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18112&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Sun, 30 Jan 2022 17:37:47 GMT</pubDate>
+            <content:encoded><![CDATA[12,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/25b34f834731d6f117f285389d135156.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Horace Silver / Silver 'N Wood (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18105&amp;cate_no=46&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 27 Jan 2022 17:46:00 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/1da7e9812de0c24aad7fad7dd6ae9cd8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Donald Byrd / Chant (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18094&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18094&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Thu, 27 Jan 2022 17:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/6e924abd1b61e9145ee430c05530e3ef.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
