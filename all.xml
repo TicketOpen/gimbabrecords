@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 05:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 17:39:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Marker Starling / High January + Trust An Amateur (2CD, 보너스트랙 5곡 추가) *할인상품 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18127&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18127&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 31 Jan 2022 17:36:50 GMT</pubDate>
+            <content:encoded><![CDATA[30,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/ddb597a7d66a413965a00e95f3ba901f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Miles Davis / Miles Smiles (CD, EU Import) *할인상품 (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18112&amp;cate_no=24&amp;display_group=1</link>
@@ -96,12 +104,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/760c50247c056e29eb386dffd29990ce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Lou Donaldson / Sophisticated Lou (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18096&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18096&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 27 Jan 2022 17:44:37 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/05eeeda9ff9799b67d55d91e9b8d2141.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Michel Petrucciani / Colors (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18128&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18128&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 31 Jan 2022 17:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[45,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/927a8f27a66708e34ce10d9fc42504e4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peggy Lee / Ultimate Peggy Lee (Limited Clear Vinyl, 2LP) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18126&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18126&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 31 Jan 2022 17:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/11a70a9b4bba918561b13ef89ece7c3e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Tubby Hayes Quintet / Modes and Blues: 8th February 1964 (Vinyl, Japanese Edition) (김밥레코즈 ─ Vinyl)]]></title>
@@ -182,22 +198,6 @@
             <pubDate>Sun, 30 Jan 2022 17:36:34 GMT</pubDate>
             <content:encoded><![CDATA[39,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/cce53c3ab3989fe4affa2eab06fb75f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bonobo / Fragments (Limited Edition Red Marble Vinyl, 2LP, Indie Exclusive) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18115&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18115&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 30 Jan 2022 17:36:34 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/43c3ef6eaecae424f4da2f6bb89dd55f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (John Carpenter) / Escape From New York (Limited Transparent Blue Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18114&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18114&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 30 Jan 2022 17:36:34 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/800e52228815d20a53296da6705ca4d8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ty Segall / Manipulator (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -680,6 +680,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/096a09e51377a2fde0c4faf921d1f8bb.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Marker Starling / High January + Trust An Amateur (2CD, 보너스트랙 5곡 추가) *할인상품 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18127&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18127&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 31 Jan 2022 17:37:47 GMT</pubDate>
+            <content:encoded><![CDATA[30,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/ddb597a7d66a413965a00e95f3ba901f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ty Segall / Harmonizer (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18107&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18107&amp;cate_no=30&amp;display_group=1</guid>
@@ -766,14 +774,6 @@
             <pubDate>Fri, 17 Dec 2021 17:44:10 GMT</pubDate>
             <content:encoded><![CDATA[21,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/6851c2082c113f25954f1991883b4f82.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grouper / Shade (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17906&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17906&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Dec 2021 17:44:10 GMT</pubDate>
-            <content:encoded><![CDATA[24,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/1c56fa0cbdbb4e425b8c50d0cfeaf750.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kylie Minogue / Disco: Guest List Edition (2CD) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>

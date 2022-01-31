@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 05:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 17:39:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Michel Petrucciani / Colors (Vinyl, 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18128&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18128&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 31 Jan 2022 17:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[45,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/927a8f27a66708e34ce10d9fc42504e4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peggy Lee / Ultimate Peggy Lee (Limited Clear Vinyl, 2LP) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18126&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18126&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 31 Jan 2022 17:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/11a70a9b4bba918561b13ef89ece7c3e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Tubby Hayes Quintet / Modes and Blues: 8th February 1964 (Vinyl, Japanese Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18125&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Sun, 30 Jan 2022 17:36:34 GMT</pubDate>
             <content:encoded><![CDATA[39,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/cce53c3ab3989fe4affa2eab06fb75f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bonobo / Fragments (Limited Edition Red Marble Vinyl, 2LP, Indie Exclusive)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18115&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18115&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 30 Jan 2022 17:36:34 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/43c3ef6eaecae424f4da2f6bb89dd55f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (John Carpenter) / Escape From New York (Limited Transparent Blue Vinyl, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18114&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18114&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 30 Jan 2022 17:36:34 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/800e52228815d20a53296da6705ca4d8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
