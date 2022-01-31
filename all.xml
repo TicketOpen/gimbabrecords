@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 17:38:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 05:37:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/05eeeda9ff9799b67d55d91e9b8d2141.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Tubby Hayes Quintet / Modes and Blues: 8th February 1964 (Vinyl, Japanese Edition) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18125&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18125&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 31 Jan 2022 05:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[43,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/687c77f1a707906d88af41f2be1c9b9d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The New Jazz Orchestra / Le Déjeuner Sur L'Herbe (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18124&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18124&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 31 Jan 2022 05:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/7f3a36beb14190d61e7a38f4d59a836d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[George Benson / The Other Side Of Abbey Road (180g Vinyl, US Friday Music Reissue) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18123&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18123&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Sun, 30 Jan 2022 17:36:34 GMT</pubDate>
             <content:encoded><![CDATA[42,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/800e52228815d20a53296da6705ca4d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Miles Davis / Kind Of Blue (Limited Clear Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18113&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18113&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 30 Jan 2022 17:36:34 GMT</pubDate>
-            <content:encoded><![CDATA[31,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/6c9099142c8e581c67c3294fe37c7335.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ty Segall / Pig Man Lives Volume I (4LP Box Set) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18111&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18111&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 28 Jan 2022 17:39:10 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/e95d8e04d5e9c89c7ce8494de9821461.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ty Segall / Manipulator (Cassette) (김밥레코즈 ─ Cassette)]]></title>
