@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 05:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 17:40:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sven Wunder / Natura Morta (Vinyl) *예약상품 (2월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17569&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17569&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 02 Feb 2022 17:38:48 GMT</pubDate>
+            <content:encoded><![CDATA[37,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/9698277d470102092ad0b19c58705f47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sven Wunder / Wabi Sabi (Vinyl) *예약상품 (2월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15118&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15118&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 02 Feb 2022 17:38:48 GMT</pubDate>
+            <content:encoded><![CDATA[35,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202007/6f662eb7b1417846fb6798105923d15b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marker Starling / High January + Trust An Amateur (2CD, 보너스트랙 5곡 추가) *할인상품 / 예약상품 (2월말 배송예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18127&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18127&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 02 Feb 2022 17:38:48 GMT</pubDate>
+            <content:encoded><![CDATA[30,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/ddb597a7d66a413965a00e95f3ba901f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Porter Robinson / Nurture (Ultra Clear Vinyl 투명바이닐, 2LP+Exclusive Booklet) *2월말 배송예정 (예약상품)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=16623&amp;cate_no=42&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 18 Jan 2022 17:48:13 GMT</pubDate>
             <content:encoded><![CDATA[55,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/4effafa00f0defb171b500b9d1257d3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins / You Don't Know What Love Is (180g 1LP, Venus Records 한정반) *예약상품 (3월말 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18056&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18056&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 18 Jan 2022 17:48:13 GMT</pubDate>
-            <content:encoded><![CDATA[55,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/0a06c9058ba2b921019b1e64d59b564e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio / Don't Smoke In Bed (180g 1LP, Venus Records 한정반) *예약상품 (3월말 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18055&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18055&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 18 Jan 2022 17:48:13 GMT</pubDate>
-            <content:encoded><![CDATA[55,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/b32ec0936137f017125189dbc679d7c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins / Moonlight Becomes You (180g 1LP, Venus Records 한정반) *예약상품 (3월말 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18054&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18054&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 18 Jan 2022 17:48:13 GMT</pubDate>
-            <content:encoded><![CDATA[55,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/c7f6de7add5225839ca9297e96562930.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
