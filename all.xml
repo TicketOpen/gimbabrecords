@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 05:36:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 17:37:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/760c50247c056e29eb386dffd29990ce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Gurrumul / The Gurrumul Story (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18144&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18144&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 04 Feb 2022 17:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[32,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/a73dd9f7be063ea5b0ce90ab5b2bedd3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jakob Magnusson / Jack Magnet (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18143&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18143&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 04 Feb 2022 17:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[45,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/1b7f479d8407ed81d20aafdd19e59954.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Erika de Casier / Sensational (Clear Vinyl) *한정할인 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18142&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18142&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Wed, 02 Feb 2022 17:38:26 GMT</pubDate>
             <content:encoded><![CDATA[33,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/5bb2a18bfe19faae0e45c39c98063bf5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carlos Niño & Miguel Atwood-Ferguson / Chicago Waves (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18131&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18131&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 02 Feb 2022 17:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[36,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/ba74f8657eae73189aba035efde1f023.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dezron Douglas & Brandee Younger / Force Majeure (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18130&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18130&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 02 Feb 2022 17:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[36,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/e3af415bc6c71fcd62cdfe3d15bd9e84.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최태현 CHOI TAEHYUN / Microscript (Cassette + Download Code) (김밥레코즈 ─ Cassette)]]></title>
