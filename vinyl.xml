@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 17:37:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 05:36:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LANY / gg bb xx (White Colored Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18145&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18145&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 05 Feb 2022 05:34:55 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/2b5423641cb4638881524b90be20484b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gurrumul / The Gurrumul Story (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18144&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 02 Feb 2022 17:38:26 GMT</pubDate>
             <content:encoded><![CDATA[48,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/6567d7a665d2d515ac27d729b5af71aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Makaya McCraven / Universal Beings E&F Sides (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18132&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18132&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 02 Feb 2022 17:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[33,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/5bb2a18bfe19faae0e45c39c98063bf5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
