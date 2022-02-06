@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 17:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 05:37:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Men I Trust / Untourable Album (Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18153&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18153&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Sun, 06 Feb 2022 05:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/afed7338c77edc0e30c4ca01ac1f15fa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최태현 CHOI TAEHYUN / Microscript (Cassette + Download Code)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18139&amp;cate_no=26&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 02 Dec 2021 17:42:23 GMT</pubDate>
             <content:encoded><![CDATA[16,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/0e0cfb69cd64c204fb49eaabde33d6df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은도희 eundohee / UNFORESEEN (Cassette + Download Card)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17827&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17827&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Thu, 02 Dec 2021 17:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[16,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/5420fadd006587ee974608552f03eb0c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 17:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 05:37:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jordann / Connecting Visitors To Fun (Vinyl, 2nd Pressing, Blue & Tan 혼합컬러 - 500매 한정) *할인상품 (경미한 손상이 있습니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18159&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18159&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 06 Feb 2022 05:35:41 GMT</pubDate>
+            <content:encoded><![CDATA[26,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/c2a675ebc587c3a709436a4317f1e14c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Men I Trust / Untourable Album (Vinyl, Black) *할인상품 (구매시 유의사항을 확인하세요)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18151&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18151&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 06 Feb 2022 05:35:41 GMT</pubDate>
+            <content:encoded><![CDATA[26,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/02f9722ff1d6f5b7a7a2c04405ae01d6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Men I Trust / Untourable Album (Vinyl, Black)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18150&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18150&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 06 Feb 2022 05:35:41 GMT</pubDate>
+            <content:encoded><![CDATA[28,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/73c76e51665f49fc8e807cddda3045eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Beach Fossils / Beach Fossils (10th Anniversary Limited Bundle, Colored LP + Colored 7") *한정할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18149&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Thu, 03 Feb 2022 05:34:41 GMT</pubDate>
             <content:encoded><![CDATA[45,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/517781d5d027fb13e369ca724521e4ad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김오키 Kim Oki / 에브리타임 Everytime (180g White Vinyl) *예약상품, 1인 1매만 구매 가능 (유의사항 참조바랍니다)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18140&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18140&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 03 Feb 2022 05:34:41 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/0a02b6a8ad2471b419dcedb7d05b63da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쾅프로그램 Kuang Program / There is no more snow on the television (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18138&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18138&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 03 Feb 2022 05:34:41 GMT</pubDate>
-            <content:encoded><![CDATA[35,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/5fe3077e7609b512b84f2c7cc6a93bdf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조율 Joyul / Earwitness (Vinyl) *1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18137&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18137&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 03 Feb 2022 05:34:41 GMT</pubDate>
-            <content:encoded><![CDATA[38,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/4a4054deddad29b98f6a848365fbb5e4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
