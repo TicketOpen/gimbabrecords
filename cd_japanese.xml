@@ -4,9 +4,57 @@
         <title>김밥레코즈 ─ CD ─ Japanese</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 05:37:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 17:38:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Various Artists / Tokyo Dreaming (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18165&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18165&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Sun, 06 Feb 2022 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/89b728de8d7d29952d4d7d02006db1fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hisaishi Joe / Kiki's Delivery Service: Soundtracks 마녀배달부 키키 OST (CD, JPN Import) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18164&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18164&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Sun, 06 Feb 2022 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[28,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/c85ec7337c91b2b2d6158fc81504c3e8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tatsuro Yamashita / Artisan (CD, 30th Anniversary Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18163&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18163&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Sun, 06 Feb 2022 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/55e865c2864efd10cc33f40dcbe3fe14.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mariah / Utakata No Hibi (CD, US Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18162&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18162&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Sun, 06 Feb 2022 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/ade3919b76ee252a8e4efebe9ae78fbf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yellow Magic Orchestra / Service (CD, EU Import) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18161&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18161&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Sun, 06 Feb 2022 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/cdf68392fa2256f7fcb15fe94e0336e5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yellow Magic Orchestra (YMO) / X-Multiplies (CD, EU Import) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18160&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18160&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Sun, 06 Feb 2022 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/a26dd69ec9829dc28448b62391c06a81.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tenniscoats & Tachibana Yasuhiko / Waltz for Dubby (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18156&amp;cate_no=90&amp;display_group=1</link>
@@ -54,54 +102,6 @@
             <pubDate>Thu, 28 Oct 2021 18:42:46 GMT</pubDate>
             <content:encoded><![CDATA[18,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/37a63463e6cecc48518099895795101f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Naoya Matsuoka & Wesing / The September Wind (SHM-CD, J-Fusion 40주년 시리즈)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17145&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17145&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:42:46 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/83463c120ec9c92048f1a9bdec8bffe9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryo Fukui / My Favorite Tune (CD, Deep Jazz Reality / JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17144&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17144&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:42:46 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/21edad6f7728be1b0e5d9c61da0579ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryo Fukui / Live At Vidro '77 (CD, Deep Jazz Reality / JPN Import, 최초의 시디 버전)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17143&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17143&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:42:46 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/ba0382607d1db5e435ad90c2803656fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[George Otsuka Quintet / Loving You George (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17130&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17130&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:42:46 GMT</pubDate>
-            <content:encoded><![CDATA[25,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/c552c33ef3adccbd3b7c1aef2f81d101.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eiichi Ohtaki / A Long Vacation (2CD, 40th Anniversary)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=16944&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=16944&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:42:46 GMT</pubDate>
-            <content:encoded><![CDATA[34,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202107/df2010e782b45be479c4bbec01bb440f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (music by The Screentones) / Kodoku No Gourmet 고독한 미식가 (시즌 1) (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=16866&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=16866&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:42:46 GMT</pubDate>
-            <content:encoded><![CDATA[35,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202107/1f822ec21b13ad16cb5327ddd24a5290.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
