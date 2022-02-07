@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 17:38:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 05:37:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ned Doheny / Love Like Ours (CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18171&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18171&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Feb 2022 05:36:03 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/c978ca9970ead4e6da9e6c1bef14e34d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ned Doheny / Between Two Worlds (CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18170&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18170&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Feb 2022 05:36:03 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/d9cfbbaf1e8290d7917dd8391e601f86.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Julie Doiron / I Thought Of You (CD, JPN Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18158&amp;cate_no=30&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Sun, 09 Jan 2022 17:46:06 GMT</pubDate>
             <content:encoded><![CDATA[21,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/5b4ae6f1bd4c56940cb24a25fce13b91.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jim Schmidt / Somethin' Right (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17992&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17992&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Jan 2022 17:46:54 GMT</pubDate>
-            <content:encoded><![CDATA[31,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/e51634ce6ff2a8ac00dc2f2ffb6372fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jay Graydon / Past to Present - the 70s (CD, 2019 Remaster, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17991&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17991&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Jan 2022 17:46:54 GMT</pubDate>
-            <content:encoded><![CDATA[31,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/0e854829ba47901dd3db55deb7d0f1dd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
