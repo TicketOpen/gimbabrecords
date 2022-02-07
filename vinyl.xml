@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 05:37:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 17:38:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Abel Korzeniowski) / A Single Man 싱글맨 (Limited White Colored Vinyl, 2LP) *구매시 유의사항을 확인하세요.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18176&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18176&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Feb 2022 17:36:44 GMT</pubDate>
+            <content:encoded><![CDATA[43,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/09f2c7c9832665f8149b5f51b0c040c7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists (로로스, 3호선 버터플라이, 이이언 etc) / 무선지 컴필레이션 바이닐 Vol.1: Vanishing Air (180g, Black Vinyl) *예약상품 (유의사항 참조바랍니다)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18175&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18175&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Feb 2022 17:36:44 GMT</pubDate>
+            <content:encoded><![CDATA[59,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/23406f746f9d0b04ac04bf910488c4cc.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Jordann / Connecting Visitors To Fun (Vinyl, 2nd Pressing, Blue & Tan 혼합컬러 - 500매 한정) *할인상품 (경미한 손상이 있습니다.)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18159&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 04 Feb 2022 17:35:30 GMT</pubDate>
             <content:encoded><![CDATA[45,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/1b7f479d8407ed81d20aafdd19e59954.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Erika de Casier / Sensational (Clear Vinyl) *한정할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18142&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18142&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 04 Feb 2022 05:34:44 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/ea983b6f67817c89030055c283272807.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김오키 Kim Oki / 편견에 대하여 (180g Pink Vinyl) *예약상품, 1인 1매만 구매 가능 (유의사항 참조바랍니다)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18141&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18141&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 03 Feb 2022 05:34:41 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/517781d5d027fb13e369ca724521e4ad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

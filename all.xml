@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 05:37:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 17:38:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/55e865c2864efd10cc33f40dcbe3fe14.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[OST (Abel Korzeniowski) / A Single Man 싱글맨 (Limited White Colored Vinyl, 2LP) *구매시 유의사항을 확인하세요. (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18176&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18176&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Feb 2022 17:36:44 GMT</pubDate>
+            <content:encoded><![CDATA[43,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/09f2c7c9832665f8149b5f51b0c040c7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists (로로스, 3호선 버터플라이, 이이언 etc) / 무선지 컴필레이션 바이닐 Vol.1: Vanishing Air (180g, Black Vinyl) *예약상품 (유의사항 참조바랍니다) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18175&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18175&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Feb 2022 17:36:44 GMT</pubDate>
+            <content:encoded><![CDATA[59,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/23406f746f9d0b04ac04bf910488c4cc.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[Jordann / Connecting Visitors To Fun (Vinyl, 2nd Pressing, Blue & Tan 혼합컬러 - 500매 한정) *할인상품 (경미한 손상이 있습니다.) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18159&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18159&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 04 Feb 2022 17:35:30 GMT</pubDate>
             <content:encoded><![CDATA[45,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/1b7f479d8407ed81d20aafdd19e59954.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Erika de Casier / Sensational (Clear Vinyl) *한정할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18142&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18142&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 04 Feb 2022 05:34:44 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/ea983b6f67817c89030055c283272807.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김오키 Kim Oki / 편견에 대하여 (180g Pink Vinyl) *예약상품, 1인 1매만 구매 가능 (유의사항 참조바랍니다) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18141&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18141&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 03 Feb 2022 05:34:41 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/517781d5d027fb13e369ca724521e4ad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Men I Trust / Untourable Album (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,36 +392,28 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/53ac4b10170f97b92d4e006db72d29fb.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Various Artists (로로스, 3호선 버터플라이, 이이언 etc) / 무선지 컴필레이션 바이닐 Vol.1: Vanishing Air (180g, Black Vinyl) *예약상품 (유의사항 참조바랍니다) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18175&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18175&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Feb 2022 17:37:02 GMT</pubDate>
+            <content:encoded><![CDATA[59,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/23406f746f9d0b04ac04bf910488c4cc.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sven Wunder / Wabi Sabi (Vinyl) *예약상품 (2월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15118&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15118&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Feb 2022 17:37:02 GMT</pubDate>
+            <content:encoded><![CDATA[35,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202007/6f662eb7b1417846fb6798105923d15b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Beach House / Once Twice Melody (2CD) *예약상품 (3월 첫째주 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17689&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17689&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Sun, 06 Feb 2022 17:37:02 GMT</pubDate>
             <content:encoded><![CDATA[21,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/4813751b1ec960f625783f03e32b1b80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Wooden Glass Featuring Billy Wooten / The Wooden Glass Recorded Live (Vinyl) *예약상품 (2월 9일부터 배송시작) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18001&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18001&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sun, 06 Feb 2022 05:36:04 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/208e74ead3ce1eb30133f0c6cf4f13d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mulatu Astatke / Ethio Jazz (Vinyl, 2021 Japanese reissue) *예약상품 (2월 9일부터 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18010&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18010&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sun, 06 Feb 2022 05:36:04 GMT</pubDate>
-            <content:encoded><![CDATA[51,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/908bc705db7ada2e7953543b76a0485e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Reality / Disco Party (Vinyl, Limited Pressing) *예약상품 (2월 9일부터 배송 시작) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17994&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17994&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sun, 06 Feb 2022 05:36:04 GMT</pubDate>
-            <content:encoded><![CDATA[54,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/d3e64d9d60630e128695c98af3f5d095.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sunset Rollercoaster / Cassa Nova (CD) *예약상품 (2월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -472,20 +464,28 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202007/57f93d09b6619d41571725d327ec0a52.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김일두 SUSPENCE / 난 어쩔 수 없는 천재에요 (Vinyl) *예약상품, 1인 1매만 구매 가능 (유의사항 참조바랍니다) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18086&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18086&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 04 Feb 2022 05:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[40,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/28ff1316ab643a2df51ff0add6a7c6b4.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Beach House / Once Twice Melody (Limited Gold Edition, Box Set, 2LP, Gold / Clear Vinyl + Poster + Book) *예약상품 (3월 첫째주 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17687&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17687&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Feb 2022 17:37:02 GMT</pubDate>
+            <content:encoded><![CDATA[69,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/a5de502f9580da150a92813400b54de6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김일두 / 새 계 절 (Vinyl, 2LP) *예약상품, 1인 1매만 구매 가능 (유의사항 참조바랍니다) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18087&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18087&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 26 Jan 2022 17:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[58,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/eff48d89a6bfed175ba869560a4282be.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김오키 Kim Oki / 에브리타임 Everytime (180g White Vinyl) *예약상품, 1인 1매만 구매 가능 (유의사항 참조바랍니다) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18140&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18140&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Feb 2022 17:37:02 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/0a02b6a8ad2471b419dcedb7d05b63da.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marker Starling / High January + Trust An Amateur (2CD, 보너스트랙 5곡 추가) *할인상품 / 예약상품 (2월말 배송예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18127&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18127&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Feb 2022 17:37:02 GMT</pubDate>
+            <content:encoded><![CDATA[30,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/ddb597a7d66a413965a00e95f3ba901f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Elvis Presley / Christmas with Elvis and the Royal Philharmonic Orchestra (Vinyl) *2021 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -1728,6 +1728,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/b2ea3e94318250739f5a4771bfb58fe5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Various Artists (로로스, 3호선 버터플라이, 이이언 etc) / 무선지 컴필레이션 바이닐 Vol.1: Vanishing Air (180g, Black Vinyl) *예약상품 (유의사항 참조바랍니다) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18175&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18175&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Feb 2022 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[59,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/23406f746f9d0b04ac04bf910488c4cc.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[김오키 Kim Oki / 편견에 대하여 (180g Pink Vinyl) *예약상품, 1인 1매만 구매 가능 (유의사항 참조바랍니다) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18141&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18141&amp;cate_no=52&amp;display_group=1</guid>
@@ -1768,7 +1776,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/b44bd6b1e859d9efadfb71f776e34ba5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김일두 / 새 계 절 (Vinyl, 2LP) *예약상품, 1인 1매만 구매 가능 (유의사항 참조바랍니다) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <title><![CDATA[김일두 / 새 계 절 (Vinyl, 2LP) *1인 1매만 구매 가능 (유의사항 참조바랍니다) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18087&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18087&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Wed, 26 Jan 2022 17:41:42 GMT</pubDate>
@@ -1776,7 +1784,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/eff48d89a6bfed175ba869560a4282be.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김일두 SUSPENCE / 난 어쩔 수 없는 천재에요 (Vinyl) *예약상품, 1인 1매만 구매 가능 (유의사항 참조바랍니다) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <title><![CDATA[김일두 SUSPENCE / 난 어쩔 수 없는 천재에요 (Vinyl) *1인 1매만 구매 가능 (유의사항 참조바랍니다) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18086&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18086&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Wed, 26 Jan 2022 17:41:42 GMT</pubDate>
@@ -1814,14 +1822,6 @@
             <pubDate>Thu, 13 Jan 2022 17:49:36 GMT</pubDate>
             <content:encoded><![CDATA[44,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/572eff5503993c4c968bb82c902b4fad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설 SURL / Beside / Colors (7" Vinyl, Limited Edition) *1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18000&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18000&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 06 Jan 2022 05:40:03 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/39313fee41058fe83318a0bdc98edfaf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Our Vinyl Weighs A Ton (DVD + CD Soundtrack) (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
