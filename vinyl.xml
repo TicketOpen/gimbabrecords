@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 17:38:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 05:37:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Hans Zimmer) / Interstellar 인터스텔라 (Limited Numbered Clear Vinyl, 2LP) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18177&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18177&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 08 Feb 2022 05:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[47,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/5eff4eef68519d0eb97138ff61ac2820.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST (Abel Korzeniowski) / A Single Man 싱글맨 (Limited White Colored Vinyl, 2LP) *구매시 유의사항을 확인하세요.]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18176&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 04 Feb 2022 17:35:30 GMT</pubDate>
             <content:encoded><![CDATA[32,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/a73dd9f7be063ea5b0ce90ab5b2bedd3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jakob Magnusson / Jack Magnet (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18143&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18143&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 04 Feb 2022 17:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/1b7f479d8407ed81d20aafdd19e59954.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 17:38:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 05:37:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/55e865c2864efd10cc33f40dcbe3fe14.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[OST (Hans Zimmer) / Interstellar 인터스텔라 (Limited Numbered Clear Vinyl, 2LP) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18177&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18177&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 08 Feb 2022 05:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[47,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/5eff4eef68519d0eb97138ff61ac2820.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[OST (Abel Korzeniowski) / A Single Man 싱글맨 (Limited White Colored Vinyl, 2LP) *구매시 유의사항을 확인하세요. (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18176&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18176&amp;cate_no=25&amp;display_group=1</guid>
@@ -192,12 +200,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/a73dd9f7be063ea5b0ce90ab5b2bedd3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jakob Magnusson / Jack Magnet (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18143&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18143&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 04 Feb 2022 17:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/1b7f479d8407ed81d20aafdd19e59954.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[모하니 Mohani / 부곡하와이 (Cassette + Download Code) (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18178&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18178&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Tue, 08 Feb 2022 05:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/1cabdc4e8ad12feb61ffd1a62f54b2f3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Men I Trust / Untourable Album (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -286,14 +294,6 @@
             <pubDate>Thu, 02 Dec 2021 17:42:23 GMT</pubDate>
             <content:encoded><![CDATA[16,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/b700d360616ecef5a56ad3274c0e8b34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beautiful Disco / Beaming Interlude (Cassette) (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17828&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17828&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Thu, 02 Dec 2021 17:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[16,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/0e0cfb69cd64c204fb49eaabde33d6df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[버둥 / 정규 1집 지지않는 곳으로 가자 (에세이집 + 음원 다운로드코드) (김밥레코즈 ─ Movies/Merch)]]></title>
@@ -704,7 +704,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/21a742965f8f106d73d7ca2fee1cbbbd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bill Wells / Winter Dreams (CD, Limited Edition) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <title><![CDATA[Bill Wells / Winter Dreams (CD, Limited Edition, JPN Import) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18157&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18157&amp;cate_no=30&amp;display_group=1</guid>
             <pubDate>Sun, 06 Feb 2022 05:36:27 GMT</pubDate>
@@ -1080,7 +1080,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/47056bb432e164fcaec1c5b0e48a1bc8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bill Wells / Winter Dreams (CD, Limited Edition) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <title><![CDATA[Bill Wells / Winter Dreams (CD, Limited Edition, JPN Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18157&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18157&amp;cate_no=46&amp;display_group=1</guid>
             <pubDate>Sun, 06 Feb 2022 05:36:53 GMT</pubDate>
