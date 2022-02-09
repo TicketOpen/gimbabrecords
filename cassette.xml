@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 05:37:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 17:41:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jessie Ware / What's Your Pleasure (The Platinum Pleasure Edition, Limited Cassette Set)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18197&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18197&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Wed, 09 Feb 2022 17:39:56 GMT</pubDate>
+            <content:encoded><![CDATA[26,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/264568a8365ad993bdec6e6255bdebdb.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Mitski / Laurel Hell (Red Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18181&amp;cate_no=26&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 14 Dec 2021 17:39:38 GMT</pubDate>
             <content:encoded><![CDATA[19,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/3a80bad22b7876f57c72b72eb67c21ba.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[손성제 / 변해버린 너에게 (Limited Cassette + Download Card, Made in US)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17862&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17862&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Fri, 10 Dec 2021 17:44:18 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/7f04e82d013590d3d4c1a13c8d7bfb56.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

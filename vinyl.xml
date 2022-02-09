@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 05:37:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 17:41:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SAGA (사가) / 내 인생은 영화가 아니니깐 & KEEMCOOL (킴쿨) / Clem (7" Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18198&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18198&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 09 Feb 2022 17:39:47 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/0611ea84476f4e9ee0a5536bb0afcdc6.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[J Dilla / Dillatronic (Vinyl, 2LP)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18196&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 08 Feb 2022 17:37:59 GMT</pubDate>
             <content:encoded><![CDATA[37,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/6c9242b586762b2170257f393545461b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mitski / Laurel Hell (Opaque Red Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18179&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18179&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 08 Feb 2022 17:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[38,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/065467fef5e2718ae1bbb14eaf058ad6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
