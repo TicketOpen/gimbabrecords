@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 05:36:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 17:39:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박주원 / 1집 집시의 시간 (투명 컬러 Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18202&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18202&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Thu, 10 Feb 2022 17:38:59 GMT</pubDate>
+            <content:encoded><![CDATA[46,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/8ada7cc81e6724d3ec6d3d7682b04f49.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[페어프라더 Fairbrother / 남편 Husband Version (12" Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18200&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18200&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Thu, 10 Feb 2022 17:38:59 GMT</pubDate>
+            <content:encoded><![CDATA[37,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/afaff0042261253da366cd14e3b01ed8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[릴러말즈 / MARZ 2 AMBITION (Blue Turquoise Transparent Vinyl) *예약상품 (2월 22일경 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18199&amp;cate_no=52&amp;display_group=1</link>
@@ -80,28 +96,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/eff48d89a6bfed175ba869560a4282be.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김일두 SUSPENCE / 난 어쩔 수 없는 천재에요 (Vinyl) *1인 1매만 구매 가능 (유의사항 참조바랍니다)]]></title>
+            <title><![CDATA[김일두 SUSPENS / 난 어쩔 수 없는 천재에요 (Vinyl) *1인 1매만 구매 가능 (유의사항 참조바랍니다)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18086&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18086&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Wed, 26 Jan 2022 17:41:42 GMT</pubDate>
             <content:encoded><![CDATA[40,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/28ff1316ab643a2df51ff0add6a7c6b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다정 Dajung / Jay Knife (Vinyl, Limited Pink + White Splatter) *1인 1매만 구매가 가능합니다.]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18079&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18079&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 25 Jan 2022 17:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[30,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/09ee4b80fc4713b19ef3d0e90d9b6a70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위아더나잇 / BLUE AND SOME BLACK (180g Clear White Vinyl) *1인 1매만 구매 가능 (유의사항 참조바랍니다)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18075&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18075&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Mon, 24 Jan 2022 05:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[50,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/246c2f83ee40066a90bebdf313b45c74.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
