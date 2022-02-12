@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 17:38:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 05:37:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/e33e586a937ce9efb23d87ca767a9ed4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Freebo フリーボ / Sukimakara すきまから (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18213&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18213&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 12 Feb 2022 05:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[52,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/0e2116087dcaa7311802b2ea0eb7b218.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[최백호 / 다시 길 위에서 (180g Colored Vinyl) *1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18212&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18212&amp;cate_no=25&amp;display_group=1</guid>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 11 Feb 2022 17:36:15 GMT</pubDate>
             <content:encoded><![CDATA[38,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/0b342fbadc7caf732f051663440e6a81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Benny Sings / City Pop (Vinyl) *모서리 눌림으로 할인 (유의사항을 참조해주세요) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18209&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18209&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 10 Feb 2022 17:36:42 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201907/214f391e897369118415d205c10688f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sheila E. / The Glamorous Life LP (Teal Vinyl, Limited) (김밥레코즈 ─ Vinyl)]]></title>
