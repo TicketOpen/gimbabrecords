@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 05:38:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 17:38:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[효도앤베이스 Hyodo and BASS / Hyodo and BASS 1집 (Double Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18243&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18243&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Tue, 15 Feb 2022 17:36:33 GMT</pubDate>
+            <content:encoded><![CDATA[26,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/2c88d772d5e062cd318b2218ed1a32a4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jessie Ware / What's Your Pleasure (The Platinum Pleasure Edition, Limited Cassette Set)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18197&amp;cate_no=26&amp;display_group=1</link>
@@ -28,7 +36,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=18178&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18178&amp;cate_no=26&amp;display_group=1</guid>
             <pubDate>Tue, 08 Feb 2022 05:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/1cabdc4e8ad12feb61ffd1a62f54b2f3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 22 Dec 2021 17:46:09 GMT</pubDate>
             <content:encoded><![CDATA[23,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/6a8e34a3ad4064fd1e138615b7e802c9.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Leo Nocentelli / Another Side (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17889&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17889&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Tue, 14 Dec 2021 17:39:38 GMT</pubDate>
-            <content:encoded><![CDATA[19,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/3a80bad22b7876f57c72b72eb67c21ba.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

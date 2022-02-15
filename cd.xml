@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 05:38:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 17:38:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 윌리엄즈 The Williams / Love Child (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18242&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18242&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 15 Feb 2022 17:36:20 GMT</pubDate>
+            <content:encoded><![CDATA[18,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/4224ea5b1fb8e39879e917bc6000f5e6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[키라라 / 정규앨범 4 (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18235&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 13 Feb 2022 17:35:47 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/45bb5033912dc6821ba84231877fd090.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bobby Hutcherson / Patterns (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18224&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18224&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sun, 13 Feb 2022 17:35:47 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/256bdb47838954a666739cf83cd2fe07.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
