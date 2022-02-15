@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 17:38:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 05:38:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Family Of The Year / Loma Vista (Vinyl) *예약상품 (3월중 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=4160&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=4160&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 15 Feb 2022 05:36:35 GMT</pubDate>
+            <content:encoded><![CDATA[27,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201606/4160_shop1_789080.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunset Rollercoaster / Cassa Nova (CD) *예약상품 (2월말 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=14964&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 05 Feb 2022 05:35:14 GMT</pubDate>
             <content:encoded><![CDATA[36,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202007/57f93d09b6619d41571725d327ec0a52.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beach House / Once Twice Melody (Limited Gold Edition, Box Set, 2LP, Gold / Clear Vinyl + Poster + Book) *예약상품 (3월 첫째주 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17687&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17687&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 07 Feb 2022 17:37:02 GMT</pubDate>
-            <content:encoded><![CDATA[69,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/a5de502f9580da150a92813400b54de6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
