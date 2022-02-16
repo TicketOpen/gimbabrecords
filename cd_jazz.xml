@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 17:38:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 05:37:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Brian Jackson, Adrian Younge & Ali Shaheed Muhammad / Jazz Is Dead 8 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18251&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18251&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Feb 2022 05:36:47 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/3a35b2b5d6e7713bbbdf0ab975da740b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[João Donato (Joao Donato), Adrian Younge, Ali Shaheed Muhammad / Jazz Is Dead 7 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18250&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18250&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Feb 2022 05:36:47 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/2bd3299db7283cfc4d00536bb4d7d0a7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marcos Valle, Adrian Younge & Ali Shaheed Muhammad / Jazz Is Dead 3 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18249&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18249&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Feb 2022 05:36:47 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/e4899cb40db884aa76bac0c51547814a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Horace Silver Quintet / Serenade To A Soul Sister (CD, Blue Note 80주년 기념 "Soul Jazz Works", JPN Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18234&amp;cate_no=46&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Sun, 13 Feb 2022 17:37:07 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/591d6e89f45b10a74114e7b6b3a588f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bobby Hutcherson / Spiral (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18225&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18225&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Sun, 13 Feb 2022 17:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/45bb5033912dc6821ba84231877fd090.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bobby Hutcherson / Patterns (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18224&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18224&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Sun, 13 Feb 2022 17:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/256bdb47838954a666739cf83cd2fe07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stan Getz, Gerry Mulligan, Harry Edison, Louis Bellson And The Oscar Peterson Trio / Jazz Giants '58 (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18223&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18223&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Sun, 13 Feb 2022 17:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/216fd4dc80f9804c3520fe0b70e316ab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 17:38:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 05:37:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Brian Jackson, Adrian Younge & Ali Shaheed Muhammad / Jazz Is Dead 8 (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18251&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18251&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Feb 2022 05:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/3a35b2b5d6e7713bbbdf0ab975da740b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[João Donato (Joao Donato), Adrian Younge, Ali Shaheed Muhammad / Jazz Is Dead 7 (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18250&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18250&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Feb 2022 05:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/2bd3299db7283cfc4d00536bb4d7d0a7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marcos Valle, Adrian Younge & Ali Shaheed Muhammad / Jazz Is Dead 3 (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18249&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18249&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Feb 2022 05:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/e4899cb40db884aa76bac0c51547814a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Amaro Freitas / Sankofa (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18247&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18247&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Feb 2022 05:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/8fb13ba23d13cfe3e734c908ec66c4da.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Manfredo Fest / Brazilian Dorian Dream (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18246&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18246&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Feb 2022 05:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/80ebea0eef6863a7e9e37177c8d016ba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 윌리엄즈 The Williams / Love Child (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18242&amp;cate_no=24&amp;display_group=1</link>
@@ -64,44 +104,28 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/abc9ec510313f514ab82fc027952bd76.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Oscar Peterson (Ray Brown, Sam Jones, & Louis Haynes) / Blues Etude (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18229&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18229&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sun, 13 Feb 2022 17:35:47 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/d7ff0120190f577d9426f2bb2f44c6fb.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Amaro Freitas / Sankofa (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18248&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18248&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Feb 2022 05:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/74d808500576eaa036e9e34765797eca.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Joe Pass / Simplicity (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18228&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18228&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sun, 13 Feb 2022 17:35:47 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/eded3819862cce97495d662398e06c3b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Manfredo Fest / Brazilian Dorian Dream (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18245&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18245&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Feb 2022 05:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[31,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/ad8388b740c8e135250c8add200318fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Stan Getz Meets Gerry Mulligan / Getz Meets Mulligan In Hi-FI (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18227&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18227&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sun, 13 Feb 2022 17:35:47 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/fa1ed41b7f3fdcf9404f2cdb8fe6f4ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jim Hall, Red Mitchell & Red Kelly (The Modest Jazz Trio) / Good Friday Blues (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18226&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18226&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sun, 13 Feb 2022 17:35:47 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/591d6e89f45b10a74114e7b6b3a588f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bobby Hutcherson / Spiral (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18225&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18225&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sun, 13 Feb 2022 17:35:47 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/45bb5033912dc6821ba84231877fd090.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Kirinji / Kirinji 20132020 (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18244&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18244&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Feb 2022 05:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[76,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/56c8a27f13eba9c6ce5f3d483fde8747.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[XXX / LANGUAGE Double Vinyl (180g 2LP) (김밥레코즈 ─ Vinyl)]]></title>
@@ -174,30 +198,6 @@
             <pubDate>Sat, 12 Feb 2022 17:35:30 GMT</pubDate>
             <content:encoded><![CDATA[33,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/3ab12eabdf0cb06f6208ab02dd25d228.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Los Retros / Looking Back (Tri-Color Vinyl, 3색 컬러바이닐) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18214&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18214&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 12 Feb 2022 17:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/b7709c9ecc39162f125f947f417c4b3d.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Freebo フリーボ / Sukimakara すきまから (Vinyl) *예약상품 (2월말~3월초 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18213&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18213&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 12 Feb 2022 05:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[52,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/0e2116087dcaa7311802b2ea0eb7b218.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최백호 / 다시 길 위에서 (180g Colored Vinyl) *1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18212&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18212&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 11 Feb 2022 17:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[47,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/5e229ed16e758abfe488838ee9fd0e4a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[효도앤베이스 Hyodo and BASS / Hyodo and BASS 1집 (Double Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -1064,6 +1064,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202106/3c84e21901e81b9d2398cd1dac96a46a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Brian Jackson, Adrian Younge & Ali Shaheed Muhammad / Jazz Is Dead 8 (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18251&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18251&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Feb 2022 05:36:47 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/3a35b2b5d6e7713bbbdf0ab975da740b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[João Donato (Joao Donato), Adrian Younge, Ali Shaheed Muhammad / Jazz Is Dead 7 (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18250&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18250&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Feb 2022 05:36:47 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/2bd3299db7283cfc4d00536bb4d7d0a7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marcos Valle, Adrian Younge & Ali Shaheed Muhammad / Jazz Is Dead 3 (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18249&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18249&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Feb 2022 05:36:47 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/e4899cb40db884aa76bac0c51547814a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Horace Silver Quintet / Serenade To A Soul Sister (CD, Blue Note 80주년 기념 "Soul Jazz Works", JPN Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18234&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18234&amp;cate_no=46&amp;display_group=1</guid>
@@ -1134,30 +1158,6 @@
             <pubDate>Sun, 13 Feb 2022 17:37:07 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/591d6e89f45b10a74114e7b6b3a588f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bobby Hutcherson / Spiral (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18225&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18225&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Sun, 13 Feb 2022 17:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/45bb5033912dc6821ba84231877fd090.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bobby Hutcherson / Patterns (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18224&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18224&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Sun, 13 Feb 2022 17:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/256bdb47838954a666739cf83cd2fe07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stan Getz, Gerry Mulligan, Harry Edison, Louis Bellson And The Oscar Peterson Trio / Jazz Giants '58 (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18223&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18223&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Sun, 13 Feb 2022 17:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/216fd4dc80f9804c3520fe0b70e316ab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
@@ -1344,6 +1344,38 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202107/db7a1117b91f4b31f3511fa0aa456c75.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[João Donato (Joao Donato), Adrian Younge, Ali Shaheed Muhammad / Jazz Is Dead 7 (CD) (김밥레코즈 ─ CD ─ World)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18250&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18250&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Feb 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/2bd3299db7283cfc4d00536bb4d7d0a7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marcos Valle, Adrian Younge & Ali Shaheed Muhammad / Jazz Is Dead 3 (CD) (김밥레코즈 ─ CD ─ World)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18249&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18249&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Feb 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/e4899cb40db884aa76bac0c51547814a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Amaro Freitas / Sankofa (CD) (김밥레코즈 ─ CD ─ World)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18247&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18247&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Feb 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/8fb13ba23d13cfe3e734c908ec66c4da.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Manfredo Fest / Brazilian Dorian Dream (CD) (김밥레코즈 ─ CD ─ World)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18246&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18246&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Feb 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/80ebea0eef6863a7e9e37177c8d016ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Marcos Valle & Celso Fonseca / Pagina Central (CD, JPN Import) (김밥레코즈 ─ CD ─ World)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18169&amp;cate_no=79&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18169&amp;cate_no=79&amp;display_group=1</guid>
@@ -1406,38 +1438,6 @@
             <pubDate>Wed, 12 Jan 2022 17:46:30 GMT</pubDate>
             <content:encoded><![CDATA[20,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/72baf268b1dc66815552078f5359b24a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Agustin Pereyra Lucena / La Rana (CD) (김밥레코즈 ─ CD ─ World)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18013&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18013&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Mon, 10 Jan 2022 17:49:22 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/4d02f42a76b8c7ab69587bcd756145c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I Mean Us / Into Innerverse (CD) (김밥레코즈 ─ CD ─ World)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17959&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17959&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Wed, 29 Dec 2021 05:38:38 GMT</pubDate>
-            <content:encoded><![CDATA[23,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/7d317db764c59ecaa3e8a3be61636778.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gurrumul / The Gurrumul Story (CD, Jewel Case) (김밥레코즈 ─ CD ─ World)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17511&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17511&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[17,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/593a9e2cb730934897fa538e48c58913.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mdou Moctar / Afrique Victime (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ World)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17439&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17439&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/0eb02aacb77f2b36d04a91f4a69d8997.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nils Frahm / Tripping with Nils Frahm (CD, US Import) (김밥레코즈 ─ CD ─ Classical/Crossover)]]></title>
