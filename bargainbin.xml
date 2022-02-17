@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Bargain Bin</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 05:36:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 17:39:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 03 Dec 2021 05:36:37 GMT</pubDate>
             <content:encoded><![CDATA[24,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/cffe838dc97fd8d08d82a5e649031ea4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beach House / Thank Your Lucky Stars (Vinyl, EU Pressing, Bella Union) *2021 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17792&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17792&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Sat, 27 Nov 2021 17:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[24,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/febefed576b321d39eb6826e8d5078d7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pure X / Pleasure (Vinyl) *2021 블랙프라이데이 할인]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Tue, 18 Jan 2022 05:38:47 GMT</pubDate>
             <content:encoded><![CDATA[35,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/5aa86c214ecc614a9a0af1a54b74cd8e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Billie Eilish / When We All Fall Asleep, Where Do We Go? (Collector's Edition 7" Box Set, 7인치 7장이 들어있는 박스셋) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17179&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17179&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Thu, 17 Feb 2022 17:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[102,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/89a96d9f1fe79972dea0419bcf8a6db4.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
