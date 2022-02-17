@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 17:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 05:36:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sven Wunder / Eastern Flowers (Vinyl, Limited)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15117&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15117&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 17 Feb 2022 05:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202007/57f93d09b6619d41571725d327ec0a52.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sylvia Striplin / Give Me Your Love (Vinyl, 2LP, Limited Editon) *예약상품 (3월초 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18252&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 10 Feb 2022 05:35:07 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/7d7c4f7bf50cac5987f3143d5dc1852e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists (로로스, 3호선 버터플라이, 이이언 etc) / 무선지 컴필레이션 바이닐 Vol.1: Vanishing Air (180g, Black Vinyl) *예약상품 (유의사항 참조바랍니다)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18175&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18175&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 07 Feb 2022 17:37:02 GMT</pubDate>
-            <content:encoded><![CDATA[59,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/23406f746f9d0b04ac04bf910488c4cc.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
