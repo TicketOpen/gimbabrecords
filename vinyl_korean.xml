@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 05:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 17:39:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나미 / 카멜레온 Chamelon (Vinyl, 반투명 핑크색 바이닐) *1인 1매 구매 가능 / 별도의 입금 기한이 설정되어 있습니다.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18257&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18257&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Sat, 19 Feb 2022 17:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/55ec73715262610df26b812c33624c3b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어떤날 / 어떤날 II (2019 조동익 Remastered 화이트 컬러 Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18255&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 03 Feb 2022 05:36:43 GMT</pubDate>
             <content:encoded><![CDATA[45,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/517781d5d027fb13e369ca724521e4ad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김오키 Kim Oki / 에브리타임 Everytime (180g White Vinyl) *1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18140&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18140&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 03 Feb 2022 05:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/0a02b6a8ad2471b419dcedb7d05b63da.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
