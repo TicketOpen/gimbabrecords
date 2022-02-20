@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Hip Hop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 05:38:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 17:38:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Loyle Carner / Not Waving, But Drowning (CD, UK Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18279&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18279&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Sun, 20 Feb 2022 17:37:27 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/8bc1ee8b938d54ef64c74021b212cef9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tyler, The Creator / Call Me If You Get Lost (CD, Digipack)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18070&amp;cate_no=45&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Oct 2021 18:40:07 GMT</pubDate>
             <content:encoded><![CDATA[19,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202106/6ac2c9ca6b3ea7aa9acc384d5128cea1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kanye West / Jesus Is King (CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=16691&amp;cate_no=45&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=16691&amp;cate_no=45&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202106/3c84e21901e81b9d2398cd1dac96a46a.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

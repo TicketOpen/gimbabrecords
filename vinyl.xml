@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 05:38:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 17:38:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Peyton / PSA (Pink-Magenta Colored Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18265&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18265&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 20 Feb 2022 17:36:25 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/f2e77c9944e047cb1a0aab3001b2efbe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kiyoshi Yamaya (외 여러 음악가) /  Wamono Groove: Shakuhachi & Koto Jazz Funk ’76 (Vinyl) *할인상품]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18264&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 17 Feb 2022 17:37:38 GMT</pubDate>
             <content:encoded><![CDATA[39,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/90cd6ae68ac8f0b0d7790abd5de1f00c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hikaru Utada 우타다 히카루 / One Last Kiss (신 에반게리온 극장판:∥주제곡 수록) (Translucent Crystal Blue Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18253&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18253&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 17 Feb 2022 17:37:38 GMT</pubDate>
-            <content:encoded><![CDATA[32,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/3927554b9ecd0d459e3799dab24aa87e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
