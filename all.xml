@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 17:39:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 05:38:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/abc9ec510313f514ab82fc027952bd76.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Kiyoshi Yamaya (외 여러 음악가) /  Wamono Groove: Shakuhachi & Koto Jazz Funk ’76 (Vinyl) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18264&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18264&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 20 Feb 2022 05:36:18 GMT</pubDate>
+            <content:encoded><![CDATA[39,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/dbb7d598a433a9ecc11fbeb8549e0600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Reuben Wilson / Love Bug (Vinyl, Blue Note Classic Vinyl Series) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18263&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18263&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 17 Feb 2022 17:37:38 GMT</pubDate>
             <content:encoded><![CDATA[32,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/3927554b9ecd0d459e3799dab24aa87e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sylvia Striplin / Give Me Your Love (Vinyl, 2LP, 45rpm, Limited Editon) *예약상품 (3월초 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18252&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18252&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Feb 2022 17:37:09 GMT</pubDate>
-            <content:encoded><![CDATA[55,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/eafba75c06caffd1cec644816cd67405.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[효도앤베이스 Hyodo and BASS / Hyodo and BASS 1집 (Double Cassette) (김밥레코즈 ─ Cassette)]]></title>
