@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 17:38:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 05:36:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Various Artists) / Sleepless In Seattle 시애틀의 잠 못 이루는 밤 (Limited Sunset Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18283&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18283&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 21 Feb 2022 05:34:51 GMT</pubDate>
+            <content:encoded><![CDATA[38,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/23f521e1ded225164aa13ea6bf0b38cb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장현 / 기다려주오 / 무소식이 희소식 (Vinyl) *1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18282&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18282&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 21 Feb 2022 05:34:51 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/f9079d1db714de46e5c0a515c5431f57.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[차현아, 김성철, 신중현 / 저무는 바닷가 / 그리워라 (Vinyl, 2022 reissue) *1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18281&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18281&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 21 Feb 2022 05:34:51 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/754ab3df27e3c6daf0ed05eefafc2602.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Peyton / PSA (Pink-Magenta Colored Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18265&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Sat, 19 Feb 2022 17:37:31 GMT</pubDate>
             <content:encoded><![CDATA[42,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/55ec73715262610df26b812c33624c3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Sabbath / Black Sabbath (Vinyl, Remastered)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18256&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18256&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 18 Feb 2022 05:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/a9483ece6be73b519942f8ec9c5e6f7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어떤날 / 어떤날 II (2019 조동익 Remastered 화이트 컬러 Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18255&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18255&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 17 Feb 2022 17:37:38 GMT</pubDate>
-            <content:encoded><![CDATA[39,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/6120fc7c51bafb4cbcb8b4d72b438c24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어떤날 / 어떤날Ⅰ[1960•1965] (2019 조동익 Remastered 화이트 컬러 Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18254&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18254&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 17 Feb 2022 17:37:38 GMT</pubDate>
-            <content:encoded><![CDATA[39,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/90cd6ae68ac8f0b0d7790abd5de1f00c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
