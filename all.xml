@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 17:38:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 05:37:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/53ac4b10170f97b92d4e006db72d29fb.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[OST (Music by Remedios) / Love Letter 러브레터 (2022 Edition, Clear Vinyl, Exclusive Pressing) *예약상품 (6월말-7월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15762&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15762&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 22 Feb 2022 05:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[52,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202011/26d7a02f197f5c267decfb1810d8a434.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Beach House / Once Twice Melody (2CD) *예약판매 (2월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17689&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17689&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 18 Feb 2022 05:36:00 GMT</pubDate>
             <content:encoded><![CDATA[25,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/20200527/4000cf6a62e26e74867f37dc0318bc88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunset Rollercoaster / Bossa Nova 芭莎諾瓦 (CD) *예약상품 (2월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18048&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18048&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 18 Feb 2022 05:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/e644e1b6b882d2ed95a47a8f4a925162.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Elvis Presley / Christmas with Elvis and the Royal Philharmonic Orchestra (Vinyl) *2021 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
