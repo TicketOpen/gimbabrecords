@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 05:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 17:40:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Awakening / Mirage (Vinyl, Black Jazz 재발매 시리즈)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18301&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18301&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 23 Feb 2022 17:37:57 GMT</pubDate>
+            <content:encoded><![CDATA[34,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/d61eba6be376d20329c818249f67ed57.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Ayumi Ishida / Our Connection (Vinyl, Limited)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18300&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 21 Feb 2022 17:36:31 GMT</pubDate>
             <content:encoded><![CDATA[39,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/dbc0392c28c1c92851d0243bebf45473.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Immanuel Wilkins / The 7th Hand (2LP, Gatefold Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18286&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18286&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 21 Feb 2022 17:36:31 GMT</pubDate>
-            <content:encoded><![CDATA[39,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/a3b58ab9e02e4b8d5838dcb68805343c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
