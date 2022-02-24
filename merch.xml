@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Movies/Merch</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 05:38:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 17:40:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,36 +32,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/f22e62e645dfbcd35a3547ce8998aca8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Big Fudge BFOS12x100US 12-inch Vinyl LP Record Outer Sleeves 12인치 바이닐 / 엘피 보호용 투명 비닐 100매 (12.75x12.75 High-Density Polyprolylene 100 Pack Crystal Clear)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17875&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17875&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Sun, 12 Dec 2021 05:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[36,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/2bb3eda1a0ddc3375384a510f1d90b8a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A Charlie Brown Christmas 찰리 브라운 크리스마스 (Blu-Ray 블루레이)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17873&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17873&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Sat, 11 Dec 2021 17:42:38 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/7f3840e839c140a8854281df44a6eb31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Peanuts Holiday Anniversary Collection (Charlie Brown Christmas 포함) 찰리 브라운 크리스마스 등 피너츠 3대 클래식을 모두 모은 "홀리데이 컬렉션" (Blu-ray, US IMPORT)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17872&amp;cate_no=27&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17872&amp;cate_no=27&amp;display_group=1</guid>
             <pubDate>Sat, 11 Dec 2021 17:42:38 GMT</pubDate>
             <content:encoded><![CDATA[54,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/af55d515ac543ce5661af02657b9ca5a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oasis / Knebworth 1996 (3 DVD Set) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17747&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17747&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Tue, 23 Nov 2021 17:41:32 GMT</pubDate>
-            <content:encoded><![CDATA[30,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/054f0dc971f03acf0c0cfcb0a4703b47.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Oasis / Knebworth 1996 (Blu-Ray)]]></title>
@@ -102,6 +78,30 @@
             <pubDate>Thu, 28 Oct 2021 18:00:20 GMT</pubDate>
             <content:encoded><![CDATA[42,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/53ac4b10170f97b92d4e006db72d29fb.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Audio Technica Turntable - AT-LP3 완전 자동 벨트 드라이브 스테레오 턴테이블 - 올 화이트 에디션 (*보너스 레코드 증정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=16644&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=16644&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Thu, 24 Feb 2022 17:38:35 GMT</pubDate>
+            <content:encoded><![CDATA[375,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202106/a3db0ed16a2d2e7d05efa34cbdef7ce1.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vinyl Styl 7인치 보호비닐 50매 (Poly Sleeve Outer Record Sleeve For 7 Inch, 사이즈 7 9/16″ x 7 5/8″)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=16496&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=16496&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Thu, 24 Feb 2022 17:38:35 GMT</pubDate>
+            <content:encoded><![CDATA[12,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202105/ebdb776fb8672e3492813de2abdb23e3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[안다영 Panorama Poster (양면 Offset 2도 인쇄)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=16320&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=16320&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Thu, 24 Feb 2022 17:38:35 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202104/2ce7246311680a61261716a01d1b56d1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,25 +4,9 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 05:38:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 17:40:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Beach House / Once Twice Melody (2CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17689&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17689&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 21 Feb 2022 05:35:09 GMT</pubDate>
-            <content:encoded><![CDATA[22,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/4813751b1ec960f625783f03e32b1b80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Music by Remedios) / Love Letter 러브레터 (2022 Edition, Clear Vinyl, Exclusive Pressing) *예약상품 (6월말-7월초 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=15762&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=15762&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 22 Feb 2022 05:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[52,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202011/26d7a02f197f5c267decfb1810d8a434.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[실리카겔 / Kyo181 / Desert Eagle (Limited 7" Vinyl, K-Indies Series, 일본 프레싱) *예약상품]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18295&amp;cate_no=42&amp;display_group=1</link>
@@ -46,6 +30,14 @@
             <pubDate>Tue, 22 Feb 2022 17:38:34 GMT</pubDate>
             <content:encoded><![CDATA[27,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/0f8c2faa1932ce366903239543c3072e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Music by Remedios) / Love Letter 러브레터 (2022 Edition, Clear Vinyl, Exclusive Pressing) *예약상품 (6월말-7월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15762&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15762&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 22 Feb 2022 05:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[52,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202011/26d7a02f197f5c267decfb1810d8a434.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[불독맨션 / Funk (180g 2LP) *예약상품 (7월 12일 발송 예정)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Thu, 17 Feb 2022 17:38:03 GMT</pubDate>
             <content:encoded><![CDATA[56,400원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/9bfd869538a215f57711cf71df8cb361.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이상은 / 5집 언젠가는 (180g 1LP) *예약상품 (4월초 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17951&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17951&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 24 Feb 2022 17:38:44 GMT</pubDate>
+            <content:encoded><![CDATA[41,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/8e2c2a54377a992c1e437579574cb164.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
