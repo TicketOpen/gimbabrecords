@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 17:40:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 05:38:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[만동 Mandong / Big Sun (CD with Poster) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18303&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18303&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 24 Feb 2022 05:35:51 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/8fd3b43ae8dd16d7969151e6fed314b7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nina Simone / Feeling Good: Her Greatest Hits & Remixes (2CD, Digipack) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18292&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 20 Feb 2022 17:36:16 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/9d9f8db1f521cdbe2064f82f5d7f75c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Johnny Griffin / The Congregation (CD, Blue Note 80주년 기념 More 60 Works 시리즈, JPN Import) *마지막 재고 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18272&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18272&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sun, 20 Feb 2022 17:36:16 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/985fc17e61139fdacac829fcff1e7a31.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Awakening / Mirage (Vinyl, Black Jazz 재발매 시리즈) (김밥레코즈 ─ Vinyl)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/53ac4b10170f97b92d4e006db72d29fb.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Beach House / Once Twice Melody (2CD) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17689&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17689&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 21 Feb 2022 05:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/4813751b1ec960f625783f03e32b1b80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[OST (Music by Remedios) / Love Letter 러브레터 (2022 Edition, Clear Vinyl, Exclusive Pressing) *예약상품 (6월말-7월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=15762&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=15762&amp;cate_no=42&amp;display_group=1</guid>
@@ -430,14 +438,6 @@
             <pubDate>Tue, 22 Feb 2022 17:38:34 GMT</pubDate>
             <content:encoded><![CDATA[62,400원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/d03324c6cd220d2cb978506d944e2864.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beach House / Once Twice Melody (2CD) *예약판매 (2월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17689&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17689&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 21 Feb 2022 05:35:09 GMT</pubDate>
-            <content:encoded><![CDATA[22,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/4813751b1ec960f625783f03e32b1b80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sylvia Striplin / Give Me Your Love (Vinyl, 2LP, 45rpm, Limited Editon) *예약상품 (3월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -584,6 +584,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/89a96d9f1fe79972dea0419bcf8a6db4.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[만동 Mandong / Big Sun (CD with Poster) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18303&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18303&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Thu, 24 Feb 2022 05:36:37 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/8fd3b43ae8dd16d7969151e6fed314b7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더 윌리엄즈 The Williams / Love Child (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18242&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18242&amp;cate_no=29&amp;display_group=1</guid>
@@ -670,14 +678,6 @@
             <pubDate>Thu, 30 Dec 2021 16:41:33 GMT</pubDate>
             <content:encoded><![CDATA[19,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/fda6a5aa8d8993fa09a5fd4c1d4a2976.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팎 Pakk / 칠가살 七可煞 (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17960&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17960&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Wed, 29 Dec 2021 17:45:55 GMT</pubDate>
-            <content:encoded><![CDATA[14,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/9a4cf8a00e1135726b669b6b73da02f4.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Liam Gallagher / MTV Unplugged (CD+Poster, UK Import) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
