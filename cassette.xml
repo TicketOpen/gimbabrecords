@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 05:37:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 17:41:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sylvan Esso / Sylvan Esso (Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18317&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18317&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Fri, 25 Feb 2022 17:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/72f5d1b6f83ddcba03334697e3a740d9.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[효도앤베이스 Hyodo and BASS / Hyodo and BASS 1집 (Double Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18243&amp;cate_no=26&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 22 Dec 2021 17:46:09 GMT</pubDate>
             <content:encoded><![CDATA[23,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/6a8e34a3ad4064fd1e138615b7e802c9.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Leo Nocentelli / Another Side (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17889&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17889&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Thu, 24 Feb 2022 17:38:27 GMT</pubDate>
-            <content:encoded><![CDATA[19,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/3a80bad22b7876f57c72b72eb67c21ba.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
