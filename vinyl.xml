@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 17:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 05:37:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tetsuji Hayashi / Back Mirror (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18313&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18313&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 25 Feb 2022 05:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[55,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/d70823fceb8d37b1850e4db6345306e5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yoshiko Sai / Mankakyo (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18312&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18312&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 25 Feb 2022 05:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[55,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/21f22ed44b77ee90e3eb46f91f9793bb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aimee Mann / Queens Of The Summer Hotel (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18311&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18311&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 25 Feb 2022 05:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[47,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/d77a22ec5ccf55ff67ffc80e5159d2b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[천용성 / 수몰 (140g 투명 브릴리언트 블루 Vinyl, 한정반)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18310&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Wed, 23 Feb 2022 05:35:08 GMT</pubDate>
             <content:encoded><![CDATA[55,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/ea8b7827f1b1c12fb6f360545d220f79.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Carroll Kirby / Conflict (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18299&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18299&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 23 Feb 2022 05:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[31,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/24e46a99700c540309a0a1564f0c8556.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Carroll Kirby / Cryptozoo: Original Motion Picture Soundtrack (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18298&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18298&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 23 Feb 2022 05:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/2c0c1c2e1a076441921f9b0007ce393b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나상현씨밴드 / 여름빛 / 덩그러니 (Limited 7", K-Indies Series, 일본 프레싱) *예약상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18297&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18297&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 22 Feb 2022 17:38:15 GMT</pubDate>
-            <content:encoded><![CDATA[27,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/0f8c2faa1932ce366903239543c3072e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
