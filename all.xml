@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 17:38:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 05:38:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,14 +216,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/2c88d772d5e062cd318b2218ed1a32a4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Mitski / Laurel Hell (Red Cassette) (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18181&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18181&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Tue, 08 Feb 2022 17:38:06 GMT</pubDate>
-            <content:encoded><![CDATA[14,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/b5d4421f07af6476b9d421d4b43c01dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[모하니 Mohani / 부곡하와이 (Cassette + Download Code) (김밥레코즈 ─ Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18178&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18178&amp;cate_no=26&amp;display_group=1</guid>
@@ -294,6 +286,14 @@
             <pubDate>Wed, 22 Dec 2021 17:46:09 GMT</pubDate>
             <content:encoded><![CDATA[23,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/6a8e34a3ad4064fd1e138615b7e802c9.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Leo Nocentelli / Another Side (Cassette) (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17889&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17889&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Sun, 27 Feb 2022 05:36:29 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/3a80bad22b7876f57c72b72eb67c21ba.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[버둥 / 정규 1집 지지않는 곳으로 가자 (에세이집 + 음원 다운로드코드) (김밥레코즈 ─ Movies/Merch)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202104/2ce7246311680a61261716a01d1b56d1.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Sylvia Striplin / Give Me Your Love (Vinyl, 2LP, 45rpm, Limited Editon) *예약상품 (3월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18252&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18252&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Feb 2022 17:37:28 GMT</pubDate>
+            <content:encoded><![CDATA[55,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/eafba75c06caffd1cec644816cd67405.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Sunset Rollercoaster / JINJI KIKKO 金桔希子 EP (CD) *예약상품 (3월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18047&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18047&amp;cate_no=42&amp;display_group=1</guid>
@@ -470,14 +478,6 @@
             <pubDate>Tue, 22 Feb 2022 17:38:34 GMT</pubDate>
             <content:encoded><![CDATA[62,400원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/d03324c6cd220d2cb978506d944e2864.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sylvia Striplin / Give Me Your Love (Vinyl, 2LP, 45rpm, Limited Editon) *예약상품 (3월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18252&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18252&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Feb 2022 17:37:28 GMT</pubDate>
-            <content:encoded><![CDATA[55,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/eafba75c06caffd1cec644816cd67405.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jakob Magnusson / Jack Magnet (Vinyl) *예약상품 (3월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
