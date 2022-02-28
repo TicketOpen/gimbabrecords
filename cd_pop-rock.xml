@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 05:39:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 17:42:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rolling Stones / Let It Bleed (CD, 50th Anniversary) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18335&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18335&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 28 Feb 2022 17:41:14 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/3a48b80db70715604ac1f0704ff213d8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Liam Gallagher / MTV Unplugged (CD+Poster, UK Import) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18280&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 07 Feb 2022 05:36:03 GMT</pubDate>
             <content:encoded><![CDATA[31,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/c978ca9970ead4e6da9e6c1bef14e34d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ned Doheny / Between Two Worlds (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18170&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18170&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 07 Feb 2022 05:36:03 GMT</pubDate>
-            <content:encoded><![CDATA[31,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/d9cfbbaf1e8290d7917dd8391e601f86.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
