@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 17:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 05:37:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/1c52fc714dfccff6a53c2bc29503871b.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Jason Becker / Perpetual Burn (Vinyl, 2021 reissue) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18336&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18336&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 01 Mar 2022 05:34:54 GMT</pubDate>
+            <content:encoded><![CDATA[30,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/352f36f2cd8388060bd6372a252cc480.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Bob Dylan / Blood On The Tracks (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18334&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18334&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Sat, 26 Feb 2022 17:36:27 GMT</pubDate>
             <content:encoded><![CDATA[36,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/8e871e7ecdd249e43d37a980922341d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[La Buena Vida / Vidania (Limited Green Colored Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18323&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18323&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 26 Feb 2022 17:36:27 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/f13267d3ea0c34873620e528ead1a3a4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lana Del Rey / Blue Banisters (Brown Cassette, UK Import) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202104/2ce7246311680a61261716a01d1b56d1.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[OST (Music by Remedios) / Love Letter 러브레터 (2022 Edition, Clear Vinyl, Exclusive Pressing) *2차 예약 (7월초 배송 예정) - 1인 1매 구매 / 무통장입금 주문의 경우 별도의 입금기한이 설정되어 있습니다. (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15762&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15762&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 22 Feb 2022 05:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[52,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202011/26d7a02f197f5c267decfb1810d8a434.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Sylvia Striplin / Give Me Your Love (Vinyl, 2LP, 45rpm, Limited Editon) *예약상품 (3월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18252&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18252&amp;cate_no=42&amp;display_group=1</guid>
@@ -462,14 +470,6 @@
             <pubDate>Tue, 22 Feb 2022 17:38:34 GMT</pubDate>
             <content:encoded><![CDATA[27,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/0f8c2faa1932ce366903239543c3072e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Music by Remedios) / Love Letter 러브레터 (2022 Edition, Clear Vinyl, Exclusive Pressing) *예약상품 (6월말-7월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=15762&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=15762&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 22 Feb 2022 05:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[52,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202011/26d7a02f197f5c267decfb1810d8a434.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[불독맨션 / Funk (180g 2LP) *예약상품 (7월 12일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
