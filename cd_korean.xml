@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 05:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 17:39:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[복다진 / 꿈의 소곡집 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18347&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18347&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Wed, 02 Mar 2022 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/29ec2f8539994eabf18a981f2d86984e.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[만동 Mandong / Big Sun (CD with Poster)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18303&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 03 Jan 2022 17:46:48 GMT</pubDate>
             <content:encoded><![CDATA[13,400원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/1727bc887baecc38418823c7345915f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도마 / 2집 도마 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17961&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17961&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Thu, 30 Dec 2021 16:41:33 GMT</pubDate>
-            <content:encoded><![CDATA[19,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/fda6a5aa8d8993fa09a5fd4c1d4a2976.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

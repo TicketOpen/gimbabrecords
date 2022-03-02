@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 05:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 17:39:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[복다진 / 꿈의 소곡집 (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18347&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18347&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 02 Mar 2022 17:37:40 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/29ec2f8539994eabf18a981f2d86984e.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Rolling Stones / Let It Bleed (CD, 50th Anniversary) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18335&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 20 Feb 2022 17:36:16 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/708bbdfc7c47cf61bfbda358033ef684.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / Too Slow to Disco Yacht Soul - The Cover Versions (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18276&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18276&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sun, 20 Feb 2022 17:36:16 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/53b45e0b68595db496e5a7d89c8a853e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OST (Various Artists) / 슬기로운 의사생활 OST 시즌2 (2LP) *예약상품 (8월 22일경 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202104/2ce7246311680a61261716a01d1b56d1.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Sunset Rollercoaster / Vanilla Villa 香草度假村 EP (CD) *예약상품 (3월 중순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18050&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18050&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 25 Feb 2022 05:35:55 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/905ed4e9a939b8b4a06130754b7eeaca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[OST (Various Artists) / 슬기로운 의사생활 OST 시즌2 (2LP) *예약상품 (8월 22일경 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18346&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18346&amp;cate_no=42&amp;display_group=1</guid>
@@ -432,22 +440,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/b4f24a41e06c12de3cf5839e29fe39d9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Marker Starling / High January + Trust An Amateur (2CD, 보너스트랙 5곡 추가) *할인상품 / 예약상품 (3월초 배송예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18127&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18127&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 25 Feb 2022 05:35:55 GMT</pubDate>
-            <content:encoded><![CDATA[30,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/ddb597a7d66a413965a00e95f3ba901f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunset Rollercoaster / Vanilla Villa 香草度假村 EP (CD) *예약상품 (3월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18050&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18050&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 25 Feb 2022 05:35:55 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/905ed4e9a939b8b4a06130754b7eeaca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Sunset Rollercoaster / Soft Storm 柔性風暴 (CD) *예약상품 (3월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18049&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18049&amp;cate_no=42&amp;display_group=1</guid>
@@ -486,6 +478,14 @@
             <pubDate>Tue, 22 Feb 2022 17:38:34 GMT</pubDate>
             <content:encoded><![CDATA[27,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/0f8c2faa1932ce366903239543c3072e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불독맨션 / Funk (180g 2LP) *예약상품 (7월 12일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18294&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18294&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 02 Mar 2022 17:38:10 GMT</pubDate>
+            <content:encoded><![CDATA[62,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/d03324c6cd220d2cb978506d944e2864.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pure X / Pleasure (Vinyl) *2021 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -584,6 +584,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201910/481e64974f13280319bab3b28de6255e.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[복다진 / 꿈의 소곡집 (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18347&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18347&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Wed, 02 Mar 2022 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/29ec2f8539994eabf18a981f2d86984e.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[만동 Mandong / Big Sun (CD with Poster) (김밥레코즈 ─ CD ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18303&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18303&amp;cate_no=29&amp;display_group=1</guid>
@@ -670,14 +678,6 @@
             <pubDate>Mon, 03 Jan 2022 17:46:48 GMT</pubDate>
             <content:encoded><![CDATA[13,400원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/1727bc887baecc38418823c7345915f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도마 / 2집 도마 (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17961&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17961&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Thu, 30 Dec 2021 16:41:33 GMT</pubDate>
-            <content:encoded><![CDATA[19,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/fda6a5aa8d8993fa09a5fd4c1d4a2976.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Rolling Stones / Let It Bleed (CD, 50th Anniversary) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
@@ -1408,7 +1408,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/0b87b5cdc53481e07cf238216b703592.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sunset Rollercoaster / Vanilla Villa 香草度假村 EP (CD) *예약상품 (3월초 배송 예정) (김밥레코즈 ─ CD ─ World)]]></title>
+            <title><![CDATA[Sunset Rollercoaster / Vanilla Villa 香草度假村 EP (CD) *예약상품 (3월 중순 배송 예정) (김밥레코즈 ─ CD ─ World)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18050&amp;cate_no=79&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18050&amp;cate_no=79&amp;display_group=1</guid>
             <pubDate>Sat, 15 Jan 2022 17:46:36 GMT</pubDate>
