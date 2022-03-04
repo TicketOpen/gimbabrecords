@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 17:40:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 05:39:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Emerson, Lake & Palmer / Pictures At An Exhibition LP (Vinyl, Remasted LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18351&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18351&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 04 Mar 2022 05:36:54 GMT</pubDate>
+            <content:encoded><![CDATA[43,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/7e2a92fc6d59e7768199007a30c587b4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Magna Carta / Lord Of The Ages (Vinyl, Abbey Road Studio Remaster, 36x24 Poster 포함 - 초기 프레싱 한정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18350&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18350&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 04 Mar 2022 05:36:54 GMT</pubDate>
+            <content:encoded><![CDATA[43,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/ee7ea6880827bf6637feb44425ce4d91.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sylvan Esso / Sylvan Esso (Translucent Pink Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18349&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 28 Feb 2022 17:40:31 GMT</pubDate>
             <content:encoded><![CDATA[33,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/ae5ccbd20368f9a9c6ef65361e994b7e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Queensryche / Operation: Mindcrime (Vinyl, 2LP, Remastered) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18338&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18338&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 28 Feb 2022 17:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/e0627ec8577e4ac0d394545cf40a2387.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Queensryche / Empire (Vinyl, 2LP, Remastered) *할인상품 (유의사항 참조)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18337&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18337&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 28 Feb 2022 17:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/1c52fc714dfccff6a53c2bc29503871b.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
