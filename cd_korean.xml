@@ -4,9 +4,41 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 05:39:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 17:40:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이랑 / 늑대가 나타났다 (CD, 일본반)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18363&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18363&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Fri, 04 Mar 2022 17:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/ae41b2fea9cf8ea637a03fae849ca349.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장기하 / 공중부양 (EP, CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18358&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18358&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Fri, 04 Mar 2022 17:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[16,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/6bba9857582c0bc8aa457a8a08734d51.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[9와 숫자들 / 99% - 9th Anniversary of 9와 숫자들, 베스트 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18353&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18353&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Fri, 04 Mar 2022 17:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/7070f882f62ab1a97c062c26631268f5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[9와 숫자들 / 토털리 블루 Totally Blue (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18352&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18352&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Fri, 04 Mar 2022 17:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[13,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/56b0c68cd94b0279e7dd1383c01a0c29.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[복다진 / 꿈의 소곡집 (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18347&amp;cate_no=29&amp;display_group=1</link>
@@ -70,38 +102,6 @@
             <pubDate>Thu, 13 Jan 2022 17:48:25 GMT</pubDate>
             <content:encoded><![CDATA[17,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/34c030e678c7603337eef83f93b80bbd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시문 / Scent (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17990&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17990&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Jan 2022 17:46:46 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/2bf2ee57993109248133b43dec30c169.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나상현씨밴드 / 2021 (2CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17989&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17989&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Jan 2022 17:46:46 GMT</pubDate>
-            <content:encoded><![CDATA[25,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/7d1834bcb666684896809c75576a77ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상은 / 5집 언젠가는 (재발매 CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17973&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17973&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Mon, 03 Jan 2022 17:46:48 GMT</pubDate>
-            <content:encoded><![CDATA[10,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/e96f863e253547b451bb4f91ab0f9240.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상은 / 정규 13집 The 3rd Place (재발매 CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17972&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17972&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Mon, 03 Jan 2022 17:46:48 GMT</pubDate>
-            <content:encoded><![CDATA[13,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/1727bc887baecc38418823c7345915f8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

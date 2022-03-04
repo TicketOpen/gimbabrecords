@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Classical/Crossover</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 05:39:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 17:40:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[John Zorn / The Big Gundown - 15th Anniversary Special Edition (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18356&amp;cate_no=50&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18356&amp;cate_no=50&amp;display_group=1</guid>
+            <pubDate>Fri, 04 Mar 2022 17:39:44 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/3697d3313a65dd939c252b2f86faae97.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[John Zorn / The Hermetic Organ Vol 6--For Edgar Allan Poe (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18354&amp;cate_no=50&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18354&amp;cate_no=50&amp;display_group=1</guid>
+            <pubDate>Fri, 04 Mar 2022 17:39:44 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/a57ae5ac9a6ce98de01a95ef75b523f2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nils Frahm / Tripping with Nils Frahm (CD, US Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17088&amp;cate_no=50&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 28 Oct 2021 18:42:33 GMT</pubDate>
             <content:encoded><![CDATA[21,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201809/3cdd97047e544b8bf3c70386cefbf910.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Olafur Arnalds / Re:member (CD, 국내반)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=11693&amp;cate_no=50&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=11693&amp;cate_no=50&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[14,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201808/1bbb6f39fdd34d4e71833a231d4d378f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Olafur Arnalds / Living Room Songs (CD, US/EU Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=11015&amp;cate_no=50&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=11015&amp;cate_no=50&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201512/2418_shop1_500135.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
