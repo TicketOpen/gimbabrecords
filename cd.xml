@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 05:37:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 17:41:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Weeknd / After Hours (CD, UK Import) *한정 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18380&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18380&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Mar 2022 17:39:22 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/68e96c9fb5aa1f82f73364762455836d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SAAY / FEELosophy (EP, CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18379&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18379&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Mar 2022 17:39:22 GMT</pubDate>
+            <content:encoded><![CDATA[14,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/efd94e2a145713b23628ed63c45de82e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[David Bowie / Legacy (1CD, UK Import) *할인상품]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18366&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 04 Mar 2022 17:37:56 GMT</pubDate>
             <content:encoded><![CDATA[22,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/c71eb3230d4df3498b8203aeb956593e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Zorn / The Hermetic Organ Vol 6--For Edgar Allan Poe (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18354&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18354&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 04 Mar 2022 17:37:56 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/a57ae5ac9a6ce98de01a95ef75b523f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9와 숫자들 / 99% - 9th Anniversary of 9와 숫자들, 베스트 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18353&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18353&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 04 Mar 2022 17:37:56 GMT</pubDate>
-            <content:encoded><![CDATA[14,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/7070f882f62ab1a97c062c26631268f5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
