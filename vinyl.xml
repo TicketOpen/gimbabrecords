@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 17:40:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 05:37:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Junko Ohashi / Tea For Tears (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18391&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18391&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 09 Mar 2022 05:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[56,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/3c75506915c751fb11be6935f79d6c51.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Junko Ohashi / Magical - 大橋純子の世界III (Vinyl, 2LP) *한정할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18390&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 07 Mar 2022 05:35:21 GMT</pubDate>
             <content:encoded><![CDATA[37,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/35c1394cd94d9c9f52ba173125a2e315.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Leonard Cohen / Greatest Hits (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18375&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18375&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 07 Mar 2022 05:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/aad1216dc5e283113b1db52a2391fe6c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
