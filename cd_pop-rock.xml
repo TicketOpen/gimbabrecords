@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 17:39:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 05:37:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tom Misch / Quarantine Sessions (CD, 일본 한정 시디, 1곡의 보너스트랙 추가)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18399&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18399&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 11 Mar 2022 05:36:35 GMT</pubDate>
+            <content:encoded><![CDATA[28,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/745eacabc08f15eb219978fe98d30a9b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[David Bowie / Legacy (1CD, UK Import) *할인상품]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18366&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 08 Feb 2022 17:38:38 GMT</pubDate>
             <content:encoded><![CDATA[17,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/35b270e9e0f8ca3be4f992b54d2d01c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mitski / Laurel Hell (GET Version, Variant Cover 4 of 4) (CD, Digipack)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18183&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18183&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 08 Feb 2022 17:38:38 GMT</pubDate>
-            <content:encoded><![CDATA[17,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/5c2b3629d56a990bc04ea9d48489bbe8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
