@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Hip Hop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 05:50:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 17:39:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Little Simz / Sometimes I Might Be Introvert (CD, Digipak, US Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18409&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18409&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Sun, 13 Mar 2022 17:38:15 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/a665a42bbdd33ee649c10b8978fb5ce7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tyler. The Creator / IGOR (CD, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18387&amp;cate_no=45&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Oct 2021 18:40:07 GMT</pubDate>
             <content:encoded><![CDATA[19,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202110/9a1686604d931d8d9d546da53396489f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Evidence / Unlearning Vol.1 (CD, US Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17422&amp;cate_no=45&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17422&amp;cate_no=45&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/c530505ea0cc783e6d81ef19ab670aa4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
