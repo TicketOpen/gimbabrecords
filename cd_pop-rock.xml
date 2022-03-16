@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 05:38:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 17:41:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Divine Comedy / Charmed Life : The Best Of The Divine Comedy (2CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18427&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18427&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Mar 2022 17:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[20,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/110f283ad1b2d8e56ca11deebacf0260.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tom Misch / Quarantine Sessions (CD, 일본 한정 시디, 1곡의 보너스트랙 추가)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18399&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 08 Feb 2022 17:38:38 GMT</pubDate>
             <content:encoded><![CDATA[17,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/c5b93dca7ac864aeb975fcaacb1b2038.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mitski / Laurel Hell (EATEN Version, Variant Cover 3 of 4) (CD, Digipack)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18184&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18184&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 08 Feb 2022 17:38:38 GMT</pubDate>
-            <content:encoded><![CDATA[17,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/35b270e9e0f8ca3be4f992b54d2d01c8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
