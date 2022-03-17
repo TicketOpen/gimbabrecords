@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 05:38:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 17:41:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[은도희 eundohee / UNFORESEEN (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18449&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18449&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 17 Mar 2022 17:39:07 GMT</pubDate>
+            <content:encoded><![CDATA[12,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/caaddd1c5bbc3f54a965adc9aeaeaf03.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[The Divine Comedy / Charmed Life : The Best Of The Divine Comedy (2CD, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18427&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 07 Mar 2022 17:39:22 GMT</pubDate>
             <content:encoded><![CDATA[14,700원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/efd94e2a145713b23628ed63c45de82e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[David Bowie / Legacy (1CD, UK Import) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18366&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18366&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sun, 06 Mar 2022 05:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/fd1fbe65b6492d19869d2f80cc32aacc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
