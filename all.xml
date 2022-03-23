@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 05:38:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 17:41:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202011/fa83c1269accece7b68283c12a8075f5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[길옥윤, 이생강, 이성진, 류복성 / Spirit Junction: Korean Folk Music Meets Jazz (민속악과 재즈) (180g Vinyl) *예약상품 (3월 30일경 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18469&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18469&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 19 Mar 2022 05:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[47,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/b047a516e0ed2348ae60fceba2ebaf85.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[임재범 / 6집 To….. (180g, Colored Vinyl) *예약상품 (7월 5일경 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18445&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18445&amp;cate_no=42&amp;display_group=1</guid>
@@ -414,14 +422,6 @@
             <pubDate>Thu, 17 Mar 2022 17:39:35 GMT</pubDate>
             <content:encoded><![CDATA[67,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/d1cbc2a24e68a143400e37efd9d5b11f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[길옥윤, 이생강, 이성진, 류복성 / Spirit Junction: Korean Folk Music Meets Jazz (민속악과 재즈) (180g Vinyl) *예약상품 (3월 30일경 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18469&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18469&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sat, 19 Mar 2022 05:36:16 GMT</pubDate>
-            <content:encoded><![CDATA[47,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/b047a516e0ed2348ae60fceba2ebaf85.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[OST (Various Artists) / 슬기로운 의사생활 OST 시즌2 (2LP) *예약상품 (8월 22일경 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
