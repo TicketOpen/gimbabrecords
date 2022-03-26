@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 05:38:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 17:39:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Barrie / Barbara (CD) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18530&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18530&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Sat, 26 Mar 2022 17:38:30 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/2f5db8bca42406a001bb0de48d3a646b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Weeknd / Dawn FM (CD, Limited Edition, Alternate Cover, 아티스트 사인 포함) *1인 1매 구매 가능]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18513&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 20 Mar 2022 17:38:35 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/d8c3b1c442e49e91436216e2395a8464.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rolling Stones / Out Of Our Heads (CD, DSD Remaster, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18475&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18475&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Sun, 20 Mar 2022 17:38:35 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/eba07a817478087afc0ccbd09ac77ab8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
