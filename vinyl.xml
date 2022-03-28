@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 05:39:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 17:41:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Various Artists) / Quentin Tarantino's Once Upon a Time in Hollywood 원스 어폰 어 타임 인 할리우드 (2LP Black Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18560&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18560&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 28 Mar 2022 17:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[39,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/f1d2aac422c620dcd7de36220905806d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Serge Gainsbourg) / Madame Claude 마담 클로드 (180g Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18559&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18559&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 28 Mar 2022 17:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/f7033298652c435f1e25ea15d15c4973.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Joe Barbieri / Dear Billie (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18558&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Sat, 26 Mar 2022 17:37:44 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/0f9177597c1b90b64e37b517f4cda20c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hermeto Pascoal / Planetário da Gávea (Vinyl, 2LP) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18532&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18532&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 26 Mar 2022 17:37:44 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/40f791ec7545ef69fc45fbe6d5bff06f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Barrie / Barbara (Limited Orange Colored Vinyl) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18529&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18529&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 26 Mar 2022 17:37:44 GMT</pubDate>
-            <content:encoded><![CDATA[30,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/49b83f783efa0f1d36258444aaa13f94.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
