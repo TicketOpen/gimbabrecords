@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 05:39:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 17:42:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -400,12 +400,60 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/06ebc208c89812e6c2e29ed7686caa10.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[OST (Music by Remedios) / Love Letter 러브레터 (2022 Edition, Clear Vinyl, Exclusive Pressing) *2차 예약 (7월초 배송 예정) - 1인 1매 구매 / 무통장입금 주문의 경우 별도의 입금기한이 설정되어 있습니다. (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15762&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15762&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 29 Mar 2022 17:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[52,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202011/26d7a02f197f5c267decfb1810d8a434.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST / Chungking Express 重慶森林 중경삼림 (CD, ARS Series, Limited Edition) *예약상품 (4월말 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17280&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17280&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 10 Mar 2022 17:38:23 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202109/1aa18b1f56c07a1255522941a5e515e3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / Tokyo Glow (Vinyl, 2LP Black Vinyl with Gatefold Sleeve) *예약상품 (4월 1일경 발송 시작) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18365&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18365&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 05 Mar 2022 17:37:22 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/26e985c437b600d60732986d43ae8623.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삐삐롱스타킹 / 3집 One Way Ticket (140g Colored Vinyl) & 바보버스 (42g Colored 7" Vinyl) 합본반 *예약상품 (4월 25일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17924&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17924&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Fri, 25 Mar 2022 05:37:58 GMT</pubDate>
             <content:encoded><![CDATA[64,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/3eeaff234c61bdaff5b23083b915e8ad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hikaru Utada 우타다 히카루 / Deep River (Limited Vinyl, 180g 2LP, 보너스트랙 추가) *예약상품 (9월중 2차 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18016&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18016&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 29 Mar 2022 17:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[64,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/9dfa0e7cacc326107e74fc177a49b55e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hikaru Utada 우타다 히카루 / Distance (Limited Vinyl, 180g 2LP, 보너스트랙 추가) *예약상품 (9월중 2차 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18015&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18015&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 29 Mar 2022 17:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[64,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/30e841f1c3827c6aadb3ea62f422e08b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hikaru Utada 우타다 히카루 / First Love (Limited Vinyl, 180g 2LP, 보너스트랙 추가) *예약상품 (9월 - 2차 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18014&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18014&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 29 Mar 2022 17:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[64,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/c8d15124a3ccf1a8f912fbea1612eb5a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임재범 / 6집 To….. (180g, Colored Vinyl) *예약상품 (7월 5일경 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -438,54 +486,6 @@
             <pubDate>Wed, 02 Mar 2022 05:35:24 GMT</pubDate>
             <content:encoded><![CDATA[74,100원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/52bd46809d9b3cf1884973c2b6228b09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[edbl / South London Sounds (Vinyl, Limited Edition, JPN Import) *예약상품 (4월 첫째주 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18452&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18452&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 17 Mar 2022 17:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/d64d8434cc5a46052cb6700957a2da31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / Tokyo Glow (Vinyl, 2LP Black Vinyl with Gatefold Sleeve) *예약상품 (4월 1일경 발송 시작) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18365&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18365&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sat, 05 Mar 2022 17:37:22 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/26e985c437b600d60732986d43ae8623.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST / Chungking Express 重慶森林 중경삼림 (CD, ARS Series, Limited Edition) *예약상품 (4월말 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17280&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17280&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 10 Mar 2022 17:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202109/1aa18b1f56c07a1255522941a5e515e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실리카겔 / Kyo181 / Desert Eagle (Limited 7" Vinyl, K-Indies Series, 일본 프레싱) *예약상품 (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18295&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18295&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 22 Feb 2022 17:38:34 GMT</pubDate>
-            <content:encoded><![CDATA[27,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/ea9ccd21d36954fe26f41c94f1cc1020.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나상현씨밴드 / 여름빛 / 덩그러니 (Limited 7", K-Indies Series, 일본 프레싱) *예약상품 (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18297&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18297&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 22 Feb 2022 17:38:34 GMT</pubDate>
-            <content:encoded><![CDATA[27,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/0f8c2faa1932ce366903239543c3072e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글렌체크 / Dazed & Confused / Dive Baby, Dive (Limited 7" Vinyl, K-Indies Series, 일본 프레싱) *예약상품 (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18296&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18296&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 29 Mar 2022 05:38:08 GMT</pubDate>
-            <content:encoded><![CDATA[27,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/147a96a21381d2a5f6f6ee3b19fc9ac4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bruce Springsteen / Born to Run - 30th Anniversary Edition (2DVD + CD - DVD는 Pal 방식) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
