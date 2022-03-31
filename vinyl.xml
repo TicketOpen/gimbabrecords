@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 17:40:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 05:38:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Alex G / DSU (Vinyl, 12" LP + Bonus 7")]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18568&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18568&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 31 Mar 2022 05:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[40,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/17670048bd89610ca6ced38965ab588c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alex G / Rules (Vinyl, 12" LP + Bonus 7")]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18567&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18567&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 31 Mar 2022 05:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[40,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/f33854ee1cb5e9043e0b800bef27f933.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[O.S.T. ( Music by Frankie Chan Fan Kei and Roel A. Garcia , including track sang by Chyi Chin齊秦 ) / Fallen Angels 타락천사 (Limited Glow In The Dark Vinyl 형광색 바이닐) *1인 1매 구매 가능/ 구매시 유의사항을 꼭 확인하세요.]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18565&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Sun, 27 Mar 2022 17:39:10 GMT</pubDate>
             <content:encoded><![CDATA[28,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/01ddf2b23483234722a43cd78ab7bbef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Toe / The Future Is Now (10" Vinyl + 접이식 포스터, Limited Colored Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18552&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18552&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 27 Mar 2022 17:39:10 GMT</pubDate>
-            <content:encoded><![CDATA[28,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/471abc22eda2e6959a42aa9089bbc0ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Branko Mataja / Over Fields And Mountains (White Blossom Colored Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18551&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18551&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 27 Mar 2022 17:39:10 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/4dc1da7f31d307d91f832666a7647890.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
