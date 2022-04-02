@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 05:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 17:40:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DJ Quik / Safe + Sound (Vinyl, 2LP, 2022 Remaster)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18588&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18588&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 02 Apr 2022 17:38:01 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/2ae641bd3493591f104eb92116df2c83.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DJ Quik / Rhythm-Al-Ism (Vinyl, 2LP, 2022 UK Remaster)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18587&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18587&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 02 Apr 2022 17:38:01 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/5b727e9fe80e49435957962cac6774d3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Juice WRLD / Fighting Demons (Vinyl, 2LP) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18586&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18586&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 02 Apr 2022 17:38:01 GMT</pubDate>
+            <content:encoded><![CDATA[46,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/c0514744179bdec04185a79d06968fa1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cecile McLorin Salvant / Ghost Song (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18584&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Thu, 31 Mar 2022 17:40:00 GMT</pubDate>
             <content:encoded><![CDATA[35,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/4fdc7befafb96a3fbad32f1fac64c719.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Broadcast / Microtronics - Volumes 1 & 2 (Vinyl + Download Code)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18573&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18573&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 31 Mar 2022 17:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[35,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/82e8c26d3262682c74a11e8748d9e704.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Broadcast / BBC Maida Vale Sessions (2LP + Download Card)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18572&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18572&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 31 Mar 2022 17:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[41,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/63724914189d5a67bcb2d26a29b531d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Khruangbin & Leon Bridges / Texas Moon (EP, 12" Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18569&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18569&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 31 Mar 2022 17:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[27,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/d1395f9bdb8e2ff64108993212fbf699.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

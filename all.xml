@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 05:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 17:40:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Weeknd / The Highlights (CD, UK/ EU Import) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18585&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18585&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sat, 02 Apr 2022 17:37:53 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/9f3600a6c66a86dbd6a39dd808f9c899.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[김사월 / 라이브앨범 1202 (2CD) *1인 1매 구매 가능 (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18577&amp;cate_no=24&amp;display_group=1</link>
@@ -96,12 +104,28 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/3d645c0e3553f0ae67d870d23864a405.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Pink Floyd / Echoes - The Best Of Pink Floyd (2CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18542&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18542&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sun, 27 Mar 2022 17:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/bcd09b821aa773b2228aff0d523d0fcd.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[DJ Quik / Safe + Sound (Vinyl, 2LP, 2022 Remaster) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18588&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18588&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 02 Apr 2022 17:38:01 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/2ae641bd3493591f104eb92116df2c83.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DJ Quik / Rhythm-Al-Ism (Vinyl, 2LP, 2022 UK Remaster) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18587&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18587&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 02 Apr 2022 17:38:01 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/5b727e9fe80e49435957962cac6774d3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Juice WRLD / Fighting Demons (Vinyl, 2LP) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18586&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18586&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 02 Apr 2022 17:38:01 GMT</pubDate>
+            <content:encoded><![CDATA[46,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/c0514744179bdec04185a79d06968fa1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Cecile McLorin Salvant / Ghost Song (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
@@ -174,30 +198,6 @@
             <pubDate>Thu, 31 Mar 2022 17:40:00 GMT</pubDate>
             <content:encoded><![CDATA[35,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/4fdc7befafb96a3fbad32f1fac64c719.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Broadcast / Microtronics - Volumes 1 & 2 (Vinyl + Download Code) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18573&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18573&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 31 Mar 2022 17:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[35,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/82e8c26d3262682c74a11e8748d9e704.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Broadcast / BBC Maida Vale Sessions (2LP + Download Card) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18572&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18572&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 31 Mar 2022 17:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[41,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/63724914189d5a67bcb2d26a29b531d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Khruangbin & Leon Bridges / Texas Moon (EP, 12" Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18569&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18569&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 31 Mar 2022 17:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[27,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/d1395f9bdb8e2ff64108993212fbf699.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Khruangbin & Leon Bridges / Texas Moon (Blue Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -680,6 +680,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/a5801de5513d47bb0ae01a13a6341c46.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Weeknd / The Highlights (CD, UK/ EU Import) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18585&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18585&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Sat, 02 Apr 2022 17:38:44 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/9f3600a6c66a86dbd6a39dd808f9c899.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[Khruangbin & Leon Bridges / Texas Moon (CD, Digipak) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18571&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18571&amp;cate_no=30&amp;display_group=1</guid>
@@ -766,14 +774,6 @@
             <pubDate>Sun, 27 Mar 2022 17:39:56 GMT</pubDate>
             <content:encoded><![CDATA[16,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/7f3117ada2ea858ed699fdefe9ba45c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pink Floyd / Meddle (CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18539&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18539&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Sun, 27 Mar 2022 17:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[16,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/b3452b914677320cc7bb90a5b4fab4db.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CLAP! CLAP! / Tayi Bebba (CD, Limited Edition, JPN Import) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
