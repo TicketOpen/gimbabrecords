@@ -1,107 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
     <channel>
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 05:38:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 17:43:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[France Gall / Poupée de Cire, Poupée de Son (Vinyl, US Third Man Records Pressing)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18590&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18590&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 03 Apr 2022 17:38:05 GMT</pubDate>
-            <content:encoded><![CDATA[41,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/ac6d552198fe6ead6e5d2c4a6411d5da.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Yeule 음반들 --> gimbabrecords2.com에서 판매하고 있습니다. (상품을 클릭하시면 구매 가능한 링크를 보실 수 있습니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18614&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18614&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Apr 2022 17:41:28 GMT</pubDate>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/659cac121a3e650fd444f7d3a3bf5340.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[The Beach Boys / Feel Flows: The Sunflower & Surf's Up Sessions 1969-1971 (4LP Box Set) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18589&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18589&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 03 Apr 2022 17:38:05 GMT</pubDate>
-            <content:encoded><![CDATA[113,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/a06f2e315462804d03a2b9285596dde2.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Fishmans 일부 음반들 --> gimbabrecords2.com에서 판매하는 중입니다. (상품을 클릭하시면 구매 가능한 링크를 보실 수 있습니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18613&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18613&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Apr 2022 17:41:28 GMT</pubDate>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/f42f76b196232ca28113117d24f3be55.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[DJ Quik / Safe + Sound (Vinyl, 2LP, 2022 Remaster)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18588&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18588&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 02 Apr 2022 17:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[44,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/2ae641bd3493591f104eb92116df2c83.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Port Of Notes / Two --> gimbabrecords2.com에서 할인판매 중입니다. (상품을 클릭하시면 구매 가능한 링크를 보실 수 있습니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18612&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18612&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Apr 2022 17:41:28 GMT</pubDate>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/089579d3cf8885d800f551a8013b5229.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[DJ Quik / Rhythm-Al-Ism (Vinyl, 2LP, 2022 UK Remaster)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18587&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18587&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 02 Apr 2022 17:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[44,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/5b727e9fe80e49435957962cac6774d3.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Lupin The Third Jam Crew / 루팡 3세 Lupin The Third Jam -Remix- -->gimbabrecords2.com에서 구매가 가능합니다. (상품을 클릭하시면 구매 가능한 링크를 보실 수 있습니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18611&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18611&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Apr 2022 17:41:28 GMT</pubDate>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/269fb44d5bc4f24e99f4c328093bf6ce.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Juice WRLD / Fighting Demons (Vinyl, 2LP) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18586&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18586&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 02 Apr 2022 17:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/c0514744179bdec04185a79d06968fa1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Pino Palladino, Blake Mills / Notes With Attachments -->gimbabrecords2.com에서 구매가 가능합니다. (상품을 클릭하시면 구매 가능한 링크를 보실 수 있습니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18610&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18610&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Apr 2022 17:41:28 GMT</pubDate>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/fae06ea509d68032377adb8e757f1cf0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Cecile McLorin Salvant / Ghost Song (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18584&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18584&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 01 Apr 2022 17:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[32,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/090b6f6c4398c51f770947673913dc90.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[OST / Bridgerton 브리저튼 --> gimbabrecords2.com에서 주문 가능합니다. (상품을 클릭하시면 구매 가능한 링크를 보실 수 있습니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18609&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18609&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Apr 2022 17:41:28 GMT</pubDate>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/84b768062432fdd684f35e35c8a5d092.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[FKJ / Ylang Ylang (Deluxe Edition Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18583&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18583&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 01 Apr 2022 17:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/77ad6e2f7b397c0870300a7f4a4640c9.png" length="0" type="image/png"/>
+            <title><![CDATA[Spiritualized 재발매 바이닐 --> gimbabrecords2.com에서 구매가 가능합니다. (상품을 클릭하시면 구매 가능한 링크를 보실 수 있습니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18608&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18608&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Apr 2022 17:41:28 GMT</pubDate>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/d828ff2f88b67ef04c06b5fb830b09d8.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Jimmy Heath / Love Letter (Vinyl, US)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18582&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18582&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 01 Apr 2022 17:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/56821edc0e2a588c5aac47b295898e12.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[OST / Drive My Car 드라이브 마이 카 --> gimbabrecords2.com에서 구매가 가능합니다. (상품을 클릭하시면 구매 가능한 링크를 보실 수 있습니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18607&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18607&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Apr 2022 17:41:28 GMT</pubDate>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/a373e07a7187231249e0aece001412f7.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Lisa Loeb & Nine Stories / Tails (Vinyl, Splatter Colored, 유니버설 재팬 기획)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18581&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18581&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 01 Apr 2022 05:36:16 GMT</pubDate>
-            <content:encoded><![CDATA[51,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/52fe6ac20b138fae2722180977d0ca42.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Sunset Rollercoaster 바이닐 --> gimbabrecords2.com에서 구매가 가능합니다. (상품을 클릭하시면 구매 가능한 링크를 보실 수 있습니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18606&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18606&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Apr 2022 17:41:28 GMT</pubDate>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/d7904f5642f4545b545744d7c0fc4802.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Chara / Chara's Time Machine (Selected by SUMIRE) (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18580&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18580&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 01 Apr 2022 05:36:16 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/63c903e03c426d5b34a2c4353856ead9.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[5 Seconds Of Summer 앨범들 --> gimbabrecords2.com에서 구매가 가능합니다. (상품을 클릭하시면 구매 가능한 링크를 보실 수 있습니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18605&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18605&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Apr 2022 17:41:28 GMT</pubDate>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/d08ef943a7987770864f28af86781124.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[NIAGARA TRIANGLE  (Eiichi Otaki, Motoharu Sano, Masamichi Sugi) / NIAGARA TRIANGLE Vol.2 (Vinyl, 2LP, 40th Anniversary Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18579&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18579&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 01 Apr 2022 05:36:16 GMT</pubDate>
-            <content:encoded><![CDATA[58,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/d79ac75593eddd91365e65e3c3164b23.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Avril Lavigne 앨범들 --> gimbabrecords2.com 에서 구매가 가능합니다. (상품을 클릭하시면 구매 가능한 링크를 보실 수 있습니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18604&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18604&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Apr 2022 17:41:28 GMT</pubDate>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/b33cf85acaf8255dd4e58fc86033945c.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Various Artists / Late Night Tales: Air (2LP Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18576&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18576&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 31 Mar 2022 17:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[41,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/4b6bd180f8b79256ef537230dca168da.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Shawn Mendes 앨범들 --> gimbabrecords2.com에서 구매가 가능합니다. (상품을 클릭하시면 구매 가능한 링크를 보실 수 있습니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18603&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18603&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Apr 2022 17:41:28 GMT</pubDate>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/e96aed7ba345b19f9c959037e3733fc1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 05:38:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 17:43:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Various Artists / (DJ Notoya Presents) Tokyo Glow (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18615&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18615&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Apr 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[26,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/569a60c115f3f06c7c18bf772a932e69.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Weeknd / The Highlights (CD, UK/ EU Import) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18585&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 27 Mar 2022 17:39:01 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/26538f09538045184fe6a9305bd7a758.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Queen / A Night At The Opera (2CD, Deluxe) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18543&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18543&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sun, 27 Mar 2022 17:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/3d645c0e3553f0ae67d870d23864a405.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
