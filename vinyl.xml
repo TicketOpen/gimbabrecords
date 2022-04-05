@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 17:43:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 05:38:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kalapana / Kalapana (Limited Sky Blue Colored Vinyl, 300매 한정반) *1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18617&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18617&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 05 Apr 2022 05:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[50,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/8011be3cf4134909b539eda6fd7a9143.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kalapana / Kalapana (Black Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18616&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18616&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 05 Apr 2022 05:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[37,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/02f37e86cb9f1e47277edd672f3f4052.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Yeule 음반들 --> gimbabrecords2.com에서 판매하고 있습니다. (상품을 클릭하시면 구매 가능한 링크를 보실 수 있습니다.)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18614&amp;cate_no=25&amp;display_group=1</link>
@@ -76,20 +92,6 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18605&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Mon, 04 Apr 2022 17:41:28 GMT</pubDate>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/d08ef943a7987770864f28af86781124.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Avril Lavigne 앨범들 --> gimbabrecords2.com 에서 구매가 가능합니다. (상품을 클릭하시면 구매 가능한 링크를 보실 수 있습니다.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18604&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18604&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 04 Apr 2022 17:41:28 GMT</pubDate>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/b33cf85acaf8255dd4e58fc86033945c.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Shawn Mendes 앨범들 --> gimbabrecords2.com에서 구매가 가능합니다. (상품을 클릭하시면 구매 가능한 링크를 보실 수 있습니다.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18603&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18603&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 04 Apr 2022 17:41:28 GMT</pubDate>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/e96aed7ba345b19f9c959037e3733fc1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
