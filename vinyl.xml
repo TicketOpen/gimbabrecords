@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 05:37:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 17:40:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Colin Blunstone / One Year (50th Anniversary Edition with Bonus LP, 2LP, 보너스트랙 14곡 추가)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18644&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18644&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 10 Apr 2022 17:38:16 GMT</pubDate>
+            <content:encoded><![CDATA[46,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/42e64c81dc1940980b8d88214cd69e6a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FOG / Fogesque (Milky Clear with Pink Splatter Vinyl) *1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18643&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18643&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 10 Apr 2022 17:38:16 GMT</pubDate>
+            <content:encoded><![CDATA[30,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/2be81e8506357cf95cc9f9fe86567a51.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various Artists (ATA Records) / The Library Archive Vol. 1 (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18638&amp;cate_no=25&amp;display_group=1</link>
@@ -86,21 +102,6 @@
             <pubDate>Tue, 05 Apr 2022 05:36:21 GMT</pubDate>
             <content:encoded><![CDATA[50,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/8011be3cf4134909b539eda6fd7a9143.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kalapana / Kalapana (Black Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18616&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18616&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 05 Apr 2022 05:36:21 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/02f37e86cb9f1e47277edd672f3f4052.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yeule 음반들 --> gimbabrecords2.com에서 판매하고 있습니다. (상품을 클릭하시면 구매 가능한 링크를 보실 수 있습니다.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18614&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18614&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 04 Apr 2022 17:41:28 GMT</pubDate>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/659cac121a3e650fd444f7d3a3bf5340.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
