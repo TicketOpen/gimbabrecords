@@ -4,9 +4,41 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 05:39:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 17:43:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Al Johnson / Peaceful (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18649&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18649&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 11 Apr 2022 17:41:26 GMT</pubDate>
+            <content:encoded><![CDATA[43,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/f149aa79aefbabb704a74806444ebadf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jeff Redd / Down Low (Vinyl, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18648&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18648&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 11 Apr 2022 17:41:26 GMT</pubDate>
+            <content:encoded><![CDATA[43,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/f7ffc42bf3ba388e8ab20c1b2580f765.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[King Crimson / 1969 – 1972 (Limited Edition Vinyl Boxed Set, 6LP) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18647&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18647&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 11 Apr 2022 17:41:26 GMT</pubDate>
+            <content:encoded><![CDATA[189,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/def07be5a090e28da46730edd5f7dc4f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Karen Dalton / In My Own Time (50th Anniversary Edition, Limited Crystal Clear Vinyl, 1인 1매만 구매 가능)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18645&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18645&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 11 Apr 2022 17:41:26 GMT</pubDate>
+            <content:encoded><![CDATA[57,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/875128f5f4ec452d6ece8fe377db78fe.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Colin Blunstone / One Year (50th Anniversary Edition with Bonus LP, 2LP, 보너스트랙 14곡 추가)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18644&amp;cate_no=25&amp;display_group=1</link>
@@ -70,38 +102,6 @@
             <pubDate>Fri, 08 Apr 2022 17:42:06 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/44ce735311b201d2285e1284386be318.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[M83 / Hurry Up, We're Dreaming (RSD Essential Blue & Pink Marble 2LP) *구매제한이 있고, 무통장입금 주문의 경우 입금기한이 별도로 설정되어 있습니다.]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18621&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18621&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 07 Apr 2022 17:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[55,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/64ff05a08c0ffa02c5cef233682134be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Michael Buble / Crazy Love (Vinyl, New Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18619&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18619&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 07 Apr 2022 17:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/c560099b5a729a3a33d8ce3960760f26.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Michael Buble / To Be Loved (180g Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18618&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18618&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 07 Apr 2022 17:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[22,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/f475c268837921fd434a8ea1a5ae811d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kalapana / Kalapana (Limited Sky Blue Colored Vinyl, 300매 한정반) *1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18617&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18617&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 05 Apr 2022 05:36:21 GMT</pubDate>
-            <content:encoded><![CDATA[50,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/8011be3cf4134909b539eda6fd7a9143.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

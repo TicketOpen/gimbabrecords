@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 05:39:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 17:43:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Karen Dalton / In My Own Time (50th Anniversary Edition, CD, 보너스트랙 추가)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18646&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18646&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 11 Apr 2022 17:41:17 GMT</pubDate>
+            <content:encoded><![CDATA[24,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/7deb5bb1723ef133030df1da92a77515.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Dexter Gordon & Slide Hampton / A Day In Copenhagen (CD, MPS Reissue)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18642&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 08 Apr 2022 05:36:38 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/66d2d37cb9b64f03044ae59fb00eadf8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brian Eno / Film Music 1976-2020 (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18624&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18624&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 08 Apr 2022 05:36:38 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/48b3dfd7c5640077af1a57b384172568.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
