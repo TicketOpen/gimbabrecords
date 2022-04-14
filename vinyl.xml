@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 05:38:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 17:43:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Holybrune / JoyRide (12" Vinyl, EP) *1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18667&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18667&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 14 Apr 2022 17:41:43 GMT</pubDate>
+            <content:encoded><![CDATA[25,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/e3e55ffff355ac7104f916e9f03d118d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tahiti 80 / Puzzle (Vinyl, 2022 Pressing) *추가 할인상품 (쟈켓에 옅은 주름이 있습니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18666&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18666&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 14 Apr 2022 17:41:43 GMT</pubDate>
+            <content:encoded><![CDATA[31,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/f53696edf1259c95ae7a92e0aaaef14b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tahiti 90 / Puzzle (Vinyl, 2022 Pressing) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18665&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18665&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 14 Apr 2022 17:41:43 GMT</pubDate>
+            <content:encoded><![CDATA[32,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/a4b03d5ce0e87f642199c20f65a4300d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Foster the People / Torches X (2LP Orange Vinyl, 10th Anniversary Deluxe Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18659&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Mon, 11 Apr 2022 17:41:26 GMT</pubDate>
             <content:encoded><![CDATA[189,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/def07be5a090e28da46730edd5f7dc4f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Karen Dalton / In My Own Time (50th Anniversary Edition, Limited Crystal Clear Vinyl, 1인 1매만 구매 가능)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18645&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18645&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 11 Apr 2022 17:41:26 GMT</pubDate>
-            <content:encoded><![CDATA[57,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/875128f5f4ec452d6ece8fe377db78fe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Colin Blunstone / One Year (50th Anniversary Edition with Bonus LP, 2LP, 보너스트랙 14곡 추가)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18644&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18644&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 10 Apr 2022 17:38:16 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/42e64c81dc1940980b8d88214cd69e6a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FOG / Fogesque (Milky Clear with Pink Splatter Vinyl) *1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18643&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18643&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 10 Apr 2022 17:38:16 GMT</pubDate>
-            <content:encoded><![CDATA[30,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/2be81e8506357cf95cc9f9fe86567a51.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

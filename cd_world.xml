@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 05:38:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 17:43:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Various Artists / Libertango - Best Of Astor Piazzolla (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18662&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18662&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Thu, 14 Apr 2022 17:43:02 GMT</pubDate>
+            <content:encoded><![CDATA[11,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/acfa340634ed35927662fe9e0a2f3e82.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Alex Malheiros / Tempos Futuros (CD) *바이닐에 수록되지 않은 3곡이 추가되어 있습니다.]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18534&amp;cate_no=79&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 15 Jan 2022 17:46:36 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/905ed4e9a939b8b4a06130754b7eeaca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunset Rollercoaster / Soft Storm 柔性風暴 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18049&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18049&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Sat, 15 Jan 2022 17:46:36 GMT</pubDate>
-            <content:encoded><![CDATA[25,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/988c7919e96f37a06fb199f7d229bad6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Hip Hop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 05:38:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 17:43:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[XXXTentacion / Bad Vibes Forever (CD, US Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18664&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18664&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Thu, 14 Apr 2022 17:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/ef8ebfa82219847f06e3d0ebda6902be.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6LACK / East Atlanta Love Letter (CD, EU Import) *할인상품]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18563&amp;cate_no=45&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Oct 2021 18:40:07 GMT</pubDate>
             <content:encoded><![CDATA[20,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202110/c365568925ebef15e0c9f3fc6f64f519.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kiefer / Superbloom (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17563&amp;cate_no=45&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17563&amp;cate_no=45&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/57f1fb0daac0dcec45fcaa4c656c7ea6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

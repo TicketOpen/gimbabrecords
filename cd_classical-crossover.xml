@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Classical/Crossover</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 05:38:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 17:43:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Various Artists / Libertango - Best Of Astor Piazzolla (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18662&amp;cate_no=50&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18662&amp;cate_no=50&amp;display_group=1</guid>
+            <pubDate>Thu, 14 Apr 2022 17:43:08 GMT</pubDate>
+            <content:encoded><![CDATA[11,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/acfa340634ed35927662fe9e0a2f3e82.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jherek Bischoff / Composed (CD, UK Import) *할인상품]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18498&amp;cate_no=50&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Oct 2021 18:42:33 GMT</pubDate>
             <content:encoded><![CDATA[16,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201909/13e7d13dde0ae829d1e3784827253949.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jóhann Jóhannsson (Johann Johannsson) / The Mercy (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=12294&amp;cate_no=50&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=12294&amp;cate_no=50&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[17,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201811/c86e382b577cc0db56e1e453dd63426b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
