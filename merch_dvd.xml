@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 05:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 17:43:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tool / Opiate² (Blu-ray + 46p Hardcover Art Book)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18681&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18681&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Apr 2022 17:43:49 GMT</pubDate>
+            <content:encoded><![CDATA[52,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/8d56d378cf50f231a771a15ec7647ae7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Peanuts Holiday Anniversary Collection (Charlie Brown Christmas 포함) 찰리 브라운 크리스마스 등 피너츠 3대 클래식을 모두 모은 "홀리데이 컬렉션" (Blu-ray, US IMPORT)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17872&amp;cate_no=64&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 24 Feb 2022 17:40:29 GMT</pubDate>
             <content:encoded><![CDATA[21,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201812/a424631eb6fcfce1d2f9f39034aba8e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pat Metheny Group / Way Up Live (Live In Seoul) LG아트센터 공연 실황 (Blu-Ray) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=11806&amp;cate_no=64&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=11806&amp;cate_no=64&amp;display_group=1</guid>
-            <pubDate>Thu, 24 Feb 2022 17:40:29 GMT</pubDate>
-            <content:encoded><![CDATA[16,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201809/8bd41b83c7eea3ebff321be65fb75f16.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
