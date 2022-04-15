@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 17:43:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 05:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tahiti 80 / Here With You (CD) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18669&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18669&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Apr 2022 05:40:44 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/a29e29c17698c99aece37f1763e2e104.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Delines / The Sea Drift (CD, US Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18663&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 27 Mar 2022 17:39:56 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/c3ec05dd7460912b442d94bbff8799cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Queen / News Of The World (2CD Deluxe) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18544&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18544&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Sun, 27 Mar 2022 17:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/26538f09538045184fe6a9305bd7a758.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
