@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Electronic/Dance</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 05:38:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 17:40:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jon Hopkins / Piano Versions (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18690&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18690&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Sat, 16 Apr 2022 17:39:28 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/730a3173d9d2d2615fd8ebe94ca6a204.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[CLAP! CLAP! / Tayi Bebba (CD, Limited Edition, JPN Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18167&amp;cate_no=31&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Oct 2021 18:39:49 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202105/c7ceecf2d4a33933fa0bb734956791cf.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Dorian Concept / The Nature of Imitation (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=16383&amp;cate_no=31&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=16383&amp;cate_no=31&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:39:49 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202104/2a59f641514be9074a50e20aa2ff615d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
