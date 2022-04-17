@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 05:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 17:40:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Destroyer / Labyrinthitis (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18695&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18695&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Sun, 17 Apr 2022 17:39:23 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/fd55e6c60ccadb555bb2083deb045661.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beirut / Artifacts (2CD) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18693&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18693&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Sun, 17 Apr 2022 17:39:23 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/265f5d7020faaf7a0c58cb07d6bc5268.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tahiti 80 / Here With You (CD) *할인상품]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18669&amp;cate_no=30&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Sun, 27 Mar 2022 17:39:56 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/a6a0fb898b0b7ede65dc6b87927f0060.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Queen / Sheer Heart Attack (2CD Deluxe) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18546&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18546&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Sun, 27 Mar 2022 17:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/fd10afd26fc096c9cbe632e2c54bfa60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Queen / Hot Space (2CD Deluxe) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18545&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18545&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Sun, 27 Mar 2022 17:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/c3ec05dd7460912b442d94bbff8799cd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
