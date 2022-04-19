@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 17:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 05:44:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,7 +104,23 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/f8be5679aa9fcd91772fa78eb0a7a000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[M. Ward / Transistor Radio (180g Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <title><![CDATA[Vicente Amigo / Ciudad De Las Ideas (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18706&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18706&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Apr 2022 05:42:41 GMT</pubDate>
+            <content:encoded><![CDATA[35,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/9116ac7a730e9112469d2c3888b7ab1c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Valensia / Valensia (Limited Blue Colored Vinyl, 500매 한정반) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18705&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18705&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Apr 2022 05:42:41 GMT</pubDate>
+            <content:encoded><![CDATA[33,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/64867bfd34db017e96ef8a3110f547b6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[M. Ward / Transistor Radio (180g Vinyl + Bonus CD + Download) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18704&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18704&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Mon, 18 Apr 2022 17:41:39 GMT</pubDate>
@@ -118,6 +134,14 @@
             <pubDate>Mon, 18 Apr 2022 17:41:39 GMT</pubDate>
             <content:encoded><![CDATA[31,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/59a66888a54cbdc996ff0bf71eabf7c5.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[M. Ward / Migration Stories (Opaque White Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18702&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18702&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Apr 2022 05:42:41 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/fde9f18fa6f2fac0f9e2bb9a4512cb4c.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[M. Ward / Think Of Spring (Translucent Orange Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
@@ -174,30 +198,6 @@
             <pubDate>Sat, 16 Apr 2022 17:38:45 GMT</pubDate>
             <content:encoded><![CDATA[38,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/a058ea862cb15556a464d329abfb3721.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jon Hopkins / Piano Versions (12" Limited Colored Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18689&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18689&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 16 Apr 2022 17:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/b5fea0abecfc564a91bc4213f330232e.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jon Hopkins / Music For Psychedelic Therapy (Limited Clear Vinyl 2LP + Download) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18688&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18688&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 16 Apr 2022 17:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/aa3c74d9a573c912281709a4aa796d67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jon Hopkins / Music For Psychedelic Therapy (Black Vinyl 2LP + Download) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18687&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18687&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 16 Apr 2022 17:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/b3f400b16289475d2f37cc362d1d4aa0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DJ Tenniscoats / German Mix Vol.2 (Cassette, 소량 한정 제작) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202105/ebdb776fb8672e3492813de2abdb23e3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Tomoko Aran / 浮遊空間 (Fuyü-Kükan) (Vinyl, 2022 2nd Pressing - Limited Clear Vinyl) *예약상품 (7월초 발송 예정) / 별도의 입금기한이 설정되어 있습니다. (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=12650&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=12650&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Apr 2022 17:42:12 GMT</pubDate>
+            <content:encoded><![CDATA[52,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201903/70ca136848dfda22bf23cf13ea168975.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전람회 / 2집 (Exhibition 2) (Vinyl) *예약상품 (8월 30일 이후 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18699&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18699&amp;cate_no=42&amp;display_group=1</guid>
@@ -438,14 +446,6 @@
             <pubDate>Wed, 13 Apr 2022 17:42:12 GMT</pubDate>
             <content:encoded><![CDATA[54,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202106/8e03c48ceb424c881df7a1786c965632.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tomoko Aran / 浮遊空間 (Fuyü-Kükan) (Vinyl, 2022 2nd Pressing - Limited Clear Vinyl) *예약상품 (7월초 발송 예정) / 별도의 입금기한이 설정되어 있습니다. (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=12650&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=12650&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Apr 2022 17:42:12 GMT</pubDate>
-            <content:encoded><![CDATA[52,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201903/70ca136848dfda22bf23cf13ea168975.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OST / Chungking Express 重慶森林 중경삼림 (CD, ARS Series, Limited Edition) *예약상품 (4월말 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
