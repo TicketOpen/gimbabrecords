@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 05:44:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 17:46:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에몬 x 놀이도감 (Emon x Playbook) / Cross Work (7" Vinyl) *예약판매 (4월 29일 발송예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18708&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18708&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Apr 2022 17:46:38 GMT</pubDate>
+            <content:encoded><![CDATA[29,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/f4d1501f7f622205ca0488826ac3da3f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전람회 / 2집 (Exhibition 2) (Vinyl) *예약상품 (8월 30일 이후 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18699&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 19 Mar 2022 05:37:46 GMT</pubDate>
             <content:encoded><![CDATA[47,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/b047a516e0ed2348ae60fceba2ebaf85.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[네스티요나 / 아홉가지 기분 (180g 비어옐로우 컬러 Vinyl) *1인 1매 / 별도의 입금기한 설정 (구매시 유의사항을 참조하세요)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18465&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18465&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Fri, 18 Mar 2022 17:42:49 GMT</pubDate>
-            <content:encoded><![CDATA[43,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/0c776daf8bd51ba0b8212085c4631bf4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
