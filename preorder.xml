@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 05:54:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 17:48:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[edbl / South London Sounds (Vinyl, Limited Edition, JPN Import) *예약상품 (7월 중순 이후 배송 예정) / 4월 20일 예약주문 마감]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18452&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18452&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 18 Apr 2022 17:41:57 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/d64d8434cc5a46052cb6700957a2da31.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에몬 x 놀이도감 (Emon x Playbook) / Cross Work (7" Vinyl) *예약판매 (4월 29일 발송예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18708&amp;cate_no=42&amp;display_group=1</link>
@@ -30,14 +38,6 @@
             <pubDate>Wed, 13 Apr 2022 17:42:12 GMT</pubDate>
             <content:encoded><![CDATA[52,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201903/70ca136848dfda22bf23cf13ea168975.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[edbl / South London Sounds (Vinyl, Limited Edition, JPN Import) *예약상품 (7월 중순 이후 배송 예정) / 4월 20일 예약주문 마감]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18452&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18452&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Apr 2022 17:41:57 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/d64d8434cc5a46052cb6700957a2da31.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Al Johnson / Peaceful (Vinyl) *예약판매 (4월말 배송 예정)]]></title>
