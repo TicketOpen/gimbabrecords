@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Movies/Merch</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 05:55:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 17:47:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Keith Jarrett / The Art Of Improvisation (Documentary) (Blu-ray)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18779&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18779&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Fri, 22 Apr 2022 17:46:09 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/a81d047aa4c871b1f2e985615a398138.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tool / Opiate² (Blu-ray + 46p Hardcover Art Book)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18681&amp;cate_no=27&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Oct 2021 18:00:20 GMT</pubDate>
             <content:encoded><![CDATA[42,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/53ac4b10170f97b92d4e006db72d29fb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vinyl Styl 7인치 보호비닐 50매 (Poly Sleeve Outer Record Sleeve For 7 Inch, 사이즈 7 9/16″ x 7 5/8″)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=16496&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=16496&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Thu, 24 Feb 2022 17:38:35 GMT</pubDate>
-            <content:encoded><![CDATA[12,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202105/ebdb776fb8672e3492813de2abdb23e3.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
