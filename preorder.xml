@@ -4,17 +4,9 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 05:39:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 17:46:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Various Artists / Light Mellow Sealine (3CD, 나가이 히로시 일러스트) *예약상품 (5월 16일 이후 배송 시작)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=10612&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=10612&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Apr 2022 17:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201808/a564c37decb60848aed282272aa0b3f8.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Ghostly Kisses / Heaven, Wait (White Colored Vinyl) *예약상품 (5월 13일 이후 배송 시작)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18793&amp;cate_no=42&amp;display_group=1</link>
@@ -22,6 +14,22 @@
             <pubDate>Sat, 23 Apr 2022 17:39:48 GMT</pubDate>
             <content:encoded><![CDATA[31,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/8f7daee9d0d45093661102fa75d406c6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[edbl / Brockwell Mixtape (Vinyl) *예약상품 (5월 20일 이후 발송이 시작됩니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18773&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18773&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 22 Apr 2022 17:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[43,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/e93181b72e5d7bfcf9f6b23a910997a6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / Light Mellow Sealine (3CD, 나가이 히로시 일러스트) *예약상품 (5월 16일 이후 배송 시작)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=10612&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=10612&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 22 Apr 2022 17:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[35,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201808/a564c37decb60848aed282272aa0b3f8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Various Artists / Light Mellow One Day (White Colored Vinyl, Limited Edition, 나가이 히로시 일러스트) *구매 전 유의사항을 확인해 주세요. / 예약상품 (5월 16일 이후 배송이 시작됩니다.)]]></title>
@@ -54,14 +62,6 @@
             <pubDate>Mon, 18 Apr 2022 17:41:57 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/d64d8434cc5a46052cb6700957a2da31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[edbl / Brockwell Mixtape (Vinyl) *예약상품 (5월 20일 이후 발송이 시작됩니다.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18773&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18773&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Apr 2022 17:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[43,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/e93181b72e5d7bfcf9f6b23a910997a6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삐삐롱스타킹 / 3집 One Way Ticket (140g Colored Vinyl) & 바보버스 (42g Colored 7" Vinyl) 합본반 *예약상품 (5월 27일 발송 예정)]]></title>
