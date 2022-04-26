@@ -4,9 +4,57 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 05:40:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 17:45:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pixies / Doolittle (Vinyl) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18852&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18852&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 26 Apr 2022 17:43:31 GMT</pubDate>
+            <content:encoded><![CDATA[37,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/03f7a40cd0d880ec09142df2ecf71941.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pixies / Bossanova (Vinyl) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18851&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18851&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 26 Apr 2022 17:43:31 GMT</pubDate>
+            <content:encoded><![CDATA[37,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/5253a401a4835d4e340fb536cddfe6cf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bob James & David Sanborn / Double Vision (Vinyl, Remastered) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18850&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18850&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 26 Apr 2022 17:43:31 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/57be3bf43a57a4066566a0f19a5cabd7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Miles Davis / Big Fun (Vinyl, 2LP) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18849&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18849&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 26 Apr 2022 17:43:31 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/bc5d83072616581cc6c7cb92855ffa3c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Miles Davis / Get Up With It (Vinyl, 2LP) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18848&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18848&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 26 Apr 2022 17:43:31 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/b55836804c071725c2b1144be024b77b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Ryuichi Sakamoto) / 남한산성 The Fortress (180g Vinyl, 2LP, Gatefold, 한정반)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18847&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18847&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 26 Apr 2022 17:43:31 GMT</pubDate>
+            <content:encoded><![CDATA[85,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/3feb9cdfafb1be24f2a3d40805b95cb6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jonathan Richman & The Modern Lovers /  Modern Lovers 88 (35th Anniversary, Remastered, Limited Sky Blue Vinyl, 2022 RSD Exclusive)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18846&amp;cate_no=25&amp;display_group=1</link>
@@ -54,54 +102,6 @@
             <pubDate>Tue, 26 Apr 2022 05:39:02 GMT</pubDate>
             <content:encoded><![CDATA[42,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/d42760950c8a5a04fa80d0aa781d505e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coolio /  It Takes A Thief (Vinyl, 2LP, 2022 RSD Exclusive)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18840&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18840&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 26 Apr 2022 05:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[53,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/8f13484b300bce65c3fa5a0392a442bb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Connan Mockasin & Ade / It's Just Wind (Limited Vinyl, 3,000매 한정, 2022 RSD Exclusive)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18839&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18839&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 26 Apr 2022 05:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[41,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/690ffc29280c5a637ec47985b452f559.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Christian McBride / Conversations With Christian (Limited Numbered Colored Vinyl, 2LP, 2022 RSD Exclusive)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18838&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18838&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 26 Apr 2022 05:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[46,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/abec5d9c5cf8326e8f77efc21a9f2080.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bruno Nicolai / La Dama Rossa Uccide Sette Volte (The Red Queen Kills Seven Times) OST (Vinyl, 2LP, 2022 RSD Exclusive)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18837&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18837&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 26 Apr 2022 05:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[64,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/2b97660c38d50083f82415806c8aebe1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bernard Butler / People Move On: The B-Sides, 1998+2021 (Limited White Vinyl 2LP, 2022 RSD Exclusive)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18836&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18836&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 26 Apr 2022 05:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/413ec14d373040b8f2b8c94ebb4a6342.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Azymuth / Light As A Feather (Limited Blue Vinyl, 2022 RSD Exclusive)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18835&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18835&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 26 Apr 2022 05:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[42,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/d27c7805aa0ab06657ec5d70cb06e92b.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
