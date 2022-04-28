@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 05:57:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 17:43:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,12 +96,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/3eeaff234c61bdaff5b23083b915e8ad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에몬 x 놀이도감 (Emon x Playbook) / Cross Work (7" Vinyl) *예약판매 (4월 29일 발송예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18708&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18708&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 19 Apr 2022 17:45:03 GMT</pubDate>
-            <content:encoded><![CDATA[29,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/f4d1501f7f622205ca0488826ac3da3f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[전람회 / 2집 (Exhibition 2) (Vinyl) *예약상품 (8월 30일 이후 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18699&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18699&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Apr 2022 17:42:08 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/2eda09f8115dd2f0e21e4731d0b1d1bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
