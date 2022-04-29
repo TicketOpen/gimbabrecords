@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 05:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 17:43:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1469,7 +1469,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18421&amp;cate_no=50&amp;display_group=1</guid>
             <pubDate>Mon, 14 Mar 2022 17:39:31 GMT</pubDate>
             <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/c44b6ccd621fb018eddc0cd2036b9289.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/94d509abaf0d71d0a01e55c20c77b001.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[John Zorn / The Big Gundown - 15th Anniversary Special Edition (CD) (김밥레코즈 ─ CD ─ Classical/Crossover)]]></title>
