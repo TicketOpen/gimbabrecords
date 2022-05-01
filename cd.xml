@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 05:43:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 17:43:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Caribou / Up In Flames (Special Edition 2CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18869&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18869&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sun, 01 May 2022 17:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/3fb253080452023547094f0945bcd5c6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[edbl / Blockwell Mixtape (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18857&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 22 Apr 2022 17:45:49 GMT</pubDate>
             <content:encoded><![CDATA[22,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/ba0e2026bdb530f074d0acbdc7137859.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Parcels / Day/Night (2CD Box set)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18774&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18774&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Apr 2022 17:45:49 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/a2252cde51e40c7182a17d3d464cde10.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
