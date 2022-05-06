@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 05:40:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 17:46:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Toro y Moi / MAHAL (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18930&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18930&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 06 May 2022 17:44:14 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/05e54fc366849610f834f5e6027b668e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Fay / Still Some Light: Part 2 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18926&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18926&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 06 May 2022 17:44:14 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/7ea7d2a23b63d6a1dfc45e839f6c4abb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jakob Bro, Arve Henriksen & Jorge Rossy / Uma Elmo (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18924&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 04 May 2022 05:39:52 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/9c3df353260c32d81f2985f42b0e3808.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Paul Smith / Delicate Jazz (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18911&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18911&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 04 May 2022 05:39:52 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/96a138ede549777588f9bc891bcb3773.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Duke Pearson / How Insensitive (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18910&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18910&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 04 May 2022 05:39:52 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/3ee6a6fd487898c9afa4c97c40ccf41b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

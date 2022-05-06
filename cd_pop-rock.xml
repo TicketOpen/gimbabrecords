@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 05:40:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 17:46:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Toro y Moi / MAHAL (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18930&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18930&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 06 May 2022 17:44:58 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/05e54fc366849610f834f5e6027b668e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Fay / Still Some Light: Part 2 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18926&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18926&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 06 May 2022 17:44:58 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/7ea7d2a23b63d6a1dfc45e839f6c4abb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[edbl / Blockwell Mixtape (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18857&amp;cate_no=30&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 22 Apr 2022 17:46:32 GMT</pubDate>
             <content:encoded><![CDATA[10,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/b317c578a1f954aac2a25b7adbc16205.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Steely Dan / The Very Best Of Steely Dan (2CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18762&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18762&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Apr 2022 17:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/d0c670b199e9e9cd70cc8b73fc4f476c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eric Clapton, Booker T, John Mayer, Gary Clark Jr,, Earl Klugh, Kurt Rosenwinkel, Blake Mills, Jeff Beck, Derek Trucks, Allman Brothers Band, Buddy Guy 외 / Eric Clapton Guitar Festival - Crossroads Guitar Festival 2013 (2CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18761&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18761&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Apr 2022 17:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/90942a2c7cbe2ebf516594644783bf44.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
