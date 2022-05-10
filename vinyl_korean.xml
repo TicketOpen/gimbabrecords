@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 05:40:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 17:48:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손성제 / 정규 1집 비의 비가(悲歌) (Elegy of rain) (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18941&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18941&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 10 May 2022 17:48:47 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/c3566d5bda4fd84892f0d1c404281354.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dosii 도시 / 반향 (Clear Yellowgreen Vinyl) *1인 1매만 구매 가능 / 별도의 입금기한 설정]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18939&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 18 Apr 2022 17:43:18 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/2eda09f8115dd2f0e21e4731d0b1d1bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FOG / Fogesque (Milky Clear with Pink Splatter Vinyl) *1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18643&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18643&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Sun, 10 Apr 2022 17:40:16 GMT</pubDate>
-            <content:encoded><![CDATA[30,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/2be81e8506357cf95cc9f9fe86567a51.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
