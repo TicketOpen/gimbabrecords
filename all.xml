@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 17:46:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 05:40:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/9c3df353260c32d81f2985f42b0e3808.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Lemuria / Lemuria (Vinyl, 2LP) *예약상품 (5월 24일 이후 배송) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18940&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18940&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 10 May 2022 05:38:32 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/8bd7b5abf98c0a898d8e012ee6830b2e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dosii 도시 / 반향 (Clear Yellowgreen Vinyl) *1인 1매만 구매 가능 / 별도의 입금기한 설정 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18939&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18939&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 10 May 2022 05:38:32 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/88b91b21b107b91f213c9a93413eb9df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[OST (Music by Frankie Chan Fan Kei and Roel A. Garcia) / Chungking Express 중경삼림 (Black Vinyl, ARS Series, Limited Edition) *할인상품 / 1인 1매만 구매 가능 / 별도의 입금기한 설정 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18938&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18938&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 06 May 2022 17:44:22 GMT</pubDate>
             <content:encoded><![CDATA[17,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/442b2d7832a8fd80c0e0e43c598d21bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Fay & Julia Jacklin / Just To Be A Part (7"Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18927&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18927&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 06 May 2022 17:44:22 GMT</pubDate>
-            <content:encoded><![CDATA[14,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/9fe8227fe4ecbd1faf0bff48f10619bb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sharon Van Etten / We've Been Going About This All Wrong (Marble Smoke Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18925&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18925&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 06 May 2022 17:44:22 GMT</pubDate>
-            <content:encoded><![CDATA[34,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/9181f7db5e4742eb3a274ec3b6e54f30.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sonic Youth / Daydream Nation (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -1728,6 +1728,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/c85ec7337c91b2b2d6158fc81504c3e8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Dosii 도시 / 반향 (Clear Yellowgreen Vinyl) *1인 1매만 구매 가능 / 별도의 입금기한 설정 (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18939&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18939&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 10 May 2022 05:40:16 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/88b91b21b107b91f213c9a93413eb9df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[패티스 PATTYS / NO FOOD NO LIFE (Vinyl) *예약상품 (5월 17일 발송 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18915&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18915&amp;cate_no=52&amp;display_group=1</guid>
@@ -1814,14 +1822,6 @@
             <pubDate>Sun, 10 Apr 2022 17:40:16 GMT</pubDate>
             <content:encoded><![CDATA[30,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/2be81e8506357cf95cc9f9fe86567a51.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / Midnight Snack Seoul Vol.1 (180g 클리어 그린 컬러반 LP) *1인 1매만 구매 가능 / 모서리 눌림 할인 (유의사항을 참조하세요) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18597&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18597&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 05 Apr 2022 17:42:36 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/93fdee9ea817fd4cb6b2db37f06635f4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Keith Jarrett / The Art Of Improvisation (Documentary) (Blu-ray) (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
