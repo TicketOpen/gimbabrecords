@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 05:48:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 17:50:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Fripp & Eno (Robert Fripp & Brian Eno) / Evening Star (CD, Digipak, Remastered) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18947&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18947&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 11 May 2022 17:48:45 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/3d30afe6cf9cde4f75a785f0ec48f5e4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[King Crimson / Starless And Bible Black (40th Anniversary, CD + DVD 디비디에는 각종 무손실 음원 및 영상이 담겨 있습니다.) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18946&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18946&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 11 May 2022 17:48:45 GMT</pubDate>
+            <content:encoded><![CDATA[25,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/d772ef417fb345841a7cfb8ed7055242.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Toro y Moi / MAHAL (CD, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18930&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 04 May 2022 05:39:52 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/9c33fb57cd3ffa65c58972688e02f92b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Teddy Wilson / For Quiet Lovers (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18913&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18913&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 04 May 2022 05:39:52 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/0d25b73e7c677e20f1773fb05c42d56b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Curtis Fuller / Bone & Bari (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18912&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18912&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 04 May 2022 05:39:52 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/9c3df353260c32d81f2985f42b0e3808.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
