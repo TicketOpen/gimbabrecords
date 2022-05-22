@@ -4,9 +4,57 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 May 2022 05:40:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 17:42:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nancy Sinatra & Lee Hazelwood / Nancy & Lee (Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19040&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19040&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Sun, 22 May 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/bed205d647b1d3866e65b6aef270d7aa.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Callahan & Bonnie 'Prince' Billy / Blind Date Party (2xCassette Set)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19039&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19039&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Sun, 22 May 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/4af7f65f5769b5a36717af77746f1e6a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beverly Glenn-Copeland / Keyboard Fantasies (Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19038&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19038&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Sun, 22 May 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/ff2f67b80b99be6a1e16786aad916be8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mndsgn / Rare Pleasure (Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19037&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19037&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Sun, 22 May 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/2828845a99e8ccfdefd60c6583d9f331.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rolling Blackouts Coastal Fever / Endless Rooms (Cassette) *예약상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19034&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19034&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Sun, 22 May 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[16,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/4cded9affaaa08a2be4dc79a3c7ea777.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chai / Wink (Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19031&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19031&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Sun, 22 May 2022 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/7a9b8d6dd3dbcde9c8b5e654c87575a2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mountain Man / Made The Harbor (Cassette, Limited)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18983&amp;cate_no=26&amp;display_group=1</link>
@@ -54,54 +102,6 @@
             <pubDate>Mon, 09 May 2022 05:41:00 GMT</pubDate>
             <content:encoded><![CDATA[20,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/4dfa91d645220e312ab48b710684dfc7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공중도둑 / 공중도덕 (Cassette, US Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18802&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18802&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Tue, 26 Apr 2022 05:39:08 GMT</pubDate>
-            <content:encoded><![CDATA[21,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/f361e3ff2c4e6e34baa310ea41bdaf00.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아방가르드박 (Avantgarde Vak) / The Upaloopa Vol.2 – Binaural Fantasy (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18709&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18709&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Tue, 19 Apr 2022 17:44:49 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/580597247692b7bcf139bfae27826b04.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DJ Tenniscoats / German Mix Vol.2 (Cassette, 소량 한정 제작)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18698&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18698&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Sun, 17 Apr 2022 17:38:52 GMT</pubDate>
-            <content:encoded><![CDATA[16,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/4370edcbe5222e3ef4f9e9ac4c991ed7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Vaccines / Back In Love City (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18697&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18697&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Sun, 17 Apr 2022 17:38:52 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/098791bdfe60e0638d6bb3ac1e2642b2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Tony Bennett & Lady Gaga / Love For Sale (Cassette) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18678&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18678&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Sun, 17 Apr 2022 17:38:52 GMT</pubDate>
-            <content:encoded><![CDATA[25,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/c9f723fdc91f5da96b66354b06b887ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Beths / Jump Rope Gazers (Green Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18677&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18677&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Fri, 15 Apr 2022 17:41:48 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/fb6ab1bd0935834bc6f0836e301267f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
