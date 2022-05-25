@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 05:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 17:48:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Gabriel Garzón-Montano (Gabriel Garzon-Montano) / Agüita (Aguita) (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19069&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19069&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Wed, 25 May 2022 17:47:13 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/a7ec01305d776007b798c9fa872cf9d9.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[edbl / Blockwell Mixtape (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18857&amp;cate_no=44&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 21 Mar 2022 17:40:52 GMT</pubDate>
             <content:encoded><![CDATA[11,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/856bd7611b073044736a8ce3e2b41cf5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Roy Ayers / Virgin Ubiquity: Unreleased Recordings 1976 - 1981 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18491&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18491&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Mon, 21 Mar 2022 17:40:52 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/927d64cf1cc7a904923a0caf50bffe36.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 05:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 17:48:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sigrid / How To Let Go (Purple Galaxy Vinyl, Limited) *무통장입금 주문의 경우 별도의 입금기한이 설정되어 있습니다.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19070&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19070&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 25 May 2022 17:46:27 GMT</pubDate>
+            <content:encoded><![CDATA[40,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/122b7804556f749a6b0a8eb0986201bf.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Gary Moore / How Blue Can You Get (Limited Light Blue Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19067&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 23 May 2022 17:42:49 GMT</pubDate>
             <content:encoded><![CDATA[125,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/c0ad7162412ca5ebd0af042eabdb57d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aretha Franklin / The Atlantic Singles Collection 1967-1970 (Vinyl, 2LP) *미세한 모서리 눌림으로 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19056&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19056&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 23 May 2022 17:42:49 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/60e764cf5a6d7154459ac346bdcc2a98.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

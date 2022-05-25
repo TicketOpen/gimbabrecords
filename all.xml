@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 05:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 17:48:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Harry Styles / Harry's House (CD, EU Import) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19071&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19071&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 25 May 2022 17:46:19 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/43216102feb046123b7f1c7257ad5d28.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gabriel Garzón-Montano (Gabriel Garzon-Montano) / Agüita (Aguita) (CD, Digipak) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19069&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19069&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 25 May 2022 17:46:19 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/a7ec01305d776007b798c9fa872cf9d9.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[bearmoon / FATE (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19068&amp;cate_no=24&amp;display_group=1</link>
@@ -88,20 +104,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/5b09f5b9c9b73595606df2dde0bea38d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Robert Fripp / Washington Square Church (CD + DVD Audio) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18979&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18979&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sun, 22 May 2022 02:55:14 GMT</pubDate>
-            <content:encoded><![CDATA[27,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/8157f54a04ee76d1bf638ffdac2911d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tony Bennett & K.D Lang / A Wonderful World (CD, EU Import) *한정할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18978&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18978&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sun, 22 May 2022 02:55:14 GMT</pubDate>
-            <content:encoded><![CDATA[12,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/e56fed8d1727217130baa5be538bb67e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Sigrid / How To Let Go (Purple Galaxy Vinyl, Limited) *무통장입금 주문의 경우 별도의 입금기한이 설정되어 있습니다. (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19070&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19070&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 25 May 2022 17:46:27 GMT</pubDate>
+            <content:encoded><![CDATA[40,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/122b7804556f749a6b0a8eb0986201bf.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Gary Moore / How Blue Can You Get (Limited Light Blue Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 23 May 2022 17:42:49 GMT</pubDate>
             <content:encoded><![CDATA[125,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/c0ad7162412ca5ebd0af042eabdb57d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aretha Franklin / The Atlantic Singles Collection 1967-1970 (Vinyl, 2LP) *미세한 모서리 눌림으로 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19056&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19056&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 23 May 2022 17:42:49 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/60e764cf5a6d7154459ac346bdcc2a98.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nancy Sinatra & Lee Hazelwood / Nancy & Lee (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -680,6 +680,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/56b0c68cd94b0279e7dd1383c01a0c29.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Harry Styles / Harry's House (CD, EU Import) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19071&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19071&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Wed, 25 May 2022 17:47:02 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/43216102feb046123b7f1c7257ad5d28.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ghostly Kisses / Heaven, Wait (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19036&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19036&amp;cate_no=30&amp;display_group=1</guid>
@@ -766,14 +774,6 @@
             <pubDate>Wed, 11 May 2022 17:49:31 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/3d30afe6cf9cde4f75a785f0ec48f5e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[King Crimson / Starless And Bible Black (40th Anniversary, CD + DVD 디비디에는 각종 무손실 음원 및 영상이 담겨 있습니다.) *할인상품 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18946&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18946&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Wed, 11 May 2022 17:49:31 GMT</pubDate>
-            <content:encoded><![CDATA[25,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/d772ef417fb345841a7cfb8ed7055242.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Fripp & Eno (Robert Fripp & Brian Eno) / Evening Star (CD, Digipak, Remastered) *할인상품 (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
@@ -872,6 +872,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/9bb8c62db2d80633285537d2f52f50b5.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Gabriel Garzón-Montano (Gabriel Garzon-Montano) / Agüita (Aguita) (CD, Digipak) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19069&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19069&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Wed, 25 May 2022 17:47:13 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/a7ec01305d776007b798c9fa872cf9d9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[edbl / Blockwell Mixtape (CD) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18857&amp;cate_no=44&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18857&amp;cate_no=44&amp;display_group=1</guid>
@@ -958,14 +966,6 @@
             <pubDate>Mon, 21 Mar 2022 17:40:52 GMT</pubDate>
             <content:encoded><![CDATA[11,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/856bd7611b073044736a8ce3e2b41cf5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Roy Ayers / Virgin Ubiquity: Unreleased Recordings 1976 - 1981 (CD) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18491&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18491&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Mon, 21 Mar 2022 17:40:52 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/927d64cf1cc7a904923a0caf50bffe36.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Logic / No Pressure (CD) (김밥레코즈 ─ CD ─ Hip Hop)]]></title>
