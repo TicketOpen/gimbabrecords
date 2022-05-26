@@ -4,9 +4,57 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 17:48:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 05:44:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Gregory Porter / All Rise (CD, Digibook Deluxe)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19085&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19085&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 26 May 2022 05:43:13 GMT</pubDate>
+            <content:encoded><![CDATA[28,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/f3c6d608664a08d5c53b1be12b502e96.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gregory Porter / Water (CD, paper-sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19084&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19084&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 26 May 2022 05:43:13 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/0747dd41895a9e7e9f9dd16953051bf7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Melody Gardot, Philippe Powell / Entre Eux Deux (CD + Booklet)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19083&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19083&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 26 May 2022 05:43:13 GMT</pubDate>
+            <content:encoded><![CDATA[17,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/73d48c8389859c4969681d00388e00d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joel Ross / The Parable Of The Poet (CD, paper-sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19081&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19081&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 26 May 2022 05:43:13 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/6f03b4430b8e9b899c696d4c022ec923.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Robert Glasper / Black Radio III (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19073&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19073&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 26 May 2022 05:43:13 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/8d859a1e998e97b0aa6f7306f7a5b915.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Norah Jones / Come Away With Me (3CD + Booklet, 20th Anniversary Super Deluxe Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19072&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19072&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 26 May 2022 05:43:13 GMT</pubDate>
+            <content:encoded><![CDATA[38,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/19613f96888d0f658a97a8077ed8ee71.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lee Morgan / The Complete Live at the Lighthouse (8CD Set + 62-page booklet)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18992&amp;cate_no=46&amp;display_group=1</link>
@@ -54,54 +102,6 @@
             <pubDate>Sun, 22 May 2022 02:56:46 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/762f000396e24696a38f78f2eb1b8e6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jakob Bro, Arve Henriksen & Jorge Rossy / Uma Elmo (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18924&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18924&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Wed, 04 May 2022 17:48:09 GMT</pubDate>
-            <content:encoded><![CDATA[21,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/00ccc5a5685cab8082b803958a8cbf4a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Great Jazz Trio (Hank Jones, Ron Carter, Tony Williams) / At The Village Vanguard Again (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18923&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18923&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Wed, 04 May 2022 05:40:59 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/5db3fdf831d40a4da0ed244606fa9d7f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lou Donaldson / Quartet / Quintet / Sextet (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18922&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18922&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Wed, 04 May 2022 05:40:59 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/2cc2fa287309ec63edf747cfee6a18b2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lou Donaldson / The Time Is Right (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18921&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18921&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Wed, 04 May 2022 05:40:59 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/12fc96592dc5e384b473361098153eb0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lou Donaldson Quintet / Swing And Soul (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18920&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18920&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Wed, 04 May 2022 05:40:59 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/1c831227cbef73c4199e1b6ea8d4ca34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lou Donaldson Quintet / Wailing With Lou (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18919&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18919&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Wed, 04 May 2022 05:40:59 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/16ddf64498e87d751a57005e161b8a84.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
