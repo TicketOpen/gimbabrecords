@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 17:47:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 05:44:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Gilad Hekselman / Far Star (Orange Colored Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19101&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19101&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 27 May 2022 05:42:14 GMT</pubDate>
+            <content:encoded><![CDATA[35,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/851447e1d3ad28b4bc1780a41302312f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Richard Marx / Stories To Tell: Greatest Hits And More (Vinyl, 2LP) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19093&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19093&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 27 May 2022 05:42:14 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/7a789c1939aa91bb8196396b42802bce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Guns N' Roses / Greatest Hits (Black Vinyl, 2LP) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19092&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19092&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 27 May 2022 05:42:14 GMT</pubDate>
+            <content:encoded><![CDATA[51,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/06f045500305385b12cf963d97da2bd9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dusty Springfield / See All Her Faces (50th Anniversary, Vinyl, 2LP Limited Edition, 2022 RSD Exclusive)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19091&amp;cate_no=25&amp;display_group=1</link>
@@ -16,7 +40,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/460c7b029d6e9cd485186bfe07d965ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Philip Lynott / The Philip Lynott Album (Limited White Vinyl, 2022 RSD Exclusive)]]></title>
+            <title><![CDATA[Phil Lynott / The Philip Lynott Album (Limited White Vinyl, 2022 RSD Exclusive)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19090&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19090&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Thu, 26 May 2022 17:45:27 GMT</pubDate>
@@ -78,30 +102,6 @@
             <pubDate>Thu, 26 May 2022 05:41:59 GMT</pubDate>
             <content:encoded><![CDATA[31,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/16a5f5d4972ff8f18c08fe046124c6ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Armando Trovajoli) / Profumo Di Donna 여인의 향기 (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19078&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19078&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 26 May 2022 05:41:59 GMT</pubDate>
-            <content:encoded><![CDATA[31,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/21da40f41cf2308d2c11fdff2d9ac0ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Melissa Aldana / 12 Stars (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19077&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19077&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 26 May 2022 05:41:59 GMT</pubDate>
-            <content:encoded><![CDATA[31,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/933cc8b6bbecab0c49a868b2b0a5049f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hank Mobley / Curtain Call (180g Vinyl, Blue Note Tone Poet Series)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19076&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19076&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 26 May 2022 05:41:59 GMT</pubDate>
-            <content:encoded><![CDATA[55,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/acef7c9a7b61e0f27393475dd4f950b6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

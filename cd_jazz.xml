@@ -4,9 +4,65 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 17:47:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 05:44:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Gilad Hekselman / Far Star (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19102&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19102&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 27 May 2022 05:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/a9a188d99007361ffa5a5ee77099f151.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[John Coltrane / A Love Supreme: Live In Seattle (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19100&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19100&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 27 May 2022 05:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/f56ced2bcb60ec07613e453e0fdac614.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Miles Davis / Miles: The New Miles Davis Quintet (CD, RVG Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19099&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19099&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 27 May 2022 05:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[14,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/c944d851c909b1d1a22ac7be31e3a693.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charlie Byrd / Bossa Nova Pelos Passaros (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19098&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19098&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 27 May 2022 05:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[14,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/16b971f0f06009c92c08914327cfa585.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oscar Peterson / Montreux '77 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19097&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19097&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 27 May 2022 05:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[14,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/fbbf7fe4e7e98a0b1bf076adce257c63.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thelonious Monk / Palo Alto - Live (CD, Digisleeve) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19096&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19096&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 27 May 2022 05:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/3a214bd2da8a1a24d69b08d9da4f46a9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ella Fitzgerald / The Complete Piano Duets (2CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19094&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19094&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 27 May 2022 05:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/9080954f21675bd2f1999f323b05cbd8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gregory Porter / All Rise (CD, Digibook Deluxe)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19085&amp;cate_no=46&amp;display_group=1</link>
@@ -46,62 +102,6 @@
             <pubDate>Thu, 26 May 2022 05:43:13 GMT</pubDate>
             <content:encoded><![CDATA[17,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/8d859a1e998e97b0aa6f7306f7a5b915.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Norah Jones / Come Away With Me (3CD + Booklet, 20th Anniversary Super Deluxe Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19072&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19072&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Thu, 26 May 2022 05:43:13 GMT</pubDate>
-            <content:encoded><![CDATA[38,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/19613f96888d0f658a97a8077ed8ee71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lee Morgan / The Complete Live at the Lighthouse (8CD Set + 62-page booklet)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18992&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18992&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Sun, 22 May 2022 02:56:46 GMT</pubDate>
-            <content:encoded><![CDATA[71,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/e927d2cfa4461dfcba3aacd8f287ac8a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tony Bennett & K.D Lang / A Wonderful World (CD, EU Import) *한정할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18978&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18978&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Sun, 22 May 2022 02:56:46 GMT</pubDate>
-            <content:encoded><![CDATA[12,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/e56fed8d1727217130baa5be538bb67e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ketil Bjørnstad (Ketil Bjonstad) & Guro Kleven Hagen / The Personal Gallery (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18971&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18971&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Sun, 22 May 2022 02:56:46 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/d8286f948b0e65389cac9652f7a6c2c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oliver Nelson (Bill Evans, Paul Chambers, Eric Dolphy, Roy Haynes, Freddie Hubbard) / The Blues And The Abstract Truth (CD, Digi)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18970&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18970&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Sun, 22 May 2022 02:56:46 GMT</pubDate>
-            <content:encoded><![CDATA[14,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/b041a2c64b39d652c10c595a4d122ca2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nina Simone / Fodder On My Wings (CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18969&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18969&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Sun, 22 May 2022 02:56:46 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/eb73684d0c4ae122381d515e0ab75935.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Oscar Peterson Trio / Nigerian Marketplace (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18968&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18968&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Sun, 22 May 2022 02:56:46 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/762f000396e24696a38f78f2eb1b8e6e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
