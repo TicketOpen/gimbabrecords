@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 05:44:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 17:49:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Gregory Porter / Water (CD, Digipak, 2011 US Motema Edition, 절판된 디지팩) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19122&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19122&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 27 May 2022 17:48:03 GMT</pubDate>
+            <content:encoded><![CDATA[16,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/361f18b2de49e83a6f3356a90fd24e6b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gilad Hekselman / Far Star (CD, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19102&amp;cate_no=46&amp;display_group=1</link>
@@ -72,7 +80,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/f3c6d608664a08d5c53b1be12b502e96.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Gregory Porter / Water (CD, paper-sleeve)]]></title>
+            <title><![CDATA[Gregory Porter / Water (CD, paper-sleeve, 2022 Universal)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19084&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19084&amp;cate_no=46&amp;display_group=1</guid>
             <pubDate>Thu, 26 May 2022 05:43:13 GMT</pubDate>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 26 May 2022 05:43:13 GMT</pubDate>
             <content:encoded><![CDATA[17,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/6f03b4430b8e9b899c696d4c022ec923.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Robert Glasper / Black Radio III (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19073&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19073&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Thu, 26 May 2022 05:43:13 GMT</pubDate>
-            <content:encoded><![CDATA[17,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/8d859a1e998e97b0aa6f7306f7a5b915.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
