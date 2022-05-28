@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 17:49:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 05:40:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=19121&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19121&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Fri, 27 May 2022 17:46:43 GMT</pubDate>
-            <content:encoded><![CDATA[51,500원]]></content:encoded>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/e43d53363681fe51888e1ef772f43a5d.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=19120&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19120&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Fri, 27 May 2022 17:46:43 GMT</pubDate>
-            <content:encoded><![CDATA[51,500원]]></content:encoded>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/05979ec596f62bb6ca48fd855adb6b9f.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -52,7 +52,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=19116&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19116&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Fri, 27 May 2022 17:46:43 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <content:encoded><![CDATA[41,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/89207421f3e5bbb63bbdad77ec1b9843.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
