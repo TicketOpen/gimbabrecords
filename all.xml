@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 05:40:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 17:44:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/73d48c8389859c4969681d00388e00d5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Fennesz Sakamoto (Fennesz & Ryuichi Sakamoto) / Cendre (Double 10" Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19123&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19123&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 28 May 2022 17:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[41,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/6bd5ddfda6f41d87daf30aba20891623.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Roxy Music / Stranded (180g Vinyl, Half Speed Master) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19121&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19121&amp;cate_no=25&amp;display_group=1</guid>
@@ -140,7 +148,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=19117&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19117&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Fri, 27 May 2022 17:46:43 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/c649e06e9157cf2f5996aeb4e607f20c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 27 May 2022 17:46:43 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/b401a7c528726b5a8dfe6aa6480673cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warpaint / Radiate Like This (Black Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19109&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19109&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 27 May 2022 17:46:43 GMT</pubDate>
-            <content:encoded><![CDATA[39,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/45654a5126b67bb0ccc4fb74de6d5270.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Warpaint / Radiate Like This (Clear Cassette) (김밥레코즈 ─ Cassette)]]></title>
