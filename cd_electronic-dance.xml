@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Electronic/Dance</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 05:46:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 17:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beverly Glenn-Copeland / Keyboard Fantasies Reimagined (CD, Digi-sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19136&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19136&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Mon, 30 May 2022 17:45:04 GMT</pubDate>
+            <content:encoded><![CDATA[21,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/bc8f9cdc64d63712b4f515a5a4c07fea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fripp & Eno (Robert Fripp & Brian Eno) / Evening Star (CD, Digipak, Remastered) *할인상품]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18947&amp;cate_no=31&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Oct 2021 18:39:49 GMT</pubDate>
             <content:encoded><![CDATA[17,700원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/4877d19e83d12ed0b3f63e14843cce69.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Smerz / Believer (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=16977&amp;cate_no=31&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=16977&amp;cate_no=31&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:39:49 GMT</pubDate>
-            <content:encoded><![CDATA[17,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/9bb8c62db2d80633285537d2f52f50b5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 05:46:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 17:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nico Gomez / Soul Of Samba (CD, Digipak, Mr. Bongo Reissue)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19144&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19144&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Mon, 30 May 2022 17:45:38 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/f7739b10ca38aca860d6e3387e064450.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ibeyi / Spell 31 (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19134&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19134&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Mon, 30 May 2022 17:45:38 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/5d516f29816a404451b6c3b3f10e10ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Carla Bruni / Carla Bruni (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19095&amp;cate_no=79&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 25 Feb 2022 17:40:52 GMT</pubDate>
             <content:encoded><![CDATA[22,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/2c1636c1ca269dade66e36a0e51b4423.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[João Donato (Joao Donato), Adrian Younge, Ali Shaheed Muhammad / Jazz Is Dead 7 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18250&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18250&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Feb 2022 05:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/2bd3299db7283cfc4d00536bb4d7d0a7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marcos Valle, Adrian Younge & Ali Shaheed Muhammad / Jazz Is Dead 3 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18249&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18249&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Feb 2022 05:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/e4899cb40db884aa76bac0c51547814a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

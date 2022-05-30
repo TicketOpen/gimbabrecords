@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 05:46:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 17:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ibeyi / Spell 31 (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19134&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19134&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Mon, 30 May 2022 17:45:09 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/5d516f29816a404451b6c3b3f10e10ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gabriel Garzón-Montano (Gabriel Garzon-Montano) / Agüita (Aguita) (CD, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19069&amp;cate_no=44&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 21 Mar 2022 17:40:52 GMT</pubDate>
             <content:encoded><![CDATA[23,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/9d514761f190fb6128dc237d7856993a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[George Benson / The Best Of George Benson (CD, UK Import) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18497&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18497&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Mon, 21 Mar 2022 17:40:52 GMT</pubDate>
-            <content:encoded><![CDATA[11,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/856bd7611b073044736a8ce3e2b41cf5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
