@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 17:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 05:44:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Caravan / In The Land Of Grey And Pink (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19151&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19151&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 31 May 2022 05:42:47 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/890ab44ce0a85c63ef8d08a1af7b80df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Abba / Gold: Greatest Hits (CD, 30th Anniversary) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19150&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19150&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 31 May 2022 05:42:47 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/21dbf6e3539b15bcc90bc33638f58353.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jose James / New York 2020 (Live) (2CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19149&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19149&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 31 May 2022 05:42:47 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/6f9f729ee0ad60d97ff6581561fdb407.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nico Gomez / Soul Of Samba (CD, Digipak, Mr. Bongo Reissue)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19144&amp;cate_no=24&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Mon, 30 May 2022 17:44:13 GMT</pubDate>
             <content:encoded><![CDATA[32,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/d27b9f708c741575713ce41571e0616c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ketil Bjørnstad (Ketil Bjonstad) / Sanger Om Tilhørighet (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19129&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19129&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 30 May 2022 17:44:13 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/67774c29c30d4e380811d3713a07c2ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gang Starr / One of the Best Yet (CD, Digipak, EU import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19128&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19128&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 30 May 2022 17:44:13 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/157759d19782fa69ad06a16e1f446c1d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gregory Porter / Water (CD, Digipak, 2011 US Motema Edition, 절판된 디지팩) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19122&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19122&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 27 May 2022 17:46:35 GMT</pubDate>
-            <content:encoded><![CDATA[16,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/361f18b2de49e83a6f3356a90fd24e6b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

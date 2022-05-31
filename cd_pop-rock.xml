@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 17:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 05:44:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Caravan / In The Land Of Grey And Pink (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19151&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19151&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 31 May 2022 05:43:34 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/890ab44ce0a85c63ef8d08a1af7b80df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Abba / Gold: Greatest Hits (CD, 30th Anniversary) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19150&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19150&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 31 May 2022 05:43:34 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/21dbf6e3539b15bcc90bc33638f58353.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Alec Benjamin / These Two Windows (CD, EU import, Jewel Case)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19143&amp;cate_no=30&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Sun, 22 May 2022 05:38:59 GMT</pubDate>
             <content:encoded><![CDATA[25,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/3580f1c88149ae4229d56a89993934f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mountain Man / Made the Harbor (10 Year Anniversary Edition, 2CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18985&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18985&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Sun, 22 May 2022 02:56:17 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/5b09f5b9c9b73595606df2dde0bea38d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Robert Fripp / Washington Square Church (CD + DVD Audio)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18979&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18979&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Sun, 22 May 2022 02:56:17 GMT</pubDate>
-            <content:encoded><![CDATA[27,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/8157f54a04ee76d1bf638ffdac2911d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

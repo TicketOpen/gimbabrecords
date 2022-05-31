@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 17:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 05:44:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Paolo Nutini / Sunny Side Up (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19148&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19148&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 31 May 2022 05:42:55 GMT</pubDate>
+            <content:encoded><![CDATA[28,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/0845ea160cacfc48891645ea000dd4e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Wee / You Can Fly On My Aeroplane (Limited White Vinyl) *할인상품]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19147&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 30 May 2022 17:44:21 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/869277cb04f1c02165c758300f32baa5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / 그리움과 시대적 감성이 담긴 디바들의 노래: Voices in Yearning (150g 컬러 Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19125&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19125&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 30 May 2022 17:44:21 GMT</pubDate>
-            <content:encoded><![CDATA[40,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/248c094bed53a9b0d39597b273b8b66b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
