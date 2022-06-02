@@ -4,9 +4,24 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 05:52:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 17:51:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rolling Blackouts Coastal Fever / Endless Rooms (Limited Colored Vinyl, Sub Pop "Loser" Edition) *한정할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19160&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19160&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 02 Jun 2022 17:49:09 GMT</pubDate>
+            <content:encoded><![CDATA[33,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/e7e55c7816ff8550fc61df8d7b3fcfbe.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Ed Sheeran 의 다른 상품들 --> gimbabrecords2.com 에서 구매 혹은 구매 신청이 가능합니다. (상품을 클릭하시면 구매 가능한 링크를 보실 수 있습니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19159&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19159&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 02 Jun 2022 17:49:09 GMT</pubDate>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/49e22a8702721fe8abf099325718fb60.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Paolo Nutini / Sunny Side Up (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19148&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +101,6 @@
             <pubDate>Mon, 30 May 2022 17:44:21 GMT</pubDate>
             <content:encoded><![CDATA[28,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/72b82c2327b550baf7bf6cc1750bf5bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / 아름답고 우아한 포크 가수의 노래들 Vol.2: Voices in Poetry (140g 컬러 Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19127&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19127&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 30 May 2022 17:44:21 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/9e2f1a57eff83a3a71a576f9ddcbf01d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / 순수하고 담백한 포크 가수의 노래들 Vol.2: Voices in Poetry (140g 컬러 Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19126&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19126&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 30 May 2022 17:44:21 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/869277cb04f1c02165c758300f32baa5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
