@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 05:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 17:45:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ray Charles + Count Basie Orchestra / Ray Sings Basie Swings (CD, EU import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19203&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19203&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 07 Jun 2022 17:44:05 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/cbdcd5b3c26d3e0705dd722f6234e815.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oscar Peterson / The Best Of Oscar Peterson (2CD, EU import) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19201&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19201&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 07 Jun 2022 17:44:05 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/42c199ac52178fce7000db5e59561f3d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sonny Rollins / Way Out West (CD, OJC Remasters) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19157&amp;cate_no=46&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 27 May 2022 05:43:32 GMT</pubDate>
             <content:encoded><![CDATA[14,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/16b971f0f06009c92c08914327cfa585.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oscar Peterson / Montreux '77 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19097&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19097&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 27 May 2022 05:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[14,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/fbbf7fe4e7e98a0b1bf076adce257c63.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thelonious Monk / Palo Alto - Live (CD, Digisleeve) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19096&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19096&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 27 May 2022 05:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/3a214bd2da8a1a24d69b08d9da4f46a9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
