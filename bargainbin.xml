@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Bargain Bin</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 17:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 05:38:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Thu, 21 Apr 2022 05:54:35 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/7b1bc6070890df1440939c4e8f40ef88.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thin Lizzy / Bad Reputation (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17778&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17778&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Jun 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[30,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/c0455898f16ca1cde4fe3db8d426d025.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bruce Springsteen / Born to Run - 30th Anniversary Edition (2DVD + CD - DVD는 Pal 방식) *한정수량 할인]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 24 Feb 2022 17:38:50 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/20200113/9dff1b953a32fe1ac92401ad76077683.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Elliott Smith / Either/Or (CD, EU Import) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=15708&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=15708&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Wed, 25 May 2022 05:42:04 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201705/7036_shop1_213353.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
