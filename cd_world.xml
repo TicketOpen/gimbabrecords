@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 05:38:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 17:38:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Various Artists / Mr Bongo Record Club Volume 3 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19272&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19272&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Sat, 11 Jun 2022 17:37:39 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/68bb42592a0b973151a43a545da87f94.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / Mr Bongo Record Club Volume 4 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19271&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19271&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Sat, 11 Jun 2022 17:37:39 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/909f884e82a950c62f4551230128e04e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various Artists / Togo Soul (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19196&amp;cate_no=79&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Sun, 22 May 2022 02:57:09 GMT</pubDate>
             <content:encoded><![CDATA[20,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/2e1c7311ce9be73cfd43fef66016ebf2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Os Tatuis / Os Tatuis (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19018&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19018&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Sun, 22 May 2022 02:57:09 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/2f102af1bfac251848473319d64ec179.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Astor Piazzolla / Adiós Nonino (CD) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18776&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18776&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Apr 2022 17:47:12 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/cb8b390f520d96cf22f275957683eae5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
