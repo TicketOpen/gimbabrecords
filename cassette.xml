@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 17:38:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 05:38:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 10 Jun 2022 05:36:39 GMT</pubDate>
             <content:encoded><![CDATA[27,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/f8aa21bd92364da38c6cb08563930463.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mitski / Bury Me at Makeout Creek (Clear Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19206&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19206&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Tue, 07 Jun 2022 17:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[14,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/d77affbae8d73f5bab03e8d7c6626a92.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Warpaint / Radiate Like This (Clear Cassette)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Fri, 10 Jun 2022 17:40:46 GMT</pubDate>
             <content:encoded><![CDATA[20,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/4dfa91d645220e312ab48b710684dfc7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공중도둑 / 공중도덕 (Cassette, US Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18802&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18802&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Sun, 12 Jun 2022 05:36:35 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/f361e3ff2c4e6e34baa310ea41bdaf00.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

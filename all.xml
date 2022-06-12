@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 17:38:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 05:38:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/902b91fb104e778d2280eb90d441f42e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Cranberries / Stars: The Best Of 1992-2002 (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19275&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19275&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 12 Jun 2022 05:36:28 GMT</pubDate>
+            <content:encoded><![CDATA[45,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/35733901eb1261aada4f1862240b5d81.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Earth And Fire / Song Of The Marching Children (Limited Gold Colored Vinyl, 일련번호 표기, 750매 한정반) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19274&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19274&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 12 Jun 2022 05:36:28 GMT</pubDate>
+            <content:encoded><![CDATA[35,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/bc88d3609dc3e29ab1fd61eb3ac16430.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kaidi Tatham / An Insight To All Minds (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19273&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19273&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 12 Jun 2022 05:36:28 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/1cdd782b5863a8936d39494e7f828cfb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Various Artists / Mr Bongo Record Club Volume 5 (Limited Pink Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19270&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19270&amp;cate_no=25&amp;display_group=1</guid>
@@ -176,44 +200,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/d755724af484ae6de9170c122baab72f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Stef Chura / Midnight (Vinyl + Download card) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19261&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19261&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 10 Jun 2022 17:40:38 GMT</pubDate>
-            <content:encoded><![CDATA[25,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/b009f35f8912e668f54432547e09104a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sook-Yin Lee & Adam Litovitz / jooj two (Vinyl, Limited to 300) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19260&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19260&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 10 Jun 2022 17:40:38 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/ae59b29f1ceca06fbd4a217b3dc1ee14.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sevdaliza / Shabrang (180g Grey Vinyl + fold-out poster) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19259&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19259&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 10 Jun 2022 17:40:38 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/765888c78b7ee5e891e938c8c6a95de8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Men I Trust / Men I Trust & Headroom (2 Cassettes Box Set) (김밥레코즈 ─ Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19232&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19232&amp;cate_no=26&amp;display_group=1</guid>
             <pubDate>Fri, 10 Jun 2022 05:36:39 GMT</pubDate>
             <content:encoded><![CDATA[27,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/f8aa21bd92364da38c6cb08563930463.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mitski / Bury Me at Makeout Creek (Clear Cassette) (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19206&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19206&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Tue, 07 Jun 2022 17:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[14,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/d77affbae8d73f5bab03e8d7c6626a92.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Warpaint / Radiate Like This (Clear Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -294,6 +286,14 @@
             <pubDate>Fri, 10 Jun 2022 17:40:46 GMT</pubDate>
             <content:encoded><![CDATA[20,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/4dfa91d645220e312ab48b710684dfc7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공중도둑 / 공중도덕 (Cassette, US Import) (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18802&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18802&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Sun, 12 Jun 2022 05:36:35 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/f361e3ff2c4e6e34baa310ea41bdaf00.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Keith Jarrett / The Art Of Improvisation (Documentary) (Blu-ray) (김밥레코즈 ─ Movies/Merch)]]></title>
