@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 17:39:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 05:42:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kehlani / Blue Water Road (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19276&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19276&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 13 Jun 2022 05:40:26 GMT</pubDate>
+            <content:encoded><![CDATA[22,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/175544c607c4aca580a0c572a64f38ed.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various Artists / Mr Bongo Record Club Volume 3 (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19272&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 06 Jun 2022 17:39:35 GMT</pubDate>
             <content:encoded><![CDATA[29,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/8892e1af1423d6caace7a9c47e42d97a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sylvia Striplin / Give Me Your Love (CD, JPN Import) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19190&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19190&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 06 Jun 2022 17:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/902b91fb104e778d2280eb90d441f42e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Cranberries / Stars: The Best Of 1992-2002 (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
@@ -872,6 +872,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/4877d19e83d12ed0b3f63e14843cce69.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Kehlani / Blue Water Road (CD) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19276&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19276&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Mon, 13 Jun 2022 05:41:41 GMT</pubDate>
+            <content:encoded><![CDATA[22,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/175544c607c4aca580a0c572a64f38ed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Messengers Incorporated / Soulful Proclamation (CD, JPN Import) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19191&amp;cate_no=44&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19191&amp;cate_no=44&amp;display_group=1</guid>
@@ -958,14 +966,6 @@
             <pubDate>Thu, 21 Apr 2022 17:47:42 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/2ee48b43e038fc01d44a111d48d145e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aretha Franklin / Aretha (CD, 1980 Album, AOR City Series, JPN Import) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18746&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18746&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Thu, 21 Apr 2022 17:47:42 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/50a8d6b7052c03c7d2f9f3625f11dea7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Notorious B.I.G. / Duets: The Final Chapter (CD, EU import) *한정수량 할인 (김밥레코즈 ─ CD ─ Hip Hop)]]></title>
