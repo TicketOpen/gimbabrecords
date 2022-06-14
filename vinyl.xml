@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 17:45:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 05:50:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 13 Jun 2022 17:43:16 GMT</pubDate>
             <content:encoded><![CDATA[34,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/cbc5d8a201a3edf44f34cece9df70f9f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지누션 JINUSEAN / JINUSEAN (180g Vinyl) *예약상품 (7월초 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19277&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19277&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 14 Jun 2022 05:48:09 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/aef6c15517455864e2ba83e31f872bd3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Cranberries / Stars: The Best Of 1992-2002 (Vinyl, 2LP)]]></title>
@@ -88,20 +96,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/a540da921f66630b560d26bdd759f5d7.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[M83/ Hurry Up We're Dreaming (10th Anniversary, Limited Orange Vinyl 2LP) *예약상품 / 별도의 입금기한이 설정되어 있습니다.]]></title>
+            <title><![CDATA[M83/ Hurry Up We're Dreaming (10th Anniversary, Limited Orange Vinyl 2LP) *예약상품 (6월말 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19266&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19266&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Sat, 11 Jun 2022 05:36:00 GMT</pubDate>
             <content:encoded><![CDATA[45,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/a17d507bf3c1b1fdfd945e151a2739a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sigrid / How To Let Go (Black Vinyl) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19265&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19265&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 11 Jun 2022 05:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/08d6ce1aca26e30f2664a03119791920.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

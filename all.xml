@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 17:45:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 05:50:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/cbc5d8a201a3edf44f34cece9df70f9f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지누션 JINUSEAN / JINUSEAN (180g Vinyl) *예약상품 (7월초 발송 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19277&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19277&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 14 Jun 2022 05:48:09 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/aef6c15517455864e2ba83e31f872bd3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Cranberries / Stars: The Best Of 1992-2002 (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19275&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19275&amp;cate_no=25&amp;display_group=1</guid>
@@ -184,20 +192,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/a540da921f66630b560d26bdd759f5d7.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[M83/ Hurry Up We're Dreaming (10th Anniversary, Limited Orange Vinyl 2LP) *예약상품 / 별도의 입금기한이 설정되어 있습니다. (김밥레코즈 ─ Vinyl)]]></title>
+            <title><![CDATA[M83/ Hurry Up We're Dreaming (10th Anniversary, Limited Orange Vinyl 2LP) *예약상품 (6월말 발송 예정) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19266&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19266&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Sat, 11 Jun 2022 05:36:00 GMT</pubDate>
             <content:encoded><![CDATA[45,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/a17d507bf3c1b1fdfd945e151a2739a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sigrid / How To Let Go (Black Vinyl) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19265&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19265&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 11 Jun 2022 05:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/08d6ce1aca26e30f2664a03119791920.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Men I Trust / Men I Trust & Headroom (2 Cassettes Box Set) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,7 +392,15 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202105/ebdb776fb8672e3492813de2abdb23e3.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[M83/ Hurry Up We're Dreaming (10th Anniversary, Limited Orange Vinyl 2LP) *예약상품 / 별도의 입금기한이 설정되어 있습니다. (김밥레코즈 ─ Pre-Order)]]></title>
+            <title><![CDATA[지누션 JINUSEAN / JINUSEAN (180g Vinyl) *예약상품 (7월초 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19277&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19277&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 14 Jun 2022 05:48:31 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/aef6c15517455864e2ba83e31f872bd3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[M83/ Hurry Up We're Dreaming (10th Anniversary, Limited Orange Vinyl 2LP) *예약상품 (6월말 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19266&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19266&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Mon, 13 Jun 2022 17:43:39 GMT</pubDate>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 27 May 2022 17:47:09 GMT</pubDate>
             <content:encoded><![CDATA[58,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/c00a0234799a84c3824dff32acf446d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삐삐롱스타킹 / 3집 One Way Ticket (140g Colored Vinyl) & 바보버스 (42g Colored 7" Vinyl) 합본반 *예약상품 (6월 24일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17924&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17924&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 26 May 2022 17:45:51 GMT</pubDate>
-            <content:encoded><![CDATA[64,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/3eeaff234c61bdaff5b23083b915e8ad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Robert Plant & Alison Krauss / Raising Sand (CD, EU import) *할인상품 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -1728,6 +1728,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/c85ec7337c91b2b2d6158fc81504c3e8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지누션 JINUSEAN / JINUSEAN (180g Vinyl) *예약상품 (7월초 발송 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19277&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19277&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 14 Jun 2022 05:50:18 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/aef6c15517455864e2ba83e31f872bd3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[OST / 봄날은 간다 (Vinyl, 2LP) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19212&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19212&amp;cate_no=52&amp;display_group=1</guid>
@@ -1814,14 +1822,6 @@
             <pubDate>Fri, 27 May 2022 17:48:58 GMT</pubDate>
             <content:encoded><![CDATA[58,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/c00a0234799a84c3824dff32acf446d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현식 / 베스트 Vol. 2 (Gold Colored Vinyl, 2LP, 150g, 45rpm) *예약상품 (10월 19일 경 발송예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19104&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19104&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Fri, 27 May 2022 17:48:58 GMT</pubDate>
-            <content:encoded><![CDATA[58,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/5789507f2a05821000c0494f1c3cbe61.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Keith Jarrett / The Art Of Improvisation (Documentary) (Blu-ray) (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>

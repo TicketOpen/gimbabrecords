@@ -4,11 +4,19 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 17:45:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 05:50:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[M83/ Hurry Up We're Dreaming (10th Anniversary, Limited Orange Vinyl 2LP) *예약상품 / 별도의 입금기한이 설정되어 있습니다.]]></title>
+            <title><![CDATA[지누션 JINUSEAN / JINUSEAN (180g Vinyl) *예약상품 (7월초 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19277&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19277&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 14 Jun 2022 05:48:31 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/aef6c15517455864e2ba83e31f872bd3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[M83/ Hurry Up We're Dreaming (10th Anniversary, Limited Orange Vinyl 2LP) *예약상품 (6월말 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19266&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19266&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Mon, 13 Jun 2022 17:43:39 GMT</pubDate>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 27 May 2022 17:47:09 GMT</pubDate>
             <content:encoded><![CDATA[58,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/c00a0234799a84c3824dff32acf446d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삐삐롱스타킹 / 3집 One Way Ticket (140g Colored Vinyl) & 바보버스 (42g Colored 7" Vinyl) 합본반 *예약상품 (6월 24일 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17924&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17924&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 26 May 2022 17:45:51 GMT</pubDate>
-            <content:encoded><![CDATA[64,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/3eeaff234c61bdaff5b23083b915e8ad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
