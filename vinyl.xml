@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 05:42:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 17:42:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Daft Punk) / TRON: Legacy 트론: 새로운 시작 (Vinyl, 2LP) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19291&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19291&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 15 Jun 2022 17:39:58 GMT</pubDate>
+            <content:encoded><![CDATA[46,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/4bb7297dd9d7f3d6016ac2ca31ec9f7a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Daft Punk) / TRON: Legacy 트론: 새로운 시작 (Vinyl, 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19290&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19290&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 15 Jun 2022 17:39:58 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/96637b4ab3cfe2784708b2a1d0e7b72b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Vladimir Cosma) / La Boum 2 라붐 2 (Bande Originale Du Film) (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19289&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19289&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 15 Jun 2022 17:39:58 GMT</pubDate>
+            <content:encoded><![CDATA[33,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/08e24d6a4dab44dae188a0787055021e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Vangelis / Gift... (Limited Numbered Silver Colored Vinyl, 2LP, Music On Vinyl Pressing) *할인상품]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19288&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 14 Jun 2022 05:48:09 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/aef6c15517455864e2ba83e31f872bd3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Cranberries / Stars: The Best Of 1992-2002 (Vinyl, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19275&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19275&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 12 Jun 2022 05:36:28 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/35733901eb1261aada4f1862240b5d81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Earth And Fire / Song Of The Marching Children (Limited Gold Colored Vinyl, 일련번호 표기, 750매 한정반) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19274&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19274&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 12 Jun 2022 05:36:28 GMT</pubDate>
-            <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/bc88d3609dc3e29ab1fd61eb3ac16430.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kaidi Tatham / An Insight To All Minds (Vinyl, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19273&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19273&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 12 Jun 2022 05:36:28 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/1cdd782b5863a8936d39494e7f828cfb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
