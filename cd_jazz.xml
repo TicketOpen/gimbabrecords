@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 17:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 05:41:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Marcin Wasilewski Trio / En Attendant (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19295&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19295&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Jun 2022 05:40:27 GMT</pubDate>
+            <content:encoded><![CDATA[21,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/457c51182e617a00a18fda65d6405d11.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anja Lechner & François Couturier (Francois Couturier) / Lontano (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19294&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19294&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Jun 2022 05:40:27 GMT</pubDate>
+            <content:encoded><![CDATA[21,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/d8bc61346564d632af341726fcb72fd0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nik Bartsch / Entendre (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19293&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19293&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Jun 2022 05:40:27 GMT</pubDate>
+            <content:encoded><![CDATA[21,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/3a9c1e1a86aa34bbff3a6ad5d0908199.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Ray Charles + Count Basie Orchestra / Ray Sings Basie Swings (CD, EU import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19203&amp;cate_no=46&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Fri, 27 May 2022 05:43:32 GMT</pubDate>
             <content:encoded><![CDATA[22,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/a9a188d99007361ffa5a5ee77099f151.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Coltrane / A Love Supreme: Live In Seattle (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19100&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19100&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 27 May 2022 05:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/f56ced2bcb60ec07613e453e0fdac614.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Miles Davis / Miles: The New Miles Davis Quintet (CD, RVG Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19099&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19099&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 27 May 2022 05:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[14,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/c944d851c909b1d1a22ac7be31e3a693.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charlie Byrd / Bossa Nova Pelos Passaros (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19098&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19098&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 27 May 2022 05:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[14,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/16b971f0f06009c92c08914327cfa585.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
