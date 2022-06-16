@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 05:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 17:44:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Mon, 13 Jun 2022 17:43:39 GMT</pubDate>
             <content:encoded><![CDATA[45,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/a17d507bf3c1b1fdfd945e151a2739a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nirvana / Nevermind - 30th Anniversary Super Deluxe Edition (180gm 8LP + 7" Vinyl Box Set) *예약상품 (제품 상세정보 내 안내를 참조해 주세요)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19189&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19189&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Jun 2022 17:41:27 GMT</pubDate>
-            <content:encoded><![CDATA[297,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/cbd0bb33f79ea51b8f83d33987045179.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[업타운 / 1집 Represent (Vinyl, 180g) *예약상품 (12월 3일 경 발송 예정)]]></title>
@@ -72,22 +64,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/72c5003222fd69ec71803e6e7767801d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[소음발광 / 도화선 (140g 오렌지 문 컬러 Vinyl + 가사지) *예약상품 (구매시 상세설명을 참조하세요)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19208&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19208&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 07 Jun 2022 17:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[38,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/41eff699d2c908c4b6e26d90004ae215.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김일두 / 꿈 속 꿈 (140g 포레스트 클리어 Vinyl) *예약상품 (1인 1매만 구매 가능, 구매시 상세설명을 참조하세요)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19207&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19207&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 07 Jun 2022 17:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/320a10ba7dffcc3883405a5a163f03a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[김현식 / 베스트 Vol. 2 (Gold Colored Vinyl, 2LP, 150g, 45rpm) *예약상품 (10월 19일 경 발송예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19104&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19104&amp;cate_no=42&amp;display_group=1</guid>
@@ -102,6 +78,30 @@
             <pubDate>Fri, 27 May 2022 17:47:09 GMT</pubDate>
             <content:encoded><![CDATA[58,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/c00a0234799a84c3824dff32acf446d9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삐삐롱스타킹 / 3집 One Way Ticket (140g Colored Vinyl) & 바보버스 (42g Colored 7" Vinyl) 합본반 *예약상품 (6월 24일 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17924&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17924&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Jun 2022 17:42:36 GMT</pubDate>
+            <content:encoded><![CDATA[64,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/3eeaff234c61bdaff5b23083b915e8ad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[All That Jazz / Ghibli Jazz 스튜디오 지브리 음악들을 재즈로 해석한 앨범 (Vinyl, 2022 RSD Japan Exclusive) / 예약상품 (7월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18893&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18893&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Jun 2022 17:42:36 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/193a60e6d24c2b3cbb26473bb688dd1c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[All That Jazz / Ghibli Jazz 2 스튜디오 지브리 음악들을 재즈로 해석한 앨범 Vol. 2 (Vinyl, 2022 RSD Japan Exclusive) / 예약상품 (7월말 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18896&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18896&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Jun 2022 17:42:36 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/39d2bea8b1142c98a66c08d8c993a4b7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
