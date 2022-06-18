@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 17:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 05:38:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/aa6c6fc7c967fc3709ea7523a78ed6ff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Henri Salvador / Homme Studio -1970​/​1975 (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19316&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19316&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 18 Jun 2022 05:36:20 GMT</pubDate>
+            <content:encoded><![CDATA[32,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/4114fd3f55d47f0480bf5ffb5aca318f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ibrahim Ferrer / Buenos Hermanos (Special Edition, 보너스트랙 추가, 180g 2LP) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19315&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19315&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 18 Jun 2022 05:36:20 GMT</pubDate>
+            <content:encoded><![CDATA[46,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/de82fb2a9eb320f1fd62defe624922b0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김신일 / Soul Soul Soul (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19313&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19313&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Thu, 16 Jun 2022 17:42:13 GMT</pubDate>
             <content:encoded><![CDATA[55,100원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/e067cd8eb7ba63eb4068ff28d673ffe6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST / Top Gun 탑건 Original Motion Picture Soundtrack (Vinyl, Picture Disc) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19297&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19297&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Jun 2022 17:42:13 GMT</pubDate>
-            <content:encoded><![CDATA[30,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/d54629c95f4d36e934b3263202075738.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Earth, Wind & Fire / That's the Way of the World (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19292&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19292&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Jun 2022 05:39:09 GMT</pubDate>
-            <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/c8fe3e679328da504fe50126686a8a28.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Men I Trust / Men I Trust & Headroom (2 Cassettes Box Set) (김밥레코즈 ─ Cassette)]]></title>
