@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 05:38:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 17:39:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/aa6c6fc7c967fc3709ea7523a78ed6ff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Puffy / Jet LP (Limited Colored Vinyl, 2LP) *1인 1매만 구매가 가능하며, 별도의 입금기한이 설정되어 있습니다. (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19318&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19318&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 18 Jun 2022 17:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[63,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/6e6a6f582dbe7854d32e4aa74fc36ec3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Puffy / amiyumi (Limited Clear Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19317&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19317&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 18 Jun 2022 17:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[48,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/c7c0a500142c0058e16582c9b0911b45.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Henri Salvador / Homme Studio -1970​/​1975 (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19316&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19316&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Thu, 16 Jun 2022 17:42:13 GMT</pubDate>
             <content:encoded><![CDATA[32,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/6441037179714dd3d8218b8187bb0bf8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jack McDuff / Moon Rappin' (Limited 180g Vinyl, Blue Note Classic Vinyl Series) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19299&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19299&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Jun 2022 17:42:13 GMT</pubDate>
-            <content:encoded><![CDATA[32,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/167864c9ce4b077892d432b68b1f293e.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Duke Ellington, Coleman Hawkins / Duke Ellington Meets Coleman Hawkins (180g Vinyl, Acoustic Sounds Series, QRP Pressings) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19298&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19298&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Jun 2022 17:42:13 GMT</pubDate>
-            <content:encoded><![CDATA[55,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/e067cd8eb7ba63eb4068ff28d673ffe6.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Men I Trust / Men I Trust & Headroom (2 Cassettes Box Set) (김밥레코즈 ─ Cassette)]]></title>
@@ -1056,11 +1056,11 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/fc90c6de8502762a6b4be02e67f455a4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Tom Misch / Beat Tape (CD, JPN Import) (김밥레코즈 ─ CD ─ Hip Hop)]]></title>
+            <title><![CDATA[Tom Misch / Beat Tape (CD, JPN Import) *한정수량 할인 (김밥레코즈 ─ CD ─ Hip Hop)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17979&amp;cate_no=45&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17979&amp;cate_no=45&amp;display_group=1</guid>
             <pubDate>Mon, 03 Jan 2022 17:47:11 GMT</pubDate>
-            <content:encoded><![CDATA[26,500원]]></content:encoded>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/d868bef4a6d34903547d92d79ab97dab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
