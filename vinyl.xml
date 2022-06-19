@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 05:39:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 17:39:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Monophonics / Sage Hotel (Indie Exclusive Colored Vinyl) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19321&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19321&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 19 Jun 2022 17:37:13 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/7d99c0816bdfb814be64210ea5fb0f65.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flume / Palaces (Vinyl, 2LP, UK Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19319&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19319&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 19 Jun 2022 17:37:13 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/c39cbae59f185e4162ae1ee952ce6b46.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Puffy / Jet LP (Limited Colored Vinyl, 2LP) *1인 1매만 구매가 가능하며, 별도의 입금기한이 설정되어 있습니다.]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19318&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 17 Jun 2022 05:38:38 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/34468316660fa92f13b2c998aeec4056.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시나위 / 6집 은퇴선언 (180g Vinyl, 2LP, 한정반)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19301&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19301&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Jun 2022 17:42:13 GMT</pubDate>
-            <content:encoded><![CDATA[56,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/e59fed7987a85d0e049f501c8fd31a92.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ronnie Foster / Two-Headed Freap (Limited 180g Vinyl, Blue Note Classic Vinyl Series)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19300&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19300&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Jun 2022 17:42:13 GMT</pubDate>
-            <content:encoded><![CDATA[32,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/6441037179714dd3d8218b8187bb0bf8.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

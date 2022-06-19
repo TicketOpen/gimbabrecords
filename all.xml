@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 05:39:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 17:39:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Monophonics / Sage Motel (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19322&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19322&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sun, 19 Jun 2022 17:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/a357c1de7d138449ced60f528f97c80a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flume / Palaces (Deluxe CD, 디지팩 / 2곡의 보너스트랙 추가, UK Import) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19320&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19320&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sun, 19 Jun 2022 17:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[27,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/0b85b5a795edaef9731d71b55cc3e76a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sons of Kemet / Black to the Future (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19314&amp;cate_no=24&amp;display_group=1</link>
@@ -88,20 +104,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/d8bc61346564d632af341726fcb72fd0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Nik Bartsch / Entendre (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19293&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19293&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Jun 2022 05:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[21,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/3a9c1e1a86aa34bbff3a6ad5d0908199.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Monophonics / Sage Hotel (Indie Exclusive Colored Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19321&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19321&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 19 Jun 2022 17:37:13 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/7d99c0816bdfb814be64210ea5fb0f65.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Tom Waits / Heartattack And Vine (Remastered CD, Digipak) *할인상품 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19282&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19282&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 13 Jun 2022 17:43:07 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/aa6c6fc7c967fc3709ea7523a78ed6ff.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Flume / Palaces (Vinyl, 2LP, UK Import) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19319&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19319&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 19 Jun 2022 17:37:13 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/c39cbae59f185e4162ae1ee952ce6b46.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Puffy / Jet LP (Limited Colored Vinyl, 2LP) *1인 1매만 구매가 가능하며, 별도의 입금기한이 설정되어 있습니다. (김밥레코즈 ─ Vinyl)]]></title>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 17 Jun 2022 05:38:38 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/34468316660fa92f13b2c998aeec4056.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시나위 / 6집 은퇴선언 (180g Vinyl, 2LP, 한정반) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19301&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19301&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Jun 2022 17:42:13 GMT</pubDate>
-            <content:encoded><![CDATA[56,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/e59fed7987a85d0e049f501c8fd31a92.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ronnie Foster / Two-Headed Freap (Limited 180g Vinyl, Blue Note Classic Vinyl Series) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19300&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19300&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Jun 2022 17:42:13 GMT</pubDate>
-            <content:encoded><![CDATA[32,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/6441037179714dd3d8218b8187bb0bf8.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Men I Trust / Men I Trust & Headroom (2 Cassettes Box Set) (김밥레코즈 ─ Cassette)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/39f43fd8f33800c69b541eea305808fe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Flume / Palaces (Deluxe CD, 디지팩 / 2곡의 보너스트랙 추가, UK Import) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19320&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19320&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Sun, 19 Jun 2022 17:37:54 GMT</pubDate>
+            <content:encoded><![CDATA[27,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/0b85b5a795edaef9731d71b55cc3e76a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Beverly Glenn-Copeland / Keyboard Fantasies Reimagined (CD, Digi-sleeve) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19136&amp;cate_no=31&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19136&amp;cate_no=31&amp;display_group=1</guid>
@@ -864,12 +872,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/19f6c94cc29f4e74fd9a6d0c8ddaefc6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Darkside / Spiral (CD) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=16980&amp;cate_no=31&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=16980&amp;cate_no=31&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:39:49 GMT</pubDate>
-            <content:encoded><![CDATA[17,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/4877d19e83d12ed0b3f63e14843cce69.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Monophonics / Sage Motel (CD) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19322&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19322&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Sun, 19 Jun 2022 17:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/a357c1de7d138449ced60f528f97c80a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kehlani / Blue Water Road (CD) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
@@ -958,14 +966,6 @@
             <pubDate>Fri, 22 Apr 2022 17:46:44 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/00731ea6dd717a7571ff32688b534a10.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists (Mixed By DJ OSSHY) / Happy Disco 3 - Salsoul Night (CD, JPN Import) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18758&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18758&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Thu, 21 Apr 2022 17:47:42 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/2ee48b43e038fc01d44a111d48d145e3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Notorious B.I.G. / Duets: The Final Chapter (CD, EU import) *한정수량 할인 (김밥레코즈 ─ CD ─ Hip Hop)]]></title>

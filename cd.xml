@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 05:39:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 17:39:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Monophonics / Sage Motel (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19322&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19322&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sun, 19 Jun 2022 17:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/a357c1de7d138449ced60f528f97c80a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flume / Palaces (Deluxe CD, 디지팩 / 2곡의 보너스트랙 추가, UK Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19320&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19320&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sun, 19 Jun 2022 17:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[27,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/0b85b5a795edaef9731d71b55cc3e76a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sons of Kemet / Black to the Future (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19314&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 16 Jun 2022 05:39:00 GMT</pubDate>
             <content:encoded><![CDATA[21,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/d8bc61346564d632af341726fcb72fd0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nik Bartsch / Entendre (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19293&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19293&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Jun 2022 05:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[21,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/3a9c1e1a86aa34bbff3a6ad5d0908199.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tom Waits / Heartattack And Vine (Remastered CD, Digipak) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19282&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19282&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 13 Jun 2022 17:43:07 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/aa6c6fc7c967fc3709ea7523a78ed6ff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
