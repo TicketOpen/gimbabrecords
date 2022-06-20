@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 17:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 05:40:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/d8bc61346564d632af341726fcb72fd0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Queen / The Platinum Collection (Coloured 6LP Box Set) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19323&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19323&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 20 Jun 2022 05:37:25 GMT</pubDate>
+            <content:encoded><![CDATA[196,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/e2272560eaef1a264358b04d1e084b9d.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[Monophonics / Sage Hotel (Indie Exclusive Colored Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19321&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19321&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 17 Jun 2022 17:39:15 GMT</pubDate>
             <content:encoded><![CDATA[54,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/cc46114afc28cc2db727189cd98c19f1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Let's Eat Grandma / Two Ribbons (Vinyl, 2LP, Limited Deluxe Edition - Bonus 7" / Gatefold) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19305&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19305&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Jun 2022 05:38:38 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/34468316660fa92f13b2c998aeec4056.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Men I Trust / Men I Trust & Headroom (2 Cassettes Box Set) (김밥레코즈 ─ Cassette)]]></title>
