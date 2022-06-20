@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 05:40:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 17:43:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Naoya Matsuoka & Wesing / Majorca "Romantic Version" (SHM-CD, J-Fusion 40주년 시리즈, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19325&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19325&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 20 Jun 2022 17:41:53 GMT</pubDate>
+            <content:encoded><![CDATA[17,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/d795d6852992cfde2fe41a5db7d682c1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[왑띠 / Jordan Wants to Play (CD) *예약상품 (6월 28일 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19324&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19324&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 20 Jun 2022 17:41:53 GMT</pubDate>
+            <content:encoded><![CDATA[11,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/4f97376728567c9806e51f88bcd4c80b.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Monophonics / Sage Motel (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19322&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 16 Jun 2022 17:42:04 GMT</pubDate>
             <content:encoded><![CDATA[22,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/6de310ae25ad75df6131fb4c7084833d.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marcin Wasilewski Trio / En Attendant (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19295&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19295&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Jun 2022 05:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[21,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/457c51182e617a00a18fda65d6405d11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anja Lechner & François Couturier (Francois Couturier) / Lontano (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19294&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19294&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Jun 2022 05:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[21,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/d8bc61346564d632af341726fcb72fd0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
