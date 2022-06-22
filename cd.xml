@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 05:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 17:50:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cecil Lyde / Stone Free (CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19331&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19331&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 22 Jun 2022 17:47:33 GMT</pubDate>
+            <content:encoded><![CDATA[29,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/c9b7568556c7c9518b4a26da16490c43.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유라시아 / 정규 1집 Ø (파이) (CD]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19329&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 17 Jun 2022 05:38:32 GMT</pubDate>
             <content:encoded><![CDATA[52,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/d4975f117d171b30beb4f28886688b41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oasis / (What's The Story) Morning Glory? (CD, 배철수의 음악캠프 20주년 기획 100대 음반)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19304&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19304&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Jun 2022 17:42:04 GMT</pubDate>
-            <content:encoded><![CDATA[9,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/abfab3b2266e971a0889715f439d1926.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

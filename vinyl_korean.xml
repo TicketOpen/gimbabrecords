@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 05:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 17:50:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Yaeji / EP 1​+​2 (Black Vinyl) *예약상품 (7월 1일부터 배송 시작) / 한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19335&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19335&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 22 Jun 2022 17:49:53 GMT</pubDate>
+            <content:encoded><![CDATA[33,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/af1c4593c4f0d22684b7ad17393f5679.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yaeji 예지 / EP 1+2 (Opaque Jade Vinyl, Limited, Indie Exclusive) *예약상품 (7월 1일부터 배송 시작) / 한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19334&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19334&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 22 Jun 2022 17:49:53 GMT</pubDate>
+            <content:encoded><![CDATA[33,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/5063cbc641ab831995abd882e3be42a1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김신일 / Soul Soul Soul (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19313&amp;cate_no=52&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 07 Jun 2022 17:44:56 GMT</pubDate>
             <content:encoded><![CDATA[38,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/41eff699d2c908c4b6e26d90004ae215.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김일두 / 꿈 속 꿈 (140g 포레스트 클리어 Vinyl) *1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19207&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19207&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 07 Jun 2022 17:44:56 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/320a10ba7dffcc3883405a5a163f03a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / 아름답고 우아한 포크 가수의 노래들 Vol.2: Voices in Poetry (140g 컬러 Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19127&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19127&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Mon, 30 May 2022 17:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/9e2f1a57eff83a3a71a576f9ddcbf01d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
