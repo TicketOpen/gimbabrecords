@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Movies/Merch</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 17:52:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 05:41:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Fri, 15 Apr 2022 17:41:54 GMT</pubDate>
             <content:encoded><![CDATA[52,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/8d56d378cf50f231a771a15ec7647ae7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후하 HooHaa / Camp Cap (One size)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18660&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18660&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Apr 2022 17:42:04 GMT</pubDate>
-            <content:encoded><![CDATA[30,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/19b9dbcf8be8737a805991ead5a68df4.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[버둥 / 정규 1집 지지않는 곳으로 가자 (에세이집 + 음원 다운로드코드)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Sat, 11 Jun 2022 17:36:36 GMT</pubDate>
             <content:encoded><![CDATA[12,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202105/ebdb776fb8672e3492813de2abdb23e3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[안다영 Panorama Poster (양면 Offset 2도 인쇄)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=16320&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=16320&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Wed, 22 Jun 2022 05:40:24 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202104/2ce7246311680a61261716a01d1b56d1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

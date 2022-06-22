@@ -4,17 +4,9 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 17:52:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 05:41:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[왑띠 / Jordan Wants to Play (CD) *예약상품 (6월 28일 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19324&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19324&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 20 Jun 2022 17:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[11,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/4f97376728567c9806e51f88bcd4c80b.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[지누션 JINUSEAN / JINUSEAN (180g Vinyl) *예약상품 (7월초 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19277&amp;cate_no=42&amp;display_group=1</link>
@@ -22,6 +14,14 @@
             <pubDate>Tue, 14 Jun 2022 05:48:31 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/aef6c15517455864e2ba83e31f872bd3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[왑띠 / Jordan Wants to Play (CD) *예약상품 (6월 28일 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19324&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19324&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 20 Jun 2022 17:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[11,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/4f97376728567c9806e51f88bcd4c80b.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[M83/ Hurry Up We're Dreaming (10th Anniversary, Limited Orange Vinyl 2LP) *예약상품 (6월말 발송 예정)]]></title>
