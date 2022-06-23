@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 05:43:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 17:44:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FKJ / Vincent (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19339&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19339&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Jun 2022 17:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/967b6e7fea15c1d8cead6be91c56b010.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cecil Lyde / Stone Free (CD, JPN Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19331&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 17 Jun 2022 17:39:06 GMT</pubDate>
             <content:encoded><![CDATA[16,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/0842c6638c25ea167fd637bfa5cd9c59.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Astor Piazzolla / The American Clave Recordings (3CD Box Set)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19306&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19306&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Jun 2022 05:38:32 GMT</pubDate>
-            <content:encoded><![CDATA[52,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/d4975f117d171b30beb4f28886688b41.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

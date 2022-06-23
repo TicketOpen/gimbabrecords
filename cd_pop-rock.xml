@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 05:43:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 17:44:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FKJ / Vincent (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19339&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19339&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Jun 2022 17:42:51 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/967b6e7fea15c1d8cead6be91c56b010.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Smile / A Light For Attracting Attention (CD, Softpack, UK Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19308&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 07 Jun 2022 17:43:28 GMT</pubDate>
             <content:encoded><![CDATA[22,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/d72d5482dded0d23e994a07968b66837.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Robert Plant & Alison Krauss / Raising Sand (CD, EU import) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19204&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19204&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 07 Jun 2022 17:43:28 GMT</pubDate>
-            <content:encoded><![CDATA[14,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/39f43fd8f33800c69b541eea305808fe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
