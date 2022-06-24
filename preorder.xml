@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 17:44:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 05:42:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백예린 / 물고기 (CD + 원통형 박스 + 북클릿 + 마그넷) *CD ONLY / 예약상품 (7월 11일 주문 마감)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19348&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19348&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 24 Jun 2022 05:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[22,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/1dc8ee045e42265aea74c7613da0041c.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[백예린 / 물고기 (CD + Keyring) *예약상품 (7월 11일 주문 마감)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19349&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19349&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 24 Jun 2022 05:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[56,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/f5d4e5811034ea6981529dc3bc88785e.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Yaeji 예지 / EP 1+2 (Opaque Jade Vinyl, Limited, Indie Exclusive) *예약상품 (7월 1일부터 배송 시작) / 한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19334&amp;cate_no=42&amp;display_group=1</link>
@@ -48,14 +64,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/4f97376728567c9806e51f88bcd4c80b.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[M83/ Hurry Up We're Dreaming (10th Anniversary, Limited Orange Vinyl 2LP) *예약상품 (6월말 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19266&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19266&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 13 Jun 2022 17:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/a17d507bf3c1b1fdfd945e151a2739a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[업타운 / 1집 Represent (Vinyl, 180g) *예약상품 (12월 3일 경 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19107&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19107&amp;cate_no=42&amp;display_group=1</guid>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 08 Jun 2022 17:40:52 GMT</pubDate>
             <content:encoded><![CDATA[26,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/72c5003222fd69ec71803e6e7767801d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현식 / 베스트 Vol. 2 (Gold Colored Vinyl, 2LP, 150g, 45rpm) *예약상품 (10월 19일 경 발송예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19104&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19104&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 27 May 2022 17:47:09 GMT</pubDate>
-            <content:encoded><![CDATA[58,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/5789507f2a05821000c0494f1c3cbe61.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

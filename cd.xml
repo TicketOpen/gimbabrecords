@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 17:44:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 05:42:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백예린 / 물고기 (CD + Keyring) *예약상품 (7월 11일 주문 마감)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19349&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19349&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 24 Jun 2022 05:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[56,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/f5d4e5811034ea6981529dc3bc88785e.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[백예린 / 물고기 (CD + 원통형 박스 + 북클릿 + 마그넷) *CD ONLY / 예약상품 (7월 11일 주문 마감)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19348&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19348&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 24 Jun 2022 05:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[22,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/1dc8ee045e42265aea74c7613da0041c.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Evans / You Must Believe In Spring (CD, Jewel Case, Bill Evans' 1977 Studio Album)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19342&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19342&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 24 Jun 2022 05:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/feaaf46f8c96650895ef9c152ab9512e.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[FKJ / Vincent (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19339&amp;cate_no=24&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Sun, 19 Jun 2022 17:37:04 GMT</pubDate>
             <content:encoded><![CDATA[27,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/0b85b5a795edaef9731d71b55cc3e76a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sons of Kemet / Black to the Future (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19314&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19314&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Jun 2022 17:39:06 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/6e4b6c263efd7c064e7b8038c6f39391.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Smile / A Light For Attracting Attention (CD, Softpack, UK Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19308&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19308&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Jun 2022 17:39:06 GMT</pubDate>
-            <content:encoded><![CDATA[17,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/247fdcdafdbc787157ef729bdb187616.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Smile / A Light For Attracting Attention (CD, 국내반, 한국 보너스 트랙 1곡 삽입)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19307&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19307&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Jun 2022 17:39:06 GMT</pubDate>
-            <content:encoded><![CDATA[16,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/0842c6638c25ea167fd637bfa5cd9c59.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
