@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 05:45:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 17:45:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,7 +80,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/d795d6852992cfde2fe41a5db7d682c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[왑띠 / Jordan Wants to Play (CD) *예약상품 (6월 28일 발송 예정) (김밥레코즈 ─ CD)]]></title>
+            <title><![CDATA[왑띠 / Jordan Wants to Play (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19324&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19324&amp;cate_no=24&amp;display_group=1</guid>
             <pubDate>Mon, 20 Jun 2022 17:41:53 GMT</pubDate>
@@ -440,14 +440,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/aef6c15517455864e2ba83e31f872bd3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[왑띠 / Jordan Wants to Play (CD) *예약상품 (6월 28일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19324&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19324&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 20 Jun 2022 17:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[11,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/4f97376728567c9806e51f88bcd4c80b.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[업타운 / 1집 Represent (Vinyl, 180g) *예약상품 (12월 3일 경 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19107&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19107&amp;cate_no=42&amp;display_group=1</guid>
@@ -486,6 +478,14 @@
             <pubDate>Wed, 08 Jun 2022 17:40:52 GMT</pubDate>
             <content:encoded><![CDATA[26,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/72c5003222fd69ec71803e6e7767801d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현식 / 베스트 Vol. 2 (Gold Colored Vinyl, 2LP, 150g, 45rpm) *예약상품 (10월 19일 경 발송예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19104&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19104&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 27 Jun 2022 17:43:48 GMT</pubDate>
+            <content:encoded><![CDATA[58,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/5789507f2a05821000c0494f1c3cbe61.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김정미 / 최신가요집 (1집) + 간다고 하지마오 (2집, 컴필레이션) + 바람 (3집) (일본에서 제작된 3장의 컬러바이닐 한정수량 묶음판매, Limited Edition) *할인판매 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -568,20 +568,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/20200113/9dff1b953a32fe1ac92401ad76077683.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Elliott Smith / Either/Or (CD, EU Import) *할인상품 (김밥레코즈 ─ Bargain Bin)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=15708&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=15708&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Sun, 12 Jun 2022 17:37:31 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201705/7036_shop1_213353.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[OST	/ Ultimate Dirty Dancing 더티댄싱 - 보너스트랙 포함 총 26곡 수록 (CD, EU Import) *2020 추석할인 (김밥레코즈 ─ Bargain Bin)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=15694&amp;cate_no=43&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=15694&amp;cate_no=43&amp;display_group=1</guid>
             <pubDate>Tue, 21 Jun 2022 17:50:40 GMT</pubDate>
             <content:encoded><![CDATA[12,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202011/900a3fec8e23536960b2adde3f0c0abb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST	/ Mamma Mia! 맘마미아 (CD, EU Import) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15689&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15689&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Mon, 27 Jun 2022 17:43:55 GMT</pubDate>
+            <content:encoded><![CDATA[13,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202011/89f9ae592676a510500092fce25935fd.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[백예린 / 물고기 (CD + Keyring) *예약상품 (7월 11일 주문 마감) (김밥레코즈 ─ CD ─ Korean)]]></title>
@@ -624,7 +624,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/5a7e89c8a07670fbe1a521777b5c9380.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[왑띠 / Jordan Wants to Play (CD) *예약상품 (6월 28일 발송 예정) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <title><![CDATA[왑띠 / Jordan Wants to Play (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19324&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19324&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Mon, 20 Jun 2022 17:42:37 GMT</pubDate>

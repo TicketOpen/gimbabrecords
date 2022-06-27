@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Bargain Bin</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 05:45:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 17:45:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/20200113/9dff1b953a32fe1ac92401ad76077683.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Elliott Smith / Either/Or (CD, EU Import) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=15708&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=15708&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Sun, 12 Jun 2022 17:37:31 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201705/7036_shop1_213353.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[OST	/ Ultimate Dirty Dancing 더티댄싱 - 보너스트랙 포함 총 26곡 수록 (CD, EU Import) *2020 추석할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=15694&amp;cate_no=43&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=15694&amp;cate_no=43&amp;display_group=1</guid>
             <pubDate>Tue, 21 Jun 2022 17:50:40 GMT</pubDate>
             <content:encoded><![CDATA[12,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202011/900a3fec8e23536960b2adde3f0c0abb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST	/ Mamma Mia! 맘마미아 (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15689&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15689&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Mon, 27 Jun 2022 17:43:55 GMT</pubDate>
+            <content:encoded><![CDATA[13,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202011/89f9ae592676a510500092fce25935fd.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
