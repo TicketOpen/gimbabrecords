@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 05:47:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 17:45:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jim Hall / Ballad Essentials (Concord Jazz) (CD, EU import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19365&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19365&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 28 Jun 2022 17:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/4a0c72c71bcac4258a3f4b2f4b3fb168.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Esperanza Spalding / Esperanza (CD, EU import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19361&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19361&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 28 Jun 2022 17:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/4c28dc935e3b217b44af5dff740d0c5b.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bill Evans / You Must Believe In Spring (CD, Jewel Case, Bill Evans' 1977 Studio Album)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19342&amp;cate_no=46&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 30 May 2022 17:45:21 GMT</pubDate>
             <content:encoded><![CDATA[23,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/47e32b6a3711a04a142a879c2dd11c98.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Ketil Bjørnstad (Ketil Bjornstad) / Images/Shimmering (2CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19130&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19130&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Mon, 30 May 2022 17:45:21 GMT</pubDate>
-            <content:encoded><![CDATA[32,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/d27b9f708c741575713ce41571e0616c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ketil Bjørnstad (Ketil Bjonstad) / Sanger Om Tilhørighet (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19129&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19129&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Mon, 30 May 2022 17:45:21 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/67774c29c30d4e380811d3713a07c2ca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 05:47:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 17:45:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PJ Morton / Watch The Sun (CD, EU import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19363&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19363&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Tue, 28 Jun 2022 17:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/c418bf7ab8a045e9fac186b7eb3758cc.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Roberta Flack / Softly With These Songs - The Best Of Roberta Flack (CD, EU import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19362&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19362&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Tue, 28 Jun 2022 17:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/04482b6dbe53d9ce3378e10e49d9ce80.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Cecil Lyde / Stone Free (CD, JPN Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19331&amp;cate_no=44&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 22 Apr 2022 17:46:44 GMT</pubDate>
             <content:encoded><![CDATA[19,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/657c8bebdb6e2869053a897441c8de9e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Al Green / I'm Still In Love With You (CD, Digipak)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18777&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18777&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Apr 2022 17:46:44 GMT</pubDate>
-            <content:encoded><![CDATA[19,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/da3ca32559c97e72c1463f388f816abf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[George Benson / The Ultimate Collection (Deluxe 2CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18763&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18763&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Apr 2022 17:46:44 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/34451bb255a3890314cb32e0b5ab88da.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
