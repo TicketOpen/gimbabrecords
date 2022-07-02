@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 17:43:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 05:39:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tatsuro Yamashita / Softly (CD, Standard Edition) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19392&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19392&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sat, 02 Jul 2022 05:37:34 GMT</pubDate>
+            <content:encoded><![CDATA[37,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/40ff4fe0b764ba1b237fd746abab055c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tatsuro Yamashita / Softly (Limited Edition, 2CD - 어쿠스틱 라이브가 추가된 한정반) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19391&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19391&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sat, 02 Jul 2022 05:37:34 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/2c8d42efc920bc0498abd907b61bd30b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김목인 / 저장된 풍경 (CD) *예약상품 (7월 6일 발송 예정) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19380&amp;cate_no=24&amp;display_group=1</link>
@@ -88,20 +104,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/e7ef46d67785cf116dd690a54e6c691a.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[백예린 / 물고기 (CD + Keyring) *예약상품 (7월 11일 주문 마감) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19349&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19349&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 24 Jun 2022 05:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[56,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/f5d4e5811034ea6981529dc3bc88785e.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[백예린 / 물고기 (CD + 원통형 박스 + 북클릿 + 마그넷) *CD ONLY / 예약상품 (7월 11일 주문 마감) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19348&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19348&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 24 Jun 2022 05:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[22,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/1dc8ee045e42265aea74c7613da0041c.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Tatsuro Yamashita / Sofly (Vinyl, 2LP, Limited Edition) *1인 최대 2매까지 구매 가능 / 입금기한 별도 설정 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19393&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19393&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 02 Jul 2022 05:37:43 GMT</pubDate>
+            <content:encoded><![CDATA[55,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/8adcaaceb8d0804a47f7507acc9ebae6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Isao Suzuki Quartet +1 / Blue City (Vinyl, Limited Edition) *1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl)]]></title>
@@ -192,12 +200,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/1991133feaff29787a8c04031c125a06.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Field Music / Plumb (Limited Clear Plumb Vinyl) (2022 RSD Exclusive) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19377&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19377&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 29 Jun 2022 18:00:43 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/1aa5d331880b6410ad3d1e5885bad398.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Tatsuro Yamashita / Softly (Limited Cassette) *1인 1매만 구매가 가능합니다. (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19390&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19390&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Sat, 02 Jul 2022 05:37:52 GMT</pubDate>
+            <content:encoded><![CDATA[41,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/9f511e26745eaa03d281b318be015864.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Men I Trust / Men I Trust & Headroom (2 Cassettes Box Set) (김밥레코즈 ─ Cassette)]]></title>
@@ -286,14 +294,6 @@
             <pubDate>Fri, 10 Jun 2022 17:40:46 GMT</pubDate>
             <content:encoded><![CDATA[20,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/4dfa91d645220e312ab48b710684dfc7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아방가르드박 (Avantgarde Vak) / The Upaloopa Vol.2 – Binaural Fantasy (Cassette) (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18709&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18709&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Tue, 28 Jun 2022 17:43:46 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/580597247692b7bcf139bfae27826b04.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Keith Jarrett / The Art Of Improvisation (Documentary) (Blu-ray) (김밥레코즈 ─ Movies/Merch)]]></title>
@@ -1632,6 +1632,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202012/da173bdb24d4ae2e0d25616399ac32d5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Tatsuro Yamashita / Softly (CD, Standard Edition) (김밥레코즈 ─ CD ─ Japanese)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19392&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19392&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Sat, 02 Jul 2022 05:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[37,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/40ff4fe0b764ba1b237fd746abab055c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tatsuro Yamashita / Softly (Limited Edition, 2CD - 어쿠스틱 라이브가 추가된 한정반) (김밥레코즈 ─ CD ─ Japanese)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19391&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19391&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Sat, 02 Jul 2022 05:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/2c8d42efc920bc0498abd907b61bd30b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Naoya Matsuoka & Wesing / Majorca "Romantic Version" (SHM-CD, J-Fusion 40주년 시리즈, JPN Import) (김밥레코즈 ─ CD ─ Japanese)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19325&amp;cate_no=90&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19325&amp;cate_no=90&amp;display_group=1</guid>
@@ -1710,22 +1726,6 @@
             <pubDate>Mon, 07 Feb 2022 05:37:11 GMT</pubDate>
             <content:encoded><![CDATA[35,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/75d15153f386b9c2b11f42d53328b262.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jun Miyake / Whispered Garden (CD) (김밥레코즈 ─ CD ─ Japanese)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18168&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18168&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Mon, 07 Feb 2022 05:37:11 GMT</pubDate>
-            <content:encoded><![CDATA[37,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/e33e586a937ce9efb23d87ca767a9ed4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / Tokyo Dreaming (CD) (김밥레코즈 ─ CD ─ Japanese)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18165&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18165&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Sun, 06 Feb 2022 17:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/89b728de8d7d29952d4d7d02006db1fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[봄여름가을겨울 / Bravo My Life! 20th Annviersary (2022 MIX) [180g 블랙반, 게이트폴드 2LP, 한정반] *예약상품 (10월초 발송 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>

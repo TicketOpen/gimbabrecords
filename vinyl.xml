@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 17:43:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 05:39:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tatsuro Yamashita / Sofly (Vinyl, 2LP, Limited Edition) *1인 최대 2매까지 구매 가능 / 입금기한 별도 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19393&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19393&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 02 Jul 2022 05:37:43 GMT</pubDate>
+            <content:encoded><![CDATA[55,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/8adcaaceb8d0804a47f7507acc9ebae6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Isao Suzuki Quartet +1 / Blue City (Vinyl, Limited Edition) *1인 1매만 구매 가능]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19389&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 29 Jun 2022 18:00:43 GMT</pubDate>
             <content:encoded><![CDATA[33,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/1991133feaff29787a8c04031c125a06.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Field Music / Plumb (Limited Clear Plumb Vinyl) (2022 RSD Exclusive)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19377&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19377&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 29 Jun 2022 18:00:43 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/1aa5d331880b6410ad3d1e5885bad398.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
