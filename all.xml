@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 17:43:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 05:42:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/0fcb525c5c3cf90a292058a38ee25305.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Jack White / Fear Of The Dawn (Black Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19415&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19415&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 05 Jul 2022 05:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/be304ce93a0b3dbb8e18845921a93d7e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kylie Minogue / Fever (2022 Black Vinyl Reissue) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19414&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19414&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 05 Jul 2022 05:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/c4c0e9b2d6af28999c155bf94f796654.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Toro Y Moi / Mahal (Black Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19413&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19413&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 05 Jul 2022 05:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/2bca46bb0bf801a6f28498b8f9af797c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Daft Punk + Various Artists / TRON: Legacy 트론: 새로운 시작 Reconfigured (Vinyl, 2LP) 리믹스 앨범 *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19412&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19412&amp;cate_no=25&amp;display_group=1</guid>
@@ -176,30 +200,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/ee8202ba47c564ad17c0095858bf2a92.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Kelly Lee Owens / LP 8 (White Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19400&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19400&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 03 Jul 2022 17:38:09 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/44fa27265eec745f3e3924ae92be12b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dan Fogelberg / Nether Lands (Limited Clear Vinyl, 일련번호 표기, 1,000매 한정) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19399&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19399&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 02 Jul 2022 17:38:06 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/5d23b5f2406030b7932799aee5b1e83e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Espers / The Weed Tree (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19398&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19398&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 02 Jul 2022 17:38:06 GMT</pubDate>
-            <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/94b2e46106ad95a958051cb4f97f5205.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Mort Garson / Mother Earth's Plantasia (Cassette) (김밥레코즈 ─ Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19402&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19402&amp;cate_no=26&amp;display_group=1</guid>
@@ -222,14 +222,6 @@
             <pubDate>Sat, 02 Jul 2022 05:37:52 GMT</pubDate>
             <content:encoded><![CDATA[41,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/9f511e26745eaa03d281b318be015864.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Men I Trust / Men I Trust & Headroom (2 Cassettes Box Set) (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19232&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19232&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Fri, 10 Jun 2022 05:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/f8aa21bd92364da38c6cb08563930463.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mitski / Bury Me at Makeout Creek (Clear Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -294,6 +286,14 @@
             <pubDate>Sun, 22 May 2022 02:55:34 GMT</pubDate>
             <content:encoded><![CDATA[19,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/7832942725b5fe139d05f3dead674609.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Benny Sings / Beat Tape II (Cassette) (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18830&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18830&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Tue, 05 Jul 2022 05:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/c84762dc50e7cc911b063723113d282d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Keith Jarrett / The Art Of Improvisation (Documentary) (Blu-ray) (김밥레코즈 ─ Movies/Merch)]]></title>
