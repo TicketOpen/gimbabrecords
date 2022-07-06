@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 05:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 17:45:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인희 / 다이너마이트 소녀, 가지마 (Limited Splatter Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19429&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19429&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 06 Jul 2022 17:45:26 GMT</pubDate>
+            <content:encoded><![CDATA[40,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/f398c9f117b78c68cf98d7325e5192fd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Say Sue Me 세이수미 / The Last Thing Left (Black Vinyl) *7월 8일 발송 예정]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19407&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 17 Jun 2022 17:41:14 GMT</pubDate>
             <content:encoded><![CDATA[44,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/166947308768c9fe8846d12bcc50b3e0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[시나위 / 6집 은퇴선언 (180g Vinyl, 2LP, 한정반)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19301&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19301&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Jun 2022 17:44:13 GMT</pubDate>
-            <content:encoded><![CDATA[56,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/e59fed7987a85d0e049f501c8fd31a92.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
