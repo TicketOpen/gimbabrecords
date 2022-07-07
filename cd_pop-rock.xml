@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 05:45:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 17:48:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Prince / The Gold Experience (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19435&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19435&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 07 Jul 2022 17:47:02 GMT</pubDate>
+            <content:encoded><![CDATA[20,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a44a515fb584608280928aecc81e6a7b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Swell Season (Glen Hansard & Marketa Irglova with Marja Tuhkanen & Bertrand Galen) / The Swell Season (CD, Digipak, EU import, Reissue)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19366&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 16 Jun 2022 17:42:58 GMT</pubDate>
             <content:encoded><![CDATA[22,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/6de310ae25ad75df6131fb4c7084833d.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tom Waits / Heartattack And Vine (Remastered CD, Digipak) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19282&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19282&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 13 Jun 2022 17:44:01 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/aa6c6fc7c967fc3709ea7523a78ed6ff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

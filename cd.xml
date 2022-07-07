@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 05:45:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 17:48:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Prince / The Gold Experience (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19435&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19435&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 07 Jul 2022 17:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[20,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a44a515fb584608280928aecc81e6a7b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Victor Assis Brasil / Trajeto (CD, Limited Edition) *Brasilian Music Love Affair 시리즈]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19426&amp;cate_no=24&amp;display_group=1</link>
@@ -24,7 +32,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a62537090133aa64404cbdd2b89a03c6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Samba Trio / Samba Pra Frente (CD, Limited Edition) *Samba Pra Frente 시리즈]]></title>
+            <title><![CDATA[Samba Trio / Samba Pra Frente (CD, Limited Edition) *Brasilian Music Love Affair 시리즈]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19424&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19424&amp;cate_no=24&amp;display_group=1</guid>
             <pubDate>Tue, 05 Jul 2022 17:44:11 GMT</pubDate>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 05 Jul 2022 17:44:11 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/d9166a3b2c3eecb10fad723ada8e56ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잔나비 / 잔나비 소곡집 ll : 초록을거머쥔우리는 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19406&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19406&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 04 Jul 2022 17:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[17,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/468e0aecd6853fd97b12dc53b2370ea9.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
