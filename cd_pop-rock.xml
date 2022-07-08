@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 05:43:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 17:49:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kent / B-Sidor 95-00 (2CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19451&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19451&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 08 Jul 2022 17:48:22 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/4f97ca3ce1e9baa7bced8b7b42c06724.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kent / Du & Jag Döden (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19450&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19450&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 08 Jul 2022 17:48:22 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/6ec99de820252aca68de239ed1414e2e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sharon Van Etten / We've Been Going About This All Wrong (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19442&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19442&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 08 Jul 2022 17:48:22 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/ae64ba555c51cf47a1551c199fad0f6c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Prince / The Gold Experience (CD, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19435&amp;cate_no=30&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Thu, 16 Jun 2022 17:42:58 GMT</pubDate>
             <content:encoded><![CDATA[9,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/abfab3b2266e971a0889715f439d1926.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sigrid / How To Let Go (CD, Jewel Case)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19303&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19303&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Jun 2022 17:42:58 GMT</pubDate>
-            <content:encoded><![CDATA[20,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/b8d6d952d37a91ef702fcc08fcd33ea5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Florence + The Machine / Dance Fever (CD, Digipak)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19302&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19302&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Jun 2022 17:42:58 GMT</pubDate>
-            <content:encoded><![CDATA[20,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/62fd05c4ea4da661324ef5866e1d2ce7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arcade Fire / We (CD, Digipak)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19296&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19296&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Jun 2022 17:42:58 GMT</pubDate>
-            <content:encoded><![CDATA[22,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/6de310ae25ad75df6131fb4c7084833d.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
