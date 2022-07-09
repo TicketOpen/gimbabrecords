@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 05:38:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 17:40:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a62537090133aa64404cbdd2b89a03c6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[OST (Rupert Holmes) / Five Savage Men (Limited Blue Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19456&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19456&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 09 Jul 2022 17:38:35 GMT</pubDate>
+            <content:encoded><![CDATA[35,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/6b510ddac2bf05a639300fb7efb7ab42.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[OST (Brian Tyler) / The Fast And The Furious: Tokyo Drift (Original Score) 분노의 질주 3: 패스트&퓨리어스 - 도쿄 드리프트 (Limited Orange & Black Vinyl, 2LP, 2022 RSD Exclusive) *1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19455&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19455&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 07 Jul 2022 17:46:09 GMT</pubDate>
             <content:encoded><![CDATA[37,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/6a9a5a2c9f57fa45b11cb7e073dfc4ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Akina Nakamori / Slow Motion (7" Vinyl, Picture Disc + Blu-ray Box Set, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19434&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19434&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 07 Jul 2022 17:46:09 GMT</pubDate>
-            <content:encoded><![CDATA[93,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/4bce2931abea5c2c4caef3e075014cb2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Green-House / Music For Living Space (Cassette) *비닐포장이 없는 제품입니다. (김밥레코즈 ─ Cassette)]]></title>
