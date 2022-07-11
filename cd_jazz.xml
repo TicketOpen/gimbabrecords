@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 05:44:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 17:50:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nina Simone / Wild Is The Wind (CD, EU Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19482&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19482&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Mon, 11 Jul 2022 17:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/c38d374f20faba373c3e0b076e13a179.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[B.B. King / Live At The Regal (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19470&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19470&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Mon, 11 Jul 2022 17:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/837e8f4693c179b361b1517f827f760b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Louis Armstrong / A Gift To Pops: The Wonderful World Of Louis Armstrong All Stars (CD, EU Import) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19449&amp;cate_no=46&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 16 Jun 2022 05:40:27 GMT</pubDate>
             <content:encoded><![CDATA[21,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/d8bc61346564d632af341726fcb72fd0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nik Bartsch / Entendre (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19293&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19293&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Jun 2022 05:40:27 GMT</pubDate>
-            <content:encoded><![CDATA[21,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/3a9c1e1a86aa34bbff3a6ad5d0908199.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ray Charles + Count Basie Orchestra / Ray Sings Basie Swings (CD, EU import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19203&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19203&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 07 Jun 2022 17:44:05 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/cbdcd5b3c26d3e0705dd722f6234e815.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
