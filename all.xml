@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 05:52:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 17:43:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,20 +280,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/7832942725b5fe139d05f3dead674609.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Sonic Youth / Sister (Cassette) (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18831&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18831&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Tue, 12 Jul 2022 17:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/fdf52beaee2e057b52a7f66db2003db5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Benny Sings / Beat Tape II (Cassette) (김밥레코즈 ─ Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18830&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18830&amp;cate_no=26&amp;display_group=1</guid>
             <pubDate>Tue, 05 Jul 2022 05:40:00 GMT</pubDate>
             <content:encoded><![CDATA[20,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/c84762dc50e7cc911b063723113d282d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / Somewhere Between: Mutant Pop, Electronic Minimalism & Shadow Sounds of Japan 1980-1988 (Cassette) (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18829&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18829&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Wed, 06 Jul 2022 17:43:24 GMT</pubDate>
-            <content:encoded><![CDATA[20,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/4dfa91d645220e312ab48b710684dfc7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Keith Jarrett / The Art Of Improvisation (Documentary) (Blu-ray) (김밥레코즈 ─ Movies/Merch)]]></title>
