@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 17:43:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 05:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시나위 / 7집 Psychedelos (180g Vinyl, 2LP, 한정반)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19486&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19486&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Jul 2022 05:42:11 GMT</pubDate>
+            <content:encoded><![CDATA[56,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/8270e22e9b8343c665920fa82eaa69b7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빅베이비드라이버 / Leftover & Remainder (White Colored Vinyl) *예약상품 (7월 20일 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19485&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19485&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Jul 2022 05:42:11 GMT</pubDate>
+            <content:encoded><![CDATA[43,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/f9fb09c13cad7750ed7d7e03481e5f8f.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[김동률 /1집 The Shadow Of Forgetfulness (White Colored Vinyl) *예약상품 (10월 첫째주 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19484&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19484&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Jul 2022 05:42:11 GMT</pubDate>
+            <content:encoded><![CDATA[52,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/b589cfc845329c967c5891d5d6ef03ef.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인희 / 다이너마이트 소녀, 가지마 (Limited Splatter Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19429&amp;cate_no=52&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Wed, 22 Jun 2022 17:49:53 GMT</pubDate>
             <content:encoded><![CDATA[33,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/5063cbc641ab831995abd882e3be42a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김신일 / Soul Soul Soul (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19313&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19313&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Jun 2022 17:41:14 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/b4f671ff769827594f94835e3b279f8c.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤영배 / 위험한 세계 (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19312&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19312&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Jun 2022 17:41:14 GMT</pubDate>
-            <content:encoded><![CDATA[44,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/8bf7e1842df3f5458ade6567f0c1b671.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[장필순 / 정규 11집 Petrichor 페트리코 (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19311&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19311&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Jun 2022 17:41:14 GMT</pubDate>
-            <content:encoded><![CDATA[44,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/166947308768c9fe8846d12bcc50b3e0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

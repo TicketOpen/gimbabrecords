@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 17:43:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 05:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빅베이비드라이버 / Leftover & Remainder (White Colored Vinyl) *예약상품 (7월 20일 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19485&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19485&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Jul 2022 05:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[43,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/f9fb09c13cad7750ed7d7e03481e5f8f.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[김동률 /1집 The Shadow Of Forgetfulness (White Colored Vinyl) *예약상품 (10월 첫째주 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19484&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19484&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Jul 2022 05:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[52,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/b589cfc845329c967c5891d5d6ef03ef.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보수동쿨러 / 모래 / 고무 (Limited 7" Vinyl, K-Indies Series) *예약상품 (9월 첫째주 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19382&amp;cate_no=42&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 16 Jun 2022 17:42:36 GMT</pubDate>
             <content:encoded><![CDATA[64,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/3eeaff234c61bdaff5b23083b915e8ad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[업타운 / 1집 Represent (Vinyl, 180g) *예약상품 (12월 3일 경 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19107&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19107&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 27 May 2022 17:47:09 GMT</pubDate>
-            <content:encoded><![CDATA[46,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/5573092228f6d6487466ffe17550a409.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백아 / 우주선 (140g 투명 베이비 핑크 Vinyl) *예약상품 (10월 7일 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18712&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18712&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Jun 2022 17:41:27 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/863b09802a426a5d642e92ad753f1891.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
