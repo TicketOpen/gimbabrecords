@@ -4,9 +4,49 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 05:42:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 17:48:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Martin Denny / Exotica Volume II (Limited Colored Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19494&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19494&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Jul 2022 17:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/9fdf61d037479de1a370aa5a21bb5d5e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Martin Denny / Primitiva (Limited Colored Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19493&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19493&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Jul 2022 17:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/cba2b2ac3ca673a6210dca81ebe80e31.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Steve Vai / Passion And Warfare (Vinyl, 180g MOV Pressing) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19490&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19490&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Jul 2022 17:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[36,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a282604d883e6d732898cc5767689b1c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Europe / The Final Countdown (Purple Clear Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19489&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19489&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Jul 2022 17:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[32,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/47d82d709f037327f3a51dabe12ec1ec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nothing But Thieves / Moral Panic: The Complete Edition (Transparent Plum Vinyl, 2LP, Gatefold)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19488&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19488&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Jul 2022 17:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[47,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/247ed9bce7873f7d08ab66f9920855c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST (Simon & Garfunkel, Dave Grusin) / The Graduate 졸업 (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19487&amp;cate_no=25&amp;display_group=1</link>
@@ -32,7 +72,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/f9fb09c13cad7750ed7d7e03481e5f8f.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[김동률 /1집 The Shadow Of Forgetfulness (White Colored Vinyl) *예약상품 (10월 첫째주 발송 예정)]]></title>
+            <title><![CDATA[김동률 / 1집 The Shadow Of Forgetfulness (White Colored Vinyl) *예약상품 (10월 첫째주 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19484&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19484&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Wed, 13 Jul 2022 05:40:10 GMT</pubDate>
@@ -62,46 +102,6 @@
             <pubDate>Mon, 11 Jul 2022 05:42:23 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/4b6fa4c97e5b8184f76eb652b81aaf6a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Roy Budd) / The Stone Killer 신디케이트 (Vinyl, Limited Colored Vinyl) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19464&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19464&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 11 Jul 2022 05:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[53,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/f0604a797c03d5285983897f12b2e10c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Roy Budd) / The Marseille Contract OST 마르세이유 탈출 (Limited Black Vinyl) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19463&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19463&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 11 Jul 2022 05:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[38,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/4842bcd7395b9ebbcdcdb18593529e1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Roy Budd) / The Marseille Contract 마르세이유 탈출 (Limited Blue Vinyl) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19462&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19462&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 11 Jul 2022 05:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/6bff13698aec57a399bd7ca46c56f7e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Ennio Morricone) / Space: 1999 (Vinyl, 2LP Black) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19461&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19461&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 11 Jul 2022 05:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[43,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/6cc2f56a58dcadf58a2f033d8c96b841.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Ennio Morricone) / My Dear Killer (Limited Red Vinyl) *할인상품 / 마지막 재고 (1인 1매만 구매 가능)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19460&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19460&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 11 Jul 2022 05:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/b54c70a9ff712a9b0694009d8975a812.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

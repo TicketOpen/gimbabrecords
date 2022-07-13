@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 05:42:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 17:48:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 바스타즈 / 정규 1집 CARNIVAL (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19491&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19491&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Jul 2022 17:46:57 GMT</pubDate>
+            <content:encoded><![CDATA[13,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/403a33607413505cfc717cc79ce388c0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잔나비 / 잔나비 소곡집 ll : 초록을거머쥔우리는 (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19406&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 26 May 2022 05:42:39 GMT</pubDate>
             <content:encoded><![CDATA[20,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/8f85581298a0da048e00f9e4df822532.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[라드 뮤지엄 Rad Museum / 1집 RAD (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18719&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18719&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Wed, 20 Apr 2022 17:46:58 GMT</pubDate>
-            <content:encoded><![CDATA[16,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/e46fef84f1a15caf329faec71d9a8709.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
