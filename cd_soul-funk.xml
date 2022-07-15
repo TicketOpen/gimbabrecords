@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 05:56:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 17:47:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sven Wunder / Natura Morta (CD, Mr. Bongo Reissue)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19546&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19546&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Jul 2022 17:46:24 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/2fca51b81dc1fde1940972bea11ed18e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Stylistics / Very Best Of The Stylistics (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19527&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19527&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Jul 2022 17:46:24 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/9c18e90bc6ffaaa68fcb894395886c74.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jhene Aiko / Trip (2CD, EU Import) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19469&amp;cate_no=44&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 06 Jun 2022 17:40:43 GMT</pubDate>
             <content:encoded><![CDATA[29,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/8892e1af1423d6caace7a9c47e42d97a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sylvia Striplin / Give Me Your Love (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19190&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19190&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Mon, 06 Jun 2022 17:40:43 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/902b91fb104e778d2280eb90d441f42e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jose James / New York 2020 (Live) (2CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19149&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19149&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Tue, 31 May 2022 05:43:46 GMT</pubDate>
-            <content:encoded><![CDATA[24,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/6f9f729ee0ad60d97ff6581561fdb407.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

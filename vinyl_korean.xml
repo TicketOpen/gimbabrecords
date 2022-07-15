@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 05:56:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 17:47:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엉클밥 / Uncle Bob (Black Vinyl + 가사지) *예약상품 (7월 25일 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19547&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19547&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Jul 2022 17:47:29 GMT</pubDate>
+            <content:encoded><![CDATA[40,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/d5c4567a6bbfe71b54b8af1a275f48e4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시나위 / 7집 Psychedelos (180g Vinyl, 2LP, 한정반)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19486&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 22 Jun 2022 17:49:53 GMT</pubDate>
             <content:encoded><![CDATA[33,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/af1c4593c4f0d22684b7ad17393f5679.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yaeji 예지 / EP 1+2 (Opaque Jade Vinyl, Limited, Indie Exclusive) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19334&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19334&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Wed, 22 Jun 2022 17:49:53 GMT</pubDate>
-            <content:encoded><![CDATA[33,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/5063cbc641ab831995abd882e3be42a1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
