@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 17:52:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 05:56:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/1e8af2a3ccef4e9c191df03d49013125.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Camel / Moonmadness (Black Vinyl, Remastered) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19505&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19505&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Jul 2022 05:54:27 GMT</pubDate>
+            <content:encoded><![CDATA[39,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201808/2bdc21e281a5a1ddd5c3b04f25edf0b7.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Bangs & Mick Talbot / Back To Business (Vinyl) *모서리 눌림으로 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19504&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19504&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Jul 2022 05:54:27 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/dd703d9803d4ec85a39a461b8345cb5e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Edna Vazquez with Pink Martini / Besame Mucho (Orange Colored 10" Vinyl, Limited Edition + Download) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19503&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19503&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Jul 2022 05:54:27 GMT</pubDate>
+            <content:encoded><![CDATA[25,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/94f567c5a0ae4bec5ee4874b4efca62d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[US3 / Hand On The Torch (Vinyl, 180g) *한정수량 할인상품 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19502&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19502&amp;cate_no=25&amp;display_group=1</guid>
@@ -174,30 +198,6 @@
             <pubDate>Wed, 13 Jul 2022 05:40:10 GMT</pubDate>
             <content:encoded><![CDATA[43,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/f9fb09c13cad7750ed7d7e03481e5f8f.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[김동률 / 1집 The Shadow Of Forgetfulness (White Colored Vinyl) *예약상품 (10월 첫째주 발송 예정) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19484&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19484&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Jul 2022 05:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[52,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/b589cfc845329c967c5891d5d6ef03ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Roy Budd /  The Stone Killers 신디케이트 (7인치 컬렉션, Limited 7"x2, 7인치 2장 세트) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19467&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19467&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 11 Jul 2022 05:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/0e44f702dfecd2cc97ab1623f79749fe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Roy Budd / Get Carter 겟 카터 (Limited 7"x2, 7인치 컬렉션 - 7인치 2장 세트) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19466&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19466&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 11 Jul 2022 05:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/346f87587966cd2755df0ae5549ef7df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Green-House / Music For Living Space (Cassette) *비닐포장이 없는 제품입니다. (김밥레코즈 ─ Cassette)]]></title>
