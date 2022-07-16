@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Movies/Merch</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 05:38:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 17:40:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nick Cave & The Bad Seeds / The Boatman's Call (CD + DVD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19566&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19566&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Sat, 16 Jul 2022 17:38:30 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/9d3b0e77ec5487f17e5962b4a2f21bb2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nick Cave & The Bad Seeds / Dig!!! Lazarus Dig!!! (CD + DVD, 2012 Remastered Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19565&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19565&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Sat, 16 Jul 2022 17:38:30 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/f2967a93171e416f2c12dbc2c72c90b8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Keith Jarrett / The Art Of Improvisation (Documentary) (Blu-ray)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18779&amp;cate_no=27&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 28 Oct 2021 18:00:20 GMT</pubDate>
             <content:encoded><![CDATA[42,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/53ac4b10170f97b92d4e006db72d29fb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vinyl Styl 7인치 보호비닐 50매 (Poly Sleeve Outer Record Sleeve For 7 Inch, 사이즈 7 9/16″ x 7 5/8″)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=16496&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=16496&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Sat, 11 Jun 2022 17:36:36 GMT</pubDate>
-            <content:encoded><![CDATA[12,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202105/ebdb776fb8672e3492813de2abdb23e3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[안다영 Panorama Poster (양면 Offset 2도 인쇄)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=16320&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=16320&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Wed, 22 Jun 2022 05:40:24 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202104/2ce7246311680a61261716a01d1b56d1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
