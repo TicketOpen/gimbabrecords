@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 17:40:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 05:51:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,22 +64,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/d2175455333a3bd811cf908c7394a8d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Say Sue Me / Big Summer Night (Transparent Orange Vinyl, 2019 RSD, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19554&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19554&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 16 Jul 2022 17:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/c7a7cf4607bc2ca09e113175793d693c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Say Sue Me / We've Sobered Up (Light Blue Vinyl, RSD 2019, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19553&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19553&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 16 Jul 2022 17:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a5f3a4a3f41cb59975702a7c52aa9123.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Kaidi Tatham / Kaidi's 5ive (12" Vinyl, 45rpm)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19552&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19552&amp;cate_no=25&amp;display_group=1</guid>
@@ -102,6 +86,22 @@
             <pubDate>Sat, 16 Jul 2022 17:38:14 GMT</pubDate>
             <content:encoded><![CDATA[35,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/b834d739dda223163d68f98d46bdb8c8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andrew Bird / Inside Problems (Limited Apple Red Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19549&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19549&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 18 Jul 2022 05:48:43 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/5534ca8f7db9688c3200b45536f5542f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mark Lanegan / The Winding Sheet (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19548&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19548&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 18 Jul 2022 05:48:43 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a17f087df0c0142412f597512d9d0231.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
