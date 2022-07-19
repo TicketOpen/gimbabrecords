@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 05:59:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 17:50:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Chet Baker / Cool Cat (CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19611&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19611&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Jul 2022 17:49:52 GMT</pubDate>
+            <content:encoded><![CDATA[17,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/590038d710d66f11ae69bf0200715a6e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[John Coltrane And Johnny Hartman / John Coltrane And Johnny Hartman (SHM-CD, OBI)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19603&amp;cate_no=46&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 18 Jul 2022 17:47:23 GMT</pubDate>
             <content:encoded><![CDATA[20,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a836e4e6ad9f63fca3987211981b2ceb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pat Metheny Group / Offramp (SHM-CD, OBI)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19592&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19592&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Jul 2022 17:47:23 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/08af9e962f3bd4c37ed9d489fb926a12.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
