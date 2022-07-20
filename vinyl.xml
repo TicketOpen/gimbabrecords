@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 17:50:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 05:44:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베이빌론 / EGO 90’S (2LP, 180g Colored Vinyl) *예약상품 (12월말 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19605&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19605&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 20 Jul 2022 05:42:02 GMT</pubDate>
+            <content:encoded><![CDATA[56,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/04b97faab5f8f02ab69e370fb06fd988.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[조용필 / 16~19집, 4LP 박스 (140g 컬러반, 넘버링 한정반) *예약상품 (10월 31일 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19604&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 16 Jul 2022 17:38:14 GMT</pubDate>
             <content:encoded><![CDATA[47,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/d2175455333a3bd811cf908c7394a8d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kaidi Tatham / Kaidi's 5ive (12" Vinyl, 45rpm)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19552&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19552&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 16 Jul 2022 17:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[38,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/f7f8754edc24cb466db64d5fe3803671.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

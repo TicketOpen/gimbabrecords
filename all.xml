@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 17:50:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 05:44:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/d6af79abd4bfaa1f523704a697b3a86e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Momoko Kikuchi / Tropic of Capricorn (CD, Reissue) (김밥레코즈 ─ CD)]]></title>
+            <title><![CDATA[Momoko Kikuchi / Tropic of Capricorn (CD, OBI) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19606&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19606&amp;cate_no=24&amp;display_group=1</guid>
             <pubDate>Tue, 19 Jul 2022 17:48:14 GMT</pubDate>
@@ -102,6 +102,14 @@
             <pubDate>Mon, 18 Jul 2022 17:45:49 GMT</pubDate>
             <content:encoded><![CDATA[20,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/cb6f9eda0e54c4370f219220992c2489.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베이빌론 / EGO 90’S (2LP, 180g Colored Vinyl) *예약상품 (12월말 발송 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19605&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19605&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 20 Jul 2022 05:42:02 GMT</pubDate>
+            <content:encoded><![CDATA[56,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/04b97faab5f8f02ab69e370fb06fd988.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[조용필 / 16~19집, 4LP 박스 (140g 컬러반, 넘버링 한정반) *예약상품 (10월 31일 발송 예정) (김밥레코즈 ─ Vinyl)]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Sat, 16 Jul 2022 17:38:14 GMT</pubDate>
             <content:encoded><![CDATA[47,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/d2175455333a3bd811cf908c7394a8d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kaidi Tatham / Kaidi's 5ive (12" Vinyl, 45rpm) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19552&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19552&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 16 Jul 2022 17:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[38,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/f7f8754edc24cb466db64d5fe3803671.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Flume / Palaces (Neon Green Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/53ac4b10170f97b92d4e006db72d29fb.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[베이빌론 / EGO 90’S (2LP, 180g Colored Vinyl) *예약상품 (12월말 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19605&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19605&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 20 Jul 2022 05:42:27 GMT</pubDate>
+            <content:encoded><![CDATA[56,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/04b97faab5f8f02ab69e370fb06fd988.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[조용필 / 16~19집, 4LP 박스 (140g 컬러반, 넘버링 한정반) *예약상품 (10월 31일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19604&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19604&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 06 Jul 2022 17:43:41 GMT</pubDate>
             <content:encoded><![CDATA[46,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/03bd9ceda5125ab4bc84b71dc02ece2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄여름가을겨울 / Bravo My Life! 20th Annviersary (2022 MIX) [180g 블랙반, 게이트폴드 2LP, 한정반] *예약상품 (10월초 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19385&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19385&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Jul 2022 17:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[99,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/c270d1eea2d6d54f26a3f0dab3fcea4a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김정미 / 최신가요집 (1집) + 간다고 하지마오 (2집, 컴필레이션) + 바람 (3집) (일본에서 제작된 3장의 컬러바이닐 한정수량 묶음판매, Limited Edition) *할인판매 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -1664,7 +1664,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/d6af79abd4bfaa1f523704a697b3a86e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Momoko Kikuchi / Tropic of Capricorn (CD, Reissue) (김밥레코즈 ─ CD ─ Japanese)]]></title>
+            <title><![CDATA[Momoko Kikuchi / Tropic of Capricorn (CD, OBI) (김밥레코즈 ─ CD ─ Japanese)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19606&amp;cate_no=90&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19606&amp;cate_no=90&amp;display_group=1</guid>
             <pubDate>Tue, 19 Jul 2022 17:50:42 GMT</pubDate>
@@ -1726,6 +1726,14 @@
             <pubDate>Sat, 02 Jul 2022 05:39:45 GMT</pubDate>
             <content:encoded><![CDATA[37,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/40ff4fe0b764ba1b237fd746abab055c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베이빌론 / EGO 90’S (2LP, 180g Colored Vinyl) *예약상품 (12월말 발송 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19605&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19605&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 20 Jul 2022 05:44:19 GMT</pubDate>
+            <content:encoded><![CDATA[56,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/04b97faab5f8f02ab69e370fb06fd988.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[조용필 / 16~19집, 4LP 박스 (140g 컬러반, 넘버링 한정반) *예약상품 (10월 31일 발송 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
@@ -1814,14 +1822,6 @@
             <pubDate>Fri, 01 Jul 2022 17:43:08 GMT</pubDate>
             <content:encoded><![CDATA[26,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/e3d72200a5d444a1ef70a9c6df36ebac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보수동쿨러 / 모래 / 고무 (Limited 7" Vinyl, K-Indies Series) *예약상품 (9월 첫째주 발송 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19382&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19382&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Jul 2022 05:50:51 GMT</pubDate>
-            <content:encoded><![CDATA[26,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/5bc0d43938dfebf8a1f788363e517ece.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nick Cave & The Bad Seeds / The Boatman's Call (CD + DVD) (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
