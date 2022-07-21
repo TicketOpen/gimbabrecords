@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 05:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 17:44:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Gard Nilssen Acoustic Unity / Elastic Wave (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19617&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19617&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Jul 2022 17:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[21,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/522986975ce3c04d6817b59c2eb49030.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[John Lennon / Imagine: The Ultimate Collection (2CD, Deluxe Edition, Digipak) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19612&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19612&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Jul 2022 17:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[22,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a52229976871b607dcbd1f950a2604cc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chet Baker / Cool Cat (CD, JPN Import) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19611&amp;cate_no=24&amp;display_group=1</link>
@@ -88,20 +104,36 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/9deda58b061223cb10dc6d1beb321318.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Art Farmer / Art (SHM-CD, OBI) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19599&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19599&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Jul 2022 17:45:49 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/44a98e6e4967dd95fb62a432066c693c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Rage Against The Machine / Renegades (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19618&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19618&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Jul 2022 17:42:26 GMT</pubDate>
+            <content:encoded><![CDATA[32,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/ee552a3d1d5722a71daace49b388ef32.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Hank Mobley / Dippin' (SHM-CD, OBI) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19598&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19598&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Jul 2022 17:45:49 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/cb6f9eda0e54c4370f219220992c2489.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Camila Cabello / Familia (Green Translucent Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19615&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19615&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Jul 2022 17:42:26 GMT</pubDate>
+            <content:encoded><![CDATA[41,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/57b3669e10cea1d5bf0e19e1685241d9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CAKE / Fashion Nugget (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19614&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19614&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Jul 2022 17:42:26 GMT</pubDate>
+            <content:encoded><![CDATA[32,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/d9bf1bc8161f64b1a5d8e8fde6ff7d4c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[City / Am Fenster: Die Hits (Colored Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19613&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19613&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Jul 2022 17:42:26 GMT</pubDate>
+            <content:encoded><![CDATA[42,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/e096f2cc750de04bbc221683c7bc2b53.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베이빌론 / EGO 90’S (2LP, 180g Colored Vinyl) *예약상품 (12월말 발송 예정) (김밥레코즈 ─ Vinyl)]]></title>
@@ -166,38 +198,6 @@
             <pubDate>Sat, 16 Jul 2022 17:38:14 GMT</pubDate>
             <content:encoded><![CDATA[34,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/dee9395173dfb91c440972473750e98a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists (활주로, 블랙테트라, 휘버스, 벗님들 외) / 제1회 해변가요제 (180g Limited Transparent Blue Smoking Color Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19568&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19568&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 16 Jul 2022 17:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[41,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/e6e527fdab041ef2febb03df7f48dfea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marcos Valle / Bicicleta (7" Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19567&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19567&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 16 Jul 2022 17:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/1bb95dc3c46b2067e240d3aade42ca2a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Burial / Untrue (Vinyl, 2LP) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19556&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19556&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 16 Jul 2022 17:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/529b271f8019a9d08a5c67a9a12371f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Keane / Hopes And Fears (Transparent Green Vinyl, 1LP, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19555&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19555&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 16 Jul 2022 17:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[47,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/d2175455333a3bd811cf908c7394a8d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Flume / Palaces (Neon Green Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -680,6 +680,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/8f85581298a0da048e00f9e4df822532.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[John Lennon / Imagine: The Ultimate Collection (2CD, Deluxe Edition, Digipak) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19612&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19612&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Jul 2022 17:43:17 GMT</pubDate>
+            <content:encoded><![CDATA[22,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a52229976871b607dcbd1f950a2604cc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Young Gun Silver Fox / Canyons (CD, Digisleeve) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19575&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19575&amp;cate_no=30&amp;display_group=1</guid>
@@ -766,14 +774,6 @@
             <pubDate>Fri, 15 Jul 2022 17:46:07 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/95e1b9fa8bd3fb3f6f4cb7f4e7566680.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Style Council / Our Favourite Shop (Remastered CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19532&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19532&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 15 Jul 2022 17:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/affebba6088c10e5d2caf5ecc30dd0d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Polo & Pan / Cyclorama (CD, EU import) *한정수량 할인 (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
@@ -1064,6 +1064,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/8bc1ee8b938d54ef64c74021b212cef9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Gard Nilssen Acoustic Unity / Elastic Wave (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19617&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19617&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Jul 2022 17:43:48 GMT</pubDate>
+            <content:encoded><![CDATA[21,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/522986975ce3c04d6817b59c2eb49030.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Chet Baker / Cool Cat (CD, JPN Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19611&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19611&amp;cate_no=46&amp;display_group=1</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Mon, 18 Jul 2022 17:47:23 GMT</pubDate>
             <content:encoded><![CDATA[20,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/df1a3fa97c69fd83885efd3e2c77b984.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bobo Stenson, Anders Jormin & Paul Motian / Goodbye (SHM-CD, OBI) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19593&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19593&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Jul 2022 17:47:23 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a836e4e6ad9f63fca3987211981b2ceb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>

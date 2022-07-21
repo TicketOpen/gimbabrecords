@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 05:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 17:44:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Gard Nilssen Acoustic Unity / Elastic Wave (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19617&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19617&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Jul 2022 17:43:48 GMT</pubDate>
+            <content:encoded><![CDATA[21,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/522986975ce3c04d6817b59c2eb49030.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chet Baker / Cool Cat (CD, JPN Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19611&amp;cate_no=46&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 18 Jul 2022 17:47:23 GMT</pubDate>
             <content:encoded><![CDATA[20,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/df1a3fa97c69fd83885efd3e2c77b984.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bobo Stenson, Anders Jormin & Paul Motian / Goodbye (SHM-CD, OBI)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19593&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19593&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Jul 2022 17:47:23 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a836e4e6ad9f63fca3987211981b2ceb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
