@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 05:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 17:42:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/9deda58b061223cb10dc6d1beb321318.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Liam Gallagher / Down By The River Thames (Limited Orange Colored Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19637&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19637&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 23 Jul 2022 17:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[55,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/756b1f60a172ece4b4d6179d6120662c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Liam Gallagher / C'mon You Know (Limited Clear Vinyl, 투명 폴리 슬리브에 포장) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19636&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19636&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 23 Jul 2022 17:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[41,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/34a6043a8d6064b40211b4c295c15aa8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Gil Evans Orchestra / Out Of The Cool (180g LP, Acoustic Sounds Series, QRP Pressings) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19631&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19631&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 22 Jul 2022 17:46:57 GMT</pubDate>
             <content:encoded><![CDATA[35,100원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a46d392cc46d37f50970e15ce2c52119.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vangelis / His Ultimate Collection (Vinyl) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19621&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19621&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Jul 2022 05:45:19 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/4400a6fe5331507c9a7d2b4a5b409f57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Earth, Wind & Fire / Their Ultimate Collection (Limited Colored Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19620&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19620&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Jul 2022 05:45:19 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a17f4f2bb0e69103677aa373c7d1a658.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Flume / Palaces (Neon Green Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -296,14 +296,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/c84762dc50e7cc911b063723113d282d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Big Fudge Complete 4 In 1 Vinyl Cleaning Solution (Record Care System) (청소용 용액, 브러쉬, 스타일러스 청소용 브러쉬) *한정수량 할인 (김밥레코즈 ─ Movies/Merch)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19634&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19634&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Sat, 23 Jul 2022 05:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[33,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/aaf4dbeaeaa4c94db816b577371c4989.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[RCA Discwasher RD1007Z D4+ Record Care System 50ml (레코드 청소용 브러쉬 + 청소용 용액 세트) (김밥레코즈 ─ Movies/Merch)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19633&amp;cate_no=27&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19633&amp;cate_no=27&amp;display_group=1</guid>
@@ -390,6 +382,14 @@
             <pubDate>Thu, 28 Oct 2021 18:00:20 GMT</pubDate>
             <content:encoded><![CDATA[25,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/5430b6af399bb8b43439f3488351476a.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[사뮈 (Samui) / Dancing Bone T-Shirts (Black, One Size) (김밥레코즈 ─ Movies/Merch)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17173&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17173&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Sat, 23 Jul 2022 17:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/53ac4b10170f97b92d4e006db72d29fb.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[보수동쿨러 / 모래  (140g Gatefold Black Colored Vinyl w/ Download Card) *예약상품 (8월 16일 경 발송 예정), *1인 1매 구매 가능 및 별도 입금 기한 설정 (김밥레코즈 ─ Pre-Order)]]></title>

@@ -4,17 +4,9 @@
         <title>김밥레코즈 ─ Movies/Merch</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 05:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 17:42:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Big Fudge Complete 4 In 1 Vinyl Cleaning Solution (Record Care System) (청소용 용액, 브러쉬, 스타일러스 청소용 브러쉬) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19634&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19634&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Sat, 23 Jul 2022 05:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[33,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/aaf4dbeaeaa4c94db816b577371c4989.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[RCA Discwasher RD1007Z D4+ Record Care System 50ml (레코드 청소용 브러쉬 + 청소용 용액 세트)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19633&amp;cate_no=27&amp;display_group=1</link>
@@ -102,6 +94,14 @@
             <pubDate>Thu, 28 Oct 2021 18:00:20 GMT</pubDate>
             <content:encoded><![CDATA[25,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/5430b6af399bb8b43439f3488351476a.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[사뮈 (Samui) / Dancing Bone T-Shirts (Black, One Size)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17173&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17173&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Sat, 23 Jul 2022 17:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/53ac4b10170f97b92d4e006db72d29fb.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
