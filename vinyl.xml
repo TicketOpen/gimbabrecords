@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 05:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 17:43:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤연선, 이수만 / 오아시스 포크 페스티발 6집 : 내 마음 / 희망의 섬 (Color Vinyl, Limited)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19639&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19639&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 24 Jul 2022 17:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/da2f9ab6584f5456cf53630581a51620.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤연선, 이수만 / 오아시스 포크 페스티발 6집 : 내 마음 / 희망의 섬 (Vinyl, Black)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19638&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19638&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 24 Jul 2022 17:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a8a0e6fa402149682b60fecdab42c2c4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Liam Gallagher / Down By The River Thames (Limited Orange Colored Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19637&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 22 Jul 2022 17:46:57 GMT</pubDate>
             <content:encoded><![CDATA[45,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/7432ead198a099e77e51e90bcc1de9f6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jan Lundgren / Into the Night (180g Vinyl + Download Code)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19624&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19624&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Jul 2022 17:46:57 GMT</pubDate>
-            <content:encoded><![CDATA[35,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/0bc2dffc06a94f4328bb4250fffba196.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Adam Baldych Quintet / Poetry (180g Vinyl + Download Code)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19623&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19623&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Jul 2022 17:46:57 GMT</pubDate>
-            <content:encoded><![CDATA[35,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/c0b33dfb80166651d63f6ab04beef0c3.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
