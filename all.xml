@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 17:42:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 05:42:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/34a6043a8d6064b40211b4c295c15aa8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Terrace Martin, Robert Glasper, 9th Wonder, Kamasi Washington / Dinner Party: Dessert Vinyl (Limited Colored Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19635&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19635&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 24 Jul 2022 05:40:36 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/d483a2fb05c493f56536daa711d0c77e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Gil Evans Orchestra / Out Of The Cool (180g LP, Acoustic Sounds Series, QRP Pressings) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19631&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19631&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 22 Jul 2022 17:46:57 GMT</pubDate>
             <content:encoded><![CDATA[35,100원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/c0b33dfb80166651d63f6ab04beef0c3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nils Landgren / Nature Boy (180g Vinyl + Download Code) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19622&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19622&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Jul 2022 17:46:57 GMT</pubDate>
-            <content:encoded><![CDATA[35,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a46d392cc46d37f50970e15ce2c52119.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Flume / Palaces (Neon Green Cassette) (김밥레코즈 ─ Cassette)]]></title>
