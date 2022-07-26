@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 17:47:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 05:56:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BrokenTeeth / 당신의 사랑이 늘 행복하기를 / Spring (CD) *예약상품 (8월 2일 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19652&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19652&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Tue, 26 Jul 2022 05:55:13 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/24871612734545db2faca06eebe9db2f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 바스타즈 / 정규 1집 CARNIVAL (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19491&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 24 May 2022 17:46:49 GMT</pubDate>
             <content:encoded><![CDATA[10,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/90acaa7ff869d0db04da2289766fef39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Say Sue Me 세이수미 / The Last Thing Left (CD, Digipak)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19012&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19012&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Thu, 26 May 2022 05:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[20,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/8f85581298a0da048e00f9e4df822532.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
