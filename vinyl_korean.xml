@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 05:56:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 17:44:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태희언 Tehiun / PEOPLE ARE THE COUNTRY (7" Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19656&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19656&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 26 Jul 2022 17:44:29 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/8ac811e657b8722ab295736c76d6200b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소울소스 meets 김율희 / Swallow Knows (7" Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19655&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19655&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 26 Jul 2022 17:44:29 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/864465a63ae07df59f9388500484370f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오마르와 동방전력 (Omar and The Eastern Power) / Sunshine/ Htalen (7" Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19654&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19654&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 26 Jul 2022 17:44:29 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/58e6d94637885b3dfc2b9519162a8f74.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베이빌론 / EGO 90’S (2LP, 180g Black Vinyl) *예약상품 (8월 12일 주문 마감, 23년 1월 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19640&amp;cate_no=52&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Sat, 16 Jul 2022 17:40:16 GMT</pubDate>
             <content:encoded><![CDATA[41,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/e6e527fdab041ef2febb03df7f48dfea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엉클밥 / Uncle Bob (Black Vinyl + 가사지)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19547&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19547&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Fri, 15 Jul 2022 17:47:29 GMT</pubDate>
-            <content:encoded><![CDATA[40,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/d5c4567a6bbfe71b54b8af1a275f48e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시나위 / 7집 Psychedelos (180g Vinyl, 2LP, 한정반)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19486&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19486&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Jul 2022 05:42:11 GMT</pubDate>
-            <content:encoded><![CDATA[56,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/8270e22e9b8343c665920fa82eaa69b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빅베이비드라이버 / Leftover & Remainder (White Colored Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19485&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19485&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Jul 2022 05:42:11 GMT</pubDate>
-            <content:encoded><![CDATA[43,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/f9fb09c13cad7750ed7d7e03481e5f8f.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

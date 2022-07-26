@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 05:56:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 17:44:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김새녘 / 새빛깔 (CD) *7월 29일 금요일부터 발송]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19653&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19653&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Tue, 26 Jul 2022 17:42:58 GMT</pubDate>
+            <content:encoded><![CDATA[17,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/623878f23cb9c5b63beec9c4efd2c130.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[BrokenTeeth / 당신의 사랑이 늘 행복하기를 / Spring (CD) *예약상품 (8월 2일 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19652&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 31 May 2022 17:49:39 GMT</pubDate>
             <content:encoded><![CDATA[12,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/ba2eb570b7a4e6b89eb9d46ebf56d9a2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[bearmoon / FATE (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19068&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19068&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Tue, 24 May 2022 17:46:49 GMT</pubDate>
-            <content:encoded><![CDATA[10,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/90acaa7ff869d0db04da2289766fef39.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 05:56:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 17:44:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태희언 Tehiun / PEOPLE ARE THE COUNTRY (7" Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19656&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19656&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 26 Jul 2022 17:42:19 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/8ac811e657b8722ab295736c76d6200b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소울소스 meets 김율희 / Swallow Knows (7" Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19655&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19655&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 26 Jul 2022 17:42:19 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/864465a63ae07df59f9388500484370f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오마르와 동방전력 (Omar and The Eastern Power) / Sunshine/ Htalen (7" Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19654&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19654&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 26 Jul 2022 17:42:19 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/58e6d94637885b3dfc2b9519162a8f74.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Françoise Hardy (Francoise Hardy) / Entracte (Entr'acte) (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19651&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Mon, 25 Jul 2022 17:45:15 GMT</pubDate>
             <content:encoded><![CDATA[29,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/4e0f9a7344a68374cbd7bad30624ffcc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ibeyi / Spell 31 (Vinyl) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19641&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19641&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 25 Jul 2022 05:46:10 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/8bdde266749a27ecc512783a4e4e7130.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베이빌론 / EGO 90’S (2LP, 180g Black Vinyl) *예약상품 (8월 12일 주문 마감, 23년 1월 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19640&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19640&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 25 Jul 2022 05:46:10 GMT</pubDate>
-            <content:encoded><![CDATA[56,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/b28929f09c4a2712c0c2bd5ace0adf03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤연선, 이수만 / 오아시스 포크 페스티발 6집 : 내 마음 / 희망의 섬 (Color Vinyl, Limited)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19639&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19639&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 24 Jul 2022 17:40:47 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/da2f9ab6584f5456cf53630581a51620.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
