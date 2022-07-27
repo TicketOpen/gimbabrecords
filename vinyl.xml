@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 17:44:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 05:50:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이소라 / 이소라 베스트 (투명 핑크 바이닐, 2LP, 일련번호 표기)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19678&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19678&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Jul 2022 05:49:05 GMT</pubDate>
+            <content:encoded><![CDATA[64,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/04e476f8c436dd43f8741f307438c6aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이소라 / 이소라 베스트 (투명 바이닐, 2LP, 일련번호 표기)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19677&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19677&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Jul 2022 05:49:05 GMT</pubDate>
+            <content:encoded><![CDATA[64,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/7a5d3c2242133b9ddd731c1f70416e55.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태희언 Tehiun / PEOPLE ARE THE COUNTRY (7" Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19656&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 25 Jul 2022 17:45:15 GMT</pubDate>
             <content:encoded><![CDATA[31,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/1b60dd58d936b5194140e41621002c40.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Nicolas Jaar / Space Is Only Noise (180g Double Vinyl, 45rpm Recut, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19644&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19644&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 25 Jul 2022 17:45:15 GMT</pubDate>
-            <content:encoded><![CDATA[54,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/0f40553d77010e774576866c9812f8fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joyce / Feminina (12" Limited Edition, 2022 RSD Exclusive)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19643&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19643&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 25 Jul 2022 17:45:15 GMT</pubDate>
-            <content:encoded><![CDATA[29,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/4e0f9a7344a68374cbd7bad30624ffcc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
