@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 17:47:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 05:45:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/53ac4b10170f97b92d4e006db72d29fb.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[보수동쿨러 / 모래  (140g Gatefold Black Colored Vinyl w/ Download Card) *예약상품 (8월 16일 경 발송 예정), *1인 1매 구매 가능 및 별도 입금 기한 설정 (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19616&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19616&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 22 Jul 2022 05:45:50 GMT</pubDate>
+            <content:encoded><![CDATA[40,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/abfff1f70645ee42182ef291f1a59591.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Radwimps / 너의 이름은 (Kimi No Na Ha, 君の名は) OST (Vinyl, 2LP) *예약상품 (10월 25일 이후 배송 시작) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19687&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19687&amp;cate_no=42&amp;display_group=1</guid>
@@ -406,14 +414,6 @@
             <pubDate>Wed, 20 Jul 2022 05:42:27 GMT</pubDate>
             <content:encoded><![CDATA[56,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/04b97faab5f8f02ab69e370fb06fd988.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[보수동쿨러 / 모래  (140g Gatefold Black Colored Vinyl w/ Download Card) *예약상품 (8월 16일 경 발송 예정), *1인 1매 구매 가능 및 별도 입금 기한 설정 (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19616&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19616&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Jul 2022 05:45:50 GMT</pubDate>
-            <content:encoded><![CDATA[40,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/abfff1f70645ee42182ef291f1a59591.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[BrokenTeeth / 당신의 사랑이 늘 행복하기를 / Spring (CD) *예약상품 (8월 2일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
