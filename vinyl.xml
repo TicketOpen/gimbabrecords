@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 17:48:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 05:48:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Wed, 27 Jul 2022 17:45:43 GMT</pubDate>
             <content:encoded><![CDATA[28,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/32669829b1bffc6428e71a8ee263ba3a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fontaines D.C. / Skinty Fia (Black Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19691&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19691&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 27 Jul 2022 17:45:43 GMT</pubDate>
-            <content:encoded><![CDATA[35,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/10ef8d55f0816eceeb0ba22e1a7b2383.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[My Chemical Romance / Danger Days - The True Lives Of The Fabulous Killjoys (Vinyl)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 27 Jul 2022 17:45:43 GMT</pubDate>
             <content:encoded><![CDATA[55,100원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/d916c216294e9c732bd6a77a1938bbf7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST / My Best Friend's Wedding 내 남자친구의 결혼식 (Vinyl, Black & White “Tuxedo” LP Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19681&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19681&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 29 Jul 2022 05:45:57 GMT</pubDate>
+            <content:encoded><![CDATA[52,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/cee5f148a4d00bd537598ba833df1ac7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
