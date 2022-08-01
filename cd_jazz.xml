@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 06:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 17:47:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Charlie Gabriel / Eighty Nine (CD, gatefold sleeve, US Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19724&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19724&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Mon, 01 Aug 2022 17:46:40 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/997b7ba902907a68d05281752c83e49f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Art Farmer & Jim Hall / Big Blues (Blu-Spec CD, CTI Supreme Collection, Limited Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19713&amp;cate_no=46&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 29 Jul 2022 05:47:11 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/97e7a9458ccbba11e0b8fbd4c2054fa6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Freddie Hubbard / Sky Dive (Blu-Spec CD, CTI Supreme Collection, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19702&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19702&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 29 Jul 2022 05:47:11 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/f90b0d98fd2d45c8c16eea61a7e16a78.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

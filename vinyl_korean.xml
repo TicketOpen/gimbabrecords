@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 06:07:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 17:47:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무토(MUTO) / Vast Plains (Vinyl) *예약상품 (8월 10일 발매 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19733&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19733&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 01 Aug 2022 17:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/f8d5aac8950bc176a9027fd649e3b5cd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지윤해 / And / Zenly (7" Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19695&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 22 Jul 2022 05:47:45 GMT</pubDate>
             <content:encoded><![CDATA[40,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/abfff1f70645ee42182ef291f1a59591.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[베이빌론 / EGO 90’S (2LP, 180g Colored Vinyl) *예약상품 (12월말 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19605&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19605&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Wed, 20 Jul 2022 05:44:19 GMT</pubDate>
-            <content:encoded><![CDATA[56,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/04b97faab5f8f02ab69e370fb06fd988.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
