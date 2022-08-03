@@ -4,9 +4,65 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 05:55:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 17:43:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Michael Schenker Group / The Michael Schenker Group (Vinyl, Picture Disc)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19765&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19765&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 03 Aug 2022 17:40:59 GMT</pubDate>
+            <content:encoded><![CDATA[41,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/8f7e8d42ae8674b374f6c2df3b307276.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Michael Schenker Group / MSG (Vinyl, Picture Disc)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19764&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19764&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 03 Aug 2022 17:40:59 GMT</pubDate>
+            <content:encoded><![CDATA[41,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/2310c04fc1f62cb3d5a05799841525a1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ketil Bjørnstad (Ketil Bjonstad) / Åpning (Apning) (Vinyl, Limited Audiophile Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19763&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19763&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 03 Aug 2022 17:40:59 GMT</pubDate>
+            <content:encoded><![CDATA[37,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/721a2c08c20525613b90de2d681aefb5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박지하 Park Jiha & Roy Claire Potter / To Call Out Into the Night (Vinyl]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19762&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19762&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 03 Aug 2022 17:40:59 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/1a5b995a90af97fbe14c9580a48dc381.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oneohtrix Point Never / Returnal (Crystal Clear Vinyl, 2021 Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19761&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19761&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 03 Aug 2022 17:40:59 GMT</pubDate>
+            <content:encoded><![CDATA[41,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/d8b09220cfbad94c470cb6c58c8cc6b9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Four Tet / Everything Ecstatic (Vinyl, 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19760&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19760&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 03 Aug 2022 17:40:59 GMT</pubDate>
+            <content:encoded><![CDATA[43,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/a7b26e05c34b2ef735a055e5a0054f9a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rodrigo Leão (Rodrigo Leao) / O Metodo (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19759&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19759&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 03 Aug 2022 17:40:59 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/ad0ee9106791c9a5fd7fa2ac055ed56b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Enya / The Very Best of Enya (Vinyl, 2LP)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19758&amp;cate_no=25&amp;display_group=1</link>
@@ -46,62 +102,6 @@
             <pubDate>Tue, 02 Aug 2022 17:46:05 GMT</pubDate>
             <content:encoded><![CDATA[29,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/2431b4a5c0fc80b712ec1e884f729c89.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[James Gang / Bang (Remastered Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19746&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19746&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 02 Aug 2022 17:46:05 GMT</pubDate>
-            <content:encoded><![CDATA[36,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/58eb9ad18107149a277f9a20486f16f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thin Lizzy / Johnny The Fox (Vinyl + Download, Reissue)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19745&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19745&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 02 Aug 2022 17:46:05 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/d0276a37a235c4fc407281b0e7f5385c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nirvana / Live At The Paramount (Vinyl, 2LP) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19744&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19744&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 02 Aug 2022 17:46:05 GMT</pubDate>
-            <content:encoded><![CDATA[51,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/13680173bfe15e83fa6f1ca6b3acc9fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Deftones / B-Sides & Rarities (2LP Vinyl w/ bonus DVD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19743&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19743&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 02 Aug 2022 17:46:05 GMT</pubDate>
-            <content:encoded><![CDATA[41,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/3cd2e8b88c6d8080137e9d3b8ae868a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Super Furry Animals / (Brawd Bach) Rings Around The World (Yellow Vinyl, RSD 2022, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19742&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19742&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 02 Aug 2022 17:46:05 GMT</pubDate>
-            <content:encoded><![CDATA[43,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/5a5ba0b5bfa5d4f921f674bf973915a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Hot Chili Peppers / Unlimited Love (Red Vinyl, 2LP, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19741&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19741&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 02 Aug 2022 17:46:05 GMT</pubDate>
-            <content:encoded><![CDATA[54,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/64714be00c5a048b90ae08ab5298f259.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Boy Pablo / Soy Pablo (Pink Colored Vinyl) *모서리 눌림으로 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19740&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19740&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 02 Aug 2022 17:46:05 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201902/d3b7c64742399cdfc6465e61698828c2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
