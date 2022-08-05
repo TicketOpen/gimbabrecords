@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Soundtracks</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 05:50:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 17:48:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Eminem, Various Artists) / 8 Mile (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19768&amp;cate_no=48&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19768&amp;cate_no=48&amp;display_group=1</guid>
+            <pubDate>Fri, 05 Aug 2022 17:48:12 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/ffad76bca23af2d0f49e82fc24aea5dd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST / Top Gun 탑건 Original Motion Picture Soundtrack (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19767&amp;cate_no=48&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 13 Jul 2022 17:47:49 GMT</pubDate>
             <content:encoded><![CDATA[28,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/0b995f27fb77ed9438d743218b0095a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Joe Hisaishi) / Princess Mononoke: Music from the Motion Picture 모노노케 히메 (원령공주) 사운드트랙 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19498&amp;cate_no=48&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19498&amp;cate_no=48&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Jul 2022 17:47:49 GMT</pubDate>
-            <content:encoded><![CDATA[32,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/427ff184fd35724a8ce2f48dd74381e7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
