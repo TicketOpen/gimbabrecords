@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 05:39:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 17:45:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/bd7cff23a32ce38a1fa3da1813af0631.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Crack Cloud / Pain Olympics (Limited Red Vinyl) *모서리 눌림으로 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19811&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19811&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 10 Aug 2022 17:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[29,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/2751900eb4cb5f3da6eb210a48e24246.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Fuzzy Haskins / Radio Active (Deluxe 180g Vinyl + OBI, Limited to 500, 2022 RSD EU & UK Exclusive) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19809&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19809&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 08 Aug 2022 17:43:29 GMT</pubDate>
             <content:encoded><![CDATA[32,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/b51808b05286588529d27c35d46df126.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zola Jesus / Arkhon  (Indie Exclusive Eco-Mix Viny, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19796&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19796&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 08 Aug 2022 17:43:29 GMT</pubDate>
-            <content:encoded><![CDATA[31,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/eac9c824731a59b9ceb95ccfe944d720.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[Boris / W (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,20 +392,28 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/a81d047aa4c871b1f2e985615a398138.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Hollie Cook / Vessel of Love (Black Vinyl + Download) *예약상품 (8월 8일 이후 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=11031&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=11031&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 25 Jul 2022 17:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201801/9798_shop1_562740.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hollie Cook / Hollie Cook (Vinyl) *예약상품 (8월 8일 이후 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=562&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=562&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 25 Jul 2022 17:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[28,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201802/562_shop1_682997.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[OST (Various Artists) / 슬기로운 의사생활 OST 시즌2 (2LP) *예약상품 (10월 24일경 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18346&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18346&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Tue, 09 Aug 2022 05:43:04 GMT</pubDate>
             <content:encoded><![CDATA[74,100원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/52bd46809d9b3cf1884973c2b6228b09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삐삐롱스타킹 / 3집 One Way Ticket (140g Colored Vinyl) & 바보버스 (42g Colored 7" Vinyl) 합본반 *예약상품 (8월중 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17924&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17924&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 01 Aug 2022 17:45:47 GMT</pubDate>
-            <content:encoded><![CDATA[64,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/3eeaff234c61bdaff5b23083b915e8ad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보수동쿨러 / 모래  (140g Gatefold Black Colored Vinyl w/ Download Card) *예약상품 (8월 16일 경 발송 예정), *1인 1매 구매 가능 및 별도 입금 기한 설정 (김밥레코즈 ─ Pre-Order)]]></title>
@@ -440,22 +448,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/04b97faab5f8f02ab69e370fb06fd988.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Hollie Cook / Hollie Cook (Vinyl) *예약상품 (8월 8일 이후 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=562&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=562&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 25 Jul 2022 17:45:39 GMT</pubDate>
-            <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201802/562_shop1_682997.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hollie Cook / Vessel of Love (Black Vinyl + Download) *예약상품 (8월 8일 이후 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=11031&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=11031&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 25 Jul 2022 17:45:39 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201801/9798_shop1_562740.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[베이빌론 / EGO 90’S (2LP, 180g Black Vinyl) *예약상품 (8월 12일 주문 마감, 23년 1월 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19640&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19640&amp;cate_no=42&amp;display_group=1</guid>
@@ -486,6 +478,14 @@
             <pubDate>Wed, 10 Aug 2022 05:38:09 GMT</pubDate>
             <content:encoded><![CDATA[26,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/5bc0d43938dfebf8a1f788363e517ece.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해서웨이 (Hathaw9y) / 낙서 / Hayley (Limited 7", K-Indies Series) *예약상품 (9월 첫째주 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19384&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19384&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 10 Aug 2022 17:43:52 GMT</pubDate>
+            <content:encoded><![CDATA[26,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/2a9cecf8e8aeb3cd1176ab4c0de3e489.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김정미 / 최신가요집 (1집) + 간다고 하지마오 (2집, 컴필레이션) + 바람 (3집) (일본에서 제작된 3장의 컬러바이닐 한정수량 묶음판매, Limited Edition) *할인판매 (김밥레코즈 ─ Bargain Bin)]]></title>
