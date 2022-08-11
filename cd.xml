@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 05:40:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 17:42:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새눈바탕 / 손을 모아 (CD) *1인 1매 구매 가능, 8월 12일 오전 11시경 판매 시작 (상세 설명을 확인해주세요.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19820&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19820&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Aug 2022 17:40:19 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/b7c7ceb5b14100eac42f185faf201ee9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[John Scofield / John Scofield (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19810&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 05 Aug 2022 17:46:39 GMT</pubDate>
             <content:encoded><![CDATA[14,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/64cbd30c8b0fde7a864c9886358c51b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ketil Bjørnstad (Ketil Bjornstad) / Ophelia's Arrival / Minotauros (CD, EU Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19771&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19771&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 05 Aug 2022 17:46:39 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/bd7cff23a32ce38a1fa3da1813af0631.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
