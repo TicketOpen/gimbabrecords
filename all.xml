@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 05:40:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 17:46:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,20 +392,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/a81d047aa4c871b1f2e985615a398138.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[보수동쿨러 / 모래  (140g Gatefold Black Colored Vinyl w/ Download Card) *예약상품 (8월 19일 경 발송 예정), *1인 1매 구매 가능 및 별도 입금 기한 설정 (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19616&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19616&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 22 Jul 2022 05:45:50 GMT</pubDate>
+            <content:encoded><![CDATA[40,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/abfff1f70645ee42182ef291f1a59591.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[베이빌론 / EGO 90’S (2LP, 180g Black Vinyl) *예약상품 (8월 12일 주문 마감, 23년 1월 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19640&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19640&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Mon, 25 Jul 2022 05:46:30 GMT</pubDate>
             <content:encoded><![CDATA[56,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/b28929f09c4a2712c0c2bd5ace0adf03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보수동쿨러 / 모래  (140g Gatefold Black Colored Vinyl w/ Download Card) *예약상품 (8월 16일 경 발송 예정), *1인 1매 구매 가능 및 별도 입금 기한 설정 (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19616&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19616&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Jul 2022 05:45:50 GMT</pubDate>
-            <content:encoded><![CDATA[40,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/abfff1f70645ee42182ef291f1a59591.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[OST (Various Artists) / 슬기로운 의사생활 OST 시즌2 (2LP) *예약상품 (10월 24일경 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
