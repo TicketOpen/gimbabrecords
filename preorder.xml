@@ -4,17 +4,9 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 05:57:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 17:42:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[곽푸른하늘 / Nearly (T)here (Vinyl, 140g 화이트 컬러반, 한정반) *8월 23일 발매 예정]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19791&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19791&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 17 Aug 2022 17:45:11 GMT</pubDate>
-            <content:encoded><![CDATA[44,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/91646a33226b7e9f6e93160165650eff.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2단지 / 무딘 농담 (Vinyl) *1인 최대 2매까지 구매 가능 (상세 설명을 확인해주세요.)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19829&amp;cate_no=42&amp;display_group=1</link>
@@ -102,6 +94,14 @@
             <pubDate>Fri, 19 Aug 2022 17:46:18 GMT</pubDate>
             <content:encoded><![CDATA[26,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/2a9cecf8e8aeb3cd1176ab4c0de3e489.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Say Sue Me 세이수미 / One Week / My Problem (Limited 7" Vinyl, K-Indies Series) *예약상품 (9월 첫째주 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19383&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19383&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Aug 2022 17:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[26,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/e3d72200a5d444a1ef70a9c6df36ebac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

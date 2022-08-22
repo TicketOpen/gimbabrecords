@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Electronic/Dance</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 05:57:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 17:42:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arca / KiCk i (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19874&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19874&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Aug 2022 17:41:18 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/1be1d0dba86d418c924703c8d9ee9e6e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Polo & Pan / Cyclorama (CD, EU import) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19359&amp;cate_no=31&amp;display_group=1</link>
@@ -60,7 +68,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=18690&amp;cate_no=31&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18690&amp;cate_no=31&amp;display_group=1</guid>
             <pubDate>Sat, 16 Apr 2022 17:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/730a3173d9d2d2615fd8ebe94ca6a204.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Oct 2021 18:39:49 GMT</pubDate>
             <content:encoded><![CDATA[29,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202110/e48178adc5adf9eb6b1b6c5827a79ef1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박혜진 Park Hye Jin / Before I Die (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17426&amp;cate_no=31&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17426&amp;cate_no=31&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Oct 2021 18:39:49 GMT</pubDate>
-            <content:encoded><![CDATA[19,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/9a1686604d931d8d9d546da53396489f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

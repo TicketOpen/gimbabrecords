@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 05:57:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 17:42:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Caterina Caselli / 100 Minuti Per Te (2CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19891&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19891&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Aug 2022 17:41:12 GMT</pubDate>
+            <content:encoded><![CDATA[35,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/a3b8f8ec3db874eddea47513782f1099.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[John Mayall And The Bluesbreakers / Bluesbreakers With Eric Clapton (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19878&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19878&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Aug 2022 17:41:12 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/399b3f10dc636f6e199d3d18b94b3567.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spyro Gyra / Morning Dance (CD, Remastered) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19875&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19875&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Aug 2022 17:41:12 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/659de4c60a7086f359ba54d709561fd0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soccer Mommy / Sometimes, Forever (CD, Indie Retail Exclusive Alternate Cover, Jewel case) *구매시 상세설명을 참조해주세요.]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19859&amp;cate_no=30&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 02 Aug 2022 17:46:50 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/b04a381a28065415d6d78baee6fe213a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[St. Vincent / Daddy's Home (CD, Digipak) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19752&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19752&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 02 Aug 2022 17:46:50 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/958f4156b9e7908934cf82c8a9256811.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Porcupine Tree / Stupid Dream (CD, Digipak, Remastered) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19737&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19737&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 01 Aug 2022 17:46:09 GMT</pubDate>
-            <content:encoded><![CDATA[20,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/e9f091db4481158fbd7cd5d992a351f9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Porcupine Tree / Lightbulb Sun (CD, Digipak, Remaster) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19736&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19736&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 01 Aug 2022 17:46:09 GMT</pubDate>
-            <content:encoded><![CDATA[20,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/091d1e09a9ad55d581821a04e4772f76.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
