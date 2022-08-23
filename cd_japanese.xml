@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Japanese</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 06:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 17:44:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Fantastic Plastic Machine / Rapture - Best 15 dance tracks by FPM (CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19921&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19921&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Tue, 23 Aug 2022 17:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[26,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/1a4b4734c73d87844119ba235a64ad42.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FreeTempo / Best Album “Tense” (CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19920&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19920&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Tue, 23 Aug 2022 17:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[24,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/c570b62313864cc13b0321fa45d372dd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kikagaku Moyo / Forest Of Lost Children (CD, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19731&amp;cate_no=90&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 13 Jul 2022 17:48:22 GMT</pubDate>
             <content:encoded><![CDATA[32,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/427ff184fd35724a8ce2f48dd74381e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joe Hisaishi / Laputa - Castle In The Sky: Soundtrack 천공의 섬 라퓨타 OST (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19497&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19497&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Jul 2022 17:48:22 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/0b33001ea3188cc0f7c8b166e3b4f683.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Seatbelts) / Cowboy Bebop 1 카우보이 비밥 1 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19495&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19495&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Jul 2022 17:48:22 GMT</pubDate>
-            <content:encoded><![CDATA[30,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/fe092eb9c125c90fe166a31e00f09044.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
