@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 05:58:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 17:42:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pages / Pages (CD, AOR City Series, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19946&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19946&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Wed, 24 Aug 2022 17:41:17 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/62ab3e02a028742d83c401a05298bb28.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Caterina Caselli / 100 Minuti Per Te (2CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19891&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 02 Aug 2022 17:46:50 GMT</pubDate>
             <content:encoded><![CDATA[19,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/abde560248b84b58efffbe3048c346c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carpenters / Carpenters Gold - Greatest Hits (1CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19754&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19754&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 02 Aug 2022 17:46:50 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/b04a381a28065415d6d78baee6fe213a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
