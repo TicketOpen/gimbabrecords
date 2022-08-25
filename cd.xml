@@ -4,9 +4,49 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 17:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 06:09:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[George Michael / Twenty Five (2CD Standard Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19970&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19970&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 25 Aug 2022 06:07:17 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/be3f58ce10340848cd54308b57f3f8d3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyonce / RENAISSANCE (CD +  28p Photo Booklet + Poster)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19969&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19969&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 25 Aug 2022 06:07:17 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/54cdfb8287aece4974162983cfde46e3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pavement / Westing (by Musket And Sextant) (CD, EU Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19964&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19964&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 25 Aug 2022 06:07:17 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/a61cb952b2e8faa8879843ab4cb65cf2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Belle and Sebastian / A Bit of Previous (CD, EU Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19963&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19963&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 25 Aug 2022 06:07:17 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/84243dc9be7c4656e17138b148bbcbba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Interpol / The Other Side Of Make Believe (CD, EU Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19962&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19962&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 25 Aug 2022 06:07:17 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/c30527e0748138f8862bdc9688acf347.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lilly (Feat Gilad Hekselman & Kirk Knuffke) / The Song is You (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19961&amp;cate_no=24&amp;display_group=1</link>
@@ -62,46 +102,6 @@
             <pubDate>Wed, 24 Aug 2022 17:40:17 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/e3316e4249d50b67956bcde3bab3347f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marcos Valle / Previsao Do Tempo (CD, Brasil Collection, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19954&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19954&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Aug 2022 17:40:17 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/88d8bb6761ebdfafae25c504abb2ecb2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joao Gilberto / Amoroso (CD + OBI, Brazil Superstar Series, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19953&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19953&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Aug 2022 17:40:17 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/ca1e5274fe4b12cb44688d948c333a25.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Astrud Gilberto / I Haven't Got Anything Better To Do (CD, Limited Edition w/ OBI, 브라질 비장의 명반 시리즈, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19952&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19952&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Aug 2022 17:40:17 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/ee44b253cf7755926863977d3cdd9cd4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Masabumi Kikuchi / Poo-Sun (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19951&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19951&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Aug 2022 17:40:17 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/b1b85de579316ac800c844691decc187.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Masabumi Kikuchi / Masabumi Kikuchi + Gil Evans (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19950&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19950&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Aug 2022 17:40:17 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/facd70229ac8cccb78ae81f07334463d.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,49 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 17:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 06:09:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[George Michael / Twenty Five (2CD Standard Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19970&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19970&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 25 Aug 2022 06:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/be3f58ce10340848cd54308b57f3f8d3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyonce / RENAISSANCE (CD +  28p Photo Booklet + Poster)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19969&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19969&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 25 Aug 2022 06:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/54cdfb8287aece4974162983cfde46e3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pavement / Westing (by Musket And Sextant) (CD, EU Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19964&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19964&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 25 Aug 2022 06:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/a61cb952b2e8faa8879843ab4cb65cf2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Belle and Sebastian / A Bit of Previous (CD, EU Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19963&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19963&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 25 Aug 2022 06:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/84243dc9be7c4656e17138b148bbcbba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Interpol / The Other Side Of Make Believe (CD, EU Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19962&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19962&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 25 Aug 2022 06:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/c30527e0748138f8862bdc9688acf347.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages / Pages (CD, AOR City Series, JPN Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19946&amp;cate_no=30&amp;display_group=1</link>
@@ -62,46 +102,6 @@
             <pubDate>Mon, 08 Aug 2022 17:44:07 GMT</pubDate>
             <content:encoded><![CDATA[18,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/79196e68a4b1d0c0a5d4c2d9036c353c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Steve Hackett / Voyage Of The Acolyte (CD, Remastered with bonus tracks)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19778&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19778&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 05 Aug 2022 17:47:32 GMT</pubDate>
-            <content:encoded><![CDATA[13,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/cae29ebdcc4993abc59ddff2b185d6d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soccer Mommy / Color Theory (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19770&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19770&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 05 Aug 2022 17:47:32 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/7f1716f5751f5bdf0fc5d729bba63837.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Toro Y Moi / Outer Peace (CD, EU Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19769&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19769&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 05 Aug 2022 17:47:32 GMT</pubDate>
-            <content:encoded><![CDATA[20,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/b80b5171a40885f678c95e2656633452.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Troye Sivan / In A Dream (Deluxe CD + poster + 7 art cards + sticker) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19756&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19756&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 02 Aug 2022 17:46:50 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/6a76053136ffe3528b81058f56b346cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carpenters / Carpenters Gold - 35th Anniversary Edition (2CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19755&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19755&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 02 Aug 2022 17:46:50 GMT</pubDate>
-            <content:encoded><![CDATA[19,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/abde560248b84b58efffbe3048c346c6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
