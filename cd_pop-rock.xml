@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 06:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 17:43:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Budgie / Never Turn Your Back On A Friend (CD, EU Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19973&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19973&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 25 Aug 2022 17:42:02 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/ae2db07f046a4dc77814c8dcfaa8d8a6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yngwie J. Malmsteen's Rising Force / Odyssey (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19972&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19972&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 25 Aug 2022 17:42:02 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/b84521e0c1c72f89130410511a5463b2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Haim / Women In Music Pt. III (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19971&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19971&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 25 Aug 2022 17:42:02 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/52fa77fd6844791e7e3bdd24d89b34bd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[George Michael / Twenty Five (2CD Standard Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19970&amp;cate_no=30&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Mon, 22 Aug 2022 17:41:12 GMT</pubDate>
             <content:encoded><![CDATA[13,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/659de4c60a7086f359ba54d709561fd0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soccer Mommy / Sometimes, Forever (CD, Indie Retail Exclusive Alternate Cover, Jewel case) *구매시 상세설명을 참조해주세요.]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19859&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19859&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 22 Aug 2022 05:55:52 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/c0cf8ea599ee8f5bf97c73fb55530759.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Dead Tongues / Dust (CD, gatefold sleeve)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19802&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19802&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 08 Aug 2022 17:44:07 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/6a667159798ec19d3714dce44c1c86da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zola Jesus / Arkhon  (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19797&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19797&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 08 Aug 2022 17:44:07 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/79196e68a4b1d0c0a5d4c2d9036c353c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
