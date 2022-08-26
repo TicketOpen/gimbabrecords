@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 06:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 17:44:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sting / Nothing Like The Sun (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19999&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19999&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Aug 2022 17:43:15 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/c458acaa2c7caa6f5f7dd10232da6ed0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eric Clapton / 461 Ocean Boulevard (2CD, Deluxe Edition) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19991&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19991&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Aug 2022 17:43:15 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/1d97623953dda64dc5fe5df3fc4bd175.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Budgie / Never Turn Your Back On A Friend (CD, EU Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19973&amp;cate_no=30&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 22 Aug 2022 17:41:12 GMT</pubDate>
             <content:encoded><![CDATA[35,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/a3b8f8ec3db874eddea47513782f1099.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Mayall And The Bluesbreakers / Bluesbreakers With Eric Clapton (CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19878&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19878&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 22 Aug 2022 17:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/399b3f10dc636f6e199d3d18b94b3567.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spyro Gyra / Morning Dance (CD, Remastered) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19875&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19875&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 22 Aug 2022 17:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/659de4c60a7086f359ba54d709561fd0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
