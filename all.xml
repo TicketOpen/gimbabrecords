@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 17:44:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 05:48:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/b84521e0c1c72f89130410511a5463b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Mort Garson / Mother Earth's Plantasia (15th Label Anniversary Limited Caladium pink and green vinyl) *할인상품 (쟈켓의 미세한 눌림자국) / 1인 1매 구매 가능 / 별도의 입금기한 설정 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20010&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20010&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 27 Aug 2022 05:46:31 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/77bd34c4eda89f3a93304efb99757677.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Mort Garson / Mother Earth's Plantasia (15th Label Anniversary Limited Caladium pink and green vinyl) *1인 1매만 구매가 가능합니다. / 별도의 입금기한 설정 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20009&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20009&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 27 Aug 2022 05:46:31 GMT</pubDate>
+            <content:encoded><![CDATA[35,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/6bbc31ff11760543fa4822eede98828a.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[윤명운 / 아침 기다리며, 할머니 부르스 (180g Vinyl, 800장 한정) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20008&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20008&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 26 Aug 2022 17:42:23 GMT</pubDate>
             <content:encoded><![CDATA[47,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/a3b0b6855faa43d41ed9a2f0322f5c07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Windy / Windy (Vinyl + Lyric Poster) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19989&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19989&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Aug 2022 17:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[51,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/6a6d5e9f58125da845c214f91f426766.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kirinji / Kirinji Tour 2003 - Live At Budokan (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19988&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19988&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Aug 2022 17:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[59,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/9b305bcafa6e2f8218ca3db51186dd13.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Soccer Mommy / Sometimes, Forever (Cassette, Indie Exclusive Limited Edition) (김밥레코즈 ─ Cassette)]]></title>
