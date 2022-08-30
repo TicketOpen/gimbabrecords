@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 17:45:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 06:39:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방사능 (리듬파워) / 리듬파워 (140g, 1LP, Colored Vinyl) *예약상품 (9월 7일 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20020&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20020&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Aug 2022 06:38:02 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/657599f546630b39621db4d2dd80def1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김목인 / 4집 저장된 풍경 (Vinyl) *9월 1일 발매 예정]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19827&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 24 Aug 2022 05:56:48 GMT</pubDate>
             <content:encoded><![CDATA[99,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/c270d1eea2d6d54f26a3f0dab3fcea4a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[업타운 / 1집 Represent (Vinyl, 180g) *예약상품 (12월 3일 경 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19107&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19107&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Aug 2022 05:56:48 GMT</pubDate>
-            <content:encoded><![CDATA[46,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/5573092228f6d6487466ffe17550a409.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
