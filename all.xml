@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 06:39:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 17:46:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/7354d001f4c3fd431332e915bd2e3463.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김대환과 김트리오 악단 / 드럼! 드럼! 드럼! 앰프기타 고고 (180g Vinyl, Remaster 2022) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20023&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20023&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Aug 2022 17:44:17 GMT</pubDate>
+            <content:encoded><![CDATA[41,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/79227cda59b3e7e8c4d38b9be1b4bc53.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[양병집 / 넋두리 (180g Vinyl, Remaster 2022) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20022&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20022&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 26 Aug 2022 17:42:23 GMT</pubDate>
             <content:encoded><![CDATA[36,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/fe47bec6d4c3ece7a6566bd3b723aebf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blue Mitchell / Blue Mitchell (180g Vinyl, Kevin Gray Remaster, Pallas Pressing) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20002&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20002&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Aug 2022 17:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[48,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/dbfd1b2db9c0ef2b603bad548e79869b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Soccer Mommy / Sometimes, Forever (Cassette, Indie Exclusive Limited Edition) (김밥레코즈 ─ Cassette)]]></title>
