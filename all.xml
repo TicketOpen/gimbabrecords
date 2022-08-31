@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 17:46:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 06:44:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/7354d001f4c3fd431332e915bd2e3463.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Beck / Hyperspace (180g Red Vinyl + Download Code, Gatefold sleeve) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20025&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20025&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 31 Aug 2022 06:42:04 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/fc4a14da4e5603ee56d2c3e9a17ff34f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lizzo / Special (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20024&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20024&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 31 Aug 2022 06:42:04 GMT</pubDate>
+            <content:encoded><![CDATA[37,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/58657723dfac49ff17ff511a0b6edda7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김대환과 김트리오 악단 / 드럼! 드럼! 드럼! 앰프기타 고고 (180g Vinyl, Remaster 2022) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20023&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20023&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 26 Aug 2022 17:42:23 GMT</pubDate>
             <content:encoded><![CDATA[39,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/886fcaa6fdaf3560affead36f939dfab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kaidi Tatham / Don't Rush The Process (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20004&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20004&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Aug 2022 17:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[32,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/8acde3680781f0c028eec63add21db79.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joe Henderson, Chick Corea, Ron Carter, Billy Higgins / Mirror, Mirror (180g Vinyl, MPS Pressing) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20003&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20003&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Aug 2022 17:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[36,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/fe47bec6d4c3ece7a6566bd3b723aebf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Soccer Mommy / Sometimes, Forever (Cassette, Indie Exclusive Limited Edition) (김밥레코즈 ─ Cassette)]]></title>
@@ -944,7 +944,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/ec668bb053fbbfc4ac796fe6fe8bc1c3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Rose Royce / Car Wasy (CD + OBI, JPN Import) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
+            <title><![CDATA[Rose Royce / Car Wash (CD + OBI, JPN Import) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19930&amp;cate_no=44&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19930&amp;cate_no=44&amp;display_group=1</guid>
             <pubDate>Wed, 24 Aug 2022 05:57:25 GMT</pubDate>
