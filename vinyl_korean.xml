@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 17:46:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 06:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김광석 / 못다 한 이야기 (180g 투명 & 투명 옐로우 컬러 Vinyl, 2LP) *예약상품 (12월 1일 이후 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20045&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20045&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Fri, 02 Sep 2022 06:25:12 GMT</pubDate>
+            <content:encoded><![CDATA[69,100원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/0a0ae53a38a3740c503fb46cb9346d44.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[김대환과 김트리오 악단 / 드럼! 드럼! 드럼! 앰프기타 고고 (180g Vinyl, Remaster 2022)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20023&amp;cate_no=52&amp;display_group=1</link>
@@ -64,7 +72,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/bf8dc71769c5caef49269a9378693bfd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김목인 / 4집 저장된 풍경 (Vinyl) *9월 1일 발매 예정]]></title>
+            <title><![CDATA[김목인 / 4집 저장된 풍경 (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19827&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19827&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Tue, 16 Aug 2022 17:45:23 GMT</pubDate>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 01 Aug 2022 17:47:28 GMT</pubDate>
             <content:encoded><![CDATA[44,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/f8d5aac8950bc176a9027fd649e3b5cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지윤해 / And / Zenly (7" Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19695&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19695&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Jul 2022 17:48:42 GMT</pubDate>
-            <content:encoded><![CDATA[29,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/fea89b77da7a4693a1b6fecf3a83a4cc.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

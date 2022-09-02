@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 17:46:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 06:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김광석 / 못다 한 이야기 (180g 투명 & 투명 옐로우 컬러 Vinyl, 2LP) *예약상품 (12월 1일 이후 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20045&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20045&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 02 Sep 2022 06:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[69,100원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/0a0ae53a38a3740c503fb46cb9346d44.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ohmme (Finom) / Fantasize Your Ghost (Limited Spectral Blue Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20044&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20044&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 02 Sep 2022 06:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/eee7d2a88e2012d3155c90c5b5f5b90f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Hot Chip / Freakout/Release (Brown Coloured Vinyl + exclusive bonus track, 2LP, Limited Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20032&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 30 Aug 2022 06:37:38 GMT</pubDate>
             <content:encoded><![CDATA[41,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/262b8fe92c51e519b81826bccb9c270e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김의철 / 김의철 노래모음 (180g Vinyl, Remaster 2022)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20021&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20021&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Aug 2022 06:37:38 GMT</pubDate>
-            <content:encoded><![CDATA[41,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/fdf206dcfa31892363dfa8e2a0219a70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방사능 (리듬파워) / 리듬파워 (140g, 1LP, Colored Vinyl) *예약상품 (9월 7일 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20020&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20020&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Aug 2022 06:37:38 GMT</pubDate>
-            <content:encoded><![CDATA[42,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/657599f546630b39621db4d2dd80def1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
