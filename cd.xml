@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 05:53:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 17:43:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tuck Andress / Reckless Precision (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20046&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20046&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sun, 04 Sep 2022 17:40:36 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/63ebcc3f680ea823b9e07b338abadd35.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jamiroquai / Travelling Without Moving (Expanded 2CD, EU Import) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20043&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 01 Sep 2022 17:44:07 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/0c1585d39b2053348ba03abfca4276a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[baan / to telescope (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20015&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20015&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 29 Aug 2022 17:43:16 GMT</pubDate>
-            <content:encoded><![CDATA[6,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/de8163b7d38b2bcd9479ee805df1660e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
