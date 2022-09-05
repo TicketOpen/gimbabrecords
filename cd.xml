@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 17:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 06:31:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Fin Fior 핀 피오르 / No Fear EP (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20047&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20047&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 05 Sep 2022 06:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/897231a2bb29bb2076ba8c8162b7e3e3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tuck Andress / Reckless Precision (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20046&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 01 Sep 2022 17:44:07 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/efa7b0b2ba1242d7c883e792fe1ddec3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coldplay / Music Of The Spheres (CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20033&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20033&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 01 Sep 2022 17:44:07 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/0c1585d39b2053348ba03abfca4276a4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
