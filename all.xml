@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 06:31:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 17:47:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kim Doeon 김도언 / Damage (CD) *1인 1매만 구매 가능 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20048&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20048&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 05 Sep 2022 17:45:08 GMT</pubDate>
+            <content:encoded><![CDATA[18,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/929459b344b5a3fc38640de9dacc7da2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fin Fior 핀 피오르 / No Fear EP (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20047&amp;cate_no=24&amp;display_group=1</link>
@@ -16,7 +24,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/897231a2bb29bb2076ba8c8162b7e3e3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Tuck Andress / Reckless Precision (CD) (김밥레코즈 ─ CD)]]></title>
+            <title><![CDATA[Tuck Andress / Reckless Precision (CD, JPN Import) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20046&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20046&amp;cate_no=24&amp;display_group=1</guid>
             <pubDate>Sun, 04 Sep 2022 17:40:36 GMT</pubDate>
@@ -96,15 +104,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/33d24b68a9cf09db99479a1dda61309f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Strokes / First Impressions Of Earth (CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20034&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20034&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 01 Sep 2022 17:44:07 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/efa7b0b2ba1242d7c883e792fe1ddec3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김광석 / 못다 한 이야기 (180g 투명 & 투명 옐로우 컬러 Vinyl, 2LP) *예약상품 (12월 1일 이후 발송 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <title><![CDATA[김광석 / 못다 한 이야기 (180g 투명 & 투명 옐로우 컬러 Vinyl, 2LP) *예약상품 (12월 5일 이후 발송 예정) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20045&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20045&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Fri, 02 Sep 2022 06:23:05 GMT</pubDate>
@@ -392,7 +392,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/5d06f5f0633a71a0b23ad68847bf0a2c.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[김광석 / 못다 한 이야기 (180g 투명 & 투명 옐로우 컬러 Vinyl, 2LP) *예약상품 (12월 1일 이후 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <title><![CDATA[김광석 / 못다 한 이야기 (180g 투명 & 투명 옐로우 컬러 Vinyl, 2LP) *예약상품 (12월 5일 이후 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20045&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20045&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Fri, 02 Sep 2022 06:23:31 GMT</pubDate>
@@ -584,6 +584,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201712/9361_shop1_252122.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Kim Doeon 김도언 / Damage (CD) *1인 1매만 구매 가능 (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20048&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20048&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 05 Sep 2022 17:45:56 GMT</pubDate>
+            <content:encoded><![CDATA[18,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/929459b344b5a3fc38640de9dacc7da2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Fin Fior 핀 피오르 / No Fear EP (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20047&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20047&amp;cate_no=29&amp;display_group=1</guid>
@@ -670,14 +678,6 @@
             <pubDate>Mon, 22 Aug 2022 17:41:06 GMT</pubDate>
             <content:encoded><![CDATA[20,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/148054f99bbc8e3a40c7fcde6d0f78e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새눈바탕 / 손을 모아 (CD) *1인 1매 구매 가능 (상세 설명을 확인해주세요.) (김밥레코즈 ─ CD ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19820&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19820&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Thu, 11 Aug 2022 17:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/b7c7ceb5b14100eac42f185faf201ee9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jamiroquai / Travelling Without Moving (Expanded 2CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
@@ -1064,7 +1064,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/0b1775688c652f448c73cd3303c5d7ee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Tuck Andress / Reckless Precision (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <title><![CDATA[Tuck Andress / Reckless Precision (CD, JPN Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20046&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20046&amp;cate_no=46&amp;display_group=1</guid>
             <pubDate>Sun, 04 Sep 2022 17:42:06 GMT</pubDate>
@@ -1440,7 +1440,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/bd7f824c411d545161d5748ccfb9afb3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Tuck Andress / Reckless Precision (CD) (김밥레코즈 ─ CD ─ Classical/Crossover)]]></title>
+            <title><![CDATA[Tuck Andress / Reckless Precision (CD, JPN Import) (김밥레코즈 ─ CD ─ Classical/Crossover)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20046&amp;cate_no=50&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20046&amp;cate_no=50&amp;display_group=1</guid>
             <pubDate>Sun, 04 Sep 2022 17:42:37 GMT</pubDate>
@@ -1728,7 +1728,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/1a4b4734c73d87844119ba235a64ad42.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김광석 / 못다 한 이야기 (180g 투명 & 투명 옐로우 컬러 Vinyl, 2LP) *예약상품 (12월 1일 이후 발송 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <title><![CDATA[김광석 / 못다 한 이야기 (180g 투명 & 투명 옐로우 컬러 Vinyl, 2LP) *예약상품 (12월 5일 이후 발송 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20045&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20045&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Fri, 02 Sep 2022 06:25:12 GMT</pubDate>
