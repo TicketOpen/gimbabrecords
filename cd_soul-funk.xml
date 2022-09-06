@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 06:45:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 17:48:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Earth, Wind & Fire / The Essential Earth, Wind & Fire (2CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20060&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20060&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Tue, 06 Sep 2022 17:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/a5ea3821f60943ab9fd3d7736a3af936.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stevie Wonder / Fulfillingness' First Finale (CD, EU Import) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20038&amp;cate_no=44&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 24 Aug 2022 05:57:25 GMT</pubDate>
             <content:encoded><![CDATA[17,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/ec668bb053fbbfc4ac796fe6fe8bc1c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rose Royce / Car Wash (CD + OBI, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19930&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19930&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Aug 2022 05:57:25 GMT</pubDate>
-            <content:encoded><![CDATA[17,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/30e8e1f85c3001ff66bd78fd0fa36ce6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
