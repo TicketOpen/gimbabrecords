@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 06:27:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 17:57:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kiwi Jr. / Chopper (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20077&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20077&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 08 Sep 2022 17:56:01 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/21593417fb223aaf3ce3771513e26064.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Σtella (Stella) / Up And Away (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20075&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20075&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 08 Sep 2022 17:56:01 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/3930931def80aa554d4d846ee2faeef8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Deep Purple / Made In Japan (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20065&amp;cate_no=30&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 01 Sep 2022 17:44:59 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/0c1585d39b2053348ba03abfca4276a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sting / Nothing Like The Sun (CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19999&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19999&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Aug 2022 17:43:15 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/c458acaa2c7caa6f5f7dd10232da6ed0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eric Clapton / 461 Ocean Boulevard (2CD, Deluxe Edition) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19991&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19991&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Aug 2022 17:43:15 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/1d97623953dda64dc5fe5df3fc4bd175.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

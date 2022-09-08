@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 06:27:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 17:57:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kiwi Jr. / Chopper (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20077&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20077&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 08 Sep 2022 17:55:01 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/21593417fb223aaf3ce3771513e26064.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Σtella (Stella) / Up And Away (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20075&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20075&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 08 Sep 2022 17:55:01 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/3930931def80aa554d4d846ee2faeef8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ODESZA / The Last Goodbye (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20074&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20074&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 08 Sep 2022 17:55:01 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/eab07197a73b10f4fe8a0ba8fee0f32f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ludovico Einaudi / Seven Days Walking Day One (CD, Trifold Sleeve) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20066&amp;cate_no=24&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Mon, 05 Sep 2022 06:28:46 GMT</pubDate>
             <content:encoded><![CDATA[13,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/897231a2bb29bb2076ba8c8162b7e3e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tuck Andress / Reckless Precision (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20046&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20046&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sun, 04 Sep 2022 17:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/63ebcc3f680ea823b9e07b338abadd35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jamiroquai / Travelling Without Moving (Expanded 2CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20043&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20043&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 01 Sep 2022 17:44:07 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/f8edfe3a5d6ec438405aed51d90d9503.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Boz Scaggs / Middle Man (Music On CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20042&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20042&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 01 Sep 2022 17:44:07 GMT</pubDate>
-            <content:encoded><![CDATA[10,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/2b96f4ade7c0629645cbb7180cc628cb.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
