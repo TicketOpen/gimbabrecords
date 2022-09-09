@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 06:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 17:49:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,11 +136,11 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/589ec0ba72173f5e147c0132dff48637.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ryo Kawasaki / Juice (Vinyl, Mr. Bongo Reissue) (김밥레코즈 ─ Vinyl)]]></title>
+            <title><![CDATA[Ryo Kawasaki / Juice (Vinyl, UK Reissue) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20083&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20083&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Thu, 08 Sep 2022 17:55:11 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
+            <content:encoded><![CDATA[40,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/73ebf8b91b9627525f57211aee70b7e8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -160,7 +160,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/21efffa2ac9dd4d07df3581a10c01f6c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Nucleus / Alleycat (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <title><![CDATA[Nucleus (Ian Carr) / Alleycat (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20080&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20080&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Thu, 08 Sep 2022 17:55:11 GMT</pubDate>
