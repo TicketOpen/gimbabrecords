@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 17:51:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 06:29:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Weyes Blood / And In The Darkness, Hearts Aglow (Limited Colored Vinyl, "Loser Edition") *예약상품 (11월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20106&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20106&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 15 Sep 2022 06:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/41cb3c04d3e9dd9fbbc80489e2a0057b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새눈바탕 / 손을 모아 (Vinyl, 한정반) *예약상품 / 1인 1매만 구매 가능 / 별도의 입금기한 설정]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20087&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 06 Sep 2022 06:43:15 GMT</pubDate>
             <content:encoded><![CDATA[58,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/5789507f2a05821000c0494f1c3cbe61.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현식 / 베스트 Vol. 1 (Gold Colored Vinyl, 2LP, 150g, 45rpm) *예약상품 (10월 19일 경 발송예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19106&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19106&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 06 Sep 2022 06:43:15 GMT</pubDate>
-            <content:encoded><![CDATA[58,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/c00a0234799a84c3824dff32acf446d9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

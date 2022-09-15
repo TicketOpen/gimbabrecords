@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 17:51:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 06:29:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Weyes Blood / And In The Darkness, Hearts Aglow (Limited Colored Vinyl, "Loser Edition") *예약상품 (11월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20106&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20106&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 15 Sep 2022 06:27:18 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/41cb3c04d3e9dd9fbbc80489e2a0057b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mamas Gun / Good Love + Red Cassette (Limited 7" Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20105&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 08 Sep 2022 17:55:11 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/21efffa2ac9dd4d07df3581a10c01f6c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nucleus (Ian Carr) / Alleycat (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20080&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20080&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 08 Sep 2022 17:55:11 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/a5bf150a8cb989b077d6dbe691209b71.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
