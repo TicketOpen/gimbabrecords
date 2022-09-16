@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 17:51:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 06:32:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Moonchild / Voyager (Vinyl, 2LP) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20135&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20135&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 16 Sep 2022 06:30:13 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201709/8548_shop1_215463.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tenniscoats / Tan​-​Tan Therapy (Vinyl, 2022 Remaster) *예약상품 (10월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20134&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20134&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 16 Sep 2022 06:30:13 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/1a33f4f5c9136d941612eb62c69dbb61.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Vince Guaraldi Trio / A Charlie Brown Christmas (2022 Limited "Gold Foil" Edition, 1회 한정제작 금박 쟈켓, Black Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20133&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 15 Sep 2022 17:48:44 GMT</pubDate>
             <content:encoded><![CDATA[36,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/6fa49ee1a68613d027c5e685022bf589.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Notations / Still Here 1967-1973 (Limited Red Vinyl, Numero 1232)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20122&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20122&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 15 Sep 2022 17:48:44 GMT</pubDate>
-            <content:encoded><![CDATA[37,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/6f00e9e5de26481fb7a4d5bcd7596d4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / Eccentric Soul: The Shiptown Label (Tidewater Tri Color Vinyl, Europe Exclusive, Numero 081) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20121&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20121&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 15 Sep 2022 17:48:44 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/2b0c453d59fe227296bdac89fe48cc54.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
