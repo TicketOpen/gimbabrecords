@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 17:56:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 05:55:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hikaru Utada (Utada Hikaru 우타다 히카루) / First Love (Vinyl, 2LP, Limited Edition) *할인상품 (쟈켓 모서리 눌림자국 할인 - 아래 유의사항을 확인하세요.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20149&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20149&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 17 Sep 2022 05:53:39 GMT</pubDate>
+            <content:encoded><![CDATA[59,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/7619a879f335322e20e866cd22d012d6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mort Garson / Mother Earth's Plantasia (Limited Green Vinyl + Fully Restored Original Booklet + Seed Paper Download Card) *모서리 눌림으로 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20148&amp;cate_no=25&amp;display_group=1</link>
@@ -80,7 +88,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/1499b600b92db19cc69adc36de156a73.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Cinematic Orchestra / Ma Fleur (Clear Vinyl, 2LP + 3 bonus tracks, Limited Edition) *할인상품 (쟈켓 모서리 눌림자국)]]></title>
+            <title><![CDATA[The Cinematic Orchestra / Ma Fleur (Limited Clear Vinyl, 2LP, Art Print 및 3곡의 bonus track 포함, 한정반) *할인상품 (쟈켓 모서리 눌림자국)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20139&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20139&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Fri, 16 Sep 2022 17:54:35 GMT</pubDate>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 16 Sep 2022 17:54:35 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/54ded6c33ca692659773a6377faed38f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / Vinyl Alt Pop (Vinyl, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20137&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20137&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 16 Sep 2022 17:54:35 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/487e8ca4d38572d8d050e981831bf0f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
