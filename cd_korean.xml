@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 05:57:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 17:47:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미역수염 Seaweed Mustache / 1집 Bombora (CD) *예약상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20152&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20152&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Sun, 18 Sep 2022 17:45:54 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/10e398d5e872ca58b359741319715924.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kim Doeon 김도언 / Damage (CD) *1인 1매만 구매 가능]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20048&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 24 Aug 2022 17:41:08 GMT</pubDate>
             <content:encoded><![CDATA[9,700원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/16bfa98b8d9c96690672179b6a3f6702.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / Digital Dawn Compilation (CD) *압축 포장 없이 출고된 음반입니다.]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19873&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19873&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Mon, 22 Aug 2022 17:41:06 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/148054f99bbc8e3a40c7fcde6d0f78e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
