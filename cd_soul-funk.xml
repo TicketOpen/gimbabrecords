@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 06:35:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 17:53:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Julius Brockington / The United Chair (CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20172&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20172&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Tue, 20 Sep 2022 17:52:35 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/751bff41dd57c8f1cd2e31f39068ad3f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DeBarge / All This Love (CD, Motown 60th Anniversary, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20171&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20171&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Tue, 20 Sep 2022 17:52:35 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/b1b0f90f23f4a00af8f2023dbe56fe26.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Earth, Wind & Fire / The Essential Earth, Wind & Fire (2CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20060&amp;cate_no=44&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 24 Aug 2022 05:57:25 GMT</pubDate>
             <content:encoded><![CDATA[17,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/90f2d556f2432989e3ecba5bc824cdc4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Roy Ayers Ubiquity / Lifeline (CD + OBI, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19932&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19932&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Aug 2022 05:57:25 GMT</pubDate>
-            <content:encoded><![CDATA[17,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/170cd5f75acb876d0a1d103a5ff987b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Roy Ayers / Feeling Good (CD + OBI, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19931&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19931&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Aug 2022 05:57:25 GMT</pubDate>
-            <content:encoded><![CDATA[17,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/ec668bb053fbbfc4ac796fe6fe8bc1c3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
