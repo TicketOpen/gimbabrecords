@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gimbabrecords.com/product/list.html?cate_no=24</id>
-    <title>김밥레코즈 ─ CD</title>
-    <updated>2022-09-21T17:54:31.138Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>김밥레코즈 ─ CD</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 22 Sep 2022 06:36:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[John Coltrane / Blue Train: The Complete Masters (2CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20183&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20183&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Sep 2022 06:33:56 GMT</pubDate>
+            <content:encoded><![CDATA[35,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/34d3ef7d516dc571befed24d9488d44e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Don Sebesky / Giant Box (Blu-Spec CD, CTI Supreme Collection, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20180&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20180&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Sep 2022 06:33:56 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/e92824d0c0dab0b367bb38ab996ffa10.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[George Benson / Good King Bad (Blu-Spec CD, CTI Supreme Collection, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20179&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20179&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Sep 2022 06:33:56 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/7769b74b119c29759d3c80d124403aa3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Johnny Hammond / Breakout (Blu-Spec CD, CTI Supreme Collection, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20178&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20178&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Sep 2022 06:33:56 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/a9abd0e0903218545a27051bfc2ee75c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stanley Turrentine / Salt Song (Blu-Spec CD, CTI Supreme Collection, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20177&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20177&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Sep 2022 06:33:56 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/871f72e1d947cbaccdce7235baefd41a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Freddie Hubbard / First Light (Blu-Spec CD, CTI Supreme Collection, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20176&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20176&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Sep 2022 06:33:56 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/abd9974916261057a0772d49a537964d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charlie Haden & Hampton Hawes / As Long As There's Music (UHQCD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20175&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20175&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Sep 2022 06:33:56 GMT</pubDate>
+            <content:encoded><![CDATA[24,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/ec2dc4c6a90651e7fbeba174b8b79b9b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charlie Haden / Closeness (UHQCD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20174&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20174&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Sep 2022 06:33:56 GMT</pubDate>
+            <content:encoded><![CDATA[24,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/a61c408772dfc04c746b4c35593aa8b7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charlie Haden / The Golden Number (UHQCD, JPN Import))]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20173&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20173&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Sep 2022 06:33:56 GMT</pubDate>
+            <content:encoded><![CDATA[24,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/93afe340de6b0378c28bbcd2fc78d2ee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Julius Brockington / The United Chair (CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20172&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20172&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Sep 2022 06:33:56 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/751bff41dd57c8f1cd2e31f39068ad3f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DeBarge / All This Love (CD, Motown 60th Anniversary, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20171&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20171&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Sep 2022 06:33:56 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/b1b0f90f23f4a00af8f2023dbe56fe26.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hitomitoi / Ecstasy (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20170&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20170&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Sep 2022 06:33:56 GMT</pubDate>
+            <content:encoded><![CDATA[34,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/a4858a7c5f8aa346939c2ba319a7f9b4.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
