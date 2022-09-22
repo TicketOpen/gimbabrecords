@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gimbabrecords.com/product/list.html?cate_no=26</id>
-    <title>김밥레코즈 ─ Cassette</title>
-    <updated>2022-09-22T06:36:01.495Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>김밥레코즈 ─ Cassette</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 22 Sep 2022 17:53:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Leslie Cheung 장국영 / 卡式張國榮錄音帶大系  Leslie Cheung 10 Albums Cassette Box Set (10 Cassette + Cassette Player Box Set, 카세트 박스셋, 휴대 가능한 카세트 플레이어가 보너스로 포함되어 있습니다.) *할인상품 (겉박스 작은 눌림자국)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20168&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20168&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Sep 2022 17:51:38 GMT</pubDate>
+            <content:encoded><![CDATA[359,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/7540132d0fb0fef9e1198bb64d9ec140.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Leslie Cheung 장국영 / 卡式張國榮錄音帶大系  Leslie Cheung 10 Albums Cassette Box Set (10 Cassette + Cassette Player Box Set, 카세트 박스셋, 휴대 가능한 카세트 플레이어가 보너스로 포함되어 있습니다.) *1인 1세트 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20167&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20167&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Sep 2022 17:51:38 GMT</pubDate>
+            <content:encoded><![CDATA[369,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/5099859ab08d2a808d91c4ed722e9000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weyes Blood / And In The Darkness, Hearts Aglow (Cassette) *예약상품 (11월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20109&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20109&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Sep 2022 17:51:38 GMT</pubDate>
+            <content:encoded><![CDATA[17,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/b36b449f2d1fc4cd033f5e69870318fe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LAKE / Practice Space (Red Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20094&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20094&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Sep 2022 17:51:38 GMT</pubDate>
+            <content:encoded><![CDATA[12,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/2b6e521cd79ffa8e73422f80beee67bb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Summer Salt / Honeyweed (Baby Pink Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20092&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20092&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Sep 2022 17:51:38 GMT</pubDate>
+            <content:encoded><![CDATA[12,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/c3ad913f9fa882259d40836dc32c672c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Summer Salt / Happy Camper (Yellow Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20091&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20091&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Sep 2022 17:51:38 GMT</pubDate>
+            <content:encoded><![CDATA[12,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/06c5b720b54952cb50312e09b021b32a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Michael Seyer / Nostalgia (Transparent Green Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20090&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20090&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Sep 2022 17:51:38 GMT</pubDate>
+            <content:encoded><![CDATA[12,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/fb5398dedd7f3b736933df9d9e3a3e27.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VACATIONS / Vibes & Days (Orange Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20089&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20089&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Sep 2022 17:51:38 GMT</pubDate>
+            <content:encoded><![CDATA[12,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/f7c5e4fa8f6935cd2906480d8ffb3e8e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VACATIONS / Changes (Clear Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20088&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20088&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Sep 2022 17:51:38 GMT</pubDate>
+            <content:encoded><![CDATA[12,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/6b13ec3c8a87115e807752065baf770b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kiwi Jr. / Chopper (Clear Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20078&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20078&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Sep 2022 17:51:38 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/8242d5953099872d7f234bbbcc6581f3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weezer / Weezer (Black Album) (Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20058&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20058&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Sep 2022 17:51:38 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/6a158d4fc8014937a5e527b53e75b73c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boris / W (Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19794&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19794&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Sep 2022 17:51:38 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/d0a448486347504d63a017172fbb035f.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
