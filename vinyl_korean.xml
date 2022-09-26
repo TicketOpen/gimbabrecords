@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gimbabrecords.com/product/list.html?cate_no=52</id>
-    <title>김밥레코즈 ─ Vinyl ─ Korean</title>
-    <updated>2022-09-25T17:46:25.802Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>김밥레코즈 ─ Vinyl ─ Korean</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 26 Sep 2022 06:36:50 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시나위 / 4집 Four (180g Red Vinyl, 재발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20199&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20199&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 26 Sep 2022 06:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/4378bd8151c6ff14fc5debc06d178630.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새눈바탕 / 손을 모아 (Vinyl, 한정반) *1인 1매만 구매 가능 / 별도의 입금기한 설정 / 구매시 유의사항을 참조하세요.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20087&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20087&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 26 Sep 2022 06:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[30,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/546d6da53281288b2105ae45e00c4946.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이강승 / Korean Dream (10" Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20069&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20069&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 26 Sep 2022 06:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/670cd192cfb0330258424449b0c0ffbf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이강승 / In other words it’s all made by Kyeongsuk (10" Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20068&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20068&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 26 Sep 2022 06:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/1ac07fcfe95caefd3436ef375eb0cf30.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파란노을 / To See the Next Part of the Dream (Vinyl, 2LP) *1인 1매만 구매 가능 / 별도의 입금기한 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20067&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20067&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 26 Sep 2022 06:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[48,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/0b7f0bd018a51f3e20c32b5e20993b91.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김광석 / 못다 한 이야기 (180g 투명 & 투명 옐로우 컬러 Vinyl, 2LP) *예약상품 (12월 5일 이후 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20045&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20045&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 26 Sep 2022 06:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[69,100원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/0a0ae53a38a3740c503fb46cb9346d44.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[김대환과 김트리오 악단 / 드럼! 드럼! 드럼! 앰프기타 고고 (180g Vinyl, Remaster 2022)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20023&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20023&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 26 Sep 2022 06:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[41,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/79227cda59b3e7e8c4d38b9be1b4bc53.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양병집 / 넋두리 (180g Vinyl, 2022 Remaster)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20022&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20022&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 26 Sep 2022 06:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[41,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/262b8fe92c51e519b81826bccb9c270e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김의철 / 김의철 노래모음 (180g Vinyl, Remaster 2022)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20021&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20021&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 26 Sep 2022 06:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[41,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/fdf206dcfa31892363dfa8e2a0219a70.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방사능 (리듬파워) / 리듬파워 (140g, 1LP, Colored Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20020&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20020&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 26 Sep 2022 06:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/657599f546630b39621db4d2dd80def1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤명운 / 아침 기다리며, 할머니 부르스 (180g Vinyl, 800장 한정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20008&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20008&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 26 Sep 2022 06:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/3a88515326998c5a6d68668e39569582.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deepshower 딥샤워 / COLORS (Vinyl) *1인 최대 2매까지 구매 가능 (상세 설명을 확인해주세요.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19830&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19830&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 26 Sep 2022 06:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/852674f3f31a08e638608006c2c1b195.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
