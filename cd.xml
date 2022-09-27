@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Sep 2022 06:31:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2022 17:59:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기나이직 Guinneissik / Postwar (플라스틱 슬리브를 씌운 USB카드)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20225&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20225&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Sep 2022 17:57:37 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/9b75167fbc00e8673e58c53c8d7d4925.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기나이직 Guinneissik / 1집 듣는음악과 평강하지 못한 (CD, Digipak) *압축포장 없이 출고된 상품입니다.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20224&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20224&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Sep 2022 17:57:37 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/57bd78d434fd5fa1ad7c20779f8b4386.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검정치마 / 3집 Part.3 TEEN TROUBLES (CD + 초판 한정 스티커)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20219&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 26 Sep 2022 06:34:49 GMT</pubDate>
             <content:encoded><![CDATA[11,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/3a79c8a8cbba7d8725285319bef09f85.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Coltrane / Blue Train: The Complete Masters (2CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20183&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20183&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 26 Sep 2022 06:34:49 GMT</pubDate>
-            <content:encoded><![CDATA[35,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/34d3ef7d516dc571befed24d9488d44e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Don Sebesky / Giant Box (Blu-Spec CD, CTI Supreme Collection, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20180&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20180&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 26 Sep 2022 06:34:49 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/e92824d0c0dab0b367bb38ab996ffa10.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

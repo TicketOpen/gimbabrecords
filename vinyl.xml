@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gimbabrecords.com/product/list.html?cate_no=25</id>
-    <title>김밥레코즈 ─ Vinyl</title>
-    <updated>2022-09-27T06:31:08.677Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>김밥레코즈 ─ Vinyl</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 27 Sep 2022 17:59:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Angel Olsen / Whole New Mess (Pink Glass Translucent Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20223&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20223&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Sep 2022 17:57:45 GMT</pubDate>
+            <content:encoded><![CDATA[33,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/11c80f5df31ef63b22f08b05006ecbde.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joshua Redman / LongGone (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20222&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20222&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Sep 2022 17:57:45 GMT</pubDate>
+            <content:encoded><![CDATA[34,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/bddd42d6e5085c5e9e804504daaaa939.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST / '슬기로운 의사생활' 시즌 1 드라마 음악 (Hospital OST) (검정 바이닐 2LP + 가사지, 배우 사인프린팅 미니 브로마이드, 하드 커버 / 게이트폴드)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20221&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20221&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Sep 2022 17:57:45 GMT</pubDate>
+            <content:encoded><![CDATA[69,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/32613f4300332a2bf7458bb9892deb0a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yeah Yeah Yeahs / Cool It Down (Black Vinyl) *예약상품 (9월 30일부터 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20217&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20217&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Sep 2022 17:57:45 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/236e7bd1a5b8b9624b95c9faf12da35e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yeah Yeah Yeahs / Cool It Down (Opaque Yellow Vinyl) *예약상품 (9월 30일부터 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20216&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20216&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Sep 2022 17:57:45 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/145625138bad8b130ce5690e46c9d151.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Whitney / SPARK (Milky White Vinyl) *선착순 사인 포스터 증정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20213&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20213&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Sep 2022 17:57:45 GMT</pubDate>
+            <content:encoded><![CDATA[35,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/4b9323916b0ea9f3647da3c0b6cc1da9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stella Donnelly / Flood (Opaque Red Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20209&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20209&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Sep 2022 17:57:45 GMT</pubDate>
+            <content:encoded><![CDATA[34,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/de750cd829eaa28082f064cd60bafe1a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Big Red Machine / How Long Do You Think It's Gonna Last? (Black Vinyl, 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20208&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20208&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Sep 2022 17:57:45 GMT</pubDate>
+            <content:encoded><![CDATA[34,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/3089dea65647d81b7028ea0e23834973.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Coke Escovedo / Comin' At Ya! (Vinyl, 2022 reissue) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20207&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20207&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Sep 2022 17:57:45 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/d635a8820d527e143feef1d7f7218439.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gabor Szabo / The Best Of Gabor Szabo (Red Colored Vinyl, RTI Pressing)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20206&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20206&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Sep 2022 17:57:45 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/6b1c419ae5a18eb4fcfdadd268f8b6e2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[시나위 / 4집 Four (180g Red Vinyl, 재발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20199&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20199&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Sep 2022 17:57:45 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/4378bd8151c6ff14fc5debc06d178630.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shintaro Quintet / Evolution (180g Vinyl, 2LP, 45rpm)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20198&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20198&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Sep 2022 17:57:45 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/5e701e4fddf6abad33d17713bfc283e7.jpeg" length="0" type="image/jpeg"/>
+        </item>
+    </channel>
+</rss>
