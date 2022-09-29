@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gimbabrecords.com/product/list.html?cate_no=27</id>
-    <title>김밥레코즈 ─ Movies/Merch</title>
-    <updated>2022-09-28T18:01:52.319Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>김밥레코즈 ─ Movies/Merch</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 29 Sep 2022 06:41:35 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기나이직 Guinneissik / Postwar (플라스틱 슬리브를 씌운 USB카드)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20225&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20225&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 06:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/9b75167fbc00e8673e58c53c8d7d4925.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peanuts Deluxe Holiday Collection (Ultimate Collector's Edition) (Blu-ray + DVD Pack + Snowglobe & Window Clings)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20059&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20059&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 06:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[104,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/7eda5f140ebdb9747a4f13b48e24a2ed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marvin Gaye / Live In Montreux 1980 (DVD, PAL 방식) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20019&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20019&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 06:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[16,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/5e0181b7ec47fa7b3714add4e2420302.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Queen / Live At Wembley Stadium (2 DVD Set, 25th Anniversary Edition) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19757&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19757&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 06:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/773453bdc9d80e040b4ec94788924c5c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rega(레가) Planar 1 Plus 턴테이블 (포노앰프내장) (블랙, 화이트 색상 선택) *보너스 레코드 증정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19676&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19676&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 06:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[685,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/25264437a2759ba7e2bc62fec5848a2c.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rega(레가) Planar 3 턴테이블 (블랙, 화이트 색상 선택) *보너스 레코드 증정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19663&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19663&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 06:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[1,380,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/259f81db7940fa9ac47aa9922c2786dd.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rega(레가) Planar 2 턴테이블 (블랙, 화이트 색상 선택) *보너스 레코드 증정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19662&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19662&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 06:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[905,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/666f0a1d5a5bdced17eed0e6af5b9934.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rega(레가) Planar 1 턴테이블 (블랙, 화이트 색상 선택) *보너스 레코드 증정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19661&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19661&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 06:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[565,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/952dbd5641ac5f38959d8e794022d2ad.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rega(레가) Fono MM 포노앰프 (2017 Black)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19659&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19659&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 06:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[480,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/e190800e4896d6d126038449d89cb408.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rega(레가) Elys 2 MM카트리지]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19658&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19658&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 06:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[336,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/5d06f5f0633a71a0b23ad68847bf0a2c.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rega(레가) Carbon MM카트리지]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19657&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19657&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 06:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[64,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/fd041a62683f45c5c17290f054000291.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[RCA Discwasher RD1007Z D4+ Record Care System 50ml (레코드 청소용 브러쉬 + 청소용 용액 세트)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19633&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19633&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 06:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/148d6feb0ae61e1a413db1168fdb1061.jpeg" length="0" type="image/jpeg"/>
+        </item>
+    </channel>
+</rss>
