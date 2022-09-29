@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gimbabrecords.com/product/list.html?cate_no=25</id>
-    <title>김밥레코즈 ─ Vinyl</title>
-    <updated>2022-09-29T06:41:35.953Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>김밥레코즈 ─ Vinyl</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 29 Sep 2022 17:59:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Majid Jordan / Wildest Dreams (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20251&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20251&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 17:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[46,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/40c946e7f0968fa28e145bb8bd073f17.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Swell Season (Glen Hansard & Marketa Irglova) / The Swell Season (White & Green Vinyl + Download)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20250&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20250&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 17:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201702/6412_shop1_878070.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Carrtoons / Homegrown (Translucent Pink Vinyl, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20249&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20249&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 17:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/f4529f6d110d8780a49bb170d594721d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Paco De Lucia / Entre Dos Aguas (Blue Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20248&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20248&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 17:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/afad3a37ba45cafc570ad080d2231cb0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Daft Punk / Alive 2007 (Vinyl, 2LP) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20247&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20247&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 17:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[43,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201605/3835_shop1_845038.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Daft Punk / Daft Club (Vinyl, 2LP) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20246&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20246&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 17:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[40,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/52e60812ce1152e4833f579c2b3829dd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arab Strap / Philophobia (Vinyl, 2LP) *할인상품 (쟈켓 모서리에 눌림 자국이 있습니다. 상세설명을 참조하세요.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20245&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20245&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 17:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[37,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/3d6eb5285e71451a4b1ae82974d9aa78.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cigarettes After Sex / EP 1 (Vinyl, EU Import) *할인상품 (쟈켓 모서리에 작은 눌림이 있습니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20244&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20244&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 17:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201703/6743_shop1_164025.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST / Back To The Future (Black Vinyl, 2021 reissue) *할인상품 (쟈켓 모서리에 작은 눌림이 있습니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20243&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20243&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 17:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[32,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202105/18c8e8ebfe0969e3d35c069d6770beab.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beastie Boys / Solid Gold Hits (Vinyl, 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20242&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20242&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 17:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/bf1ced9bb37ef43d0618e5769e35625c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aaliyah / I Care 4 U (Vinyl, 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20241&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20241&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 17:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/376fe02f6fa972c342e3a48ab2e259f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Megadeth / The Sick, The Dying... And The Dead! (180g Vinyl, 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20240&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20240&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 17:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[55,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/baa2084a0428386d87ad4c2fc0413fd9.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
