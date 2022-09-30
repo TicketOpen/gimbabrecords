@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gimbabrecords.com/product/list.html?cate_no=44</id>
-    <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
-    <updated>2022-09-29T17:59:10.981Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 30 Sep 2022 06:39:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Julius Brockington / The United Chair (CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20172&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20172&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 30 Sep 2022 06:38:33 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/751bff41dd57c8f1cd2e31f39068ad3f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DeBarge / All This Love (CD, Motown 60th Anniversary, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20171&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20171&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 30 Sep 2022 06:38:33 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/b1b0f90f23f4a00af8f2023dbe56fe26.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Earth, Wind & Fire / The Essential Earth, Wind & Fire (2CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20060&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20060&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 30 Sep 2022 06:38:33 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/a5ea3821f60943ab9fd3d7736a3af936.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stevie Wonder / Fulfillingness' First Finale (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20038&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20038&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 30 Sep 2022 06:38:33 GMT</pubDate>
+            <content:encoded><![CDATA[13,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/35392c8ced1f33e09a1f1f09c7e7f0ac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aaliyah / Aaliyah (CD, EU Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20037&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20037&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 30 Sep 2022 06:38:33 GMT</pubDate>
+            <content:encoded><![CDATA[17,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/85dd64c864ee12f5c9e00ddd8dde9835.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyonce / RENAISSANCE (CD +  28p Photo Booklet + Poster)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19969&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19969&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 30 Sep 2022 06:38:33 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/54cdfb8287aece4974162983cfde46e3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eddie Kendricks / People... Hold On (CD + OBI, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19938&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19938&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 30 Sep 2022 06:38:33 GMT</pubDate>
+            <content:encoded><![CDATA[17,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/cc03a667e7f5b6f8636f74a41ed1679d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oliver Cheatham / Saturday Night (CD + OBI, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19937&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19937&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 30 Sep 2022 06:38:33 GMT</pubDate>
+            <content:encoded><![CDATA[17,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/f5478d660304e2e3a04a3e66dc16dc2f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charles Earland / Perceptions (CD + OBI, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19936&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19936&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 30 Sep 2022 06:38:33 GMT</pubDate>
+            <content:encoded><![CDATA[17,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/8d5409b5be93077edc06d0ccc78cedfd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Future Flight / Future Flight (CD + OBI, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19935&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19935&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 30 Sep 2022 06:38:33 GMT</pubDate>
+            <content:encoded><![CDATA[17,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/c547f924f1e39950e4c9e7192afd1c62.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ramp / Come Into Knowledge (CD + OBI, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19934&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19934&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 30 Sep 2022 06:38:33 GMT</pubDate>
+            <content:encoded><![CDATA[17,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/495d1d0bb4ff2bf670a1f3a70d5061fb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Roy Ayers / Love Fantasy (CD + OBI, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19933&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19933&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 30 Sep 2022 06:38:33 GMT</pubDate>
+            <content:encoded><![CDATA[17,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/90f2d556f2432989e3ecba5bc824cdc4.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
