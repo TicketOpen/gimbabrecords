@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Hip Hop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Sep 2022 06:39:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 17:58:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Eminem / Music To Be Murdered By (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20258&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20258&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Fri, 30 Sep 2022 17:57:40 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/b6c36bf664080088ae94a30f958318f7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Eminem / Marshall Matters LP (2CD, Limited Edition) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19993&amp;cate_no=45&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 29 Sep 2022 06:40:43 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/a534d1ee43a50596fdd439ad092811a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Juice Wrld / Legends Never Die (CD, EU Import) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18561&amp;cate_no=45&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18561&amp;cate_no=45&amp;display_group=1</guid>
-            <pubDate>Thu, 29 Sep 2022 06:40:43 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/0b1775688c652f448c73cd3303c5d7ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
