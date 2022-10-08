@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gimbabrecords.com/product/list.html?cate_no=90</id>
-    <title>김밥레코즈 ─ CD ─ Japanese</title>
-    <updated>2022-10-07T18:02:42.545Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>김밥레코즈 ─ CD ─ Japanese</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 08 Oct 2022 05:54:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hitomitoi / Ecstasy (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20170&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20170&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Sat, 08 Oct 2022 05:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[34,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/a4858a7c5f8aa346939c2ba319a7f9b4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Masabumi Kikuchi / Poo-Sun (SHM-CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19951&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19951&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Sat, 08 Oct 2022 05:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/b1b85de579316ac800c844691decc187.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Masabumi Kikuchi / Masabumi Kikuchi + Gil Evans (SHM-CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19950&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19950&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Sat, 08 Oct 2022 05:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/facd70229ac8cccb78ae81f07334463d.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Masabumi Kikuchi / End For The Beginning (SHM-CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19949&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19949&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Sat, 08 Oct 2022 05:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/9115a7c2c923cb69c448784a2dad2972.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Masabumi Kikuchi / Re-Confirmation (SHM-CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19948&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19948&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Sat, 08 Oct 2022 05:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/4e57485611bc8bef6dd1b2340b5de6bc.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lamp / Kanozyo No Tekei (CD, OBI, Japan Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19945&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19945&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Sat, 08 Oct 2022 05:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[32,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/5004ccdde209d2bdae3fa2f26f0d046e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lamp / Tokyo Utopia Tsuushin (CD, OBI, Japan Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19944&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19944&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Sat, 08 Oct 2022 05:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/4e50a65e81019210563ea25800a295e1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Polaris /Shikisai (CD, OBI, Japan Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19943&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19943&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Sat, 08 Oct 2022 05:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[26,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/4b126bca2a48b2d8c20cb667d912f2db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fennesz & Sakamoto / Cendre (CD, OBI, Japan Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19942&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19942&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Sat, 08 Oct 2022 05:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[27,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/d2b280bae043fc346ff7e74d09e892a2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Junko Ohashi / Paper Moon (CD, OBI, Japan Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19941&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19941&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Sat, 08 Oct 2022 05:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[25,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/39e6267f4a088bb40118efc7f1cd2cea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Junko Ohashi / Magical (CD, OBI, Japan Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19940&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19940&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Sat, 08 Oct 2022 05:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[25,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/95c4d95562df55faff05f965dba9d388.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kiyotaka Sugiyama & Omega Tribe / Golden Best (CD, OBI, Japan Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19939&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19939&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Sat, 08 Oct 2022 05:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/8519dc628909e7dc22a1a9588d52f466.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
