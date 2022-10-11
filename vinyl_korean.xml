@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Oct 2022 18:02:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2022 06:27:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팔로알토 / 발자국 (180g, Colored Vinyl) *10월 17일부터 배송이 시작됩니다.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20347&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20347&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 06:27:03 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/9444d4a925ae41b5bb2393c00e5bf4fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / WALLS AND PALS Presents - Pals FM: Floor Materials Vol.1 (12" Vinyl, 33 1/3 rpm)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20346&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20346&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 06:27:03 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/e8bf58b39a04278cff134c1b3582d147.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산울림 / 3집 내 마음 (180g Black Vinyl, 2,500장 넘버링 한정반) *예약상품 (10월 20일 발매 예정) / 1인 1매만 구매 가능]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20321&amp;cate_no=52&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Sat, 08 Oct 2022 17:51:07 GMT</pubDate>
             <content:encoded><![CDATA[48,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/0b7f0bd018a51f3e20c32b5e20993b91.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김광석 / 못다 한 이야기 (180g 투명 & 투명 옐로우 컬러 Vinyl, 2LP) *예약상품 (12월 5일 이후 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20045&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20045&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Sat, 08 Oct 2022 17:51:07 GMT</pubDate>
-            <content:encoded><![CDATA[69,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/0a0ae53a38a3740c503fb46cb9346d44.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[김대환과 김트리오 악단 / 드럼! 드럼! 드럼! 앰프기타 고고 (180g Vinyl, Remaster 2022)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20023&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20023&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Sat, 08 Oct 2022 17:51:07 GMT</pubDate>
-            <content:encoded><![CDATA[41,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/79227cda59b3e7e8c4d38b9be1b4bc53.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
