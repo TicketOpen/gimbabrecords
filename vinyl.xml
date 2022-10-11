@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gimbabrecords.com/product/list.html?cate_no=25</id>
-    <title>김밥레코즈 ─ Vinyl</title>
-    <updated>2022-10-11T06:27:10.405Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>김밥레코즈 ─ Vinyl</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 11 Oct 2022 17:55:58 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팔로알토 / 발자국 (180g, Colored Vinyl) *예약상품 (10월 17일부터 배송이 시작됩니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20347&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20347&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 17:54:07 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/9444d4a925ae41b5bb2393c00e5bf4fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / WALLS AND PALS Presents - Pals FM: Floor Materials Vol.1 (12" Vinyl, 33 1/3 rpm)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20346&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20346&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 17:54:07 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/e8bf58b39a04278cff134c1b3582d147.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Junko Yagami / Communication (Limited Purple Vinyl) *예약상품 (2023년 2월 10일경 배송 시작)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20343&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20343&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 17:54:07 GMT</pubDate>
+            <content:encoded><![CDATA[52,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/ba4dcb8222998fe7abed8bf804458f7c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST / Saturday Night Fever 토요일 밤의 열기 (180g Vinyl, 2LP + Download, Gatefold, 40th Anniversary Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20324&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20324&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 17:54:07 GMT</pubDate>
+            <content:encoded><![CDATA[48,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/cf1df95d12bc78f34d0ddbb723e14039.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iron Maiden / The Number Of The Beast (180g Black Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20323&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20323&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 17:54:07 GMT</pubDate>
+            <content:encoded><![CDATA[25,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/ef839b61faa838ce1dd2e1f05118dea8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Genesis / Selling England By The Pound (180g Vinyl + Download, 2018 Reissue)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20322&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20322&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 17:54:07 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/00179b301bab74cea430f06a266c13a5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산울림 / 3집 내 마음 (180g Black Vinyl, 2,500장 넘버링 한정반) *예약상품 (10월 20일 발매 예정) / 1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20321&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20321&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 17:54:07 GMT</pubDate>
+            <content:encoded><![CDATA[46,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/5d9edcbd5d9cb310e7eb3ad1739cc677.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산울림 / 2집 내 마음에 주단을 깔고 (180g Black Vinyl, 2,500장 넘버링 한정반) *예약상품 (11월 22일 발매 예정) / 1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20320&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20320&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 17:54:07 GMT</pubDate>
+            <content:encoded><![CDATA[46,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/e5d25fb8f0212bf73a5dd87f0f47ad2e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산울림 / 1집 아니 벌써 (180g Black Vinyl, 2,500장 넘버링 한정반) *예약상품 (10월 20일 발매 예정) / 1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20319&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20319&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 17:54:07 GMT</pubDate>
+            <content:encoded><![CDATA[46,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/af1994738d6774db3c04c5a30fcdd966.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Order / Get Ready (Vinyl + Download)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20318&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20318&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 17:54:07 GMT</pubDate>
+            <content:encoded><![CDATA[28,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/7528badc161a73daae16a3eee2aec76d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[La Roux / La Roux (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20317&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20317&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 17:54:07 GMT</pubDate>
+            <content:encoded><![CDATA[43,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/2c5084a357728ea5ab72145894627621.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yo La Tengo / I Can Hear The Heart Beating As One (Limited Opaque Yellow Vinyl, 2LP, 25th Anniversary Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20316&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20316&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 17:54:07 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/185d48e3bd426cf7460d6cf4b0011087.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

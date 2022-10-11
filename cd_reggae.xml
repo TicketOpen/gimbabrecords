@@ -1,8 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gimbabrecords.com/product/list.html?cate_no=47</id>
-    <title>김밥레코즈 ─ CD ─ Reggae</title>
-    <updated>2022-10-11T06:27:10.389Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>김밥레코즈 ─ CD ─ Reggae</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 11 Oct 2022 17:55:58 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Lions / Soul Riot (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=258&amp;cate_no=47&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=258&amp;cate_no=47&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 17:55:17 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201508/258_shop1_410545.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[루드페이퍼(Rudepaper) / Destroy Babylon (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=2432&amp;cate_no=47&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=2432&amp;cate_no=47&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 17:55:17 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201512/2432_shop1_149068.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Augustus Pablo / East Of The River Nile (US Import CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=6611&amp;cate_no=47&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=6611&amp;cate_no=47&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 17:55:17 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201703/6611_shop1_114288.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bob Marley & The Wailers / Exodus - 40 The Movement Continues [2CD] 40주년 기념 에디션]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=7536&amp;cate_no=47&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=7536&amp;cate_no=47&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 17:55:17 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201706/7536_shop1_619271.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Black Uhuru / Red (Remastered CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=8596&amp;cate_no=47&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=8596&amp;cate_no=47&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 17:55:17 GMT</pubDate>
+            <content:encoded><![CDATA[11,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201710/8596_shop1_528769.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Serge Gainsbourg / Aux Armes Et Caetera (CD) *추석할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=9203&amp;cate_no=47&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=9203&amp;cate_no=47&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 17:55:17 GMT</pubDate>
+            <content:encoded><![CDATA[12,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201702/6319_shop1_603450.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bob Marley & The Wailers / Legend (CD+Bonus Tracks) (EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=9603&amp;cate_no=47&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=9603&amp;cate_no=47&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 17:55:17 GMT</pubDate>
+            <content:encoded><![CDATA[12,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201908/d7e8e1500b650151452a496402b90ba4.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hollie Cook / Vessel of Love (CD) *추석할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=9808&amp;cate_no=47&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=9808&amp;cate_no=47&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 17:55:17 GMT</pubDate>
+            <content:encoded><![CDATA[11,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201801/9798_shop1_562740.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Specials / The Specials (Remastered CD, US Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=10141&amp;cate_no=47&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=10141&amp;cate_no=47&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 17:55:17 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201802/10141_shop1_437100.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Skints / Swimming Lessons (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=13396&amp;cate_no=47&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=13396&amp;cate_no=47&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 17:55:17 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201908/e8eea6ad67d9ad29e3534fb0b7c30fec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stevie Wonder / The Definitive Collection (2CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19776&amp;cate_no=47&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19776&amp;cate_no=47&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Oct 2022 17:55:17 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/13367813f1d51a2d337faf4f85f65614.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
