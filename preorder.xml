@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gimbabrecords.com/product/list.html?cate_no=42</id>
-    <title>김밥레코즈 ─ Pre-Order</title>
-    <updated>2022-10-14T06:35:58.891Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>김밥레코즈 ─ Pre-Order</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 14 Oct 2022 17:56:16 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arctic Monkeys / The Car (Cassette) *예약상품 (10월 21일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20374&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20374&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Oct 2022 17:54:43 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/71aab3d80ddd8cdd4510ec371922ba39.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arctic Monkeys / The Car (CD, Digipak) *예약상품 (10월 21일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20372&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20372&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Oct 2022 17:54:43 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/886e8e6a6f8e538d0ab22ca898cee8df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arctic Monkeys / The Car (Black Vinyl, Standard Edition) *예약상품 (10월 21일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20371&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20371&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Oct 2022 17:54:43 GMT</pubDate>
+            <content:encoded><![CDATA[39,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/a6c79f069c9e3f28d79fad2455efb6ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arctic Monkeys / The Car (Limited Custard Yellow Vinyl, Indie Exclusive, Deluxe Edition) *예약상품 (10월 21일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20370&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20370&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Oct 2022 17:54:43 GMT</pubDate>
+            <content:encoded><![CDATA[40,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/0431abed43a32ade5c94f212fdd22379.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chet Baker / Sings Again (Limited Colored Vinyl, 1,500매 한정반, Aquamarine 청록색 바이닐) *예약상품 (12월 9일 이후 배송 시작)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20358&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20358&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Oct 2022 17:54:43 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/dcb697b4195f0625e67966f5a4e11ca4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[베이빌론 / EGO 90’S (2LP, 180g Black Vinyl) *예약상품 (8월 12일 주문 마감, 23년 1월 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19640&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19640&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Oct 2022 17:54:43 GMT</pubDate>
+            <content:encoded><![CDATA[56,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/b28929f09c4a2712c0c2bd5ace0adf03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Junko Yagami / Communication (Limited Purple Vinyl) *예약상품 (2023년 2월 10일경 배송 시작)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20343&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20343&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Oct 2022 17:54:43 GMT</pubDate>
+            <content:encoded><![CDATA[52,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/ba4dcb8222998fe7abed8bf804458f7c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김동률 / 1집 The Shadow Of Forgetfulness (White Colored Vinyl) *예약상품 (10월 18일경 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19484&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19484&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Oct 2022 17:54:43 GMT</pubDate>
+            <content:encoded><![CDATA[52,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/b589cfc845329c967c5891d5d6ef03ef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산울림 / 3집 내 마음 (180g Black Vinyl, 2,500장 넘버링 한정반) *예약상품 (10월 20일 발매 예정) / 1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20321&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20321&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Oct 2022 17:54:43 GMT</pubDate>
+            <content:encoded><![CDATA[46,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/5d9edcbd5d9cb310e7eb3ad1739cc677.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산울림 / 1집 아니 벌써 (180g Black Vinyl, 2,500장 넘버링 한정반) *예약상품 (10월 20일 발매 예정) / 1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20319&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20319&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Oct 2022 17:54:43 GMT</pubDate>
+            <content:encoded><![CDATA[46,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/af1994738d6774db3c04c5a30fcdd966.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산울림 / 2집 내 마음에 주단을 깔고 (180g Black Vinyl, 2,500장 넘버링 한정반) *예약상품 (11월 22일 발매 예정) / 1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20320&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20320&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Oct 2022 17:54:43 GMT</pubDate>
+            <content:encoded><![CDATA[46,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/e5d25fb8f0212bf73a5dd87f0f47ad2e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이문세 / 2집 (Vinyl) *예약상품 (2023년 2월 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20252&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20252&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Oct 2022 17:54:43 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/e6729e77250007fa56916d29becb8c9b.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
