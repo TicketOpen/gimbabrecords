@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Oct 2022 17:56:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Oct 2022 06:05:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[양희은 / 보고 싶은 마음, 빗속을 둘이서 (aka 차돌이 내몸) (Vinyl, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20376&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20376&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 15 Oct 2022 06:03:35 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/dc0389d482a2258cb80f875307b966b3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이문세 / 1집 (Vinyl, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20375&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20375&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 15 Oct 2022 06:03:35 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/af6dc6ce0d402b897423dba26db713e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Arctic Monkeys / The Car (Black Vinyl, Standard Edition) *예약상품 (10월 21일 발매)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20371&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 14 Oct 2022 06:33:56 GMT</pubDate>
             <content:encoded><![CDATA[43,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/9c8fa7c9028b2806f534cd2c8f42cc66.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Makaya McCraven / In These Times (Vinyl) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20361&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20361&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 14 Oct 2022 06:33:56 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/e648c8c867f261eaa055f8f402e318e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Haruomi Hosono 호소노 하루오미 / Hosono House (US Pressing, Translucent Pink Glass Vinyl + OBI)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20360&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20360&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 14 Oct 2022 06:33:56 GMT</pubDate>
-            <content:encoded><![CDATA[57,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/7ec40ac6910c0d715b06eccb812ec2e4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
