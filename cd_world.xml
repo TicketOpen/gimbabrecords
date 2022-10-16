@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gimbabrecords.com/product/list.html?cate_no=79</id>
-    <title>김밥레코즈 ─ CD ─ World</title>
-    <updated>2022-10-15T17:51:59.130Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>김밥레코즈 ─ CD ─ World</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 16 Oct 2022 06:02:29 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Matt Bianco / Whose Side Are You On (Deluxe 2CD Edition, Jewel Case)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20331&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20331&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Sun, 16 Oct 2022 06:02:02 GMT</pubDate>
+            <content:encoded><![CDATA[26,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/7f33e7dfafe2559485c99bf1440511de.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Paco de Lucia / 5 Original Albums (5CD Boxset)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20293&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20293&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Sun, 16 Oct 2022 06:02:02 GMT</pubDate>
+            <content:encoded><![CDATA[19,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/921cb47457697aa77710738554a3f39e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Σtella (Stella) / Up And Away (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20075&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20075&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Sun, 16 Oct 2022 06:02:02 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/3930931def80aa554d4d846ee2faeef8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dulce Pontes / O Primeiro Canto (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20041&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20041&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Sun, 16 Oct 2022 06:02:02 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/6871c4ec411a06091d2f0b3ae915fce4.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marisa Monte / Portas (CD, EU Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19960&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19960&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Sun, 16 Oct 2022 06:02:02 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/800c152888a6f002376a311acee2fc5e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marcos Valle / Vento Sul (CD, Brasil Collection, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19955&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19955&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Sun, 16 Oct 2022 06:02:02 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/e3316e4249d50b67956bcde3bab3347f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marcos Valle / Previsao Do Tempo (CD, Brasil Collection, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19954&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19954&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Sun, 16 Oct 2022 06:02:02 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/88d8bb6761ebdfafae25c504abb2ecb2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joao Gilberto / Amoroso (CD + OBI, Brazil Superstar Series, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19953&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19953&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Sun, 16 Oct 2022 06:02:02 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/ca1e5274fe4b12cb44688d948c333a25.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Astrud Gilberto / I Haven't Got Anything Better To Do (CD, Limited Edition w/ OBI, 브라질 비장의 명반 시리즈, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19952&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19952&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Sun, 16 Oct 2022 06:02:02 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/ee44b253cf7755926863977d3cdd9cd4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Victor Assis Brasil / Trajeto (CD, Limited Edition) *Brasilian Music Love Affair 시리즈]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19426&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19426&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Sun, 16 Oct 2022 06:02:02 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/de4990ddcacfb32fa637109b9547129e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Orquestra Los Danseros (Deodato) / Los Danseros En Bolero (CD, Limited Edition) *Brasilian Music Love Affair 시리즈]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19425&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19425&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Sun, 16 Oct 2022 06:02:02 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a62537090133aa64404cbdd2b89a03c6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Samba Trio / Samba Pra Frente (CD, Limited Edition) *Brasilian Music Love Affair 시리즈]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19424&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19424&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Sun, 16 Oct 2022 06:02:02 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/93311e4856747dac06cc5acacd32f4b3.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
