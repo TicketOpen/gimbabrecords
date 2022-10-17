@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gimbabrecords.com/product/list.html?cate_no=45</id>
-    <title>김밥레코즈 ─ CD ─ Hip Hop</title>
-    <updated>2022-10-16T17:52:44.292Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>김밥레코즈 ─ CD ─ Hip Hop</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 17 Oct 2022 06:39:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Eminem / Music To Be Murdered By (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20258&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20258&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Mon, 17 Oct 2022 06:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/b6c36bf664080088ae94a30f958318f7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eminem / Marshall Matters LP (2CD, Limited Edition) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19993&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19993&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Mon, 17 Oct 2022 06:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/7354d001f4c3fd431332e915bd2e3463.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dr. Dre / Compton (A Soundtrack By Dr. Dre) (CD, EU Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19992&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19992&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Mon, 17 Oct 2022 06:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201509/933_shop1_262327.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Juice WRLD / Death Race For Love (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19877&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19877&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Mon, 17 Oct 2022 06:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/b09dd5356c704120f97e5335197290c1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kendrick Lamar / Mr.Morale & The Big Steppers (CD, 국내반)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19696&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19696&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Mon, 17 Oct 2022 06:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[14,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a80a8decc809ee2782a2704a28f224e1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eazy-E / Eternal E: Best Of (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19478&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19478&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Mon, 17 Oct 2022 06:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/67cd114f549c8c205b8b9a522f972468.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PJ Morton / Watch The Sun (CD, EU import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19363&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19363&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Mon, 17 Oct 2022 06:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/c418bf7ab8a045e9fac186b7eb3758cc.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Notorious B.I.G. / Duets: The Final Chapter (CD, EU import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19152&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19152&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Mon, 17 Oct 2022 06:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/38b5a949f96cebd32b802e60485acefc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gang Starr / One of the Best Yet (CD, Digipak, EU import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19128&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19128&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Mon, 17 Oct 2022 06:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/157759d19782fa69ad06a16e1f446c1d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Logic / No Pressure (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18766&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18766&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Mon, 17 Oct 2022 06:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/61037edcca443671da808874a8101e27.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[XXXTentacion / Bad Vibes Forever (CD, US Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18664&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18664&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Mon, 17 Oct 2022 06:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/ef8ebfa82219847f06e3d0ebda6902be.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[6LACK / East Atlanta Love Letter (CD, EU Import) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18563&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18563&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Mon, 17 Oct 2022 06:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/a534d1ee43a50596fdd439ad092811a3.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
