@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gimbabrecords.com/product/list.html?cate_no=43</id>
-    <title>김밥레코즈 ─ Bargain Bin</title>
-    <updated>2022-10-17T18:08:45.239Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>김밥레코즈 ─ Bargain Bin</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 18 Oct 2022 06:42:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김정미 / 최신가요집 (1집) + 간다고 하지마오 (2집, 컴필레이션) + 바람 (3집) (일본에서 제작된 3장의 컬러바이닐 한정수량 묶음판매, Limited Edition) *할인판매]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18942&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18942&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Oct 2022 06:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[114,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/41b1b8b23dc76855a12fc656a0e9f504.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Michael Buble / To Be Loved (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18728&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18728&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Oct 2022 06:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/7b1bc6070890df1440939c4e8f40ef88.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bruce Springsteen / Born to Run - 30th Anniversary Edition (2DVD + CD - DVD는 Pal 방식) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17383&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17383&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Oct 2022 06:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202109/9d93a24e595df987137186c2aa4d72f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Leon Vynehall / DJ Kicks (CD, EU Import) *2020 추석할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15721&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15721&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Oct 2022 06:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202011/6cce8672e7daa269c93cf7281cdac625.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lana Del Rey / Norman F*cking Rockwell! (NFR!) (CD, EU Import) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15720&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15720&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Oct 2022 06:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201910/454379f60840ee787866f3061129f51e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mount Kimbie / DJ Kicks (CD, EU Import) *2020 추석할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15719&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15719&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Oct 2022 06:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202011/1dde761e0f17aa5fe92b6d1a8792fdcc.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kamaal Williams / DJ Kicks (CD, EU Import) *2020 추석할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15714&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15714&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Oct 2022 06:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[13,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/20200116/e82866f62238f9002802e651bae8b5ed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Burt Bacharach / The Best Of Burt Bacharach: Anyone Who Had A Heart (2CD, EU Import) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15710&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15710&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Oct 2022 06:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202011/b92de8302523a0c9dc7fc0148891c9b6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Frisell	/ Harmony (CD, EU Import) *2020 추석할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15709&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15709&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Oct 2022 06:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/20200113/9dff1b953a32fe1ac92401ad76077683.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teenage Fanclub / Songs From Northern Britain (CD, Music On CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15698&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15698&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Oct 2022 06:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/20200622/b0f32fca28e44559de8c66a28b28354d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST / Love Actually 러브 액추얼리 (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15693&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15693&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Oct 2022 06:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201712/9361_shop1_252122.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST / Reservoir Dogs 저수지의 개들 (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15692&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15692&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Oct 2022 06:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201610/5545_shop1_904700.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
