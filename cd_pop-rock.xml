@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gimbabrecords.com/product/list.html?cate_no=30</id>
-    <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
-    <updated>2022-10-20T18:07:27.729Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 21 Oct 2022 06:07:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Frank Zappa / Sheik Yerbouti (CD, 2012 Reissue) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20445&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20445&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 21 Oct 2022 06:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/2172fb20fb39fc52c535369f135bd61e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Coldplay / Live 2012 (CD + DVD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20444&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20444&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 21 Oct 2022 06:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[13,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/24fd71a33e91c90766a522f17b58d3c1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wishbone Ash / Argus (CD, Expanded Edition) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20443&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20443&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 21 Oct 2022 06:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/1fbd3c11c75eb1d25cba8f1b9071ff11.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Who / Tommy (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20442&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20442&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 21 Oct 2022 06:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/35f04341fa308a7cf6138c714f3c0698.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Skagarack / Hungry For A Game (CD, EU Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20441&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20441&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 21 Oct 2022 06:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[24,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/d795082c087bfd7f7e92e47a895e170c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eric Clapton, Cream and Derek & The Dominos / The Cream Of Clapton (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20439&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20439&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 21 Oct 2022 06:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/2d324dfd3e5ff97b2ec8c8c20da7e5c8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Broken Social Scene / Old Dead Young (B-sides & Rarities) (CD, gatefold sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20438&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20438&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 21 Oct 2022 06:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/05f76057e4b5d091de5cb9ff525716e8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bjork / Fossora (Deluxe CD + Hardbound 20p Book)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20437&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20437&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 21 Oct 2022 06:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[29,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/fc34a41438fed9ae0387fae0bd9e3a9b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AC/DC / Back In Black (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20407&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20407&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 21 Oct 2022 06:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201508/446_shop1_818820.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The A's / Fruit (CD, gate-fold sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20383&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20383&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 21 Oct 2022 06:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/7f9bc6ce02ea2a3d00f89db2626c790e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Glen Hansard / Rhythm And Repose (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20381&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20381&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 21 Oct 2022 06:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/776a0c0475b8a6f2115ab842842be93b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Talk Talk / It's My Life (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20380&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20380&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 21 Oct 2022 06:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/075caba4371a8d373e6746c87bc6324c.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
