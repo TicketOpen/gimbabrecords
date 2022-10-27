@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gimbabrecords.com/product/list.html?cate_no=31</id>
-    <title>김밥레코즈 ─ CD ─ Electronic/Dance</title>
-    <updated>2022-10-27T05:48:42.015Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>김밥레코즈 ─ CD ─ Electronic/Dance</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 27 Oct 2022 17:48:38 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Calvin Harris / Funk Wav Bounces Vol. 2 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20325&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20325&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Thu, 27 Oct 2022 17:47:30 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/be55f038d3e12cdc028d44538c2e0e94.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ODESZA / The Last Goodbye (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20074&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20074&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Thu, 27 Oct 2022 17:47:30 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/eab07197a73b10f4fe8a0ba8fee0f32f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gorillaz / G Sides (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20036&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20036&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Thu, 27 Oct 2022 17:47:30 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/44267ddaf269e277792ca1ddcaafd275.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arca / KiCk i (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19874&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19874&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Thu, 27 Oct 2022 17:47:30 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/1be1d0dba86d418c924703c8d9ee9e6e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Polo & Pan / Cyclorama (CD, EU import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19359&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19359&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Thu, 27 Oct 2022 17:47:30 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/0fcb525c5c3cf90a292058a38ee25305.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flume / Palaces (Deluxe CD, 디지팩 / 2곡의 보너스트랙 추가, UK Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19320&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19320&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Thu, 27 Oct 2022 17:47:31 GMT</pubDate>
+            <content:encoded><![CDATA[27,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/0b85b5a795edaef9731d71b55cc3e76a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beverly Glenn-Copeland / Keyboard Fantasies Reimagined (CD, Digi-sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19136&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19136&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Thu, 27 Oct 2022 17:47:31 GMT</pubDate>
+            <content:encoded><![CDATA[21,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/bc8f9cdc64d63712b4f515a5a4c07fea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fripp & Eno (Robert Fripp & Brian Eno) / Evening Star (CD, Digipak, Remastered) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18947&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18947&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Thu, 27 Oct 2022 17:47:31 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/3d30afe6cf9cde4f75a785f0ec48f5e4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Caribou / Up In Flames (Special Edition 2CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18869&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18869&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Thu, 27 Oct 2022 17:47:31 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/3fb253080452023547094f0945bcd5c6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arthur Russell / Another Thought (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18723&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18723&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Thu, 27 Oct 2022 17:47:31 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/a9e02d8535a2293f44018684002da5bd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jon Hopkins / Piano Versions (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18690&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18690&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Thu, 27 Oct 2022 17:47:31 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/730a3173d9d2d2615fd8ebe94ca6a204.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[CLAP! CLAP! / Tayi Bebba (CD, Limited Edition, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18167&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18167&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Thu, 27 Oct 2022 17:47:31 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/7a21e27b55a08bd9d21fa434f56b274e.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
