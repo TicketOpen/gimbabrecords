@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gimbabrecords.com/product/list.html?cate_no=25</id>
-    <title>김밥레코즈 ─ Vinyl</title>
-    <updated>2022-10-29T17:43:23.966Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>김밥레코즈 ─ Vinyl</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 30 Oct 2022 05:46:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HWABUN 화분 / FLOR DE PRIMAVERA (180g Green w/ Yellow Splatter Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20494&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20494&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 30 Oct 2022 05:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/b34badc3d1a06ce40f34facf7f2e1e6c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[펄 시스터즈 (Pearl Sisters, 펄시스터즈) / 펄씨스터즈 스테레오 힛트앨범 - 님아 (180g Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20493&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20493&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 30 Oct 2022 05:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/d3c3bfb1d740a013cee34b299a03b24b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[허림 / 허림 노래모음 - 별이야기 (180g Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20492&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20492&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 30 Oct 2022 05:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/990adad35c80fb6684dbd68bc8eafadd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pusha T / It's Almost Dry (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20491&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20491&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 30 Oct 2022 05:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[37,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/ac613ddcf19d77146314b605a1134cc8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oh Wonder / 22 Make (Vinyl, Limited Edition) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20490&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20490&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 30 Oct 2022 05:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[43,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/84c24f483c1b83ccad3a73ca1f75dc35.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Amine / TwoPointFive (Clear Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20489&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20489&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 30 Oct 2022 05:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[40,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/320107fc231bed567669950d1f190a50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rina Sawayama / Hold The Girl (Red Splatter Vinyl, Indie Exclusive)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20488&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20488&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 30 Oct 2022 05:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[37,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/db46ddfa1f13403f42da23e65b77f5e3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Makaya McCraven / In These Times (White Vinyl, Indie Exclusive) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20487&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20487&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 30 Oct 2022 05:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[40,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/e648c8c867f261eaa055f8f402e318e2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pixies / Doggerel (Red Vinyl, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20486&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20486&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 30 Oct 2022 05:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[43,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/e89d1fb9faadbfff923bbae041ebdc5a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[D'Angelo / Voodoo (180g 2LP + Download, Single Jacket, EU Pressing) *할인상품 (작은 눌림이 있습니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20485&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20485&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 30 Oct 2022 05:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[43,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201509/991_shop1_346708.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alvvays / Blue Rev (Opaque Turquoise Vinyl, Limited Edition, UK Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20484&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20484&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 30 Oct 2022 05:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[43,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/b1b487c62c9c2b115610b34b6879a23c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조용필 / 19집 HELLO (140g 골드 컬러 Vinyl) *1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20478&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20478&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 30 Oct 2022 05:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[46,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/7db2c81c56d5511980e9357c5bf9e2d4.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
