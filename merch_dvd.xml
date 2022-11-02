@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gimbabrecords.com/product/list.html?cate_no=64</id>
-    <title>김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray</title>
-    <updated>2022-11-02T06:00:14.459Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 02 Nov 2022 17:56:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Coldplay / Live 2012 (CD + DVD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20444&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20444&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Wed, 02 Nov 2022 17:56:36 GMT</pubDate>
+            <content:encoded><![CDATA[13,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/24fd71a33e91c90766a522f17b58d3c1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peanuts Deluxe Holiday Collection (Ultimate Collector's Edition) (Blu-ray + DVD Pack + Snowglobe & Window Clings)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20059&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20059&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Wed, 02 Nov 2022 17:56:36 GMT</pubDate>
+            <content:encoded><![CDATA[104,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/7eda5f140ebdb9747a4f13b48e24a2ed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marvin Gaye / Live In Montreux 1980 (DVD, PAL 방식) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20019&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20019&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Wed, 02 Nov 2022 17:56:36 GMT</pubDate>
+            <content:encoded><![CDATA[16,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/5e0181b7ec47fa7b3714add4e2420302.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Queen / Live At Wembley Stadium (2 DVD Set, 25th Anniversary Edition) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19757&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19757&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Wed, 02 Nov 2022 17:56:36 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/773453bdc9d80e040b4ec94788924c5c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tool / Opiate² (Blu-ray + 46p Hardcover Art Book)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18681&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18681&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Wed, 02 Nov 2022 17:56:36 GMT</pubDate>
+            <content:encoded><![CDATA[52,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/8d56d378cf50f231a771a15ec7647ae7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peanuts Holiday Anniversary Collection (Charlie Brown Christmas 포함) 찰리 브라운 크리스마스 등 피너츠 3대 클래식을 모두 모은 "홀리데이 컬렉션" (Blu-ray, US IMPORT)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17872&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17872&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Wed, 02 Nov 2022 17:56:36 GMT</pubDate>
+            <content:encoded><![CDATA[54,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/af55d515ac543ce5661af02657b9ca5a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oasis / Knebworth 1996 (Blu-Ray)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17746&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17746&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Wed, 02 Nov 2022 17:56:36 GMT</pubDate>
+            <content:encoded><![CDATA[31,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/f7fe6517216a714a4d5560ab439f3d80.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[미인 (Blu-Ray, 신중현과 엽전들 주연, 1,500매 한정반, 서울레코드페어 기획) (아웃박스 + 50페이지 컬러 책자 + 엽서 5종)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=11263&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=11263&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Wed, 02 Nov 2022 17:56:36 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201807/11263_shop1_15306235695299.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[John Coltrane / Chasing Trane: The John Coltrane Documentary (DVD, 영어자막 포함)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=9628&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=9628&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Wed, 02 Nov 2022 17:56:36 GMT</pubDate>
+            <content:encoded><![CDATA[17,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201801/9628_shop1_867671.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arcade Fire / Reflektor Tapes + Live At Earls Court (2DVD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=6380&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=6380&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Wed, 02 Nov 2022 17:56:36 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201702/6380_shop1_808423.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[U2 / INNOCENCE + EXPERIENCE LIVE IN PARIS (DELUXE EDITION) (2DVD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=4529&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=4529&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Wed, 02 Nov 2022 17:56:36 GMT</pubDate>
+            <content:encoded><![CDATA[27,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201607/4529_shop1_208466.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[B.B. King / Live At Montreux 1993 (DVD, NTSC Version) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20017&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20017&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Wed, 02 Nov 2022 17:56:36 GMT</pubDate>
+            <content:encoded><![CDATA[16,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/0523a093919d19ab88bdcdc0b3ed7fc2.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
