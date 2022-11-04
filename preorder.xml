@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Nov 2022 05:44:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Nov 2022 17:43:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신중현과 엽전들 / 1집 (180g Vinyl, 2000장 한정반) *예약상품 (12월 21일 발매 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20385&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20385&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 03 Nov 2022 17:43:06 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/bcafd08cc7fe11b0f4f920f638ea6f36.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[임시링크]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20510&amp;cate_no=42&amp;display_group=1</link>
@@ -54,22 +62,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/4dbfee890a7d89015314209cc3be04e4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Howard Blake / The Snowman 스노우맨 사운드트랙 + 스토리 (Limited Edition White Vinyl, 2LP)  *예약상품 (11월초 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17830&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17830&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 03 Nov 2022 17:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/3f5c69926d4a260238a4d8e7ab9cf54d.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신중현과 엽전들 / 1집 (180g Vinyl, 2000장 한정반) *예약상품 (12월 21일 발매 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20385&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20385&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 03 Nov 2022 17:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/bcafd08cc7fe11b0f4f920f638ea6f36.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[신중현과 엽전들 / 2집 산아 강아, 뭉치자 (180g Vinyl, 2000장 한정반) *예약상품 (12월 21일 발매 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20386&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20386&amp;cate_no=42&amp;display_group=1</guid>
@@ -100,6 +92,14 @@
             <pubDate>Thu, 03 Nov 2022 17:43:06 GMT</pubDate>
             <content:encoded><![CDATA[52,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/ba4dcb8222998fe7abed8bf804458f7c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Various Artists) / 슬기로운 의사생활 OST 시즌2 (2LP) *예약상품 (12월 21일경 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18346&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18346&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 04 Nov 2022 17:42:18 GMT</pubDate>
+            <content:encoded><![CDATA[74,100원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/52bd46809d9b3cf1884973c2b6228b09.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

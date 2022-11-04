@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Nov 2022 05:44:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Nov 2022 17:43:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Serge Gainsbourg / Initials SG (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20527&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20527&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Fri, 04 Nov 2022 17:43:28 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/698eb5d3f174a98f72ad2e407b4afafc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Matt Bianco / Whose Side Are You On (Deluxe 2CD Edition, Jewel Case)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20331&amp;cate_no=79&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 03 Nov 2022 05:42:58 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a62537090133aa64404cbdd2b89a03c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Samba Trio / Samba Pra Frente (CD, Limited Edition) *Brasilian Music Love Affair 시리즈]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19424&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19424&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Thu, 03 Nov 2022 05:42:58 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/93311e4856747dac06cc5acacd32f4b3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Nov 2022 05:44:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Nov 2022 17:43:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Say She She / Prism (CD, gatefold sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20534&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20534&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 04 Nov 2022 17:42:53 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/a711455aaf34ccf7b33c095883055155.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[El Michels Affair / Yeti Season (CD + 6 bonus tracks, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20531&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20531&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 04 Nov 2022 17:42:53 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/c1f9b271d7ea8cfb5833bfe9ec525137.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[El Michels Affair / Return To The 37th Chamber (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20530&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20530&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 04 Nov 2022 17:42:53 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/73c0ddd1970a02e7e7d5729685f454ec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Janet Jackson / The Best (2CD, EU Import) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20497&amp;cate_no=44&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Mon, 31 Oct 2022 17:58:36 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/831dd462339b068e3aea9f9162d5b894.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dennis Edwards / Don`t Look Any Further (CD+OBI, THROWBACK SOUL 시리즈)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20394&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20394&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Mon, 31 Oct 2022 17:58:36 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/282156887d6579ccde3a80f245392fe6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jeffrey Osborne / Stay With Me Tonight (CD + OBI, THROWBACK SOUL 시리즈)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20393&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20393&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Mon, 31 Oct 2022 17:58:36 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/a7c55c2d4e62bf02364b92bdaac51efb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[El Debarge / El Debarge (CD+OBI, THROWBACK SOUL 시리즈)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20392&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20392&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Mon, 31 Oct 2022 17:58:36 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/120ff68212e8d877fb9966c6ff34be60.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
