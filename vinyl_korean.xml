@@ -4,15 +4,16 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Nov 2022 05:47:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2022 17:50:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[임시링크]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20509&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20509&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Mon, 07 Nov 2022 05:47:45 GMT</pubDate>
-            <enclosure url="http://img.echosting.cafe24.com/thumb/img_product_medium.gif" length="0" type="image/gif"/>
+            <title><![CDATA[Paper River 페이퍼리버 / Why Why (140g Black Vinyl) *예약상품 (11월 11일 발송 예정) / 별도의 입금 기한 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20547&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20547&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Nov 2022 17:50:07 GMT</pubDate>
+            <content:encoded><![CDATA[40,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/725f6ef50e8fe1c131ab1b75a26317a1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김현식 / Vol.6 (180g Black Vinyl, 한정반)]]></title>
