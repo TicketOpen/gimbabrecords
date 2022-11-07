@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gimbabrecords.com/product/list.html?cate_no=44</id>
-    <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
-    <updated>2022-11-06T17:40:36.873Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 07 Nov 2022 05:47:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Say She She / Prism (CD, gatefold sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20534&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20534&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Nov 2022 05:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/a711455aaf34ccf7b33c095883055155.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[El Michels Affair / Yeti Season (CD + 6 bonus tracks, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20531&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20531&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Nov 2022 05:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/c1f9b271d7ea8cfb5833bfe9ec525137.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[El Michels Affair / Return To The 37th Chamber (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20530&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20530&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Nov 2022 05:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/73c0ddd1970a02e7e7d5729685f454ec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Janet Jackson / The Best (2CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20497&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20497&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Nov 2022 05:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/6965eb5515a10b820bd1c1997296a258.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jody Watley / Jody Watley (CD + OBI, THROWBACK SOUL 시리즈)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20402&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20402&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Nov 2022 05:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/e079d016446de98caa0284a3d8e5100a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cherrelle / Affair (CD + OBI, THROWBACK SOUL 시리즈)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20401&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20401&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Nov 2022 05:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/a41034383b08521a4c72698cc355c9a1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ready For The World / Long Time Coming (CD + OBI, THROWBACK SOUL 시리즈)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20400&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20400&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Nov 2022 05:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/75e75a59d64998e059fa194e3a1478e0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Melba Moore / A Lot Of Love (CD + OBI, THROWBACK SOUL 시리즈)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20399&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20399&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Nov 2022 05:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/9a54df5c5c44fab9c2829a7a217a786c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The S.O.S Band / Just The Way You Like It (CD+OBI, THROWBACK SOUL 시리즈)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20398&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20398&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Nov 2022 05:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/a484351a65dcac4baa199d58159c83b8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The S.O.S Band / On The Rise (CD+OBI, THROWBACK SOUL 시리즈)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20397&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20397&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Nov 2022 05:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/ab154235894aeec98226597bbc87f058.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Freddie Jackson / Rock Me Tonight (CD+OBI, THROWBACK SOUL 시리즈)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20396&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20396&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Nov 2022 05:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/14865bca4331ebcdb49386ecb17b2b48.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tashan / Chasin' A Dream (CD + OBI, THROWBACK SOUL 시리즈)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20395&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20395&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Nov 2022 05:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/831dd462339b068e3aea9f9162d5b894.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
