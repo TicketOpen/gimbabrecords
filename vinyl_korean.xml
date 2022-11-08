@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Nov 2022 05:45:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Nov 2022 17:47:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김추자 / 무인도 (180g Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20548&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20548&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 08 Nov 2022 17:47:03 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/5f1de5155646020c8ef32a7c60d081a1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Paper River 페이퍼리버 / Why Why (140g Black Vinyl) *예약상품 (11월 11일 발송 예정) / 별도의 입금 기한 설정]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20547&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 07 Nov 2022 05:47:45 GMT</pubDate>
             <content:encoded><![CDATA[46,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/5cdd7426d2ae08f622e579ad34dc58e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼 / 1집 Principle Of My Soul (180g Black Vinyl, 10th Anniversary Edition) *예약상품 (23년 7월 27일 발매 / 22년 10월 26일 예약 마감)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20431&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20431&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Mon, 07 Nov 2022 05:47:45 GMT</pubDate>
-            <content:encoded><![CDATA[56,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/7f0fd9075ab24a66cb5792a93285163c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
