@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gimbabrecords.com/product/list.html?cate_no=25</id>
-    <title>김밥레코즈 ─ Vinyl</title>
-    <updated>2022-11-13T05:41:25.585Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>김밥레코즈 ─ Vinyl</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 13 Nov 2022 17:42:16 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Fresh Pepper / Fresh Pepper (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20598&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20598&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 13 Nov 2022 17:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/8238a973ec743e85a199be693cd6999b.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zapp / Zapp (Limited Numbered Purple Vinyl) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20597&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20597&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 13 Nov 2022 17:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/7589eea9653181317ef9013a04e65497.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sarah McLachlan / Surfacing (180g Vinyl) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20596&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20596&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 13 Nov 2022 17:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/023945289ab0472e28e1ad37658c0937.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Culture Club / Colour By Numbers (180g Vinyl) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20595&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20595&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 13 Nov 2022 17:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/61c72dc3265ea9762b7b8d48bca91b7f.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Culture Club / Kissing To Be Clever (180g Vinyl) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20594&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20594&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 13 Nov 2022 17:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/18cee39fd5c27e76fb974ab50ed2431c.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Captain Beefheart & His Magic Band / Safe As Milk (Vinyl, 2LP, 50th Anniversary Edition) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20593&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20593&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 13 Nov 2022 17:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/78bb774cbe1f21fc2feee3bdabb79d1c.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tony Bennett / Duets II (Vinyl, 2LP) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20592&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20592&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 13 Nov 2022 17:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[40,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/c4343aaceab58c26117b9f26b6b7a1b0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Binker Golding / Dream Like A Dogwood Wild Boy (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20591&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20591&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 13 Nov 2022 17:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/a5283603bd23cb446aeaea6e2bebf5c8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists (Coldplay, Queen, U2, Paul McCartney 등) / The Greatest Christmas Songs (Limited Snow White Vinyl, 2LP) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20590&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20590&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 13 Nov 2022 17:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[48,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/1c3be5b0f5157a5dd31712fc217c357c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kendrick Lamar / good kid, m.A.A.d city (Opaque Apple Red Vinyl, 10th Anniversary Edition, Limited)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20589&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20589&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 13 Nov 2022 17:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[51,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201511/2323_shop1_456399.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Steely Dan / Can't Buy A Thrill (Vinyl, 50th Anniversary Reissue) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20588&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20588&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 13 Nov 2022 17:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201610/5302_shop1_198213.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Talk Talk / Spirit Of Eden (LP + DVD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20587&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20587&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 13 Nov 2022 17:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[34,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201602/3165_shop1_642585.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
