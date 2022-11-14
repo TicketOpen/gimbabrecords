@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gimbabrecords.com/product/list.html?cate_no=29</id>
-    <title>김밥레코즈 ─ CD ─ Korean</title>
-    <updated>2022-11-14T05:45:58.345Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>김밥레코즈 ─ CD ─ Korean</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 14 Nov 2022 17:55:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김제형 / 띄 움 (CD, 7인치 사이즈 쟈켓)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20553&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20553&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 14 Nov 2022 17:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/420478517d2105a4a55d69c92cd3766e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버둥 / 3rd EP 너에게만 보여 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20544&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20544&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 14 Nov 2022 17:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[18,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/65ba91b96c7c162b056653992fabe665.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버둥 / 2nd EP 잡아라! (CD, 리패키지 에디션)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20543&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20543&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 14 Nov 2022 17:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/83f667d5e64d556604c3bbd7850582e4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버둥 / 1st EP 조용한 폭력 속에서 (CD, 리패키지 에디션)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20542&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20542&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 14 Nov 2022 17:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/22e53ebfed21574923eb480060a31f56.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신세하 Xin Seha / I Just Can't Control My Feet! (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20483&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20483&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 14 Nov 2022 17:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/a8ba15c25497d176ae36c02aa8d81be0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유라 / 미니앨범 GAUSSIAN (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20482&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20482&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 14 Nov 2022 17:53:36 GMT</pubDate>
+            <content:encoded><![CDATA[11,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/0b22a1f1fe615e4fde9367b96720512d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보이콜드 / DAFT LOVE (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20481&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20481&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 14 Nov 2022 17:53:36 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/a77cfabe0d33143e013b505fa4414711.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[릴러말즈 & TOIL / TOYSTORY3 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20480&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20480&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 14 Nov 2022 17:53:36 GMT</pubDate>
+            <content:encoded><![CDATA[16,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/85696522eeaf99aa76fea5031351c2b7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SMMT / 미니 1집 Mr. Hollywood (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20479&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20479&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 14 Nov 2022 17:53:36 GMT</pubDate>
+            <content:encoded><![CDATA[11,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/eac410db51a8a0d71e68bf0aaa2c8ea5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이사흘 / EP 볕과 그늘 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20411&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20411&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 14 Nov 2022 17:53:36 GMT</pubDate>
+            <content:encoded><![CDATA[11,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/f5817ba31d04852e19814d3a43783741.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[물과음 / 잠재적 초점 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20410&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20410&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 14 Nov 2022 17:53:36 GMT</pubDate>
+            <content:encoded><![CDATA[17,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/2b94011ede0a0dfb66d12f4065afe4f3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유해인, 이사라 / You & I (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20409&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20409&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 14 Nov 2022 17:53:36 GMT</pubDate>
+            <content:encoded><![CDATA[13,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/e4aa20c01e724348916cb42f6302e374.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
