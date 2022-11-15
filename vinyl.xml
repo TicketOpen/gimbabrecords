@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Nov 2022 05:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Nov 2022 17:41:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Tue, 15 Nov 2022 05:37:43 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/3861133ea8a3f2095d4f6ca929e90073.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Post Malone / Twelve Carat Toothache (CD) *한정수량 할인 / 구매시 상세설명을 꼭 참조하세요.]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20603&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20603&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 14 Nov 2022 17:52:59 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/9d6c9def5a44638652fa42369ff2bf1d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Marvin Gaye / Every Great Motown Hit Of Marvin Gaye: 15 Spectacular Performances (Vinyl)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Sun, 13 Nov 2022 17:40:30 GMT</pubDate>
             <content:encoded><![CDATA[39,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/78bb774cbe1f21fc2feee3bdabb79d1c.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tony Bennett / Duets II (Vinyl, 2LP) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20592&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20592&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 15 Nov 2022 17:39:24 GMT</pubDate>
+            <content:encoded><![CDATA[40,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/c4343aaceab58c26117b9f26b6b7a1b0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Nov 2022 05:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Nov 2022 17:41:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Madeleine Peyroux / Careless Love (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20614&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20614&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 15 Nov 2022 17:40:28 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202011/812eeeb9bbfb262865c2d79acd96c5cf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lee Ritenour / Earth Run (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20613&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20613&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 15 Nov 2022 17:40:28 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/a495530af5a06cf3d0454dbb1b48de8e.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Norah Jones / I Dream Of Christmas (CD, gatefold sleeve) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20604&amp;cate_no=46&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 15 Nov 2022 05:38:58 GMT</pubDate>
             <content:encoded><![CDATA[17,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/1a0bac8f56f588a35024e10f6d773a71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charles Lloyd / Trios: Ocean (CD, paper sleeve)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20413&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20413&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 15 Nov 2022 05:38:58 GMT</pubDate>
-            <content:encoded><![CDATA[17,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/5a3c1076cee2c9c70dc43bb71f837542.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thelonious Monk / Original Albums Classics (5CD Box) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20348&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20348&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 15 Nov 2022 05:38:58 GMT</pubDate>
-            <content:encoded><![CDATA[32,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/e70e404b78a85f89f379fdb5fbe14450.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
