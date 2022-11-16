@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gimbabrecords.com/product/list.html?cate_no=52</id>
-    <title>김밥레코즈 ─ Vinyl ─ Korean</title>
-    <updated>2022-11-16T05:46:25.311Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>김밥레코즈 ─ Vinyl ─ Korean</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:42:39 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최백호 / 다시 길 위에서 (180g Black Vinyl) *1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20654&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20654&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:33 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/79fba101be58f28c334b4dc47150d2b4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정미조 / 37년 (180g White Vinyl) *1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20653&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20653&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:33 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/a08ace5621c71b042a94970861b9656b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김일두 X 하헌진 / 34:03 (140g White Vinyl, 550장 넘버링 한정반) *1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20652&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20652&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:33 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/5f6e5dfc4c5ca348766cd6c59377ca63.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[eldon 엘던 / Do monsters love too? (180g Clear Vinyl, Limited to 500)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20608&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20608&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:33 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/52d9784875ad7a409f75e0fad7546e6e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에코브릿지 / COMPILATION (180g Vinyl + 4페이지 가사집, 한정반)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20607&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20607&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:33 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/3861133ea8a3f2095d4f6ca929e90073.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IDIOTAPE 이디오테잎 / 11111101 (Vinyl, 2LP, 11th Anniversary Edition) *1인 2매까지 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20577&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20577&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:33 GMT</pubDate>
+            <content:encoded><![CDATA[88,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/646b3008e335f36a560e0f9b3770a822.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[김추자 / 무인도 (180g Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20548&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20548&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:33 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/5f1de5155646020c8ef32a7c60d081a1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Paper River 페이퍼리버 / Why Why (140g Black Vinyl) *별도의 입금 기한 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20547&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20547&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:33 GMT</pubDate>
+            <content:encoded><![CDATA[40,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/725f6ef50e8fe1c131ab1b75a26317a1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[루시드폴 Lucid Fall / 정규 10집 목소리와 기타 (Yellow Vinyl + Download + Special Giveaway) *예약상품 (11월 17일 발매) / 1인 2매까지 구매 가능 / 별도의 입금기한 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20509&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20509&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:33 GMT</pubDate>
+            <content:encoded><![CDATA[55,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/134bee4895a7056c6ed3929f733aa461.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현식 / Vol.6 (180g Black Vinyl, 한정반)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20508&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20508&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:33 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/2eda06309e8fab1f2f528f4664be7c0e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현식 / Vol.6 (180g White Vinyl, 한정반)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20507&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20507&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:33 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/0ebd0fd6cc8295f5737867893353405c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HWABUN 화분 / FLOR DE PRIMAVERA (180g Green w/ Yellow Splatter Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20494&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20494&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:33 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/b34badc3d1a06ce40f34facf7f2e1e6c.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
