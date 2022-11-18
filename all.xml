@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 05:39:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 17:41:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모호 프로젝트 / Sauce, Kite, Lake (CD + 렌티큘러 카드) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20670&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20670&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 18 Nov 2022 17:39:22 GMT</pubDate>
+            <content:encoded><![CDATA[17,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/033644ec8e983e430c35c6abf4bfa620.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠비나이 / EP 발현(發顯/apparition) (CD, Digipak) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20669&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20669&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 18 Nov 2022 17:39:22 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/298d719eb83cf0a83a730d7485528826.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Joji / Smithereens (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20648&amp;cate_no=24&amp;display_group=1</link>
@@ -88,20 +104,52 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201511/2217_shop1_818252.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[The 1975 / Being Funny In A Foreign Language (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20620&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20620&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:40:45 GMT</pubDate>
-            <content:encoded><![CDATA[21,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/2026d9f0e5086635abb121ac8594139e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김현철 / Best (180g Transparent Orange Vinyl) *1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20674&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20674&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 18 Nov 2022 17:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/29701de2523db83de89bcb8233631fcd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sylvan Esso / Free Love (CD, gatefold sleeve) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20619&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20619&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:40:45 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/1b55800fe4efb97ade657e8b4a140b82.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Simon & Garfunkel / Greatest Hits (Turquoise 청록색 Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20673&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20673&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 18 Nov 2022 17:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201805/10876_shop1_915405.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The White Stripes / The White Stripes (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20672&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20672&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 18 Nov 2022 17:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/3d79db34df52a18fcdb003cf75a4ce6b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The White Stripes / De Stijl (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20671&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20671&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 18 Nov 2022 17:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201803/10271_shop1_121149.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / Now That's What I Call Christmas (Red Vinyl, 3LP) *추가 할인상품 (쟈켓 모서리에 구김 혹은 주름 자국이 있습니다. 상세설명을 참조하세요.) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20668&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20668&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 18 Nov 2022 17:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[43,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/e3d549239ec1612c9a2dbe0b719e6e34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / Now That's What I Call Christmas (Red Vinyl, 3LP) *할인상품 (작은 모서리 눌림 OR 주름이 있습니다. 상세설명을 참조하세요.) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20667&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20667&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 18 Nov 2022 17:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/e3d549239ec1612c9a2dbe0b719e6e34.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ezra Collective / Where I'm Meant To Be (Orange Vinyl, 2LP, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
@@ -144,60 +192,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/d6ce17030f531ac49468e1f836044f92.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Shigeru Umebayashi  (연주 - Brussels Philharmonic, 지휘 - Dirk Brosse) / Music For Films (White Vinyl, 2LP) *구매시 유의사항을 확인하세요. (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20660&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20660&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 17 Nov 2022 17:39:18 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/f490e2a731ab1034827d921f07ea083a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Black Crowes / The Southern Harmony And Musical Companion (Vinyl, 2LP, Remastered) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20659&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20659&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 17 Nov 2022 17:39:18 GMT</pubDate>
-            <content:encoded><![CDATA[33,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/401c2cb3859c8f9abc20cd185e3dbca4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jamiroquai / Dynamite (Vinyl, 2LP) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20658&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20658&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 17 Nov 2022 17:39:18 GMT</pubDate>
-            <content:encoded><![CDATA[43,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/eef0472e9c907b89b0f50900e538067e.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Suede / Autofiction (Black Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20657&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20657&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 17 Nov 2022 17:39:18 GMT</pubDate>
-            <content:encoded><![CDATA[43,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/b94d8ea05fc64bf79255236a569fe841.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Greg Lake / I Believe In Father Christmas (10" Transparent Red Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20656&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20656&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 17 Nov 2022 17:39:18 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/0c9db233078e103c2555451f566a16d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kanye West / Ye (Vinyl) *추가 할인상품 (모서리에 눌림이 있습니다. 상세설명을 참조하세요.) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20655&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20655&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 17 Nov 2022 17:39:18 GMT</pubDate>
-            <content:encoded><![CDATA[36,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201808/584eacef79841a072b876c8f94d79bf3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[최백호 / 다시 길 위에서 (180g Black Vinyl) *1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20654&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20654&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/79fba101be58f28c334b4dc47150d2b4.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Ryuichi Sakamoto (연주 - Brussels Philharmonic, 지휘 - Dirk Brosse) / Music For Films (Transparent Red + Black Splatter Vinyl, 2LP) *구매시 유의사항을 확인하세요. (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20661&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20661&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 18 Nov 2022 17:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[52,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/9668008e47e575d0ad4775ae36c014cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Joji / Smithereens (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -584,6 +584,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201610/5545_shop1_904700.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[모호 프로젝트 / Sauce, Kite, Lake (CD + 렌티큘러 카드) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20670&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20670&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Fri, 18 Nov 2022 17:40:02 GMT</pubDate>
+            <content:encoded><![CDATA[17,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/033644ec8e983e430c35c6abf4bfa620.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠비나이 / EP 발현(發顯/apparition) (CD, Digipak) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20669&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20669&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Fri, 18 Nov 2022 17:40:02 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/298d719eb83cf0a83a730d7485528826.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김제형 / 띄 움 (CD, 7인치 사이즈 쟈켓) (김밥레코즈 ─ CD ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20553&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20553&amp;cate_no=29&amp;display_group=1</guid>
@@ -662,22 +678,6 @@
             <pubDate>Tue, 15 Nov 2022 17:39:54 GMT</pubDate>
             <content:encoded><![CDATA[11,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/f5817ba31d04852e19814d3a43783741.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물과음 / 잠재적 초점 (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20410&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20410&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Tue, 15 Nov 2022 17:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[17,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/2b94011ede0a0dfb66d12f4065afe4f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유해인, 이사라 / You & I (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20409&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20409&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Tue, 15 Nov 2022 17:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[13,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/e4aa20c01e724348916cb42f6302e374.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Joji / Smithereens (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
@@ -1728,6 +1728,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/4e50a65e81019210563ea25800a295e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김현철 / Best (180g Transparent Orange Vinyl) *1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20674&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20674&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Fri, 18 Nov 2022 17:41:20 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/29701de2523db83de89bcb8233631fcd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[최백호 / 다시 길 위에서 (180g Black Vinyl) *1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20654&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20654&amp;cate_no=52&amp;display_group=1</guid>
@@ -1814,14 +1822,6 @@
             <pubDate>Wed, 16 Nov 2022 17:42:33 GMT</pubDate>
             <content:encoded><![CDATA[44,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/0ebd0fd6cc8295f5737867893353405c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HWABUN 화분 / FLOR DE PRIMAVERA (180g Green w/ Yellow Splatter Vinyl) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20494&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20494&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/b34badc3d1a06ce40f34facf7f2e1e6c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Peanuts Deluxe Holiday Collection (Ultimate Collector's Edition) (Blu-ray + DVD Pack + Snowglobe & Window Clings) (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
