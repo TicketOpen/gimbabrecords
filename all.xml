@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 17:41:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 05:39:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,46 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/1b55800fe4efb97ade657e8b4a140b82.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ezra Collective / Where I'm Meant To Be (Orange Vinyl, 2LP, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20666&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20666&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 18 Nov 2022 05:37:38 GMT</pubDate>
+            <content:encoded><![CDATA[43,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/32440ae7d43379f85e148f1bd0949824.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2Pac / All Eyez On Me (4LP Set, EU Pressing) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20665&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20665&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 18 Nov 2022 05:37:38 GMT</pubDate>
+            <content:encoded><![CDATA[88,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/f6160e2dc77a913632d2b45962a5b9d9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Christine And The Queens / Redcar Les Adorables Étoiles (Vinyl, 2LP + Poster) *구매시 상세설명을 참조하세요. (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20664&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20664&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 18 Nov 2022 05:37:38 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/a8c3b63e0e5dfa03ae336beb10850d18.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Guns N' Roses / Use Your Illusion II (Vinyl, Deluxe 2LP, 2022 Remaster, Gatefold Jacket) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20663&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20663&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 18 Nov 2022 05:37:38 GMT</pubDate>
+            <content:encoded><![CDATA[56,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/bcd070ee93b301771e70beddfec7354e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Guns N' Roses / Use Your Illusion I (Vinyl, Deluxe 2LP, 2022 Remaster, Gatefold Jacket) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20662&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20662&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 18 Nov 2022 05:37:38 GMT</pubDate>
+            <content:encoded><![CDATA[56,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/d6ce17030f531ac49468e1f836044f92.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Shigeru Umebayashi  (연주 - Brussels Philharmonic, 지휘 - Dirk Brosse) / Music For Films (White Vinyl, 2LP) *구매시 유의사항을 확인하세요. (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20660&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20660&amp;cate_no=25&amp;display_group=1</guid>
@@ -158,46 +198,6 @@
             <pubDate>Wed, 16 Nov 2022 17:40:51 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/79fba101be58f28c334b4dc47150d2b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정미조 / 37년 (180g White Vinyl) *1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20653&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20653&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/a08ace5621c71b042a94970861b9656b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김일두 X 하헌진 / 34:03 (140g White Vinyl, 550장 넘버링 한정반) *1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20652&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20652&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[44,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/5f6e5dfc4c5ca348766cd6c59377ca63.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Zombies / Odessey And Oracle (Marbled Teal Colored Vinyl, RSD Essentials 013) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20651&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20651&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[44,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/31b3f4095eb933e1e69ac2fbd1bb0c77.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joni Mitchell / For The Roses (180g Vinyl, 2022 Remaster) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20650&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20650&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[48,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/c69a4bc2359818b4956567876dd2fb03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vicky Farewell / Sweet Company (Blue Vinyl, Limited) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20647&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20647&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[36,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/ba6ea6c0d36edcb65466cdf01a95768e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Joji / Smithereens (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,13 +392,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/148d6feb0ae61e1a413db1168fdb1061.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Various Artists / 미소녀 전사 세일러 문 30주년 기념 앨범 美少女戦士セーラームーン  Pretty Guardian Sailor Moon: The 30th Anniversary Memorial Album 2LP 수요조사 (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20643&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20643&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:41:09 GMT</pubDate>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/3b13b6053460f572b120113e2abd4127.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[산울림 / 2집 내 마음에 주단을 깔고 (180g Black Vinyl, 2,500장 넘버링 한정반) *예약상품 (11월 22일 발매 예정) / 1인 1매만 구매 가능 (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20320&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20320&amp;cate_no=42&amp;display_group=1</guid>
@@ -485,6 +478,14 @@
             <pubDate>Thu, 17 Nov 2022 17:39:40 GMT</pubDate>
             <content:encoded><![CDATA[38,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/dcb697b4195f0625e67966f5a4e11ca4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[베이빌론 / EGO 90’S (2LP, 180g Black Vinyl) *예약상품 (8월 12일 주문 마감, 23년 1월 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19640&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19640&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 18 Nov 2022 05:37:58 GMT</pubDate>
+            <content:encoded><![CDATA[56,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/b28929f09c4a2712c0c2bd5ace0adf03.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Robert Plant & Alison Krauss / Raising Sand (CD, EU import) *할인상품 (김밥레코즈 ─ Bargain Bin)]]></title>
