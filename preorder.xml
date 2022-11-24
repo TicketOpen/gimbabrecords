@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 17:37:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 05:38:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[업타운 / 1집 Represent (Vinyl, 180g) *예약상품 (12월 30일 경 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19107&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19107&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 24 Nov 2022 05:36:34 GMT</pubDate>
+            <content:encoded><![CDATA[46,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/5573092228f6d6487466ffe17550a409.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산울림 / 2집 내 마음에 주단을 깔고 (180g Black Vinyl, 2,500장 넘버링 한정반) *예약상품 (11월 30일경 발송 예정) / 1인 1매만 구매 가능]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20320&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 15 Nov 2022 05:38:09 GMT</pubDate>
             <content:encoded><![CDATA[74,100원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/52bd46809d9b3cf1884973c2b6228b09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chet Baker / Sings Again (Limited Colored Vinyl, 1,500매 한정반, Aquamarine 청록색 바이닐) *예약상품 (12월 9일 이후 배송 시작)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20358&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20358&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 17 Nov 2022 17:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[38,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/dcb697b4195f0625e67966f5a4e11ca4.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
