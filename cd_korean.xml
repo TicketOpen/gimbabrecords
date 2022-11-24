@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 05:38:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 17:38:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세이수미 (Say Sue Me) / Where We Were Together (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20687&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20687&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Thu, 24 Nov 2022 17:37:11 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201804/10530_shop1_735645.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모호 프로젝트 / Sauce, Kite, Lake (CD + 렌티큘러 카드)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20670&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 15 Nov 2022 17:39:54 GMT</pubDate>
             <content:encoded><![CDATA[11,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/eac410db51a8a0d71e68bf0aaa2c8ea5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이사흘 / EP 볕과 그늘 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20411&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20411&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Tue, 15 Nov 2022 17:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[11,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/f5817ba31d04852e19814d3a43783741.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
