@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 05:38:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 17:38:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[King Crimson / In The Court Of The Crimson King - King Crimson at 50 (A Film By Toby Amies) (Blu-Ray + DVD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20701&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20701&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Fri, 25 Nov 2022 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/1bfbcfab3a692e9dd51d278e96043427.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Peanuts Deluxe Holiday Collection (Ultimate Collector's Edition) (Blu-ray + DVD Pack + Snowglobe & Window Clings)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20059&amp;cate_no=64&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 14 Nov 2022 05:45:57 GMT</pubDate>
             <content:encoded><![CDATA[16,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/0523a093919d19ab88bdcdc0b3ed7fc2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Keith Jarrett / The Art Of Improvisation (Documentary) (Blu-ray)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18779&amp;cate_no=64&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18779&amp;cate_no=64&amp;display_group=1</guid>
-            <pubDate>Thu, 17 Nov 2022 17:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[38,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/a81d047aa4c871b1f2e985615a398138.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

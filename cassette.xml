@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 05:38:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 17:38:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Gil Scott-Heron / Pieces Of A Man (Cassette, Limited)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20702&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20702&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Fri, 25 Nov 2022 17:36:38 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/f8cdfce0a4d4c715b41487c234faf562.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Joji / Smithereens (Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20649&amp;cate_no=26&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 05:44:33 GMT</pubDate>
             <content:encoded><![CDATA[12,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/f7c5e4fa8f6935cd2906480d8ffb3e8e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VACATIONS / Changes (Clear Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20088&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20088&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Mon, 21 Nov 2022 17:40:06 GMT</pubDate>
-            <content:encoded><![CDATA[12,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/6b13ec3c8a87115e807752065baf770b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

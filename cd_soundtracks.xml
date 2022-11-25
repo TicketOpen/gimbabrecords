@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Soundtracks</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 05:38:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 17:38:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Toto and Brian Eno) / Dune OST 듄 (데이빗 린치 감독 작품) (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20700&amp;cate_no=48&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20700&amp;cate_no=48&amp;display_group=1</guid>
+            <pubDate>Fri, 25 Nov 2022 17:37:48 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/d4465aa8af59f91e87be548461d829de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST / Beauty And The Beast 영화 미녀와 야수 OST (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20605&amp;cate_no=48&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 05:45:50 GMT</pubDate>
             <content:encoded><![CDATA[12,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/773a398144adb96f5477e21601172d3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Various Artists) / Forrest Gump 포레스트 검프 (2CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19753&amp;cate_no=48&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19753&amp;cate_no=48&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 05:45:50 GMT</pubDate>
-            <content:encoded><![CDATA[11,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/d9166bdf83d16624237a262f2718059d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 05:38:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 17:38:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Toto and Brian Eno) / Dune OST 듄 (데이빗 린치 감독 작품) (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20700&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20700&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 25 Nov 2022 17:36:25 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/d4465aa8af59f91e87be548461d829de.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peter Hammill / Fool's Mate (CD + 5 bonus tracks)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20699&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20699&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 25 Nov 2022 17:36:25 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/f34ca0307b9056822d535cf3204435b5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eric Clapton / Old Sock (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20698&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20698&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 25 Nov 2022 17:36:25 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/f1e78dede4b30313d5cdd922784f1806.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Years & Years / Night Call (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20692&amp;cate_no=24&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Thu, 24 Nov 2022 17:36:33 GMT</pubDate>
             <content:encoded><![CDATA[16,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201706/7577_shop1_710960.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Extreme / Extreme II: Pornograffitti (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20683&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20683&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 24 Nov 2022 17:36:33 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/20191205/8a207aa224b3f1a16f26d550b432841a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Drugdealer / Hiding In Plain Sight (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20682&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20682&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 24 Nov 2022 17:36:33 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/282220711145fa750018b45567df9d60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Michael Jackson / Thriller: 40th Anniversary (2CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20681&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20681&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 23 Nov 2022 17:35:32 GMT</pubDate>
-            <content:encoded><![CDATA[22,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/16ce8216b48564051e60419e78658700.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
