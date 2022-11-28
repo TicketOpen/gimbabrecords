@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 17:37:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 05:38:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,13 +104,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201706/7577_shop1_710960.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Vinicius Cantuaria / Vinicius canta Antonio Carlos Jobim (Vinyl) *수요조사 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20720&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20720&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 27 Nov 2022 17:35:38 GMT</pubDate>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/f95f5a0e257d6c90019451d345f19799.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[브론즈 Bronze / Ondo (feat 이하이) / Smooth Flight (with Atsuko Hiyajyo) (7" Vinyl) *11월 29일부터 발송 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20719&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20719&amp;cate_no=25&amp;display_group=1</guid>
@@ -197,6 +190,14 @@
             <pubDate>Fri, 25 Nov 2022 17:36:32 GMT</pubDate>
             <content:encoded><![CDATA[36,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/cf8738d2259dcc1ccebd6c5686efa5e7.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[백예린 / 리메이크 EP 선물 ( Vinyl, 2LP) *예약상품 / 1인 1매만 구매 가능 / 별도의 입금기한 설정 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20708&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20708&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 28 Nov 2022 05:36:19 GMT</pubDate>
+            <content:encoded><![CDATA[38,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/afea079094607ac67b6e4a4ed2c8374a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Gil Scott-Heron / Pieces Of A Man (Cassette, Limited) (김밥레코즈 ─ Cassette)]]></title>
