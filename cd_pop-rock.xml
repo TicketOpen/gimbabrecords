@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 05:38:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 17:38:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tindersticks / Distractions (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20741&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20741&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 29 Nov 2022 17:36:55 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/5a20536eb783653826c929f61d4f46c9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lambchop / The Bible (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20740&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20740&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 29 Nov 2022 17:36:55 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/f6af517a00bfef6a4a3f08f52ef919b6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fleetwood Mac / The Alternate Collection (6CD Box) (RSD Black Friday)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20739&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20739&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 29 Nov 2022 17:36:55 GMT</pubDate>
+            <content:encoded><![CDATA[107,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/0bef2861fd006fc03e14f32c9fb7affb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Peter Hammill / Fool's Mate (CD + 5 bonus tracks)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20699&amp;cate_no=30&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Thu, 24 Nov 2022 17:37:18 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/20191205/8a207aa224b3f1a16f26d550b432841a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Drugdealer / Hiding In Plain Sight (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20682&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20682&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 24 Nov 2022 17:37:18 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/282220711145fa750018b45567df9d60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Michael Jackson / Thriller: 40th Anniversary (2CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20681&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20681&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Wed, 23 Nov 2022 17:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[22,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/16ce8216b48564051e60419e78658700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Jimi Hendrix Experience / Los Angeles Forum: April 26, 1969 (CD, Digipak)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20680&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20680&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Wed, 23 Nov 2022 17:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[20,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/94428e07134a011254deaaa136f91457.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
