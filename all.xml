@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 05:38:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 17:39:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Low / Ones and Sixes (CD, US Import) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20769&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20769&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 30 Nov 2022 17:37:49 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/1b63cd1487f84207009ce0e94139f995.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Frankie Cosmos / Inner World Peace (CD, US Import) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20767&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20767&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 30 Nov 2022 17:37:49 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/70c032a18ef8895e3b4d0caad8a7b3b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신인류 Shininryu / 희망서 WE WISH.docx (CD, 책자 형태의 패키지) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20765&amp;cate_no=24&amp;display_group=1</link>
@@ -88,20 +104,28 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/2038322a1db2250627fe8607a5ac5226.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[비비 / Lowlife Princess: Noir 나쁜X ver. (CD + 포토북 + 엽서 + 콘티북 + 접지 포스터 + 포토카드) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20721&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20721&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 28 Nov 2022 17:37:35 GMT</pubDate>
-            <content:encoded><![CDATA[19,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/7f8fd80695e64d5b9ed8b52cfc3f8566.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Mogwai / Hardcore Will Never Die But You Will (Vinyl, 2LP) *작은 모서리 눌림으로 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20770&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20770&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 30 Nov 2022 17:37:55 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201507/100_shop1_124687.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[OST (Toto and Brian Eno) / Dune OST 듄 (데이빗 린치 감독 작품) (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20700&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20700&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 25 Nov 2022 17:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/d4465aa8af59f91e87be548461d829de.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Built To Spill / When The Wind Forgets Your Name (Rainforest Green Marble Vinyl, Loser Edition, Limited) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20768&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20768&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 30 Nov 2022 17:37:55 GMT</pubDate>
+            <content:encoded><![CDATA[33,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/7617070c8048dec6aef439cf2216fe6f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Frankie Cosmos / Inner World Peace (Clear Vinyl, Loser Edition, Limited) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20766&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20766&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 30 Nov 2022 17:37:55 GMT</pubDate>
+            <content:encoded><![CDATA[33,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/70c032a18ef8895e3b4d0caad8a7b3b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[만동 Mandong / Big Sun (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
@@ -174,30 +198,6 @@
             <pubDate>Tue, 29 Nov 2022 17:36:15 GMT</pubDate>
             <content:encoded><![CDATA[39,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/aea6fc701bd8f37a9d44614560e7e340.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pete Rock / Return Of The SP-1200 V.2 (Opaque Red Vinyl) (RSD Black Friday) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20753&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20753&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 29 Nov 2022 17:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[43,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/07007f2d21396cc9f8d8383992445a7b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pucho & His Latin Soul Brothers / Super Freak (180g Vinyl) (RSD Black Friday) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20752&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20752&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 29 Nov 2022 17:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[42,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/bacdb406b5664c5cbe3fc4b42c93b06d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Augustus Pablo / Thriller (Transparent Red Vinyl) (RSD Black Friday) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20751&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20751&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 29 Nov 2022 17:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/af6adf77d60ff39c46fac367fdaef4da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Hookuo 후쿠오 / Mild Dawn City Vol. 2 (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -680,6 +680,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/22e53ebfed21574923eb480060a31f56.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Low / Ones and Sixes (CD, US Import) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20769&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20769&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Wed, 30 Nov 2022 17:38:34 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/1b63cd1487f84207009ce0e94139f995.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Frankie Cosmos / Inner World Peace (CD, US Import) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20767&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20767&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Wed, 30 Nov 2022 17:38:34 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/70c032a18ef8895e3b4d0caad8a7b3b9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Tindersticks / Distractions (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20741&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20741&amp;cate_no=30&amp;display_group=1</guid>
@@ -758,22 +774,6 @@
             <pubDate>Thu, 24 Nov 2022 17:37:18 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/de4aedaebcf310e86dfa8a499d4a84d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Haim / Days Are Gone (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20685&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20685&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 24 Nov 2022 17:37:18 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201510/1306_shop1_253768.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Extreme / Extreme II: Pornograffitti (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20683&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20683&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 24 Nov 2022 17:37:18 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/20191205/8a207aa224b3f1a16f26d550b432841a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Fatboy Slim / You've Come a Long Way Baby (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
