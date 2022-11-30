@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 17:38:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 05:38:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[만동 Mandong / Big Sun (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20764&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20764&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 30 Nov 2022 05:38:24 GMT</pubDate>
+            <content:encoded><![CDATA[40,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/37222800caff7c2b7bed8468a29f68fa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브론즈 Bronze / Ondo (feat 이하이) / Smooth Flight (with Atsuko Hiyajyo) (7" Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20719&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:42:33 GMT</pubDate>
             <content:encoded><![CDATA[44,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/5f6e5dfc4c5ca348766cd6c59377ca63.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[eldon 엘던 / Do monsters love too? (180g Clear Vinyl, Limited to 500)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20608&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20608&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/52d9784875ad7a409f75e0fad7546e6e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

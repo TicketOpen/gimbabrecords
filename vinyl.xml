@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 17:38:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 05:38:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[만동 Mandong / Big Sun (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20764&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20764&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 30 Nov 2022 05:36:43 GMT</pubDate>
+            <content:encoded><![CDATA[40,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/37222800caff7c2b7bed8468a29f68fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kehlani / Blue Water Road (Crystal Colored Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20763&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20763&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 30 Nov 2022 05:36:43 GMT</pubDate>
+            <content:encoded><![CDATA[37,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/175544c607c4aca580a0c572a64f38ed.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST (music by Alexandre Desplat) / Little Women 작은아씨들 (Black & White Marbled Vinyl, 2LP + 악보와 사진 등이 담긴 32페이지 책자) *할인상품]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20760&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 29 Nov 2022 17:36:15 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/af6adf77d60ff39c46fac367fdaef4da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joni Mitchell / Blue (Clear Vinyl) (RSD Essential) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20750&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20750&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 29 Nov 2022 17:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/77ab6fecd41d71da4be5a2515390029d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Madlib / Low Budget High Fi Music (Color Vinyl) (RSD Black Friday)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20749&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20749&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 29 Nov 2022 17:36:16 GMT</pubDate>
-            <content:encoded><![CDATA[44,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/398fa5a75e5283e9148dae1039e56818.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
