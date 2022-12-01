@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 17:39:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 05:39:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신해경 / 최저낙원 (CD) *예약상품 (12월 6일 발매) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20772&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20772&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 01 Dec 2022 05:37:05 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/730b2c2e4fb95554192fc0b665e1e97a.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[신해경 / 나의 가역반응 (CD, 재발매) *예약상품 (12월 6일 발매) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20771&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20771&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 01 Dec 2022 05:37:05 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/fe776fc2dda8a997c7d88ca9b7f37844.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Low / Ones and Sixes (CD, US Import) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20769&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 28 Nov 2022 17:37:35 GMT</pubDate>
             <content:encoded><![CDATA[17,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/b07a5a65233ecfd4d97d38737b77a69a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선우정아 / EP Studio X {1. Phase} (CD + 애니메이션 북 + 포토카드 + 엽서, CD알판 3종 중 랜덤삽입) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20723&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20723&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 28 Nov 2022 17:37:35 GMT</pubDate>
-            <content:encoded><![CDATA[22,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/6b18d65a59b0528b48bdea5cb1189698.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피에이치원 pH-1 / BUT FOR NOW LEAVE ME ALONE (CD + 포토북 + 접지 포스터 + 미니 포스터 + 반창고 + 스티커) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20722&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20722&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 28 Nov 2022 17:37:35 GMT</pubDate>
-            <content:encoded><![CDATA[22,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/2038322a1db2250627fe8607a5ac5226.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mogwai / Hardcore Will Never Die But You Will (Vinyl, 2LP) *작은 모서리 눌림으로 할인 (김밥레코즈 ─ Vinyl)]]></title>
@@ -392,6 +392,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/fd041a62683f45c5c17290f054000291.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[신해경 / 최저낙원 (CD) *예약상품 (12월 6일 발매) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20772&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20772&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 01 Dec 2022 05:37:33 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/730b2c2e4fb95554192fc0b665e1e97a.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[신해경 / 나의 가역반응 (CD, 재발매) *예약상품 (12월 6일 발매) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20771&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20771&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 01 Dec 2022 05:37:33 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/fe776fc2dda8a997c7d88ca9b7f37844.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[산울림 / 2집 내 마음에 주단을 깔고 (180g Black Vinyl, 2,500장 넘버링 한정반) *예약상품 (12월 9일경 발송 예정) / 1인 1매만 구매 가능 (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20320&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20320&amp;cate_no=42&amp;display_group=1</guid>
@@ -470,22 +486,6 @@
             <pubDate>Tue, 15 Nov 2022 05:38:09 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/5bb3ba0eef54642e49609c277dfb1ebf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼 / 1집 Principle Of My Soul (180g Black Vinyl, 10th Anniversary Edition) *예약상품 (23년 7월 27일 발매 / 22년 10월 26일 예약 마감) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20431&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20431&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 29 Nov 2022 17:36:35 GMT</pubDate>
-            <content:encoded><![CDATA[56,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/7f0fd9075ab24a66cb5792a93285163c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST / 냉정과 열정 사이 OST (Blue Colored Vinyl) *예약상품 (2023년 1월 30일 발매 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20429&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20429&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 29 Nov 2022 17:36:35 GMT</pubDate>
-            <content:encoded><![CDATA[46,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/4dbfee890a7d89015314209cc3be04e4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Robert Plant & Alison Krauss / Raising Sand (CD, EU import) *할인상품 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -584,6 +584,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/20200622/b0f32fca28e44559de8c66a28b28354d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[신해경 / 최저낙원 (CD) *예약상품 (12월 6일 발매) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20772&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20772&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Thu, 01 Dec 2022 05:37:46 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/730b2c2e4fb95554192fc0b665e1e97a.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[신해경 / 나의 가역반응 (CD, 재발매) *예약상품 (12월 6일 발매) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20771&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20771&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Thu, 01 Dec 2022 05:37:46 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/fe776fc2dda8a997c7d88ca9b7f37844.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[신인류 Shininryu / 희망서 WE WISH.docx (CD, 책자 형태의 패키지) (김밥레코즈 ─ CD ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20765&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20765&amp;cate_no=29&amp;display_group=1</guid>
@@ -662,22 +678,6 @@
             <pubDate>Tue, 15 Nov 2022 17:39:54 GMT</pubDate>
             <content:encoded><![CDATA[18,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/65ba91b96c7c162b056653992fabe665.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버둥 / 2nd EP 잡아라! (CD, 리패키지 에디션) (김밥레코즈 ─ CD ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20543&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20543&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Tue, 15 Nov 2022 17:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/83f667d5e64d556604c3bbd7850582e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버둥 / 1st EP 조용한 폭력 속에서 (CD, 리패키지 에디션) (김밥레코즈 ─ CD ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20542&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20542&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Tue, 15 Nov 2022 17:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/22e53ebfed21574923eb480060a31f56.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Low / Ones and Sixes (CD, US Import) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>

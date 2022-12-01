@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 17:39:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 05:39:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신해경 / 최저낙원 (CD) *예약상품 (12월 6일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20772&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20772&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 01 Dec 2022 05:37:05 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/730b2c2e4fb95554192fc0b665e1e97a.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[신해경 / 나의 가역반응 (CD, 재발매) *예약상품 (12월 6일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20771&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20771&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 01 Dec 2022 05:37:05 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/fe776fc2dda8a997c7d88ca9b7f37844.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Low / Ones and Sixes (CD, US Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20769&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 28 Nov 2022 17:37:35 GMT</pubDate>
             <content:encoded><![CDATA[17,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/b07a5a65233ecfd4d97d38737b77a69a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선우정아 / EP Studio X {1. Phase} (CD + 애니메이션 북 + 포토카드 + 엽서, CD알판 3종 중 랜덤삽입)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20723&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20723&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 28 Nov 2022 17:37:35 GMT</pubDate>
-            <content:encoded><![CDATA[22,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/6b18d65a59b0528b48bdea5cb1189698.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피에이치원 pH-1 / BUT FOR NOW LEAVE ME ALONE (CD + 포토북 + 접지 포스터 + 미니 포스터 + 반창고 + 스티커)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20722&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20722&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 28 Nov 2022 17:37:35 GMT</pubDate>
-            <content:encoded><![CDATA[22,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/2038322a1db2250627fe8607a5ac5226.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
