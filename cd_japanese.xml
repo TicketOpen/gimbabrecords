@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Japanese</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 05:37:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 17:37:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tenniscoats / Papa's Ear (CD, tri-fold digisleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20792&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20792&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Fri, 02 Dec 2022 17:37:33 GMT</pubDate>
+            <content:encoded><![CDATA[26,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/8a513fc31ea12e53ab03718b452150ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yumbo / The Fruit Of Errata 間違いの実 (CD + Booklet)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20788&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20788&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Fri, 02 Dec 2022 17:37:33 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/9199838a1d65124332917e222da3c28e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tomoko Aran / 浮遊空間 (Fuyü-Kükan) (Hybrid SACD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20564&amp;cate_no=90&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:42:27 GMT</pubDate>
             <content:encoded><![CDATA[23,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/4e57485611bc8bef6dd1b2340b5de6bc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lamp / Kanozyo No Tekei (CD, OBI, Japan Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19945&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19945&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:42:27 GMT</pubDate>
-            <content:encoded><![CDATA[32,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/5004ccdde209d2bdae3fa2f26f0d046e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lamp / Tokyo Utopia Tsuushin (CD, OBI, Japan Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19944&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19944&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:42:27 GMT</pubDate>
-            <content:encoded><![CDATA[31,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/4e50a65e81019210563ea25800a295e1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
