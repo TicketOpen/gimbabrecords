@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 05:38:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 17:37:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Delvon Lamarr Organ Trio / I Told You So (CD, gatefold sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20803&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20803&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 06 Dec 2022 17:36:58 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/8d160751b7823615c1f30714cbf65281.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Delvon Lamarr Organ Trio / Close But No Cigar (CD, gatefold sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20800&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20800&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 06 Dec 2022 17:36:58 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/52beb4bfb24de046187165dbfeb5f4e3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Paul Desmond / The Complete RCA Albums Collection 1962-1965 (6CD Boxset) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20761&amp;cate_no=46&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 15 Nov 2022 05:38:58 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/cfa26e40165b9ed191f863740f371b37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brian Blade & The Fellowship Band / Season Of Changes (CD, gatefold sleeve)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20571&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20571&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 15 Nov 2022 05:38:58 GMT</pubDate>
-            <content:encoded><![CDATA[22,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/ea475339795f7441215444c8b0a9ddf7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brian Blade Fellowship / Live From The Archives • Bootleg June 15, 2000 (CD, gatefold sleeve)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20570&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20570&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 15 Nov 2022 05:38:58 GMT</pubDate>
-            <content:encoded><![CDATA[22,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/97f036c615fc331ab6b51bc257c9da2b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
