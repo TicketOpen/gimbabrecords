@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 17:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 05:37:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,22 +22,6 @@
             <pubDate>Fri, 02 Dec 2022 05:36:20 GMT</pubDate>
             <content:encoded><![CDATA[69,100원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/0a0ae53a38a3740c503fb46cb9346d44.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[신해경 / 최저낙원 (CD) *예약상품 (12월 6일 발매)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20772&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20772&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 01 Dec 2022 05:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/730b2c2e4fb95554192fc0b665e1e97a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신해경 / 나의 가역반응 (CD, 재발매) *예약상품 (12월 6일 발매)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20771&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20771&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 01 Dec 2022 05:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/fe776fc2dda8a997c7d88ca9b7f37844.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[OST (Ryo Yoshimata) / 냉정과 열정 사이 (冷静と情熱のあいだ, Calmi Cuori Appassionati) (Exclusive Red Colored Vinyl) *2차 예약 (1월 중순에 배송이 시작됩니다.)]]></title>
@@ -102,6 +86,22 @@
             <pubDate>Tue, 06 Dec 2022 17:36:13 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/5bb3ba0eef54642e49609c277dfb1ebf.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[나얼 / 1집 Principle Of My Soul (180g Black Vinyl, 10th Anniversary Edition) *예약상품 (23년 7월 27일 발매 / 22년 10월 26일 예약 마감)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20431&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20431&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 07 Dec 2022 05:36:14 GMT</pubDate>
+            <content:encoded><![CDATA[56,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/7f0fd9075ab24a66cb5792a93285163c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST / 냉정과 열정 사이 OST (Blue Colored Vinyl) *예약상품 (2023년 1월 30일 발매 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20429&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20429&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 07 Dec 2022 05:36:14 GMT</pubDate>
+            <content:encoded><![CDATA[46,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/4dbfee890a7d89015314209cc3be04e4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
