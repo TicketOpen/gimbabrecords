@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 05:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 17:37:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rickie Lee Jones / Original Album Series (5CD Box Set) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20832&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20832&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Wed, 07 Dec 2022 17:36:49 GMT</pubDate>
+            <content:encoded><![CDATA[26,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/79ebb9387e12225182c0a1c3acfe1c08.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Smokey Robinson & The Miracles / The Ultimate Collection (CD, Remastered) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20617&amp;cate_no=44&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 13 Nov 2022 05:40:31 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/75e75a59d64998e059fa194e3a1478e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Melba Moore / A Lot Of Love (CD + OBI, THROWBACK SOUL 시리즈)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20399&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20399&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Sun, 13 Nov 2022 05:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/9a54df5c5c44fab9c2829a7a217a786c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
