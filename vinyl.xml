@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 17:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 05:38:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Esbjörn Svensson (Esbjorn Svensson) / HOME.S (180g Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20839&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20839&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 08 Dec 2022 05:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[39,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/e71f034af2ab747725d28aa27757a91c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nils Landgren / Christmas With My Freinds VI (180g Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20838&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20838&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 08 Dec 2022 05:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[35,100원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/9af196e9eb82e693fb67e655b3a77004.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Hiroshi Sato (Ft. Wendy Matthews) / Awakening (Aqua Blue & Clear Vinyl, 2LP, Special Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20821&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 06 Dec 2022 17:35:54 GMT</pubDate>
             <content:encoded><![CDATA[34,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/bcc372801877c0a8439278894110f2c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joseph Shabason / Anne EP (Black Vinyl + Download)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20809&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20809&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 06 Dec 2022 17:35:54 GMT</pubDate>
-            <content:encoded><![CDATA[33,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/b88bd22709506525ca082b1acdec0657.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dirty Three / Horse Stories (Vinyl, 2LP + Download)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20807&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20807&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 06 Dec 2022 17:35:54 GMT</pubDate>
-            <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/ad4ffe74cf97d7cf20a269e504f8a2ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

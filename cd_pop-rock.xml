@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 17:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 05:38:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bill LaBounty / Rain In My Life (CD, AOR City Series, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20837&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20837&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 08 Dec 2022 05:36:33 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/765bc771553cb57228ded3cd3a91fa0d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tim Buckley / Original Album Series (5CD Box Set) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20836&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 07 Dec 2022 17:36:36 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202110/58bac84def7f3219c6732f60dfe07eed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Band Aid 30 / Do They Know It's Christmas? (2014) (CD, Single case)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20823&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20823&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Wed, 07 Dec 2022 17:36:36 GMT</pubDate>
-            <content:encoded><![CDATA[6,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/71aaed6e8676854a8f0a856046edf226.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
