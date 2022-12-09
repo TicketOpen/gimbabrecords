@@ -4,9 +4,32 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 05:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 17:37:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무간도 사운드트랙 수요조사 (12월 10일 토요일까지)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20847&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20847&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 09 Dec 2022 17:35:58 GMT</pubDate>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/39b5e90f9eaf8dfdbda8582b710960de.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Justice / A Cross The Universe (Vinyl, 2LP + Poster, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20846&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20846&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 09 Dec 2022 17:35:58 GMT</pubDate>
+            <content:encoded><![CDATA[48,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/75500e2affa0235e57f86edde0b1be87.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스텔라장 Stella Jang / WinterStella (Black Vinyl, 45rpm, 한정반)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20844&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20844&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 09 Dec 2022 17:35:58 GMT</pubDate>
+            <content:encoded><![CDATA[45,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/f8db48463edb4ce34159b498ba3d4bc6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Alice In Chains / Dirt (Yellow Vinyl, 2LP)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20842&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +101,6 @@
             <pubDate>Tue, 06 Dec 2022 17:35:54 GMT</pubDate>
             <content:encoded><![CDATA[70,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/c3f8b2780bccb8a878584dbb7ae2069d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Nujabes, Fat Jon) / Samurai Champloo Music Record: Departure 사무라이 참프루: 디파쳐 (Vinyl, 2LP, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20815&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20815&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 06 Dec 2022 17:35:54 GMT</pubDate>
-            <content:encoded><![CDATA[70,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/8125a305a7c857d5aaaf2581aa2737aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Swinging Popsicle / Orange オレンジ / Tooisora 遠い空 (Clear Orange 7" Vinyl + Bonus CD, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20814&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20814&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 06 Dec 2022 17:35:54 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/06edeeced3e4af769aabb840f7f4f5c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taeko Onuki (Taeko Ohnuki) / Mignonne (Clear Purple Vinyl, 일본 레코드데이 한정반) *1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20813&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20813&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 06 Dec 2022 17:35:54 GMT</pubDate>
-            <content:encoded><![CDATA[54,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/c86a62eb9fc517d904762a9f1ef8bf46.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

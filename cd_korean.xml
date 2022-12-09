@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 05:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 17:37:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밀실 / 정규 1집 밀실 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20843&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20843&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Fri, 09 Dec 2022 17:36:28 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/8cfe2a1caa0f4b872429d4aae524f640.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Paper River 페이퍼리버 / why why (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20841&amp;cate_no=29&amp;display_group=1</link>
@@ -24,7 +32,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/3117117f4149c6b9e67fcf943df4c89d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[oddeen / odnstock.com (CD) *12/9 발송 예정]]></title>
+            <title><![CDATA[oddeen / odnstock.com (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20812&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20812&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Tue, 06 Dec 2022 17:36:26 GMT</pubDate>
@@ -32,7 +40,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/0297b1b8d16d82e58c8b9f29ae7d3acf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Leesuho 이수호 / Monika (CD) *12/9 발송 예정]]></title>
+            <title><![CDATA[Leesuho 이수호 / Monika (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20811&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20811&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Tue, 06 Dec 2022 17:36:26 GMT</pubDate>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 28 Nov 2022 17:38:14 GMT</pubDate>
             <content:encoded><![CDATA[22,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/2038322a1db2250627fe8607a5ac5226.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비비 / Lowlife Princess: Noir 나쁜X ver. (CD + 포토북 + 엽서 + 콘티북 + 접지 포스터 + 포토카드)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20721&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20721&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Mon, 28 Nov 2022 17:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[19,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/7f8fd80695e64d5b9ed8b52cfc3f8566.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

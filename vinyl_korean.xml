@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 05:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 17:37:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스텔라장 Stella Jang / WinterStella (Black Vinyl, 45rpm, 한정반)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20844&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20844&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Fri, 09 Dec 2022 17:37:38 GMT</pubDate>
+            <content:encoded><![CDATA[45,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/f8db48463edb4ce34159b498ba3d4bc6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[만동 Mandong / Big Sun (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20764&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:42:33 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/a08ace5621c71b042a94970861b9656b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김일두 X 하헌진 / 34:03 (140g White Vinyl, 550장 넘버링 한정반) *1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20652&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20652&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[44,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/5f6e5dfc4c5ca348766cd6c59377ca63.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
