@@ -4,16 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 05:37:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 17:37:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[무간도 사운드트랙 3CD Set 수요조사 (12월 10일 밤까지) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20848&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20848&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 09 Dec 2022 17:35:52 GMT</pubDate>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/3760b1615b78d4734543c4a3fc143d63.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[밀실 / 정규 1집 밀실 (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20843&amp;cate_no=24&amp;display_group=1</link>
@@ -103,11 +96,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/182c08908d91c739c4eee26a1bbbffb7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무간도 사운드트랙 수요조사 (12월 10일 토요일까지) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20847&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20847&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 09 Dec 2022 17:35:58 GMT</pubDate>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/39b5e90f9eaf8dfdbda8582b710960de.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Jethro Tull / Original Album Series (5CD Box Set) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20829&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20829&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sun, 11 Dec 2022 17:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[26,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/f0b1e678881f824bd0a131e55a23ba3f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Justice / A Cross The Universe (Vinyl, 2LP + Poster, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
@@ -198,12 +192,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/c3f8b2780bccb8a878584dbb7ae2069d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[WKW MOVIES' COLLECTION SOUNDTRACK CASSETTE BOXSET - 왕가위 사운드트랙 카세트 박스셋 (1,000세트 한정반, 일련번호 표기, 한정기간 사전 주문, 12월말 또는 1월초 배송 예정) (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20845&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20845&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Fri, 09 Dec 2022 17:36:04 GMT</pubDate>
-            <content:encoded><![CDATA[480,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/f9b4c4889a1157e73da6f2c7445a5c2b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[OST (Nujabes, Fat Jon) / Samurai Champloo Music Record: Departure 사무라이 참프루: 디파쳐 (Vinyl, 2LP, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20815&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20815&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 11 Dec 2022 17:35:05 GMT</pubDate>
+            <content:encoded><![CDATA[70,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/8125a305a7c857d5aaaf2581aa2737aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ezra Collective / Where I'm Meant To Be (Orange Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -292,6 +286,14 @@
             <pubDate>Wed, 16 Nov 2022 05:44:32 GMT</pubDate>
             <content:encoded><![CDATA[320,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/5099859ab08d2a808d91c4ed722e9000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weyes Blood / And In The Darkness, Hearts Aglow (Cassette) (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20109&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20109&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Sun, 11 Dec 2022 17:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[17,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/b36b449f2d1fc4cd033f5e69870318fe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[King Crimson / In The Court Of The Crimson King - King Crimson at 50 (A Film By Toby Amies) (Blu-Ray + DVD) *한정수량 할인 (김밥레코즈 ─ Movies/Merch)]]></title>
@@ -1246,13 +1248,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/13367813f1d51a2d337faf4f85f65614.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무간도 사운드트랙 3CD Set 수요조사 (12월 10일 밤까지) (김밥레코즈 ─ CD ─ Soundtracks)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20848&amp;cate_no=48&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20848&amp;cate_no=48&amp;display_group=1</guid>
-            <pubDate>Fri, 09 Dec 2022 17:37:09 GMT</pubDate>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/3760b1615b78d4734543c4a3fc143d63.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[OST (Toto and Brian Eno) / Dune OST 듄 (데이빗 린치 감독 작품) (CD) (김밥레코즈 ─ CD ─ Soundtracks)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20700&amp;cate_no=48&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20700&amp;cate_no=48&amp;display_group=1</guid>
@@ -1339,6 +1334,14 @@
             <pubDate>Wed, 16 Nov 2022 05:45:50 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/ffad76bca23af2d0f49e82fc24aea5dd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST / Top Gun 탑건 Original Motion Picture Soundtrack (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Soundtracks)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19767&amp;cate_no=48&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19767&amp;cate_no=48&amp;display_group=1</guid>
+            <pubDate>Sun, 11 Dec 2022 17:36:24 GMT</pubDate>
+            <content:encoded><![CDATA[12,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/773a398144adb96f5477e21601172d3c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Gal Costa / Gal Costa Canta Tom Jobim Ao Vivo (2CD) (김밥레코즈 ─ CD ─ World)]]></title>

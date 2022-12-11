@@ -4,16 +4,9 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 05:37:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 17:37:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[무간도 사운드트랙 수요조사 (12월 10일 토요일까지)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20847&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20847&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 09 Dec 2022 17:35:58 GMT</pubDate>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/39b5e90f9eaf8dfdbda8582b710960de.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Justice / A Cross The Universe (Vinyl, 2LP + Poster, Limited Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20846&amp;cate_no=25&amp;display_group=1</link>
@@ -101,6 +94,14 @@
             <pubDate>Tue, 06 Dec 2022 17:35:54 GMT</pubDate>
             <content:encoded><![CDATA[70,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/c3f8b2780bccb8a878584dbb7ae2069d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Nujabes, Fat Jon) / Samurai Champloo Music Record: Departure 사무라이 참프루: 디파쳐 (Vinyl, 2LP, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20815&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20815&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 11 Dec 2022 17:35:05 GMT</pubDate>
+            <content:encoded><![CDATA[70,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/8125a305a7c857d5aaaf2581aa2737aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
