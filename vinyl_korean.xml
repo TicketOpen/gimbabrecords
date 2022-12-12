@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 17:37:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 05:37:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Various Artists / The Time Limit Is Over 제임스레코드 컴필레이션 2022 (Blue Vinyl) *예약상품 (12/16 금요일 발송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20849&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20849&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 12 Dec 2022 05:37:38 GMT</pubDate>
+            <content:encoded><![CDATA[40,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/98cff8243dfe87df634f67bcac1f8e0d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스텔라장 Stella Jang / WinterStella (Black Vinyl, 45rpm, 한정반)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20844&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:42:33 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/79fba101be58f28c334b4dc47150d2b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정미조 / 37년 (180g White Vinyl) *1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20653&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20653&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/a08ace5621c71b042a94970861b9656b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
