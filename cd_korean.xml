@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 05:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 17:37:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미노이 / NOI MAS (CD + 포토카드)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20854&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20854&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Wed, 14 Dec 2022 17:36:24 GMT</pubDate>
+            <content:encoded><![CDATA[16,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/86c1c67e7c17969ef0a7ba2777795aef.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밀실 / 정규 1집 밀실 (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20843&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 28 Nov 2022 17:38:14 GMT</pubDate>
             <content:encoded><![CDATA[22,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/6b18d65a59b0528b48bdea5cb1189698.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피에이치원 pH-1 / BUT FOR NOW LEAVE ME ALONE (CD + 포토북 + 접지 포스터 + 미니 포스터 + 반창고 + 스티커)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20722&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20722&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Mon, 28 Nov 2022 17:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[22,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/2038322a1db2250627fe8607a5ac5226.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

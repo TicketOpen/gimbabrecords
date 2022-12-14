@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 05:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 17:37:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미노이 / NOI MAS (CD + 포토카드) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20854&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20854&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 14 Dec 2022 17:35:44 GMT</pubDate>
+            <content:encoded><![CDATA[16,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/86c1c67e7c17969ef0a7ba2777795aef.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밀실 / 정규 1집 밀실 (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20843&amp;cate_no=24&amp;display_group=1</link>
@@ -96,12 +104,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/182c08908d91c739c4eee26a1bbbffb7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jethro Tull / Original Album Series (5CD Box Set) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20829&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20829&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sun, 11 Dec 2022 17:34:58 GMT</pubDate>
-            <content:encoded><![CDATA[26,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/f0b1e678881f824bd0a131e55a23ba3f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Calvin Harris / Funk Wav Bounces Vol. 1 (Vinyl) *1인 2매까지 구매 가능 / 별도의 입금기한 설정 / 할인상품 (모서리 작은 눌림) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20855&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20855&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 14 Dec 2022 17:35:51 GMT</pubDate>
+            <content:encoded><![CDATA[43,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201709/8532_shop1_884847.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sven Wunder /  Asterism Waltz (Limited 7" Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 06 Dec 2022 17:35:54 GMT</pubDate>
             <content:encoded><![CDATA[69,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/a3307020e028442a1e867cd15e83f5b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Akina Nakamori / Regeneration II ~ Nakamori Akina Remix II (Clear Green + Grey Vinyl, 2LP, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20820&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20820&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 06 Dec 2022 17:35:54 GMT</pubDate>
-            <content:encoded><![CDATA[69,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/fc8f87fc915ff5760e3da7c0dc12c3a6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ezra Collective / Where I'm Meant To Be (Orange Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -584,6 +584,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202011/b92de8302523a0c9dc7fc0148891c9b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미노이 / NOI MAS (CD + 포토카드) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20854&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20854&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Wed, 14 Dec 2022 17:36:24 GMT</pubDate>
+            <content:encoded><![CDATA[16,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/86c1c67e7c17969ef0a7ba2777795aef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[밀실 / 정규 1집 밀실 (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20843&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20843&amp;cate_no=29&amp;display_group=1</guid>
@@ -670,14 +678,6 @@
             <pubDate>Mon, 28 Nov 2022 17:38:14 GMT</pubDate>
             <content:encoded><![CDATA[22,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/6b18d65a59b0528b48bdea5cb1189698.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피에이치원 pH-1 / BUT FOR NOW LEAVE ME ALONE (CD + 포토북 + 접지 포스터 + 미니 포스터 + 반창고 + 스티커) (김밥레코즈 ─ CD ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20722&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20722&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Mon, 28 Nov 2022 17:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[22,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/2038322a1db2250627fe8607a5ac5226.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bill LaBounty / Rain In My Life (CD, AOR City Series, JPN Import) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
