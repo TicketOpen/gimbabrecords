@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 17:37:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 05:37:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sven Wunder /  Asterism Waltz (Limited 7" Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20853&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20853&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 14 Dec 2022 05:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[27,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/e3a07480f5cd746810dd98876d674687.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sven Wunder / Sun​-​Kissed (Limited 7" Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20852&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20852&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 14 Dec 2022 05:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[27,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/919322bc0bdc60e02cd4b6a9957a545d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sven Wunder / Jazz At Night (Limited 7" Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20851&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20851&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 14 Dec 2022 05:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[27,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/5da0bade3cae1037db1cbba5db743eb4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에코브릿지 / COMPILATION (180g Clear Orange Vinyl + 4페이지 가사집, 한정반) *예약상품 (23년 5월 18일 발매, 12월 25일 주문 마감)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20850&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 06 Dec 2022 17:35:54 GMT</pubDate>
             <content:encoded><![CDATA[69,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/fc8f87fc915ff5760e3da7c0dc12c3a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Akina Nakamori / Regeneration ~ Nakamori Akina Remix (Clear Violet + Clear Vinyl, 2LP, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20819&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20819&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 06 Dec 2022 17:35:54 GMT</pubDate>
-            <content:encoded><![CDATA[69,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/baa717918ded243a26f90f444927995a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Junko Ohashi / DEF (Clear Blue Vinyl, 2022 일본 레코드데이 한정반)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20818&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20818&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 06 Dec 2022 17:35:54 GMT</pubDate>
-            <content:encoded><![CDATA[48,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/600ac902ffd2738b7a4a4c680bc06b16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tomoyo Harada / Fruitful Days (Vinyl) *할인상품 (쟈켓 모서리 작은 눌림)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20817&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20817&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 06 Dec 2022 17:35:54 GMT</pubDate>
-            <content:encoded><![CDATA[50,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/8205a66431c690c12e27f71b920ee372.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
