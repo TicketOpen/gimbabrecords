@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 05:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 17:37:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jakob Bro, Joe Lovano / Once Around The Room: A Tribute To Paul Motian (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20870&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20870&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 16 Dec 2022 17:36:33 GMT</pubDate>
+            <content:encoded><![CDATA[21,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/7919f23f914ec68b3d125572045d75c5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Enrico Rava, Fred Hersch / The Song Is You (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20869&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20869&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 16 Dec 2022 17:36:33 GMT</pubDate>
+            <content:encoded><![CDATA[21,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/dbac63dbc8609470c6b476408bee8719.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Esbjörn Svensson (Esbjorn Svensson) / HOME.S (CD, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20840&amp;cate_no=46&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 05:45:36 GMT</pubDate>
             <content:encoded><![CDATA[17,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/7f414ee1bcf0aa1d23c445e0b00b3d3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Madeleine Peyroux / Careless Love (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20614&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20614&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 15 Nov 2022 17:40:28 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202011/812eeeb9bbfb262865c2d79acd96c5cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lee Ritenour / Earth Run (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20613&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20613&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 15 Nov 2022 17:40:28 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/a495530af5a06cf3d0454dbb1b48de8e.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
