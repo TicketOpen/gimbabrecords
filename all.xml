@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 05:37:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 17:37:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Various Artists / Christmas With Motown (CD) *할인상품 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20873&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20873&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sat, 17 Dec 2022 17:35:05 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/f7b9ec7dfee903d0d65c7980d8a23449.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ramsey Lewis / More Sounds of Christmas (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20872&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20872&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sat, 17 Dec 2022 17:35:05 GMT</pubDate>
+            <content:encoded><![CDATA[13,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/982da7eb6e88b769b0c8853f3d733d72.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / Now That's What I Call Christmas (3CD) *한정수량 할인상품 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20871&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20871&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sat, 17 Dec 2022 17:35:05 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/6b28a5ef844c88a58b1be6e60675ac76.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jakob Bro, Joe Lovano / Once Around The Room: A Tribute To Paul Motian (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20870&amp;cate_no=24&amp;display_group=1</link>
@@ -80,28 +104,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/90067db9ad140b2b5c4ba34c37aac2a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Pretenders / Original Album Series (5CD Box Set) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20835&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20835&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 07 Dec 2022 17:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[26,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/0807a54f71490fbbc3d97529509e3bd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Cars / Original Album Series (5CD Box Set) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20834&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20834&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 07 Dec 2022 17:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[26,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/9de50a97b37152c9b3b4db85dbcbe578.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Seals & Crofts / Original Album Series (5CD Box Set) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20833&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20833&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 07 Dec 2022 17:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[26,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/533d99cb27af6cc3676d002014c3ac5b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Wild Nothing / Nocturne (Blue Marble Vinyl, 10th Anniversary Edition, Limited) *추가 할인 (구매시 유의사항을 확인하세요) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20874&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20874&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 17 Dec 2022 17:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/6b3102cc3d0d5f87946a5e4f43835c60.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Enrico Rava, Fred Hersch / The Song Is You (180g Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 15 Dec 2022 05:35:46 GMT</pubDate>
             <content:encoded><![CDATA[59,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/05603c72dcd9ce7ca41fee9aa5574812.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Calvin Harris / Funk Wav Bounces Vol. 1 (Vinyl) *1인 2매까지 구매 가능 / 별도의 입금기한 설정 / 할인상품 (모서리 작은 눌림) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20855&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20855&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 14 Dec 2022 17:35:51 GMT</pubDate>
-            <content:encoded><![CDATA[43,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201709/8532_shop1_884847.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Various Artists / Pacific Breeze Pacific Breeze Volume 3: Japanese City Pop, AOR & Boogie 1975-1987 (Cassette) *예약상품 (2023년 3월초 발송 예정) (김밥레코즈 ─ Cassette)]]></title>
@@ -1536,6 +1536,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/3697d3313a65dd939c252b2f86faae97.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Various Artists / Christmas With Motown (CD) *할인상품 (김밥레코즈 ─ CD ─ Holiday)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20873&amp;cate_no=51&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20873&amp;cate_no=51&amp;display_group=1</guid>
+            <pubDate>Sat, 17 Dec 2022 17:36:46 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/f7b9ec7dfee903d0d65c7980d8a23449.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ramsey Lewis / More Sounds of Christmas (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Holiday)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20872&amp;cate_no=51&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20872&amp;cate_no=51&amp;display_group=1</guid>
+            <pubDate>Sat, 17 Dec 2022 17:36:46 GMT</pubDate>
+            <content:encoded><![CDATA[13,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/982da7eb6e88b769b0c8853f3d733d72.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / Now That's What I Call Christmas (3CD) *한정수량 할인상품 (김밥레코즈 ─ CD ─ Holiday)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20871&amp;cate_no=51&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20871&amp;cate_no=51&amp;display_group=1</guid>
+            <pubDate>Sat, 17 Dec 2022 17:36:46 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/6b28a5ef844c88a58b1be6e60675ac76.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Tony Bennett / The Classic Christmas Album (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Holiday)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20824&amp;cate_no=51&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20824&amp;cate_no=51&amp;display_group=1</guid>
@@ -1606,30 +1630,6 @@
             <pubDate>Wed, 16 Nov 2022 05:46:08 GMT</pubDate>
             <content:encoded><![CDATA[11,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/d191e4da7290f85d492289f17af2cd24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / The Ultimate Motown Christmas Collection (2CD, US Import) *한정할인 (김밥레코즈 ─ CD ─ Holiday)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17870&amp;cate_no=51&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17870&amp;cate_no=51&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 05:46:08 GMT</pubDate>
-            <content:encoded><![CDATA[13,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/b84473bb82b3f1ed3e084bd14d4678c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jamie Cullum / The Pianoman At Christmas (CD) *할인상품 (김밥레코즈 ─ CD ─ Holiday)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17869&amp;cate_no=51&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17869&amp;cate_no=51&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 05:46:08 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/9adc9942604f183838bc6fdee972c1c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vince Guaraldi / Peanuts Greatest Hits (CD, EU Import) *할인상품 (김밥레코즈 ─ CD ─ Holiday)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17868&amp;cate_no=51&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17868&amp;cate_no=51&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 05:46:08 GMT</pubDate>
-            <content:encoded><![CDATA[13,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/890ef30a8f537b19c8eb8598f6721d65.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Various Artists / Pacific Breeze Pacific Breeze Volume 3: Japanese City Pop, AOR & Boogie 1975-1987 (CD) *예약상품 (3월초 발송예정) (김밥레코즈 ─ CD ─ Japanese)]]></title>
