@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 05:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 17:37:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tracy Chapman / Tracy Chapman: Greatest Hits (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20878&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20878&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 19 Dec 2022 17:35:54 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/1d7654676cd25caca3416e7d60f3d0fc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bill LaBounty / Rain In My Life (CD, AOR City Series, JPN Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20837&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 07 Dec 2022 17:36:36 GMT</pubDate>
             <content:encoded><![CDATA[26,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/f752b1cf27a261a88b0209d5b088aec2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Donald Fagen / Donald Fagen's The Nightfly Live (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20825&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20825&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Wed, 07 Dec 2022 17:36:36 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/58bac84def7f3219c6732f60dfe07eed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

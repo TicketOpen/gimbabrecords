@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 05:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 17:37:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Chief Keef / Finally Rich (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20879&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20879&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 19 Dec 2022 17:35:10 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/f7784d51a12fa643fd330da17bfdeb2f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tracy Chapman / Tracy Chapman: Greatest Hits (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20878&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20878&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 19 Dec 2022 17:35:10 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/1d7654676cd25caca3416e7d60f3d0fc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various Artists / Christmas With Motown (CD) *할인상품]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20873&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 08 Dec 2022 05:35:40 GMT</pubDate>
             <content:encoded><![CDATA[22,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/e71f034af2ab747725d28aa27757a91c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill LaBounty / Rain In My Life (CD, AOR City Series, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20837&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20837&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 08 Dec 2022 05:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/765bc771553cb57228ded3cd3a91fa0d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tim Buckley / Original Album Series (5CD Box Set) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20836&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20836&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 07 Dec 2022 17:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[26,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/90067db9ad140b2b5c4ba34c37aac2a8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

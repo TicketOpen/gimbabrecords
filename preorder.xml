@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 05:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 17:37:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/bce30e9691fffaa9ce9f49fb0dbcdd88.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김광석 / 못다 한 이야기 (180g 투명 & 투명 옐로우 컬러 Vinyl, 2LP) *예약상품 (12월 19일경 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20045&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20045&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 02 Dec 2022 05:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[69,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/0a0ae53a38a3740c503fb46cb9346d44.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[OST (Ryo Yoshimata) / 냉정과 열정 사이 (冷静と情熱のあいだ, Calmi Cuori Appassionati) (Exclusive Red Colored Vinyl) *2차 예약 (1월 중순에 배송이 시작됩니다.)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20428&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20428&amp;cate_no=42&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Fri, 25 Nov 2022 17:36:51 GMT</pubDate>
             <content:encoded><![CDATA[54,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/7329bcd263b665628cd7f2e89b0cf3f7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백예린 / 정규 2집 + 2집 리믹스 tellusboutyourself (Vinyl, 3LP) *예약상품 / 1인 1매만 구매 가능 / 별도의 입금기한 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20706&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20706&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 19 Dec 2022 17:35:35 GMT</pubDate>
+            <content:encoded><![CDATA[65,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/7e8f708ca914d3ec58b053bd207b02ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
