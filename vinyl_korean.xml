@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 17:37:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 05:37:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[eldon 엘던 / Do monsters love too? (180g Black Vinyl) *예약상품 (23년 5월 18일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20875&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20875&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 19 Dec 2022 05:37:24 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/045066557d1b2766c52c4a7cfd741f57.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에코브릿지 / COMPILATION (180g Clear Orange Vinyl + 4페이지 가사집, 한정반) *예약상품 (23년 5월 18일 발매, 12월 25일 주문 마감)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20850&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 25 Nov 2022 05:37:58 GMT</pubDate>
             <content:encoded><![CDATA[38,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/549f1353da110c92ecaffa15dda232e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현철 / Best (180g Transparent Orange Vinyl) *1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20674&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20674&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Fri, 18 Nov 2022 17:41:20 GMT</pubDate>
-            <content:encoded><![CDATA[44,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/29701de2523db83de89bcb8233631fcd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
