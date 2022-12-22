@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 05:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 17:36:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bill Evans / Montreux II (Blu-Spec CD, CTI Supreme Collection, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20912&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20912&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Dec 2022 17:36:06 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/edccff9501b2b28b0652b12d2a7d98fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Makaya McCraven / In These Times (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20903&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20903&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Dec 2022 17:36:06 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/c6fbe6f3f5883689de86a9a210b8c3fd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Elvin Jones / Revival: Live at Pookie's Pub (Deluxe 2CD Set + 56 page Booklet, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20884&amp;cate_no=46&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:41:51 GMT</pubDate>
             <content:encoded><![CDATA[18,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/6f0063dc6d40357abb744134223b58bb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Manhattan Transfer with the WDR Funkhausorchester / Fifty (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20638&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20638&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:41:51 GMT</pubDate>
-            <content:encoded><![CDATA[17,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/b98fb3d1b8112f372896c404d10d2703.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Louis Armstrong / Louis Wishes You a Cool Yule (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20635&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20635&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:41:51 GMT</pubDate>
-            <content:encoded><![CDATA[17,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/490e50b33ccf1f61ae301025a83fac1d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
