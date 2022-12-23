@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 05:37:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 17:37:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tony Bennett & Lady Gaga / Cheek To Cheek Live! (Vinyl, 2LP) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20928&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20928&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 23 Dec 2022 17:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[51,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/fc332f455a99fe1d2c7cb4c826e2fd3f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Amos Lee / My Ideal: A Tribute to Chet Baker Sings (Vinyl + Download)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20927&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20927&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 23 Dec 2022 17:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[34,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/d3f5053874a75685236cbed945cbbe27.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (music by James Horner) / The Amazing Spider-Man 어메이징 스파이더맨 (Translucent Blue and Red Marbled Vinyl, 2LP, Limited 10th Anniversary Edition) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20926&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20926&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 23 Dec 2022 17:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[37,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/7234e2dbe9c665890a24127533f2ac54.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST (음악 John Debney) - Elf 엘프 (Vinyl, 오리지널 스코어를 담은 Picture Disc)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20915&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Thu, 22 Dec 2022 17:35:04 GMT</pubDate>
             <content:encoded><![CDATA[40,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/8e685776ce68b3e370855783f15136ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dry Cleaning / Stumpwork (Eco Recycled Black Vinyl, Indie Store Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20900&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20900&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 22 Dec 2022 17:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[47,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/edce2ed5786f8581ff4001fa44121b18.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alvvays / Blue Rev (Crystal Clear Vinyl, Indie Store Exclusive)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20895&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20895&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 21 Dec 2022 17:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[40,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/61b4588c0d662db000945d7fb5b7ffc7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Caroline Polachek / Billions (Crimson Red Clear 7" Vinyl, 45rpm, Limited Edition) *할인상품 (쟈켓 표면에 주름 자국이 있습니다.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20894&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20894&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 20 Dec 2022 17:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[18,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/4b67133ff5eca3fdeaa5e343894f2b8a.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
