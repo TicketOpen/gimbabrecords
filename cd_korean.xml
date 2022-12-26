@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 05:37:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 17:37:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조월 Jowall / 아무것도 기념하지 않는 To Celebrate Nothing (CD) *12월 29일 목요일 발송]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20929&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20929&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 26 Dec 2022 17:36:01 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/d1467a641cabffeab5d5552705e317a5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유라, 만동 / 이런 분위기는 기회다 (The Vibe is a Chance) (CD, 세로가 더 긴 형태의 페이퍼보드 패키징)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20906&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 01 Dec 2022 05:37:46 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/fe776fc2dda8a997c7d88ca9b7f37844.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신인류 Shininryu / 희망서 WE WISH.docx (CD, 책자 형태의 패키지)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20765&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20765&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Wed, 30 Nov 2022 05:37:14 GMT</pubDate>
-            <content:encoded><![CDATA[17,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/02a424c6ef9175432baf425ebc046b02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
