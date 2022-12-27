@@ -4,17 +4,9 @@
         <title>김밥레코즈 ─ Bargain Bin</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 05:37:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 17:37:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Eric Clapton / Unplugged (Vinyl, 2LP) *한정수량 할인 (추가할인 - 유의사항을 확인하세요)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20930&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20930&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Dec 2022 05:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/986f769c987b69bdf5c9febb752c4969.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Daft Punk / Alive 2007 (Vinyl, 2LP) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20247&amp;cate_no=43&amp;display_group=1</link>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 16 Nov 2022 05:44:55 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201910/454379f60840ee787866f3061129f51e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mount Kimbie / DJ Kicks (CD, EU Import) *2020 추석할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15719&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15719&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Dec 2022 17:35:52 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202011/1dde761e0f17aa5fe92b6d1a8792fdcc.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 05:37:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 17:37:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크르르 Krr / 몽상집 (CD, 7인치 사이즈 패키징) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20933&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20933&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Dec 2022 17:35:24 GMT</pubDate>
+            <content:encoded><![CDATA[16,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/e0bbb14356a3e828c02a979cff89eaab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조월 Jowall / 아무것도 기념하지 않는 To Celebrate Nothing (CD) *12월 29일 목요일 발송 (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20929&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 23 Dec 2022 17:35:20 GMT</pubDate>
             <content:encoded><![CDATA[19,700원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/bcf8318b5f50209e84e6bc6bb45e911c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aimyon 아이묭 / Hitomi e Ochiruyo 瞳へ落ちるよレコード Falling into your eyes Record (CD + Blu-ray + 56p tour photo book, Limited Special Edition) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20914&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20914&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 22 Dec 2022 17:34:57 GMT</pubDate>
-            <content:encoded><![CDATA[84,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/46b311d1cc4c3f8d5dda092b825d21b7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Aqualung / 10 Futures (Vinyl, LP + CD) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/5d06f5f0633a71a0b23ad68847bf0a2c.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[아우릴고트 / 죽을힘을 다하여 (Red Transparent Vinyl, 500매 한정반) *예약상품 (12월 30일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20880&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20880&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 20 Dec 2022 05:35:57 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/3081be8d19d984ac9f659e8ded38c8ea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[eldon 엘던 / Do monsters love too? (180g Black Vinyl) *예약상품 (23년 5월 18일 발매) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20875&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20875&amp;cate_no=42&amp;display_group=1</guid>
@@ -472,28 +480,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/324d9325f40f1e0dd5b5fda11bd0d470.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[아우릴고트 / 죽을힘을 다하여 (Red Transparent Vinyl, 500매 한정반) *예약상품 (12월 30일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20880&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20880&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 20 Dec 2022 05:35:57 GMT</pubDate>
-            <content:encoded><![CDATA[42,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/3081be8d19d984ac9f659e8ded38c8ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Various Artists / Pacific Breeze Pacific Breeze Volume 3: Japanese City Pop, AOR & Boogie 1975-1987 (Green Vinyl, 2LP) *예약상품 (2023년 3월초 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20856&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20856&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Thu, 15 Dec 2022 05:36:09 GMT</pubDate>
             <content:encoded><![CDATA[59,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/05603c72dcd9ce7ca41fee9aa5574812.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eric Clapton / Unplugged (Vinyl, 2LP) *한정수량 할인 (추가할인 - 유의사항을 확인하세요) (김밥레코즈 ─ Bargain Bin)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20930&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20930&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Dec 2022 05:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/986f769c987b69bdf5c9febb752c4969.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Daft Punk / Alive 2007 (Vinyl, 2LP) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -584,6 +576,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201910/454379f60840ee787866f3061129f51e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Mount Kimbie / DJ Kicks (CD, EU Import) *2020 추석할인 (김밥레코즈 ─ Bargain Bin)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15719&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15719&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Dec 2022 17:35:52 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202011/1dde761e0f17aa5fe92b6d1a8792fdcc.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[크르르 Krr / 몽상집 (CD, 7인치 사이즈 패키징) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20933&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20933&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Dec 2022 17:35:58 GMT</pubDate>
+            <content:encoded><![CDATA[16,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/e0bbb14356a3e828c02a979cff89eaab.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[조월 Jowall / 아무것도 기념하지 않는 To Celebrate Nothing (CD) *12월 29일 목요일 발송 (김밥레코즈 ─ CD ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20929&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20929&amp;cate_no=29&amp;display_group=1</guid>
@@ -670,14 +678,6 @@
             <pubDate>Thu, 01 Dec 2022 05:37:46 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/730b2c2e4fb95554192fc0b665e1e97a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신해경 / 나의 가역반응 (CD, 재발매) (김밥레코즈 ─ CD ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20771&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20771&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Thu, 01 Dec 2022 05:37:46 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/fe776fc2dda8a997c7d88ca9b7f37844.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Julia Jacklin / PRE PLEASURE (CD, gatefold sleeve) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
@@ -1912,12 +1912,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201702/6380_shop1_808423.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[U2 / INNOCENCE + EXPERIENCE LIVE IN PARIS (DELUXE EDITION) (2DVD) (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=4529&amp;cate_no=64&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=4529&amp;cate_no=64&amp;display_group=1</guid>
-            <pubDate>Mon, 14 Nov 2022 05:45:57 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201607/4529_shop1_208466.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[B.B. King / Live At Montreux 1993 (DVD, NTSC Version) *한정수량 할인 (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20017&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20017&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Dec 2022 17:37:12 GMT</pubDate>
+            <content:encoded><![CDATA[16,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/0523a093919d19ab88bdcdc0b3ed7fc2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

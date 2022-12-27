@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 05:37:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 17:37:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아우릴고트 / 죽을힘을 다하여 (Red Transparent Vinyl, 500매 한정반) *예약상품 (12월 30일 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20880&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20880&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 20 Dec 2022 05:35:57 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/3081be8d19d984ac9f659e8ded38c8ea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[eldon 엘던 / Do monsters love too? (180g Black Vinyl) *예약상품 (23년 5월 18일 발매)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20875&amp;cate_no=42&amp;display_group=1</link>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 20 Dec 2022 17:36:07 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/324d9325f40f1e0dd5b5fda11bd0d470.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[아우릴고트 / 죽을힘을 다하여 (Red Transparent Vinyl, 500매 한정반) *예약상품 (12월 30일 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20880&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20880&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 20 Dec 2022 05:35:57 GMT</pubDate>
-            <content:encoded><![CDATA[42,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/3081be8d19d984ac9f659e8ded38c8ea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Various Artists / Pacific Breeze Pacific Breeze Volume 3: Japanese City Pop, AOR & Boogie 1975-1987 (Green Vinyl, 2LP) *예약상품 (2023년 3월초 발송 예정)]]></title>

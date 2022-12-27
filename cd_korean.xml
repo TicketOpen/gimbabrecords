@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 05:37:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 17:37:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크르르 Krr / 몽상집 (CD, 7인치 사이즈 패키징)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20933&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20933&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Dec 2022 17:35:58 GMT</pubDate>
+            <content:encoded><![CDATA[16,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/e0bbb14356a3e828c02a979cff89eaab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조월 Jowall / 아무것도 기념하지 않는 To Celebrate Nothing (CD) *12월 29일 목요일 발송]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20929&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 01 Dec 2022 05:37:46 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/730b2c2e4fb95554192fc0b665e1e97a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신해경 / 나의 가역반응 (CD, 재발매)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20771&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20771&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Thu, 01 Dec 2022 05:37:46 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/fe776fc2dda8a997c7d88ca9b7f37844.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
