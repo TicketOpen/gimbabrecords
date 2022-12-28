@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 05:37:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 17:37:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에이비티비 ABTB / iii (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20939&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20939&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Wed, 28 Dec 2022 17:35:46 GMT</pubDate>
+            <content:encoded><![CDATA[22,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/641077518f0bccabec0322922e979282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예람 / 세상의 끝에서 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20938&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20938&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Wed, 28 Dec 2022 17:35:46 GMT</pubDate>
+            <content:encoded><![CDATA[20,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/7d55b02941222ccd64b7ce771332745d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크르르 Krr / 몽상집 (CD, 7인치 사이즈 패키징)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20933&amp;cate_no=29&amp;display_group=1</link>
@@ -16,7 +32,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/e0bbb14356a3e828c02a979cff89eaab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[조월 Jowall / 아무것도 기념하지 않는 To Celebrate Nothing (CD) *12월 29일 목요일 발송]]></title>
+            <title><![CDATA[조월 Jowall / 아무것도 기념하지 않는 To Celebrate Nothing (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20929&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20929&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Mon, 26 Dec 2022 17:36:01 GMT</pubDate>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 06 Dec 2022 17:36:26 GMT</pubDate>
             <content:encoded><![CDATA[16,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/357ad87fb1df31c7173436b2d836aba8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마냉 / zzonzzo ultimate (2CD + CD only 트랙 + 28p 부클릿)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20797&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20797&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Fri, 02 Dec 2022 17:36:22 GMT</pubDate>
-            <content:encoded><![CDATA[22,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/4aca5f6974e7785aa92910f863704d85.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신해경 / 최저낙원 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20772&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20772&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Thu, 01 Dec 2022 05:37:46 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/730b2c2e4fb95554192fc0b665e1e97a.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
