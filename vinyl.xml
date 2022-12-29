@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 05:37:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 17:37:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST / Tom Sawyer 톰 소여의 모험 (Générique De La Série Télévisée) (12" Green Vinyl, 45RPM, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20971&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20971&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Dec 2022 17:35:43 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/5f80a7a7565c415eedc65a5480339d24.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / WALLS AND PALS Presents - Pals FM: Floor Materials Vol.2 (12" Vinyl, 33 1/3 rpm) *압축포장 없이 출고된 상품입니다.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20970&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20970&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Dec 2022 17:35:43 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/5c0bbff756965bf6f508c24a5abbad62.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Thelonious Monk / Genius of Modern Music, Vol. 1 (180g Vinyl, Blue Note Classic Vinyl Series)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20965&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 28 Dec 2022 17:35:13 GMT</pubDate>
             <content:encoded><![CDATA[88,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/25f0f553d9b796c1d8f56b5c5a5dd986.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마그마 / 알 수 없어, 해야 (150g Splatter Colored Vinyl + 카세트 테이프, 300장 초회 한정반) *1인 1매 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20954&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20954&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 28 Dec 2022 17:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[48,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/184216194b9bd3b9e44e9bb5bfd0e0e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마그마 / 알 수 없어, 해야 (150g Black Vinyl + 카세트 테이프, 200장 초회 한정반) *1인 1매 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20953&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20953&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 28 Dec 2022 17:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[48,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/184216194b9bd3b9e44e9bb5bfd0e0e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 05:37:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 17:37:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[edbl & friends / James Berkeley (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20972&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20972&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Dec 2022 17:36:23 GMT</pubDate>
+            <content:encoded><![CDATA[30,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/7978b1ad31fae77c9cca6258ccc0fafc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Michael Head & The Red Elastic Band / Dear Scott (CD, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20968&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 07 Dec 2022 17:36:36 GMT</pubDate>
             <content:encoded><![CDATA[26,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/0807a54f71490fbbc3d97529509e3bd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Cars / Original Album Series (5CD Box Set) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20834&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20834&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Wed, 07 Dec 2022 17:36:36 GMT</pubDate>
-            <content:encoded><![CDATA[26,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/9de50a97b37152c9b3b4db85dbcbe578.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
