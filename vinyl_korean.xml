@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 05:37:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 17:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해파리 HAEPAARY / 부러울 것이 없어라 Nothing to Envy (7" Vinyl, Limited to 500)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21028&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21028&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 04 Jan 2023 17:38:37 GMT</pubDate>
+            <content:encoded><![CDATA[31,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/740cfff2dc5dca34863e4fe921b1a1df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[들국화 / Best (180g Black Vinyl, 한정반) *1인 1매만 구매 가능]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21015&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 20 Dec 2022 05:37:24 GMT</pubDate>
             <content:encoded><![CDATA[42,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/3081be8d19d984ac9f659e8ded38c8ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[eldon 엘던 / Do monsters love too? (180g Black Vinyl) *예약상품 (23년 5월 18일 발매)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20875&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20875&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Mon, 19 Dec 2022 05:37:24 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/045066557d1b2766c52c4a7cfd741f57.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
