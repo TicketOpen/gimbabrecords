@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 17:36:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 05:37:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HYBS / Making Steak (Vinyl, Blue Colored Vinyl) *예약상품 (2월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21027&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21027&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 04 Jan 2023 05:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[59,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/1a7473267cc4ffc9b343d067da3c5bfe.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Radwimps & 陣内一真 / 스즈메의 문단속 애니메이션 음악 (Suzume no Tojimari OST) (Vinyl, 2LP) *예약상품 (5월 20일 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21018&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 15 Dec 2022 05:36:09 GMT</pubDate>
             <content:encoded><![CDATA[59,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/05603c72dcd9ce7ca41fee9aa5574812.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / Pacific Breeze Pacific Breeze Volume 3: Japanese City Pop, AOR & Boogie 1975-1987 (Pink Vinyl, 2LP) *예약상품 (2023년 3월초 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20857&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20857&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 30 Dec 2022 17:35:41 GMT</pubDate>
-            <content:encoded><![CDATA[59,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/b6395b3bb9be8370cdad3eb9ea08378f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
