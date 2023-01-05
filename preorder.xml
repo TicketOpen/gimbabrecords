@@ -4,11 +4,27 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 05:37:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 17:37:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[edbl & Kazuki Isogai/ The edbl × Kazuki Sessions (Vinyl) *예약상품 (1월 26일 이후 배송)]]></title>
+            <title><![CDATA[HYBS / Making Steak (Vinyl, Blue Colored Vinyl) *예약상품 (2월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21027&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21027&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 04 Jan 2023 05:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[59,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/1a7473267cc4ffc9b343d067da3c5bfe.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Ryo Yoshimata) / 냉정과 열정 사이 (冷静と情熱のあいだ, Calmi Cuori Appassionati) (Exclusive Red Colored Vinyl) *2차 예약 (1월 중순에 배송이 시작됩니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20428&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20428&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 05 Jan 2023 17:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[55,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/4596ac5c8964d5946c6703a16309a16e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[edbl & Kazuki Isogai / The edbl × Kazuki Sessions (Vinyl) *예약상품 (1월 26일 이후 배송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21011&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21011&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Thu, 05 Jan 2023 05:36:02 GMT</pubDate>
@@ -30,14 +46,6 @@
             <pubDate>Thu, 05 Jan 2023 05:36:02 GMT</pubDate>
             <content:encoded><![CDATA[28,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/d1b8ab0af7bcaf8980791780cc0fae4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HYBS / Making Steak (Vinyl, Blue Colored Vinyl) *예약상품 (2월초 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21027&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21027&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 04 Jan 2023 05:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[59,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/1a7473267cc4ffc9b343d067da3c5bfe.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Radwimps & 陣内一真 / 스즈메의 문단속 애니메이션 음악 (Suzume no Tojimari OST) (Vinyl, 2LP) *예약상품 (5월 20일 배송 예정)]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 20 Dec 2022 17:36:07 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/5bb3ba0eef54642e49609c277dfb1ebf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[신중현과 뮤직파워 / 2집 (180g Vinyl, 2000장 한정반) *예약상품 (1월 19일 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20388&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20388&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 20 Dec 2022 17:36:07 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/324d9325f40f1e0dd5b5fda11bd0d470.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
