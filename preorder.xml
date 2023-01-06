@@ -4,9 +4,49 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 17:37:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 05:37:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[edbl & friends / James Berkeley (Vinyl) *예약상품 (1월 30일 이후 배송 시작)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21040&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21040&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 06 Jan 2023 05:36:06 GMT</pubDate>
+            <content:encoded><![CDATA[41,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/9aceb44217a844c4458c009932bd1df4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[edbl & Kazuki Isogai / The edbl × Kazuki Sessions (Vinyl) *예약상품 (1월 26일 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21011&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21011&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 05 Jan 2023 05:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[46,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/66c8ab6c0b94a31c01ca5aae3aeeceb2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양다일 / our joys and sadnesses (180g Clear Vinyl, 한정반) *예약상품 (1월 12일 발매) / 1인 1매만 구매 가능 / 별도의 입금기한 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21047&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21047&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 06 Jan 2023 05:36:06 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/3003c92f6ff9f1b7c5a40878ab9565eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양다일 / inside (180g Opaque White Vinyl, 한정반) *예약상품 (1월 12일 발매) / 1인 1매만 구매 가능 / 별도의 입금기한 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21046&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21046&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 06 Jan 2023 05:36:06 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/7a8072b0efb9b334740c19bd03f10bf3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신중현과 엽전들 / 1집 (180g Vinyl, 2000장 한정반) *예약상품 (1월 19일 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20385&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20385&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 20 Dec 2022 17:36:07 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/bcafd08cc7fe11b0f4f920f638ea6f36.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[HYBS / Making Steak (Vinyl, Blue Colored Vinyl) *예약상품 (2월초 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21027&amp;cate_no=42&amp;display_group=1</link>
@@ -22,14 +62,6 @@
             <pubDate>Thu, 05 Jan 2023 17:36:16 GMT</pubDate>
             <content:encoded><![CDATA[55,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/4596ac5c8964d5946c6703a16309a16e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[edbl & Kazuki Isogai / The edbl × Kazuki Sessions (Vinyl) *예약상품 (1월 26일 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21011&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21011&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 05 Jan 2023 05:36:02 GMT</pubDate>
-            <content:encoded><![CDATA[46,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/66c8ab6c0b94a31c01ca5aae3aeeceb2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Grey October Sound / Lo-Fi Ghibli (Vinyl) *예약상품 (1월 26일 이후 배송)]]></title>
@@ -70,38 +102,6 @@
             <pubDate>Thu, 22 Dec 2022 17:35:23 GMT</pubDate>
             <content:encoded><![CDATA[46,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/fe1889ff134ba81455ef2a81f3d34384.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 / 6집 조금만 기다려요 (180g Black Vinyl, 2,500장 넘버링 한정반) *예약상품 (23년 2월 16일 발매)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20911&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20911&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 22 Dec 2022 17:35:23 GMT</pubDate>
-            <content:encoded><![CDATA[46,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/c5f017de78ce01a0123351b88d5c54b2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신중현과 엽전들 / 1집 (180g Vinyl, 2000장 한정반) *예약상품 (1월 19일 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20385&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20385&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 20 Dec 2022 17:36:07 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/bcafd08cc7fe11b0f4f920f638ea6f36.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[신중현과 엽전들 / 2집 산아 강아, 뭉치자 (180g Vinyl, 2000장 한정반) *예약상품 (1월 19일 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20386&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20386&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 20 Dec 2022 17:36:07 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/6bfb07138f4070fb5310ea2be186f506.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[신중현과 뮤직파워 / 1집 (180g Vinyl, 2000장 한정반) *예약상품 (1월 19일 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20387&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20387&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 20 Dec 2022 17:36:07 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/5bb3ba0eef54642e49609c277dfb1ebf.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
