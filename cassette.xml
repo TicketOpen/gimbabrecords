@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 05:37:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 17:37:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/1aea0d72bf8c21d5879f19f3b8d0afbf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Hookuo 후쿠오 / Mild Dawn City Vol. 2 (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20725&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20725&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Mon, 28 Nov 2022 17:37:48 GMT</pubDate>
-            <content:encoded><![CDATA[17,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/21f06f0fab900e35a7da18c707786ac9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[신모래 x 글램 굴드 / Dear. J (Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20724&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20724&amp;cate_no=26&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Fri, 25 Nov 2022 17:36:38 GMT</pubDate>
             <content:encoded><![CDATA[29,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/f8cdfce0a4d4c715b41487c234faf562.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ashe / Rae (Light Gray Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20567&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20567&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Sat, 07 Jan 2023 17:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/25fecc18c62f8fd67b76b3e89946304e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
