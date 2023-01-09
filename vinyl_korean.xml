@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 05:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 17:40:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진수영 Chin Sooyoung / Saul Leiter: Through the Blurry Window (180g Vinyl) *1/12 목요일부터 발송됩니다.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21072&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21072&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 09 Jan 2023 17:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/7793a99abd27fb6fa309039f58afccca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[양다일 / our joys and sadnesses (180g Clear Vinyl, 한정반) *예약상품 (1월 12일 발매) / 1인 1매만 구매 가능 / 별도의 입금기한 설정]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21047&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 28 Dec 2022 17:36:59 GMT</pubDate>
             <content:encoded><![CDATA[44,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/49e670147a0cd6970078538248e6e6b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3호선 버터플라이 / Dreamtalk (180g 2LP Box Set, 한정반) *1인 1매 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20955&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20955&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Wed, 28 Dec 2022 17:36:59 GMT</pubDate>
-            <content:encoded><![CDATA[88,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/25f0f553d9b796c1d8f56b5c5a5dd986.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
