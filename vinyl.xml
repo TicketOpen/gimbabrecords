@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 05:37:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 17:46:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Beatles / Revolver (2022 New Mix Vinyl + Tote Bag Box Set 2022년 새로운 믹싱을 거쳐 발매된 바이닐 + 천가방)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21086&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21086&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 12 Jan 2023 17:44:51 GMT</pubDate>
+            <content:encoded><![CDATA[75,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/2e5adf6462db196b4bf2a3f834c1946d.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[검은잎들 / 책이여,안녕! (140g Black Vinyl) *예약상품 (1월 27일 발매 / 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21084&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21084&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 12 Jan 2023 17:44:51 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/09a34258235739a49f56f3dd303db0ec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장필순 / 4집 (Vinyl, 2022 Remastered)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21080&amp;cate_no=25&amp;display_group=1</link>
@@ -72,7 +88,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/4dc9ebac61b1abdd3019c0678351c6ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[진수영 Chin Sooyoung / Saul Leiter: Through the Blurry Window (180g Vinyl) *1/12 목요일부터 발송됩니다.]]></title>
+            <title><![CDATA[진수영 Chin Sooyoung / Saul Leiter: Through the Blurry Window (180g Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21072&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21072&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Mon, 09 Jan 2023 17:38:36 GMT</pubDate>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 09 Jan 2023 17:38:36 GMT</pubDate>
             <content:encoded><![CDATA[34,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/abf006a55c1e4cd8bfd4d6ed1de0b363.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zaz / Isa (Vinyl, 2LP) *할인상품 (쟈켓 모서리에 눌림자국 및 주름이 있습니다. 상세설명을 참조하세요.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21070&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21070&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 09 Jan 2023 17:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[33,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/7a415089b35f97e5402db7e9fc2a5c52.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST / Notting Hill 노팅힐 (180g Black Vinyl) *추가 할인상품 (쟈켓 모서리에 눌림 자국이 있습니다. 상세설명을 참조하세요.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21069&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21069&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 09 Jan 2023 17:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[35,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/20191214/5ac93d1c1ad6f6914d5ad4be4bdadd0a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

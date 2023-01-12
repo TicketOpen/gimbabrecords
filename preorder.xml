@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 05:37:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 17:46:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검은잎들 / 책이여,안녕! (140g Black Vinyl) *예약상품 (1월 27일 발매 / 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21084&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21084&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 12 Jan 2023 17:45:10 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/09a34258235739a49f56f3dd303db0ec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST / 냉정과 열정 사이 OST (Blue Colored Vinyl) *예약상품 (2023년 1월 30일 발매 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20429&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 22 Dec 2022 17:35:23 GMT</pubDate>
             <content:encoded><![CDATA[46,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/b7a4d7c78817f16e832307876a63e5f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 / 5집 한낮의 모래시계 (180g Black Vinyl, 2,500장 넘버링 한정반) *예약상품 (23년 2월 16일 발매)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20910&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20910&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 11 Jan 2023 05:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[46,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/fe1889ff134ba81455ef2a81f3d34384.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
