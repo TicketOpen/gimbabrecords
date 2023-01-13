@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ CD ─ Classical/Crossover</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 17:46:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 17:37:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Wed, 16 Nov 2022 05:46:02 GMT</pubDate>
             <content:encoded><![CDATA[11,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/5652a9bf2866f11978fdb73ceb11c75d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rachel's / Handwriting (Vinyl, folded sleeve)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20536&amp;cate_no=50&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20536&amp;cate_no=50&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 05:46:02 GMT</pubDate>
-            <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201909/13e7d13dde0ae829d1e3784827253949.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Ludovico Einaudi / Seven Days Walking Day One (CD, Trifold Sleeve) *한정수량 할인]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 16 Nov 2022 05:46:02 GMT</pubDate>
             <content:encoded><![CDATA[22,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/3697d3313a65dd939c252b2f86faae97.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[John Zorn / The Hermetic Organ Vol 6--For Edgar Allan Poe (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18354&amp;cate_no=50&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18354&amp;cate_no=50&amp;display_group=1</guid>
+            <pubDate>Fri, 13 Jan 2023 17:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/a57ae5ac9a6ce98de01a95ef75b523f2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
