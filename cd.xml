@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 05:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 17:36:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ryo Kawasaki / Juice (CD, EU Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21128&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21128&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 17 Jan 2023 17:34:47 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/73ebf8b91b9627525f57211aee70b7e8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Nino Rota) / The Godfather 대부 (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21127&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21127&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 17 Jan 2023 17:34:47 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/621a05570948bf2dd92a93777f830f7a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[N.W.A / Efil4zaggin / 100 Miles And Runnin' (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21126&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21126&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 17 Jan 2023 17:34:47 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/786e93b07223a83c173046b4f0d5355f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Marcos Valle / The Essential Marcos Valle Volume 2 (CD, EU Import) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21125&amp;cate_no=24&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Fri, 13 Jan 2023 17:35:19 GMT</pubDate>
             <content:encoded><![CDATA[28,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/183d4ac59ce9ce029227479f30efb62a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gil Scott-Heron / Original Album Classics (3CD Box) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21112&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21112&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 13 Jan 2023 17:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[22,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/11d79c2d9d418d262b22b835f3a27f9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Earth, Wind & Fire / Original Albums Classics (5CD Box) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21111&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21111&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 13 Jan 2023 17:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c14ce9dbec011b90c214db2a8e81eac5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Al Di Meola / Original Albums Classics (5CD Box) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21110&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21110&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 13 Jan 2023 17:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/d18a8712f7c1959910baff4f41bbd6d5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
