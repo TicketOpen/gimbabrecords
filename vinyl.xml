@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 05:38:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 17:37:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tengger / Nomad (Kelly Green Vinyl + Download Card, Indie Exclusive)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21142&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21142&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 18 Jan 2023 17:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[29,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/174e7e1d452ed8bbaf7b1775b94caad5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윈디시티 Windy City / Psychedelicious City (180g Beer Yellow Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21141&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 17 Jan 2023 17:34:54 GMT</pubDate>
             <content:encoded><![CDATA[45,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/d2fcef3d7ef5390c9354ca082fdd5286.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Harry Becket / Flare Up (180g Vinyl, Flip-back Cover, British Jazz Explosion Series)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21130&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21130&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 17 Jan 2023 17:34:54 GMT</pubDate>
-            <content:encoded><![CDATA[45,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/45b53528103262c7384e07d58c08b885.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
