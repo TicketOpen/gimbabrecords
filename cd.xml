@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 05:37:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 17:39:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,7 +88,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/0e10431d76156247f5c942b1a67a2485.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sly & The Family Stone / Original Albums Classics (5CD Box) *한정수량 할인]]></title>
+            <title><![CDATA[Sly & The Family Stone / Original Album Classics (5CD Box) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21114&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21114&amp;cate_no=24&amp;display_group=1</guid>
             <pubDate>Fri, 13 Jan 2023 17:35:19 GMT</pubDate>
@@ -96,12 +96,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e8991a21236fd5a5ea94e0cb3e0e1e34.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Journey / Original Albums Classics (5CD Box) *한정수량 할인]]></title>
+            <title><![CDATA[Journey / Original Album Classics (5CD Box) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21113&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21113&amp;cate_no=24&amp;display_group=1</guid>
             <pubDate>Fri, 13 Jan 2023 17:35:19 GMT</pubDate>
             <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/183d4ac59ce9ce029227479f30efb62a.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/f162a38ca8d3f2071e155e4b6d63dd5d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
