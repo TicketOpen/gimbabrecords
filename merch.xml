@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Movies/Merch</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 05:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 17:37:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rega(레가) Planar 1 턴테이블 (블랙, 화이트 색상 선택) + FONO MINI A2D MK2 (포노앰프) 묶음 한정할인 (+보너스 레코드 증정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21173&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21173&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Tue, 24 Jan 2023 17:35:45 GMT</pubDate>
+            <content:encoded><![CDATA[750,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/22bb1666512355ec85d6885b9513390f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Beatles / Revolver (2022 New Mix Vinyl + Tote Bag Box Set 2022년 새로운 믹싱을 거쳐 발매된 바이닐 + 천가방)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21086&amp;cate_no=27&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 05:44:41 GMT</pubDate>
             <content:encoded><![CDATA[1,380,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/259f81db7940fa9ac47aa9922c2786dd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rega(레가) Planar 2 턴테이블 (블랙, 화이트 색상 선택) *보너스 레코드 증정]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19662&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19662&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 05:44:41 GMT</pubDate>
-            <content:encoded><![CDATA[905,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/666f0a1d5a5bdced17eed0e6af5b9934.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
