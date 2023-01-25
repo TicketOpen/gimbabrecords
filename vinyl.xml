@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 05:37:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 17:37:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Carole King / Her Greatest Hits (Songs Of Long Ago) (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21174&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21174&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 25 Jan 2023 17:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[30,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/120f8630f357d2efba0e0d3642d96643.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윈디시티 Windy City / Countryman’s Vibration (Brown & Orange Vinyl, 2LP) *예약상품 / 1인 1매만 구매가능 / 별도의 입금기한 설정]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21168&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 20 Jan 2023 05:35:59 GMT</pubDate>
             <content:encoded><![CDATA[55,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/65dc3057899794d738c3f264a5898e39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Quartet featuring Scott Hamilton / Smoke Gets In Your Eyes Vol. 2 (Vinyl, Venus Records 한정반) *예약상품 (3월 하순 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21149&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21149&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Jan 2023 05:35:59 GMT</pubDate>
-            <content:encoded><![CDATA[55,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/0e01b08ecba44c54f982a4e86baf30ab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

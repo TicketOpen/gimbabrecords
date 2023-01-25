@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 05:37:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 17:37:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 22 Dec 2022 17:36:53 GMT</pubDate>
             <content:encoded><![CDATA[84,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/46b311d1cc4c3f8d5dda092b825d21b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[King Crimson / In The Court Of The Crimson King - King Crimson at 50 (A Film By Toby Amies) (Blu-Ray + DVD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20701&amp;cate_no=64&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20701&amp;cate_no=64&amp;display_group=1</guid>
-            <pubDate>Fri, 25 Nov 2022 17:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[36,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/1bfbcfab3a692e9dd51d278e96043427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Peanuts Deluxe Holiday Collection (Ultimate Collector's Edition) (Blu-ray + DVD Pack + Snowglobe & Window Clings) *할인상품]]></title>
@@ -86,6 +78,14 @@
             <pubDate>Mon, 14 Nov 2022 05:45:57 GMT</pubDate>
             <content:encoded><![CDATA[21,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201702/6380_shop1_808423.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[King Crimson / In The Court Of The Crimson King - King Crimson at 50 (A Film By Toby Amies) (Blu-Ray + DVD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20701&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20701&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Fri, 25 Nov 2022 17:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/1bfbcfab3a692e9dd51d278e96043427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[B.B. King / Live At Montreux 1993 (DVD, NTSC Version) *한정수량 할인]]></title>
