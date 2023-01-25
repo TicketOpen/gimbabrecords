@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 17:37:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 05:37:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/259f81db7940fa9ac47aa9922c2786dd.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Eddie Higgins Trio / Dear Old Stockholm Vol. 2 (Vinyl, Venus Records 한정반) *예약상품 (3월 하순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21144&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21144&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 20 Jan 2023 05:36:20 GMT</pubDate>
+            <content:encoded><![CDATA[55,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/384373e7f8b93bd007921e6f8f04bf70.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윈디시티 Windy City / Countryman’s Vibration (Brown & Orange Vinyl, 2LP) *예약상품 / 1인 1매만 구매가능 / 별도의 입금기한 설정 (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21168&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21168&amp;cate_no=42&amp;display_group=1</guid>
@@ -462,14 +470,6 @@
             <pubDate>Fri, 20 Jan 2023 05:36:20 GMT</pubDate>
             <content:encoded><![CDATA[55,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/6a7ad6669b53c440971a746ae082441c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio / Dear Old Stockholm Vol. 2 (Vinyl, Venus Records 한정반) *예약상품 (3월 하순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21144&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21144&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Jan 2023 05:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[55,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/384373e7f8b93bd007921e6f8f04bf70.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신중현과 엽전들 / 1집 (180g Vinyl, 2000장 한정반) *예약상품 (1월 31일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
