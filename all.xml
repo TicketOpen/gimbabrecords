@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 17:37:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 05:38:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,36 +392,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/666f0a1d5a5bdced17eed0e6af5b9934.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[이현도 / The New Classik Instrumentals (Yellow Clear Vinyl + Bonus 7" Vinyl) *예약상품 / 별도의 입금기한 설정 (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21176&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21176&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 26 Jan 2023 05:35:54 GMT</pubDate>
-            <content:encoded><![CDATA[52,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/f4f08118c5263577c4b41f32a5b7eac9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio / Dear Old Stockholm Vol. 2 (Vinyl, Venus Records 한정반) *예약상품 (3월 하순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21144&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21144&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Jan 2023 05:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[55,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/384373e7f8b93bd007921e6f8f04bf70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[윈디시티 Windy City / Countryman’s Vibration (Brown & Orange Vinyl, 2LP) *예약상품 / 1인 1매만 구매가능 / 별도의 입금기한 설정 (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21168&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21168&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Fri, 20 Jan 2023 17:35:20 GMT</pubDate>
             <content:encoded><![CDATA[60,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/64ecac9114e8814562a9d408ca765d1e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Os Novos Baianos / Acabou Chorare (Yellow & Blue Transparent Split Vinyl, 50th Anniversary RSD Black Friday Edition, Limited to 500) *예약상품 (2월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21105&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21105&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 17 Jan 2023 17:35:12 GMT</pubDate>
-            <content:encoded><![CDATA[47,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/00aac2511c62de1b89461edd53a20f03.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Eddie Higgins Quintet featuring Scott Hamilton & Ken Peplowski / It's Magic Vol. 2 (Vinyl, Venus Records 한정반) *예약상품 (3월 하순 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -472,12 +448,36 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/5439b304be644c63b2565dd32b3e798e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Eddie Higgins Trio / Dear Old Stockholm Vol. 2 (Vinyl, Venus Records 한정반) *예약상품 (3월 하순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21144&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21144&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 20 Jan 2023 05:36:20 GMT</pubDate>
+            <content:encoded><![CDATA[55,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/384373e7f8b93bd007921e6f8f04bf70.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Eddie Higgins Trio / If Dreams Come True Vol. 2 (Vinyl, Venus Records 한정반) *예약상품 (3월 하순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21143&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21143&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Fri, 20 Jan 2023 05:36:20 GMT</pubDate>
             <content:encoded><![CDATA[55,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/6a7ad6669b53c440971a746ae082441c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이현도 / The New Classik Instrumentals (Yellow Clear Vinyl + Bonus 7" Vinyl) *예약상품 / 별도의 입금기한 설정 (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21176&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21176&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 26 Jan 2023 05:35:54 GMT</pubDate>
+            <content:encoded><![CDATA[52,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/f4f08118c5263577c4b41f32a5b7eac9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Os Novos Baianos / Acabou Chorare (Yellow & Blue Transparent Split Vinyl, 50th Anniversary RSD Black Friday Edition, Limited to 500) *예약상품 (2월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21105&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21105&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 17 Jan 2023 17:35:12 GMT</pubDate>
+            <content:encoded><![CDATA[47,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/00aac2511c62de1b89461edd53a20f03.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신중현과 엽전들 / 1집 (180g Vinyl, 2000장 한정반) *예약상품 (1월 31일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
