@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jan 2023 05:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 17:37:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김상희 / Love Story (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21190&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21190&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Sat, 28 Jan 2023 17:36:12 GMT</pubDate>
+            <content:encoded><![CDATA[26,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/03fa518235c51c58df4c17ed0972586c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김상희 / Sings Tom Jones & Burt Bacharach (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21189&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21189&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Sat, 28 Jan 2023 17:36:12 GMT</pubDate>
+            <content:encoded><![CDATA[26,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/fb7d802415fc6174df4fca1d568bc558.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Hathaw9y 해서웨이 / LOVE (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21045&amp;cate_no=29&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 08 Dec 2022 17:36:11 GMT</pubDate>
             <content:encoded><![CDATA[11,100원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/36b153a787f021e3c339b0117374bb6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설 Surl / 정규 1집 of us (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20822&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20822&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Wed, 07 Dec 2022 05:36:26 GMT</pubDate>
-            <content:encoded><![CDATA[14,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/3117117f4149c6b9e67fcf943df4c89d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[oddeen / odnstock.com (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20812&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20812&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Tue, 06 Dec 2022 17:36:26 GMT</pubDate>
-            <content:encoded><![CDATA[16,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/0297b1b8d16d82e58c8b9f29ae7d3acf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
