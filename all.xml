@@ -4,200 +4,248 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 05:37:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 17:37:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Stanley Turrentine / Rough `N Tumble (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21193&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21193&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sat, 28 Jan 2023 17:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/7536426066c3e59ad19bae39e7067ae8.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[May Blitz / May Blitz (CD, JPN Import) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21217&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21217&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/1eb68122d491803b09506a229ce4c5d5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Lou Donaldson / Sassy Soul Strut (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21192&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21192&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sat, 28 Jan 2023 17:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e7f5d0e51ecb2654689b07c3a1fd7fd6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Gracious / Gracious (CD, JPN Import) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21216&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21216&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/13b53eee81ee2fcd83d71b6509dff4bd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김상희 / Love Story (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21190&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21190&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sat, 28 Jan 2023 17:35:33 GMT</pubDate>
+            <title><![CDATA[Clear Blue Sky / Clear Blue Sky (CD, JPN Import) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21215&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21215&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/6ce112fcfb07a9ca845dcb0a40a020cc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The World Of Oz / The World Of Oz (CD, JPN Import) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21214&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21214&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/69a83e5e7795c5cb7de74d9b45017d57.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mark-Almond / Mark-Almond (CD, JPN Import) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21213&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21213&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c45f8f0bd26702c1d0bfbc7b4e7c398f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Magna Carta / Seasons (CD, JPN Import) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21212&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21212&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/1f6c14da4ed2b81312223797b497cd02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beggar's Opera / Act One (CD, JPN Import) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21211&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21211&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/6864afc447913182c5b8a48a2d8d06fb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tsuyoshi Yamamoto Trio / Falling In Love With You (CD, JPN Import) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21210&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21210&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[25,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/424a325fd21ec6501c181770619480a9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Opus Avantra / Lord Cromwell Plays Suite For Seven Vices (CD, JPN Import) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21209&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21209&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:04 GMT</pubDate>
             <content:encoded><![CDATA[26,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/03fa518235c51c58df4c17ed0972586c.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/4dc7f67ae2a45fcffa7506e4e475bfd3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김상희 / Sings Tom Jones & Burt Bacharach (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21189&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21189&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sat, 28 Jan 2023 17:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[26,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/fb7d802415fc6174df4fca1d568bc558.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Bill Evans / Live At Keystone Korner 1980: Vol.6 (CD, JPN Import) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21208&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21208&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/3420e911cdce8a01edebf5dfb5f896e3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Amy Winehouse / The Collection (5CD Box Set) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21181&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21181&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 27 Jan 2023 17:34:59 GMT</pubDate>
-            <content:encoded><![CDATA[32,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/019530cba90cdf28463f1407a36e87a0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Stacey Kent / The Boy Next Door (CD, JPN Import, Jazz Giants Series) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21207&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21207&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/1490f95a03a4bda1a3bd28e5c86ee8ab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[King Crimson / Discipline (CD, 30th Anniversary Edition) *할인상품 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21175&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21175&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 25 Jan 2023 17:35:31 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201807/11320_shop1_15308977559074.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[D.D. Jackson / Peace-Song (CD, JPN Import) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21206&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21206&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/763e3ebe27143695dedda714c0e31977.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[James Brown / Gold (2CD, 베스트 40곡 수록) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21172&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21172&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sat, 21 Jan 2023 05:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/a463c7030eff0dc127fd6ebd6313cd9e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Joe Hisaishi / Ponyo On The Cliff By The Sea: Soundtrack 벼랑 위의 포뇨 사운드트랙 (컬러바이닐 2LP, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21230&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21230&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/424087b6d4b05aea0f960a131cee4bdf.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[The Jackson 5 / Gold (2CD, 베스트 36곡 수록) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21171&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21171&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sat, 21 Jan 2023 05:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/1947231d5742e4140b491ab27cd6cec2.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Joe Hisaishi / Spirited Away: Soundtrack 센과 치히로의 행방불명 사운드트랙 (컬러바이닐 2LP, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21229&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21229&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/0b3dd346724f4a9e1ae999e0f3d53c61.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[The Commodores / Gold (2CD, 베스트 39곡 수록) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21170&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21170&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sat, 21 Jan 2023 05:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/9053752197a50cba080fa876ee3f38f5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Joe Hisaishi / Howl’s Moving Castle: Soundtrack 하울의 움직이는 성 사운드트랙 (컬러바이닐 2LP, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21228&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21228&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e75d7ba262093e454761a8fc043f99e4.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Charlie Haden & Brad Mehldau / Long Ago And Far Away (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21169&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21169&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Jan 2023 17:34:54 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/2ae29ecab7fb75729be381db42c596e3.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Joe Hisaishi / Princess Mononoke: Music from the Motion Picture 모노노케 히메 (원령공주) 사운드트랙 (컬러바이닐 2LP, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21227&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21227&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/dbe98dda18cb004945edbc50aea3a23c.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Red Hot Chili Peppers / Unlimited Love (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21167&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21167&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Jan 2023 17:34:54 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/7ada62ee4a34e8e3a3c79fb3f1f5556d.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Joe Hisaishi / Kiki's Delivery Service: Original Soundtrack 마녀 배달부 키키 사운드트랙 (컬러바이닐, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21226&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21226&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e285eac99c99c58c11ee5d888049cf5b.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Red Hot Chili Peppers / Return Of The Dream Canteen (CD, Deluxe Edition) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21166&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21166&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Jan 2023 17:34:54 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/4448bfd1296317f7fa09a440120f6302.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Joe Hisaishi / Porco Rosso: Original Soundtrack 붉은 돼지 사운드트랙 (컬러바이닐, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21225&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21225&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/3eb5062d7980503b6e34347f60f88989.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Grey October Sound / Lo-Fi Ghibli (Vinyl) *할인상품 (할인사유는 상품 상세 페이지 내용을 확인해 주세요) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21196&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21196&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 29 Jan 2023 17:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/2feeb21f655337fb9ed05a88187e282d.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Joe Hisaishi / Castle In The Sky: Soundtrack 천공의 섬 라퓨타 LAPUTA OST (컬러바이닐, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21224&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21224&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[63,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/170408491f289204c603df3d916405cb.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Grey October Sound / Lo-Fi Ghibli (Vinyl) *할인상품 (할인사유는 상품 상세설명을 확인해 주세요) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21195&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21195&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 29 Jan 2023 17:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[43,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/d4bcc4bffea300abfbf26289828cae90.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Joe Hisaishi / Nausicaa Of The Valley Of Wind: Soundtrack 바람의 계곡 나우시카 OST (컬러바이닐, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21223&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21223&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[55,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/1b9a5444233e4c8c1140e5a8b98120a7.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[A-Ha / Headlines & Deadlines: The Hits of A-Ha (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21191&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21191&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 28 Jan 2023 17:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[28,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/4f61b1d1e55e47605abee1ef44cab685.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Joe Hisaishi / My Neighbor Totoro: Soundtrack 이웃집 토토로 OST (컬러바이닐, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21222&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21222&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/d63cf9c2d8eb54c3cd71f701414b5206.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Oscar Peterson / Motions & Emotions (Black Vinyl w/ OBI, MPS 2018 Reissue) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21188&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21188&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 28 Jan 2023 17:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[36,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/d9dc92df5cafe0e1783caaaffedfa88f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[James Brown / Soul On Top (180g Vinyl, Verve By Request Series) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21221&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21221&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[37,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/a90bd1693eaa851e65f25522f98d30df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Oscar Peterson / Motions & Emotions (Limited Numbered Colored Vinyl - 일련번호가 표기된 컬러바이닐, 2021 AAA Reissue) *할인상품 (쟈켓 주름) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21187&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21187&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 28 Jan 2023 17:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[38,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/b5223c839802c290e9b1f207bf3e0f96.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Grant Green / Green Is Beautiful (180g Vinyl, Blue Note Classic Vinyl Series) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21220&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21220&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[37,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/39f17bdcc3b7c384901500c79575278a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[OST / 뷰티 인사이드 (2LP Color Vinyl, Limited Edition to 800매) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21182&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21182&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 27 Jan 2023 17:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[65,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/56cdf78ad0b3e4714b2f7a514cbc7e0f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Bobby Hutcherson, Harold Land - San Francisco (180g Vinyl, Blue Note Classic Vinyl Series) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21219&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21219&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[37,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e3796e2144dcbd125a747cd6accd6d6b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Various Artists / Jazz Dispensary: Haunted High (Pink Splatter Vinyl, RSD Black Friday 2022) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21180&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21180&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 27 Jan 2023 17:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[41,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/9821d953114d0c8d5e9a6b3d901f812f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Superorganism / World Wide Pop (Cassette) (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21204&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21204&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/8bed3aff36f6ba53afcd2b2f87bb17f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Souad Massi / Sequana (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21179&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21179&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 27 Jan 2023 17:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[41,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c3635240a001deafc4254388c7dbb921.png" length="0" type="image/png"/>
+            <title><![CDATA[Joy Orbison / Still Slipping Vol. 1 (Cassette) (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21203&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21203&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/ae8826c21520fa489919f90e32e771ad.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[뚜아에무아 / 너와 나, 없어도 되는 날 & 박인희 / 들 길, 봄이 오는 길 (180g Colored Vinyl, 2LP, 오아시스 걸작선 시리즈) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21178&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21178&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 26 Jan 2023 17:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[69,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/acc38ee49d1a0efb75ab2ecc6ce8ff0b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Iron Maiden / The Number Of The Beast (Cassette) (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21202&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21202&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/fe05d7c86b240fa5499f96f7ec46cc9c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤명운 / 정규 2집 명운이의 Blues 그를 아오? (180g Gold Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21177&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21177&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 26 Jan 2023 17:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/744101bd2775e990d5a2d9a2b8289fdc.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Hot Chip / Freakout/Release (Cassette) (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21201&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21201&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/7b82b2e9a20f0eef874616edf2416fce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이현도 / The New Classik Instrumentals (Yellow Clear Vinyl + Bonus 7" Vinyl) *예약상품 / 별도의 입금기한 설정 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21176&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21176&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 26 Jan 2023 05:35:35 GMT</pubDate>
-            <content:encoded><![CDATA[52,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/f4f08118c5263577c4b41f32a5b7eac9.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Alex G / God Save The Animals (Cassette) (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21200&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21200&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[21,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/6fb4d3a0dbc27a765a2256b81eba594e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Carole King / Her Greatest Hits (Songs Of Long Ago) (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21174&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21174&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 25 Jan 2023 17:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[30,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/120f8630f357d2efba0e0d3642d96643.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Adele / 30 (Cassette) (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21199&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21199&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[21,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/f21ca635c685249341086202162794ce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[왕가위 사운드트랙 카세트 3개 묶음 판매 4 (해피투게더 + 마이 블루베리 나이츠 + 첫사랑 카세트, 미니카드 3장 포함) - 한정판매 (김밥레코즈 ─ Cassette)]]></title>
@@ -246,54 +294,6 @@
             <pubDate>Tue, 03 Jan 2023 17:35:20 GMT</pubDate>
             <content:encoded><![CDATA[33,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/6a6d860deb8fef0ec215b05822d8b7d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Abba / Voyage (Alternative Cover, Limited Edition) *한정수량 할인판매 (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21006&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21006&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Fri, 30 Dec 2022 17:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[22,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/08c36970334499155187015170def2ba.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ABBA / Voyage (FR Artwork) (Limited Cassette) *한정수량 할인판매 (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21005&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21005&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Fri, 30 Dec 2022 17:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[21,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/c4c81ebf631641066e7c8d6a464aae32.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ABBA / Voyage (BJ Artwork) (Limited Cassette) *한정수량 할인 (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21004&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21004&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Fri, 30 Dec 2022 17:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[21,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/21395516b7881f01dcd0a150a8a8b33b.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ABBA / Voyage (AG Artwork) (Limited Cassette) *한정판매 / 한정수량 할인 (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21003&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21003&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Fri, 30 Dec 2022 17:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[21,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/e277d8dee3d1b5edf1cc702559d06bdd.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ABBA / Voyage (BE Art Work) (Limited Cassette) *한정판매 / 한정수량 할인 (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21002&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21002&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Fri, 30 Dec 2022 17:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[21,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/769e1a2f5ba86951fb6b07f073cd2e41.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / Pacific Breeze Pacific Breeze Volume 3: Japanese City Pop, AOR & Boogie 1975-1987 (Cassette) *예약상품 (2023년 3월초 발송 예정) (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20861&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20861&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Fri, 16 Dec 2022 05:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[23,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/465d481b9b982871d07ec02068a7b31b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Rega(레가) Planar 1 턴테이블 (블랙, 화이트 색상 선택) + FONO MINI A2D MK2 (포노앰프) 묶음 한정할인 (+보너스 레코드 증정) (김밥레코즈 ─ Movies/Merch)]]></title>
@@ -392,52 +392,76 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/666f0a1d5a5bdced17eed0e6af5b9934.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[HYBS / Making Steak (Vinyl, Blue Colored Vinyl) *예약상품 (2월말~3월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21027&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21027&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sat, 28 Jan 2023 05:36:09 GMT</pubDate>
-            <content:encoded><![CDATA[59,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/1a7473267cc4ffc9b343d067da3c5bfe.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Joe Hisaishi / Ponyo On The Cliff By The Sea: Soundtrack 벼랑 위의 포뇨 사운드트랙 (컬러바이닐 2LP, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21230&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21230&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/424087b6d4b05aea0f960a131cee4bdf.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[윈디시티 Windy City / Countryman’s Vibration (Brown & Orange Vinyl, 2LP) *예약상품 / 1인 1매만 구매가능 / 별도의 입금기한 설정 (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21168&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21168&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Jan 2023 17:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[60,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/64ecac9114e8814562a9d408ca765d1e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Joe Hisaishi / Spirited Away: Soundtrack 센과 치히로의 행방불명 사운드트랙 (컬러바이닐 2LP, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21229&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21229&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/0b3dd346724f4a9e1ae999e0f3d53c61.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Eddie Higgins Quintet featuring Scott Hamilton & Ken Peplowski / It's Magic Vol. 2 (Vinyl, Venus Records 한정반) *예약상품 (3월 하순 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21152&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21152&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Jan 2023 05:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[55,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/95e96b6e67d668b323bfde0d58c9845c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Joe Hisaishi / Princess Mononoke: Music from the Motion Picture 모노노케 히메 (원령공주) 사운드트랙 (컬러바이닐 2LP, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21227&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21227&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/dbe98dda18cb004945edbc50aea3a23c.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Eddie Higgins Quartet featuring Scott Hamilton / My Foolish Heart Vol. 2 (Vinyl, Venus Records 한정반) *예약상품 (3월 하순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21150&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21150&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Jan 2023 05:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[55,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/65dc3057899794d738c3f264a5898e39.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Joe Hisaishi / Howl’s Moving Castle: Soundtrack 하울의 움직이는 성 사운드트랙 (컬러바이닐 2LP, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21228&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21228&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e75d7ba262093e454761a8fc043f99e4.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Eddie Higgins Trio / Portraits of Love (Vinyl, Venus Records 한정반) *예약상품 (3월 하순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21148&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21148&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Jan 2023 05:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[55,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/d35ecb7b9245535f65ccc7cce815b635.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Joe Hisaishi / Porco Rosso: Original Soundtrack 붉은 돼지 사운드트랙 (컬러바이닐, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21225&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21225&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/3eb5062d7980503b6e34347f60f88989.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Eddie Higgins / Standards by Request 2nd day (Vinyl, Venus Records 한정반) *예약상품 (3월 하순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21147&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21147&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Jan 2023 05:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[55,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/30e69da8b4bf12f4235ed169b44ccd36.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Joe Hisaishi / Kiki's Delivery Service: Original Soundtrack 마녀 배달부 키키 사운드트랙 (컬러바이닐, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21226&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21226&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e285eac99c99c58c11ee5d888049cf5b.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joe Hisaishi / Castle In The Sky: Soundtrack 천공의 섬 라퓨타 LAPUTA OST (컬러바이닐, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21224&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21224&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[63,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/170408491f289204c603df3d916405cb.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joe Hisaishi / Nausicaa Of The Valley Of Wind: Soundtrack 바람의 계곡 나우시카 OST (컬러바이닐, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21223&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21223&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[55,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/1b9a5444233e4c8c1140e5a8b98120a7.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joe Hisaishi / My Neighbor Totoro: Soundtrack 이웃집 토토로 OST (컬러바이닐, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21222&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21222&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/d63cf9c2d8eb54c3cd71f701414b5206.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Eddie Higgins / Standards by Request 1st day (Vinyl, Venus Records 한정반) *예약상품 (3월 하순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -445,23 +469,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21146&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Fri, 20 Jan 2023 05:36:20 GMT</pubDate>
             <content:encoded><![CDATA[55,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/81acc4594cf817a50b88b0e0dd7de2a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio / Amor (Vinyl, Venus Records 한정반) *예약상품 (3월 하순 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21145&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21145&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Jan 2023 05:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[55,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/5439b304be644c63b2565dd32b3e798e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio / Dear Old Stockholm Vol. 2 (Vinyl, Venus Records 한정반) *예약상품 (3월 하순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21144&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21144&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Jan 2023 05:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[55,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/384373e7f8b93bd007921e6f8f04bf70.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/cd489d7754bd11d34e7c2c54c8ccb2be.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Eddie Higgins Trio / If Dreams Come True Vol. 2 (Vinyl, Venus Records 한정반) *예약상품 (3월 하순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -469,23 +477,15 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21143&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Fri, 20 Jan 2023 05:36:20 GMT</pubDate>
             <content:encoded><![CDATA[55,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/6a7ad6669b53c440971a746ae082441c.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/9a76aa1e59872709d91f9c7826d92e81.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이현도 / The New Classik Instrumentals (Yellow Clear Vinyl + Bonus 7" Vinyl) *예약상품 / 별도의 입금기한 설정 (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21176&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21176&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 26 Jan 2023 05:35:54 GMT</pubDate>
-            <content:encoded><![CDATA[52,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/f4f08118c5263577c4b41f32a5b7eac9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신중현과 엽전들 / 1집 (180g Vinyl, 2000장 한정반) *예약상품 (1월 31일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20385&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20385&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 20 Dec 2022 17:36:07 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/bcafd08cc7fe11b0f4f920f638ea6f36.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Eddie Higgins Trio / Dear Old Stockholm Vol. 2 (Vinyl, Venus Records 한정반) *예약상품 (3월 하순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21144&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21144&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 20 Jan 2023 05:36:20 GMT</pubDate>
+            <content:encoded><![CDATA[55,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/a1604350ece60af83d47e9859c4ee9f5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Robert Plant & Alison Krauss / Raising Sand (CD, EU import) *할인상품 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -680,6 +680,78 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/36b153a787f021e3c339b0117374bb6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[May Blitz / May Blitz (CD, JPN Import) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21217&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21217&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/1eb68122d491803b09506a229ce4c5d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gracious / Gracious (CD, JPN Import) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21216&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21216&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/13b53eee81ee2fcd83d71b6509dff4bd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Clear Blue Sky / Clear Blue Sky (CD, JPN Import) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21215&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21215&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/6ce112fcfb07a9ca845dcb0a40a020cc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The World Of Oz / The World Of Oz (CD, JPN Import) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21214&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21214&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/69a83e5e7795c5cb7de74d9b45017d57.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mark-Almond / Mark-Almond (CD, JPN Import) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21213&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21213&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c45f8f0bd26702c1d0bfbc7b4e7c398f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Magna Carta / Seasons (CD, JPN Import) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21212&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21212&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/1f6c14da4ed2b81312223797b497cd02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beggar's Opera / Act One (CD, JPN Import) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21211&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21211&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/6864afc447913182c5b8a48a2d8d06fb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Opus Avantra / Lord Cromwell Plays Suite For Seven Vices (CD, JPN Import) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21209&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21209&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[26,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/4dc7f67ae2a45fcffa7506e4e475bfd3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wishbone Ash / Pilgrimage (CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21198&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21198&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e132694df8a5b80997f1bb085dbab5ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Amy Winehouse / The Collection (5CD Box Set) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21181&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21181&amp;cate_no=30&amp;display_group=1</guid>
@@ -702,78 +774,6 @@
             <pubDate>Fri, 20 Jan 2023 17:35:38 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/7ada62ee4a34e8e3a3c79fb3f1f5556d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Hot Chili Peppers / Return Of The Dream Canteen (CD, Deluxe Edition) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21166&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21166&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Jan 2023 17:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/4448bfd1296317f7fa09a440120f6302.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Paolo Nutini / Last Night In The Bittersweet (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21165&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21165&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Jan 2023 17:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/edf3d9805b8c7652e69a4c9af3b04be2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Neil Young with Crazy Horse / World Record (2CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21164&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21164&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Jan 2023 17:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[20,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/765b50e84ba6e4e62885ec7bc7326eb2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Liam Gallagher / C'mon You Know (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21162&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21162&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Jan 2023 17:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/34a6043a8d6064b40211b4c295c15aa8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gilbert O’ Sullivan / The Best Of (3CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21161&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21161&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Jan 2023 17:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[13,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/4ad9e26063e34cb05b0a19aa506ca2bb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Sabbath / Heaven and Hell (2CD, Remastered and Expanded, Deluxe Edition)*한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21160&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21160&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Jan 2023 17:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[21,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/5fe24f6831473ca11303aba2fd5bcc64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dire Straits / Brothers In Arms (Remastered CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21124&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21124&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 16 Jan 2023 17:36:02 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201512/2501_shop1_558952.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Deerhunter / Monomania (CD, Digipak) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21123&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21123&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 16 Jan 2023 17:36:02 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/4ddd78c25b9a8c6fa75a3840cbdcd417.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fairport Convention / 5 Classic Albums (5CD Box) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21118&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21118&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 13 Jan 2023 17:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[25,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c5c7b71ff539ce6b17b11224380583e6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[O.M.D (Orchestral Manoeuvres In The Dark) / Organisation (Remastered CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
@@ -1064,6 +1064,54 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/b09dd5356c704120f97e5335197290c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Mark-Almond / Mark-Almond (CD, JPN Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21213&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21213&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c45f8f0bd26702c1d0bfbc7b4e7c398f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tsuyoshi Yamamoto Trio / Falling In Love With You (CD, JPN Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21210&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21210&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[25,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/424a325fd21ec6501c181770619480a9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Evans / Live At Keystone Korner 1980: Vol.6 (CD, JPN Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21208&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21208&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/3420e911cdce8a01edebf5dfb5f896e3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stacey Kent / The Boy Next Door (CD, JPN Import, Jazz Giants Series) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21207&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21207&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/1490f95a03a4bda1a3bd28e5c86ee8ab.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[D.D. Jackson / Peace-Song (CD, JPN Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21206&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21206&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/763e3ebe27143695dedda714c0e31977.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charles Mingus / Mingus Dynasty (CD, OJC Remasters) *한정수량 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21197&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21197&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[11,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/0a825e18dd985bec28f0e39398803c78.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Stanley Turrentine / Rough `N Tumble (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21193&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21193&amp;cate_no=46&amp;display_group=1</guid>
@@ -1110,54 +1158,6 @@
             <pubDate>Fri, 13 Jan 2023 17:36:39 GMT</pubDate>
             <content:encoded><![CDATA[22,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/11d79c2d9d418d262b22b835f3a27f9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Al Di Meola / Original Album Classics (5CD Box) *한정수량 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21110&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21110&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 13 Jan 2023 17:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/d18a8712f7c1959910baff4f41bbd6d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dave Brubeck Quartet / Original Album Classics (5CD Box) *한정수량 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21107&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21107&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 13 Jan 2023 17:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c3375a7318d9f48c555256ff28ed3101.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Louis Armstrong / The Very Best Of Louis Armstrong (2CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21060&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21060&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Mon, 09 Jan 2023 17:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c33c4b7ed80d6ac2019d1d412ad43c86.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tony Bennett & Lady Gaga / Love For Sale (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20986&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20986&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 30 Dec 2022 17:36:29 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/c8e6467bc31c621d85d2385c683a5fb5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Melody Gardot / Sunset In The Blue (CD, trifold sleeve) *한정수량 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20985&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20985&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 30 Dec 2022 17:36:29 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/0904c717b480f260b508118b58eb83bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Frank Sinatra / Ultimate Sinatra (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20983&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20983&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 30 Dec 2022 17:36:29 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/d49d8b7c515faaf36e8e6694203967ae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
@@ -1640,6 +1640,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202011/3304ecc5879d215f33addc4c309f9a6d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Presents / Feeling Like A Child (CD + 3 Bonus Tracks) (김밥레코즈 ─ CD ─ Japanese)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21205&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21205&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:37:02 GMT</pubDate>
+            <content:encoded><![CDATA[29,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/d87d418add2f5c63a1da8c9c01847e95.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ryo Kawasaki / Juice (CD, EU Import) (김밥레코즈 ─ CD ─ Japanese)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21128&amp;cate_no=90&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21128&amp;cate_no=90&amp;display_group=1</guid>
@@ -1728,12 +1736,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/879e5d367bcbe57bb8513070c239bcfc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Isao Suzuki Quartet + 1 / Blue City (CD) (김밥레코즈 ─ CD ─ Japanese)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20344&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20344&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:42:27 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/f7bc3d2fc5c230825642c6e7d89a62fc.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[리쌍 / 정규 1집 leessang of honey familly (180g Vinyl, 2LP) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21218&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21218&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:37:09 GMT</pubDate>
+            <content:encoded><![CDATA[67,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c4ae79b68b55156498867b438ff6deab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뚜아에무아 / 너와 나, 없어도 되는 날 & 박인희 / 들 길, 봄이 오는 길 (180g Colored Vinyl, 2LP, 오아시스 걸작선 시리즈) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
@@ -1752,7 +1760,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/744101bd2775e990d5a2d9a2b8289fdc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이현도 / The New Classik Instrumentals (Yellow Clear Vinyl + Bonus 7" Vinyl) *예약상품 / 별도의 입금기한 설정 (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <title><![CDATA[이현도 / The New Classik Instrumentals (Yellow Clear Vinyl + Bonus 7" Vinyl) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21176&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21176&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Thu, 26 Jan 2023 05:37:19 GMT</pubDate>
@@ -1822,14 +1830,6 @@
             <pubDate>Tue, 17 Jan 2023 17:36:37 GMT</pubDate>
             <content:encoded><![CDATA[37,100원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c50c42010e6440c7c66082dd4e8af552.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rainbow Note 레인보우 노트 / 明け星のような君のジレンマ 샛별 같은 너의 딜레마 (180g Pink Vinyl, 한정반) *1인 1매만 구매 가능 / 별도의 입금기한 설정 (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21133&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21133&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 17 Jan 2023 17:36:37 GMT</pubDate>
-            <content:encoded><![CDATA[44,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/0358c074e483f80130fe057dbe459165.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[aimyon 아이묭 / Hitomi e Ochiruyo 瞳へ落ちるよレコード Falling into your eyes Record (CD + Blu-ray + 56p tour photo book, Limited Special Edition) (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>

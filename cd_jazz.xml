@@ -4,9 +4,57 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 05:37:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 17:37:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mark-Almond / Mark-Almond (CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21213&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21213&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c45f8f0bd26702c1d0bfbc7b4e7c398f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tsuyoshi Yamamoto Trio / Falling In Love With You (CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21210&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21210&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[25,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/424a325fd21ec6501c181770619480a9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Evans / Live At Keystone Korner 1980: Vol.6 (CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21208&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21208&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/3420e911cdce8a01edebf5dfb5f896e3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stacey Kent / The Boy Next Door (CD, JPN Import, Jazz Giants Series)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21207&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21207&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/1490f95a03a4bda1a3bd28e5c86ee8ab.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[D.D. Jackson / Peace-Song (CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21206&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21206&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/763e3ebe27143695dedda714c0e31977.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charles Mingus / Mingus Dynasty (CD, OJC Remasters) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21197&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21197&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[11,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/0a825e18dd985bec28f0e39398803c78.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stanley Turrentine / Rough `N Tumble (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21193&amp;cate_no=46&amp;display_group=1</link>
@@ -54,54 +102,6 @@
             <pubDate>Fri, 13 Jan 2023 17:36:39 GMT</pubDate>
             <content:encoded><![CDATA[22,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/11d79c2d9d418d262b22b835f3a27f9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Al Di Meola / Original Album Classics (5CD Box) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21110&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21110&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 13 Jan 2023 17:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/d18a8712f7c1959910baff4f41bbd6d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dave Brubeck Quartet / Original Album Classics (5CD Box) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21107&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21107&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 13 Jan 2023 17:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c3375a7318d9f48c555256ff28ed3101.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Louis Armstrong / The Very Best Of Louis Armstrong (2CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21060&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21060&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Mon, 09 Jan 2023 17:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c33c4b7ed80d6ac2019d1d412ad43c86.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tony Bennett & Lady Gaga / Love For Sale (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20986&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20986&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 30 Dec 2022 17:36:29 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/c8e6467bc31c621d85d2385c683a5fb5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Melody Gardot / Sunset In The Blue (CD, trifold sleeve) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20985&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20985&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 30 Dec 2022 17:36:29 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/0904c717b480f260b508118b58eb83bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Frank Sinatra / Ultimate Sinatra (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20983&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20983&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 30 Dec 2022 17:36:29 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/d49d8b7c515faaf36e8e6694203967ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

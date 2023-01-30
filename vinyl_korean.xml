@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 05:37:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 17:37:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리쌍 / 정규 1집 leessang of honey familly (180g Vinyl, 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21218&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21218&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:37:09 GMT</pubDate>
+            <content:encoded><![CDATA[67,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c4ae79b68b55156498867b438ff6deab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뚜아에무아 / 너와 나, 없어도 되는 날 & 박인희 / 들 길, 봄이 오는 길 (180g Colored Vinyl, 2LP, 오아시스 걸작선 시리즈)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21178&amp;cate_no=52&amp;display_group=1</link>
@@ -24,7 +32,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/744101bd2775e990d5a2d9a2b8289fdc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이현도 / The New Classik Instrumentals (Yellow Clear Vinyl + Bonus 7" Vinyl) *예약상품 / 별도의 입금기한 설정]]></title>
+            <title><![CDATA[이현도 / The New Classik Instrumentals (Yellow Clear Vinyl + Bonus 7" Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21176&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21176&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Thu, 26 Jan 2023 05:37:19 GMT</pubDate>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 17 Jan 2023 17:36:37 GMT</pubDate>
             <content:encoded><![CDATA[37,100원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c50c42010e6440c7c66082dd4e8af552.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rainbow Note 레인보우 노트 / 明け星のような君のジレンマ 샛별 같은 너의 딜레마 (180g Pink Vinyl, 한정반) *1인 1매만 구매 가능 / 별도의 입금기한 설정]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21133&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21133&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 17 Jan 2023 17:36:37 GMT</pubDate>
-            <content:encoded><![CDATA[44,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/0358c074e483f80130fe057dbe459165.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
