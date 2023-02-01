@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 17:37:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 05:37:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/3420e911cdce8a01edebf5dfb5f896e3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[OST / 이상한 변호사 우영우 (Sky Blue / White Vinyl, 2LP) *예약상품 (6월 26일 발매 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21244&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21244&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 01 Feb 2023 05:35:41 GMT</pubDate>
+            <content:encoded><![CDATA[60,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e1536bf5b08bc93f4f0c4b2c2582c7bd.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[Jockstrap / I Love You Jennifer B (Limited Green Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21243&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21243&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 31 Jan 2023 17:35:29 GMT</pubDate>
             <content:encoded><![CDATA[33,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/cf1017301be8d89e5542a35595529b97.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joe Hisaishi / Ponyo On The Cliff By The Sea: Soundtrack 벼랑 위의 포뇨 사운드트랙 (컬러바이닐 2LP, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21230&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21230&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 30 Jan 2023 17:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[59,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/424087b6d4b05aea0f960a131cee4bdf.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Superorganism / World Wide Pop (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,6 +392,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/666f0a1d5a5bdced17eed0e6af5b9934.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[윈디시티 Windy City / Countryman’s Vibration (Brown & Orange Vinyl, 2LP) *예약상품 / 1인 1매만 구매가능 / 별도의 입금기한 설정 (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21168&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21168&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 01 Feb 2023 05:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[60,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/64ecac9114e8814562a9d408ca765d1e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST / 이상한 변호사 우영우 (Sky Blue / White Vinyl, 2LP) *예약상품 (6월 26일 발매 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21244&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21244&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 01 Feb 2023 05:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[60,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e1536bf5b08bc93f4f0c4b2c2582c7bd.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[Joe Hisaishi / Ponyo On The Cliff By The Sea: Soundtrack 벼랑 위의 포뇨 사운드트랙 (컬러바이닐 2LP, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21230&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21230&amp;cate_no=42&amp;display_group=1</guid>
@@ -470,22 +486,6 @@
             <pubDate>Fri, 20 Jan 2023 05:36:20 GMT</pubDate>
             <content:encoded><![CDATA[55,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/cd489d7754bd11d34e7c2c54c8ccb2be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio / If Dreams Come True Vol. 2 (Vinyl, Venus Records 한정반) *예약상품 (3월 하순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21143&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21143&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Jan 2023 05:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[55,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/9a76aa1e59872709d91f9c7826d92e81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio / Dear Old Stockholm Vol. 2 (Vinyl, Venus Records 한정반) *예약상품 (3월 하순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21144&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21144&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Jan 2023 05:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[55,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/a1604350ece60af83d47e9859c4ee9f5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Robert Plant & Alison Krauss / Raising Sand (CD, EU import) *할인상품 (김밥레코즈 ─ Bargain Bin)]]></title>
