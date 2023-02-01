@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 05:37:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 17:38:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신중현과 퀘션스 / In-A-Kadda-Da-Vida (The Psychedelic Sound) (180g 3색 스플레터 컬러 Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21246&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21246&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 01 Feb 2023 17:38:14 GMT</pubDate>
+            <content:encoded><![CDATA[46,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/cb264545259bd90166f46a24e7f9c3df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신중현과 퀘션스 / In-A-Kadda-Da-Vida (The Psychedelic Sound) (180g Black Vinyl) *1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21245&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21245&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 01 Feb 2023 17:38:14 GMT</pubDate>
+            <content:encoded><![CDATA[46,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/d701597ffc9ad20757a57b90ad300682.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리쌍 / 정규 1집 leessang of honey familly (180g Vinyl, 2LP)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21218&amp;cate_no=52&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 17 Jan 2023 17:36:37 GMT</pubDate>
             <content:encoded><![CDATA[38,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/1efc603f2af8b20002f2c9edd3459f1e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이판근과 코리아째즈퀸텟 ’78 (Lee Pan-Geun & Korea Jazz Quintet ‘78) / Plays Arirang & Other Assorted Classics 재즈로 들어본 우리 가요, 민요, 팝송 (Black Vinyl, 200매 한정반)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21137&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21137&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 17 Jan 2023 17:36:37 GMT</pubDate>
-            <content:encoded><![CDATA[37,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/20200201/37de71dbd329fa25f1cf4cbe3387b6e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따로 또 같이 / 따로 또 같이 II (180g Black Vinyl, 한정반)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21136&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21136&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 17 Jan 2023 17:36:37 GMT</pubDate>
-            <content:encoded><![CDATA[37,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c50c42010e6440c7c66082dd4e8af552.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

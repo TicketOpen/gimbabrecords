@@ -4,25 +4,9 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 05:37:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 17:38:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[윈디시티 Windy City / Countryman’s Vibration (Brown & Orange Vinyl, 2LP) *예약상품 / 1인 1매만 구매가능 / 별도의 입금기한 설정]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21168&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21168&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 01 Feb 2023 05:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[60,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/64ecac9114e8814562a9d408ca765d1e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST / 이상한 변호사 우영우 (Sky Blue / White Vinyl, 2LP) *예약상품 (6월 26일 발매 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21244&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21244&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 01 Feb 2023 05:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[60,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e1536bf5b08bc93f4f0c4b2c2582c7bd.jpeg" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[Joe Hisaishi / Ponyo On The Cliff By The Sea: Soundtrack 벼랑 위의 포뇨 사운드트랙 (컬러바이닐 2LP, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21230&amp;cate_no=42&amp;display_group=1</link>
@@ -30,6 +14,14 @@
             <pubDate>Mon, 30 Jan 2023 17:35:33 GMT</pubDate>
             <content:encoded><![CDATA[59,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/424087b6d4b05aea0f960a131cee4bdf.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joe Hisaishi / Howl’s Moving Castle: Soundtrack 하울의 움직이는 성 사운드트랙 (컬러바이닐 2LP, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21228&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21228&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e75d7ba262093e454761a8fc043f99e4.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Joe Hisaishi / Spirited Away: Soundtrack 센과 치히로의 행방불명 사운드트랙 (컬러바이닐 2LP, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정)]]></title>
@@ -48,14 +40,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/dbe98dda18cb004945edbc50aea3a23c.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Joe Hisaishi / Howl’s Moving Castle: Soundtrack 하울의 움직이는 성 사운드트랙 (컬러바이닐 2LP, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21228&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21228&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 30 Jan 2023 17:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[59,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e75d7ba262093e454761a8fc043f99e4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[Joe Hisaishi / Porco Rosso: Original Soundtrack 붉은 돼지 사운드트랙 (컬러바이닐, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21225&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21225&amp;cate_no=42&amp;display_group=1</guid>
@@ -72,14 +56,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e285eac99c99c58c11ee5d888049cf5b.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Joe Hisaishi / Castle In The Sky: Soundtrack 천공의 섬 라퓨타 LAPUTA OST (컬러바이닐, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21224&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21224&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 30 Jan 2023 17:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[63,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/170408491f289204c603df3d916405cb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[Joe Hisaishi / Nausicaa Of The Valley Of Wind: Soundtrack 바람의 계곡 나우시카 OST (컬러바이닐, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21223&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21223&amp;cate_no=42&amp;display_group=1</guid>
@@ -88,12 +64,36 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/1b9a5444233e4c8c1140e5a8b98120a7.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Joe Hisaishi / Castle In The Sky: Soundtrack 천공의 섬 라퓨타 LAPUTA OST (컬러바이닐, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21224&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21224&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 17:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[63,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/170408491f289204c603df3d916405cb.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[Joe Hisaishi / My Neighbor Totoro: Soundtrack 이웃집 토토로 OST (컬러바이닐, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21222&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21222&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Mon, 30 Jan 2023 17:35:33 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/d63cf9c2d8eb54c3cd71f701414b5206.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST / 이상한 변호사 우영우 (Sky Blue / White Vinyl, 2LP) *예약상품 (6월 26일 발매 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21244&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21244&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 01 Feb 2023 05:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[60,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e1536bf5b08bc93f4f0c4b2c2582c7bd.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[윈디시티 Windy City / Countryman’s Vibration (Brown & Orange Vinyl, 2LP) *예약상품 / 1인 1매만 구매가능 / 별도의 입금기한 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21168&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21168&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 01 Feb 2023 05:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[60,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/64ecac9114e8814562a9d408ca765d1e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Eddie Higgins / Standards by Request 1st day (Vinyl, Venus Records 한정반) *예약상품 (3월 하순 배송 예정)]]></title>
