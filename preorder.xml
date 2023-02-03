@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 05:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 17:37:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ado / Kyougen (Vinyl, 2LP) *예약상품 (2월 22일 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21250&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21250&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 02 Feb 2023 17:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[55,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/06e3392747f10308f4039400e0bb862e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Momoko Kikuchi / Escape From Dimension (Colored Vinyl) *예약상품 (4월초 이후 배송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21256&amp;cate_no=42&amp;display_group=1</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 02 Feb 2023 17:36:17 GMT</pubDate>
             <content:encoded><![CDATA[59,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/8a0cdafa5b9782c18d247e19a34a707a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ado / Kyougen (Vinyl, 2LP) *예약상품 (2월 22일 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21250&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21250&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 02 Feb 2023 17:36:17 GMT</pubDate>
-            <content:encoded><![CDATA[55,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/06e3392747f10308f4039400e0bb862e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OST (Mamiya Michio) / Grave of the Fireflies Soundtrack Collection 반딧불이의 묘 사운드트랙 (컬러바이닐, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정)]]></title>
