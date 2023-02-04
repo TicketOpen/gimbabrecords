@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Feb 2023 05:37:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Feb 2023 17:37:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tutty Moreno Featuring Joyce / Magica (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21276&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21276&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Sat, 04 Feb 2023 17:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/4fcd4fbd2df71456f92acd132d188692.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Marcos Valle / The Essential Marcos Valle Volume 2 (CD, EU Import) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21125&amp;cate_no=79&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 05:45:56 GMT</pubDate>
             <content:encoded><![CDATA[23,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/800c152888a6f002376a311acee2fc5e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marcos Valle / Vento Sul (CD, Brasil Collection, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19955&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19955&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 05:45:56 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/e3316e4249d50b67956bcde3bab3347f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
