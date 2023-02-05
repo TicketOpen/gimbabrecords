@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Feb 2023 17:37:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 05:37:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Natsu Summer & Ryusenkei / Sun Kissed Lady (Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21283&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21283&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Sun, 05 Feb 2023 05:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[27,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/7de86ddb5d0270188aec470ae5120dcb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Superorganism / World Wide Pop (Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21204&amp;cate_no=26&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 16 Jan 2023 17:35:27 GMT</pubDate>
             <content:encoded><![CDATA[21,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/20c18b714faf6e1967ceeceacc5d21af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Moon / Enta Da Stage (Black Cassette, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21023&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21023&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Tue, 03 Jan 2023 17:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[33,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/6a6d860deb8fef0ec215b05822d8b7d2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

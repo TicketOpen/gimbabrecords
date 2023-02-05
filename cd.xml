@@ -4,9 +4,57 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Feb 2023 17:37:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 05:37:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Joyce with Mauricio Maestro / Natureza (produced, arranged & conducted by Claus Ogerman) (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21286&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21286&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sun, 05 Feb 2023 05:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/921de9d5199c70f9fc7cd89e139db104.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joyce Moreno / Cool (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21281&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21281&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sun, 05 Feb 2023 05:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/3eb3c0920d6ad0c8ef45e8970d9054b8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joyce (Joyce Moreno) / The Essential Joyce 1970-1996 (CD) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21280&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21280&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sun, 05 Feb 2023 05:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/e4aecea72b6a775571fff04860b7daa3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joyce Moreno / Rio de Janeiro (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21279&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21279&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sun, 05 Feb 2023 05:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/f2e69b767c3c0075d42770e2faec5f08.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joyce Moreno / Tudo (CD, Digipak) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21278&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21278&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sun, 05 Feb 2023 05:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/344a474d1ce37964f814e27079fa7507.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joyce Moreno & Tutty Moreno / Samba Jazz & Outras Bossas (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21277&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21277&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sun, 05 Feb 2023 05:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/8cf6eeee8e4de312319de169bd7a8afb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tutty Moreno Featuring Joyce / Magica (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21276&amp;cate_no=24&amp;display_group=1</link>
@@ -54,54 +102,6 @@
             <pubDate>Mon, 30 Jan 2023 17:35:04 GMT</pubDate>
             <content:encoded><![CDATA[14,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/13b53eee81ee2fcd83d71b6509dff4bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Clear Blue Sky / Clear Blue Sky (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21215&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21215&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 30 Jan 2023 17:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[14,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/6ce112fcfb07a9ca845dcb0a40a020cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The World Of Oz / The World Of Oz (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21214&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21214&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 30 Jan 2023 17:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[14,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/69a83e5e7795c5cb7de74d9b45017d57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mark-Almond / Mark-Almond (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21213&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21213&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 30 Jan 2023 17:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[14,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c45f8f0bd26702c1d0bfbc7b4e7c398f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Magna Carta / Seasons (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21212&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21212&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 30 Jan 2023 17:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[14,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/1f6c14da4ed2b81312223797b497cd02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beggar's Opera / Act One (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21211&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21211&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 30 Jan 2023 17:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[14,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/6864afc447913182c5b8a48a2d8d06fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tsuyoshi Yamamoto Trio / Falling In Love With You (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21210&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21210&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 30 Jan 2023 17:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[25,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/424a325fd21ec6501c181770619480a9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
