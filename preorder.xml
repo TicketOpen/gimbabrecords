@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 05:37:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 17:37:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Momoko Kikuchi / Adventure (Colored Vinyl) *예약상품 (4월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21253&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21253&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 03 Feb 2023 05:36:09 GMT</pubDate>
+            <content:encoded><![CDATA[50,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/bea8bf634fcc6ea275d8e225d85a87a6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ado / Kyougen (Vinyl, 2LP) *예약상품 (2월 22일 이후 배송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21250&amp;cate_no=42&amp;display_group=1</link>
@@ -38,14 +46,6 @@
             <pubDate>Fri, 03 Feb 2023 05:36:09 GMT</pubDate>
             <content:encoded><![CDATA[50,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/8fff05845c334674fc7a735103d0cc2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Momoko Kichuchi / Adventure (Colored Vinyl) *예약상품 (4월초 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21253&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21253&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 03 Feb 2023 05:36:09 GMT</pubDate>
-            <content:encoded><![CDATA[50,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/bea8bf634fcc6ea275d8e225d85a87a6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하비누아주 / 청춘 (180g Vinyl, 2LP, 한정반) *예약상품 (2월 23일 발매 예정) / 1인 1매만 구매 가능 / 별도의 입금기한 설정]]></title>
