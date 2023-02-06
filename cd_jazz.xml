@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 05:37:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 17:38:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Count Basie & His Orchestra / I Told You So (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21291&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21291&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Mon, 06 Feb 2023 17:37:43 GMT</pubDate>
+            <content:encoded><![CDATA[8,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/867a6405e04c7aa1806b4a040814b0db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Milt Jackson / Quartet (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21290&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21290&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Mon, 06 Feb 2023 17:37:43 GMT</pubDate>
+            <content:encoded><![CDATA[8,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/861376a303088f323bcf3b348991de05.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tsuyoshi Yamamoto Trio / Falling In Love With You (CD, JPN Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21210&amp;cate_no=46&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 16 Jan 2023 17:36:28 GMT</pubDate>
             <content:encoded><![CDATA[17,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/fe8ed7e6a020fff8ca885929129e76ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gil Scott-Heron / Original Album Classics (3CD Box) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21112&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21112&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 13 Jan 2023 17:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[22,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/11d79c2d9d418d262b22b835f3a27f9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Al Di Meola / Original Album Classics (5CD Box) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21110&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21110&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 31 Jan 2023 17:36:40 GMT</pubDate>
-            <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/d18a8712f7c1959910baff4f41bbd6d5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
