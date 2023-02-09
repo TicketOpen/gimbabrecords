@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 05:37:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 17:38:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Terry Callier / Tokyo Moon (CD) *예약상품 (3월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21314&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21314&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Feb 2023 17:36:59 GMT</pubDate>
+            <content:encoded><![CDATA[33,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/9431817490e75f9d8c8f3a8e854e34bd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Amy Winehouse / The Collection (5CD Box Set) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21181&amp;cate_no=44&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 29 Dec 2022 17:36:36 GMT</pubDate>
             <content:encoded><![CDATA[30,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/7978b1ad31fae77c9cca6258ccc0fafc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rickie Lee Jones / Original Album Series (5CD Box Set) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20832&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20832&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Wed, 07 Dec 2022 17:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[26,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/79ebb9387e12225182c0a1c3acfe1c08.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

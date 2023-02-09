@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 05:37:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 17:38:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Terry Callier / Tokyo Moon (CD) *예약상품 (3월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21314&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21314&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Feb 2023 17:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[33,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/9431817490e75f9d8c8f3a8e854e34bd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Alex G / God Save The Animals (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21273&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 30 Jan 2023 17:35:53 GMT</pubDate>
             <content:encoded><![CDATA[26,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/4dc7f67ae2a45fcffa7506e4e475bfd3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wishbone Ash / Pilgrimage (CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21198&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21198&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 30 Jan 2023 17:35:53 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e132694df8a5b80997f1bb085dbab5ba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
