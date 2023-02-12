@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Feb 2023 05:37:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 17:37:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Terri Lyne Carrington / New Standards Vol. 1 (Vinyl, 2LP) *예약상품 (3월 1일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21261&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21261&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sun, 12 Feb 2023 17:35:52 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/8e8e7483b9c79c610266ebf65856ec18.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산울림 / 6집 조금만 기다려요 (180g Black Vinyl, 2,500장 넘버링 한정반) *예약상품 (2월 24일 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20911&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 10 Feb 2023 05:36:17 GMT</pubDate>
             <content:encoded><![CDATA[50,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/83be091a2ed6d21b797e673ab304e209.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Momoko Kikuchi / Escape From Dimension (Colored Vinyl) *예약상품 (4월초 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21256&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21256&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 10 Feb 2023 05:36:17 GMT</pubDate>
-            <content:encoded><![CDATA[50,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/7b89ff088e73fba975cca824081706aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
