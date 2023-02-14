@@ -4,17 +4,9 @@
         <title>김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 17:38:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 05:37:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[aimyon 아이묭 / Hitomi e Ochiruyo 瞳へ落ちるよレコード Falling into your eyes Record (CD + Blu-ray + 56p tour photo book, Limited Special Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20914&amp;cate_no=64&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20914&amp;cate_no=64&amp;display_group=1</guid>
-            <pubDate>Wed, 08 Feb 2023 05:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[84,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/46b311d1cc4c3f8d5dda092b825d21b7.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Peanuts Deluxe Holiday Collection (Ultimate Collector's Edition) (Blu-ray + DVD Pack + Snowglobe & Window Clings) *할인상품]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20059&amp;cate_no=64&amp;display_group=1</link>
@@ -102,6 +94,14 @@
             <pubDate>Mon, 14 Nov 2022 05:45:57 GMT</pubDate>
             <content:encoded><![CDATA[19,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/773453bdc9d80e040b4ec94788924c5c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Keith Jarrett / The Art Of Improvisation (Documentary) (Blu-ray)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18779&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18779&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Tue, 14 Feb 2023 05:37:40 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/a81d047aa4c871b1f2e985615a398138.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
