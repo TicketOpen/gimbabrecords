@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Hip Hop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 05:38:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 17:39:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Brockhampton / Roadrunner: New Light, New Machine (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21352&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21352&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Wed, 15 Feb 2023 17:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/30286db0e3a0437812ec062dddb8a261.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Brockhampton / The Family (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21289&amp;cate_no=45&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:41:45 GMT</pubDate>
             <content:encoded><![CDATA[19,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/7354d001f4c3fd431332e915bd2e3463.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dr. Dre / Compton (A Soundtrack By Dr. Dre) (CD, EU Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19992&amp;cate_no=45&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19992&amp;cate_no=45&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201509/933_shop1_262327.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

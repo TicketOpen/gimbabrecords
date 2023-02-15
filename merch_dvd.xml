@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 05:38:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 17:39:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pink Floyd / P.U.L.S.E (2 x Blu-ray, Restored & Re-edited, Deluxe Edition) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21353&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21353&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Wed, 15 Feb 2023 17:39:03 GMT</pubDate>
+            <content:encoded><![CDATA[53,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/d24bc21fa3b885b3fe79bf0848267deb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[aimyon 아이묭 / Hitomi e Ochiruyo 瞳へ落ちるよレコード Falling into your eyes Record (CD + Blu-ray + 56p tour photo book, Limited Special Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20914&amp;cate_no=64&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 27 Dec 2022 17:37:12 GMT</pubDate>
             <content:encoded><![CDATA[16,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/0523a093919d19ab88bdcdc0b3ed7fc2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Queen / Live At Wembley Stadium (2 DVD Set, 25th Anniversary Edition) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19757&amp;cate_no=64&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19757&amp;cate_no=64&amp;display_group=1</guid>
-            <pubDate>Mon, 14 Nov 2022 05:45:57 GMT</pubDate>
-            <content:encoded><![CDATA[19,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/773453bdc9d80e040b4ec94788924c5c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
