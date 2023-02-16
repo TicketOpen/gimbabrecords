@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 05:38:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 17:37:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tony Bennett & Bill Charlap / The Silver Lining (The Songs Of Jerome Kern) (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21358&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21358&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Feb 2023 17:36:52 GMT</pubDate>
+            <content:encoded><![CDATA[9,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/6b4c5fb29cd96882f9fb795130adc114.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chet Baker / Chet Baker & Strings (CD, OJC Remaster) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21357&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21357&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Feb 2023 17:36:52 GMT</pubDate>
+            <content:encoded><![CDATA[9,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/3153f9efe90e74f700af4c094363d180.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bill Evans Trio / I Will Say Goodbye (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21327&amp;cate_no=46&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 30 Jan 2023 17:36:21 GMT</pubDate>
             <content:encoded><![CDATA[20,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/763e3ebe27143695dedda714c0e31977.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charles Mingus / Mingus Dynasty (CD, OJC Remasters) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21197&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21197&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Mon, 30 Jan 2023 17:36:21 GMT</pubDate>
-            <content:encoded><![CDATA[11,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/0a825e18dd985bec28f0e39398803c78.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stanley Turrentine / Rough `N Tumble (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21193&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21193&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Sat, 28 Jan 2023 17:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/7536426066c3e59ad19bae39e7067ae8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

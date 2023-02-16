@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 05:38:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 17:37:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Eric Benet / The One (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21359&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21359&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Feb 2023 17:36:40 GMT</pubDate>
+            <content:encoded><![CDATA[9,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/8cc5db5850ebd9faa02b53e7927fc691.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Babyface / Love Songs (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21356&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21356&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Feb 2023 17:36:40 GMT</pubDate>
+            <content:encoded><![CDATA[9,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/ce95296e7f88241ff66aa51e53d4700e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Terry Callier / Tokyo Moon (CD) *예약상품 (3월초 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21314&amp;cate_no=44&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 13 Jan 2023 17:36:25 GMT</pubDate>
             <content:encoded><![CDATA[22,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/11d79c2d9d418d262b22b835f3a27f9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Earth, Wind & Fire / Original Album Classics (5CD Box) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21111&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21111&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Fri, 13 Jan 2023 17:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c14ce9dbec011b90c214db2a8e81eac5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[edbl & friends / James Berkeley (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20972&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20972&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Thu, 29 Dec 2022 17:36:36 GMT</pubDate>
-            <content:encoded><![CDATA[30,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/7978b1ad31fae77c9cca6258ccc0fafc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
