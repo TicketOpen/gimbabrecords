@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 17:37:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 05:37:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST / The Eagle Shooting Heroes 동성서취 (Vinyl, 택동영화사 30주년 기념, 최초의 바이닐 버전) *예약상품 (3월초 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21361&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21361&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Feb 2023 05:35:57 GMT</pubDate>
+            <content:encoded><![CDATA[72,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/ba3a2a2e330ad0076e2dca2b1e7a9f8f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차붐 / Original (Transparent Red Vinyl, 500매 한정반) *예약상품 (2월 16일 발매 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21293&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 03 Feb 2023 05:36:09 GMT</pubDate>
             <content:encoded><![CDATA[50,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/bea8bf634fcc6ea275d8e225d85a87a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Momoko Kikuchi / Ocean Side (Colored Vinyl) *예약상품 (4월초 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21254&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21254&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 10 Feb 2023 05:36:17 GMT</pubDate>
-            <content:encoded><![CDATA[50,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/8fff05845c334674fc7a735103d0cc2d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
