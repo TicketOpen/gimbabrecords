@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Movies/Merch</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 05:37:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 17:37:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Thu, 12 Jan 2023 17:45:04 GMT</pubDate>
             <content:encoded><![CDATA[75,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/2e5adf6462db196b4bf2a3f834c1946d.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vinyl Buddy - Record Cleaning Kit (브러쉬 2종 + 천 + 클리닝 티슈 + 워셔 스프레이)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21083&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21083&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Thu, 12 Jan 2023 17:45:04 GMT</pubDate>
-            <content:encoded><![CDATA[29,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/2ae8decb8f53cc4b6018758f2047e9c5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Vinyl Buddy - Velvet Cleaning Brush 벨벳 브러쉬]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 16 Nov 2022 05:44:41 GMT</pubDate>
             <content:encoded><![CDATA[1,380,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/259f81db7940fa9ac47aa9922c2786dd.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rega(레가) Planar 2 턴테이블 (블랙, 화이트 색상 선택) *보너스 레코드 증정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19662&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19662&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Feb 2023 17:35:58 GMT</pubDate>
+            <content:encoded><![CDATA[905,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/666f0a1d5a5bdced17eed0e6af5b9934.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
