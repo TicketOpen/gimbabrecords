@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 05:37:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 17:37:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pat Metheny / One Quiet Night (CD + 1 bonus track)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21380&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21380&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Mon, 20 Feb 2023 17:36:28 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/b0c849477f8483f3456d5260eb7df537.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Daniel Salinas / Atlantis (CD, Mr. Bongo Reissue)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21371&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21371&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Mon, 20 Feb 2023 17:36:28 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/e379c3a7c90deb46056b0d8a458b2afb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tony Bennett & Bill Charlap / The Silver Lining (The Songs Of Jerome Kern) (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21358&amp;cate_no=46&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 30 Jan 2023 17:36:21 GMT</pubDate>
             <content:encoded><![CDATA[20,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/3420e911cdce8a01edebf5dfb5f896e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stacey Kent / The Boy Next Door (CD, JPN Import, Jazz Giants Series)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21207&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21207&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Mon, 30 Jan 2023 17:36:21 GMT</pubDate>
-            <content:encoded><![CDATA[14,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/1490f95a03a4bda1a3bd28e5c86ee8ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[D.D. Jackson / Peace-Song (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21206&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21206&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Mon, 30 Jan 2023 17:36:21 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/763e3ebe27143695dedda714c0e31977.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
