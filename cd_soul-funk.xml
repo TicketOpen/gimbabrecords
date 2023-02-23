@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 05:37:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 17:39:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Charles Stepney / Step On Step (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21415&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21415&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Feb 2023 17:38:05 GMT</pubDate>
+            <content:encoded><![CDATA[26,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/f3b182177db3362ab400649c02d39ff7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Weeknd / Dawn FM (CD, Explicit, EU Import) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21388&amp;cate_no=44&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 20 Jan 2023 17:35:51 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/58657723dfac49ff17ff511a0b6edda7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marcos Valle / The Essential Marcos Valle Volume 2 (CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21125&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21125&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Mon, 16 Jan 2023 17:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/fe8ed7e6a020fff8ca885929129e76ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
