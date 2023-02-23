@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 17:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 05:37:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Yaeji / With A Hammer (CD, Digipak, 국내반) *예약상품 (4월 7일 발매) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21406&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21406&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Feb 2023 05:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[17,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/1c445428c2063d7c100f9f565b33e05b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Shame / Food for Worms (CD) *예약상품 (2월 27일 발매 예정, 24일 주문 마감) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21392&amp;cate_no=24&amp;display_group=1</link>
@@ -96,12 +104,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/1e9a972df4e7ece4714686f059d393fe.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Steve Hackett / 5 Classic Albums (5CD Box) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21378&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21378&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 20 Feb 2023 17:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[25,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/86ea91358c0c736f94e877406f4c9ab8.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[RiE MORRiS / Here With You (EP, 12" Vinyl) *예약상품 (상세 설명을 참조하세요.) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21405&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21405&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Feb 2023 05:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[37,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/0a7bb1bfa9d16c31f099ce3ebce3adc1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박지윤 / 꽃, 다시 첫번째 (180g Clear Vinyl, 한정반) *예약상품 (3월 8일 발매 예정) / 1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21404&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21404&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Feb 2023 05:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/767bb263065f0a14baae058528a902b3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김현철 / DONG-A Records Years 1989~1994 (180g Colored Vinyl, 5LP, 양장 사양 싱글 자켓 (tip on jacket) + 20p 책자) *예약상품 (3월 9일 발매 예정) (김밥레코즈 ─ Vinyl)]]></title>
@@ -182,22 +198,6 @@
             <pubDate>Mon, 20 Feb 2023 17:35:31 GMT</pubDate>
             <content:encoded><![CDATA[45,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/762a3aa42ec9da3d3a7e9792660d26d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shame / Food for Worms (Black Vinyl) *예약상품 (2월 27일 발매 예정, 24일 주문 마감) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21391&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21391&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Feb 2023 17:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[34,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/0778361490afab64d42ea2c9898cd527.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shame / Food for Worms (Transparent Purple Vinyl) *예약상품 (2월 27일 발매 예정, 24일 주문 마감) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21390&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21390&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Feb 2023 17:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[36,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/0778361490afab64d42ea2c9898cd527.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Various Artists / Thermal Expansion (Cassette) *예약상품 (2월 24일 금요일부터 발송 예정) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,6 +392,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/952dbd5641ac5f38959d8e794022d2ad.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Yaeji / With A Hammer (CD, Digipak, 국내반) *예약상품 (4월 7일 발매) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21406&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21406&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Feb 2023 05:35:39 GMT</pubDate>
+            <content:encoded><![CDATA[17,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/1c445428c2063d7c100f9f565b33e05b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박지윤 / 꽃, 다시 첫번째 (180g Clear Vinyl, 한정반) *예약상품 (3월 8일 발매 예정) / 1인 1매만 구매 가능 (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21404&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21404&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Feb 2023 05:35:39 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/767bb263065f0a14baae058528a902b3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RiE MORRiS / Here With You (EP, 12" Vinyl) *예약상품 (상세 설명을 참조하세요.) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21405&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21405&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Feb 2023 05:35:39 GMT</pubDate>
+            <content:encoded><![CDATA[37,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/0a7bb1bfa9d16c31f099ce3ebce3adc1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김현철 / DONG-A Records Years 1989~1994 (180g Colored Vinyl, 5LP, 양장 사양 싱글 자켓 (tip on jacket) + 20p 책자) *예약상품 (3월 9일 발매 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21403&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21403&amp;cate_no=42&amp;display_group=1</guid>
@@ -462,30 +486,6 @@
             <pubDate>Mon, 20 Feb 2023 17:35:49 GMT</pubDate>
             <content:encoded><![CDATA[12,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/949cd9de297d834d11d5ee1f03ed9c0f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백예린 / 정규 2집 + 2집 리믹스 tellusboutyourself (Vinyl, 3LP) *예약상품 / 1인 1매만 구매 가능 / 별도의 입금기한 설정 (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20706&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20706&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 20 Feb 2023 17:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[65,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/7e8f708ca914d3ec58b053bd207b02ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백예린 / 리메이크 EP 선물 ( Vinyl, 2LP) *예약상품 / 1인 1매만 구매 가능 / 별도의 입금기한 설정 (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20708&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20708&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 20 Feb 2023 17:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[38,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/afea079094607ac67b6e4a4ed2c8374a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백예린 / 단독공연 [Turn on that Blue Vinyl] 라이브 특별반 (Blue Colored Vinyl, 2LP) *예약상품 / 1인 1매만 구매 가능 / 별도의 입금기한 설정 (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20707&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20707&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 20 Feb 2023 17:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[54,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/ff1655ed18cf42fd64b3f15f6a5aa460.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Daft Punk / Alive 2007 (Vinyl, 2LP) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -584,6 +584,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/20200116/e82866f62238f9002802e651bae8b5ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Yaeji / With A Hammer (CD, Digipak, 국내반) *예약상품 (4월 7일 발매) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21406&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21406&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Feb 2023 05:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[17,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/1c445428c2063d7c100f9f565b33e05b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[공중그늘 / EP 잔영 (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21292&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21292&amp;cate_no=29&amp;display_group=1</guid>
@@ -670,14 +678,6 @@
             <pubDate>Wed, 14 Dec 2022 17:36:24 GMT</pubDate>
             <content:encoded><![CDATA[16,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/86c1c67e7c17969ef0a7ba2777795aef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밀실 / 정규 1집 밀실 (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20843&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20843&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Fri, 09 Dec 2022 17:36:28 GMT</pubDate>
-            <content:encoded><![CDATA[14,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/8cfe2a1caa0f4b872429d4aae524f640.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Shame / Food for Worms (CD) *예약상품 (2월 27일 발매 예정, 24일 주문 마감) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/1533c63f61bd3902f9cb4a2150528bbe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Yaeji / With A Hammer (CD, Digipak, 국내반) *예약상품 (4월 7일 발매) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21406&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21406&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Feb 2023 05:36:06 GMT</pubDate>
+            <content:encoded><![CDATA[17,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/1c445428c2063d7c100f9f565b33e05b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[O.M.D (Orchestral Manoeuvres In The Dark) / Organisation (Remastered CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20980&amp;cate_no=31&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20980&amp;cate_no=31&amp;display_group=1</guid>
@@ -862,14 +870,6 @@
             <pubDate>Wed, 16 Nov 2022 17:41:33 GMT</pubDate>
             <content:encoded><![CDATA[23,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/eab07197a73b10f4fe8a0ba8fee0f32f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gorillaz / G Sides (CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20036&amp;cate_no=31&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20036&amp;cate_no=31&amp;display_group=1</guid>
-            <pubDate>Tue, 31 Jan 2023 17:36:18 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/44267ddaf269e277792ca1ddcaafd275.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Weeknd / Dawn FM (CD, Explicit, EU Import) *한정수량 할인 (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
@@ -1736,6 +1736,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/879e5d367bcbe57bb8513070c239bcfc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[박지윤 / 꽃, 다시 첫번째 (180g Clear Vinyl, 한정반) *예약상품 (3월 8일 발매 예정) / 1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21404&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21404&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Feb 2023 05:37:13 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/767bb263065f0a14baae058528a902b3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김현철 / DONG-A Records Years 1989~1994 (180g Colored Vinyl, 5LP, 양장 사양 싱글 자켓 (tip on jacket) + 20p 책자) *예약상품 (3월 9일 발매 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21403&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21403&amp;cate_no=52&amp;display_group=1</guid>
@@ -1822,14 +1830,6 @@
             <pubDate>Wed, 08 Feb 2023 05:37:52 GMT</pubDate>
             <content:encoded><![CDATA[47,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/a1de06e1e0b6ce906ffddfcb301fcd4b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차붐 / Original (Transparent Red Vinyl, 500매 한정반) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21293&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21293&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Wed, 08 Feb 2023 05:37:52 GMT</pubDate>
-            <content:encoded><![CDATA[42,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/67f79a4ed4f020e35d9a7664fd8aaa8c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pink Floyd / P.U.L.S.E (PULSE) (2 x Blu-ray, Restored & Re-edited, Deluxe Edition) *한정수량 할인 (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
