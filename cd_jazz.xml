@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 05:37:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 17:39:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Paolo Fresu / The Blue Note Albums (8CD Box Set)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21425&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21425&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 24 Feb 2023 17:38:12 GMT</pubDate>
+            <content:encoded><![CDATA[63,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/c4555d2cc0a50efdee8bed600b80bf0e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brad Mehldau / Your Mother Should Know: Brad Mehldau Plays The Beatles (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21418&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21418&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 24 Feb 2023 17:38:12 GMT</pubDate>
+            <content:encoded><![CDATA[22,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/4755af4e336aae5b7da78a069cc06667.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Charles Stepney / Step On Step (CD, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21415&amp;cate_no=46&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 09 Feb 2023 17:37:12 GMT</pubDate>
             <content:encoded><![CDATA[35,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/6f251787014b49862cce63b03a149af1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Count Basie & His Orchestra / I Told You So (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21291&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21291&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Mon, 06 Feb 2023 17:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[8,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/867a6405e04c7aa1806b4a040814b0db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Milt Jackson / Quartet (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21290&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21290&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Mon, 06 Feb 2023 17:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[8,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/861376a303088f323bcf3b348991de05.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

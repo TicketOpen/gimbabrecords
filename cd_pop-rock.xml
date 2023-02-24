@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 05:37:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 17:39:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Patrick Bruel / Entre-Deux... (2CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21426&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21426&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 24 Feb 2023 17:37:46 GMT</pubDate>
+            <content:encoded><![CDATA[18,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/440c6bd8c61871b22fbded65f0065080.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andy Shauf / Norm (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21419&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21419&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 24 Feb 2023 17:37:46 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/66540a7a697b3f83ed3fc82ab90fd983.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tegan And Sara / Crybaby (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21414&amp;cate_no=30&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 20 Feb 2023 17:36:06 GMT</pubDate>
             <content:encoded><![CDATA[25,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/e2d7ad57201cb743e5dea36695c04f47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dusty Springfield / 5 Classic Albums (5CD Box) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21374&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21374&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 20 Feb 2023 17:36:06 GMT</pubDate>
-            <content:encoded><![CDATA[25,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/f6a2ff7b27c2ece1bcacaf995cc6a93d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dio / 5 Classic Albums (5CD Box) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21373&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21373&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 20 Feb 2023 17:36:06 GMT</pubDate>
-            <content:encoded><![CDATA[25,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/6e9e6f20ea8b0bb7a608b0cadc31013c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
