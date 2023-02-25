@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 05:37:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 17:36:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Shame / Food for Worms (Black Vinyl) *예약상품 (2월 27일 발매 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21391&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21391&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 21 Feb 2023 17:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[34,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/0778361490afab64d42ea2c9898cd527.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shame / Food for Worms (Transparent Purple Vinyl) *예약상품 (2월 27일 발매 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21390&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21390&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 21 Feb 2023 17:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[36,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/0778361490afab64d42ea2c9898cd527.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김현철 / DONG-A Records Years 1989~1994 (180g Colored Vinyl, 5LP, 양장 사양 싱글 자켓 (tip on jacket) + 20p 책자) *예약상품 (3월 9일 발매 예정) - 사전예약시 5% 추가 적립]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21403&amp;cate_no=42&amp;display_group=1</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 23 Feb 2023 05:35:39 GMT</pubDate>
             <content:encoded><![CDATA[17,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/1c445428c2063d7c100f9f565b33e05b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shame / Food for Worms (Transparent Purple Vinyl) *예약상품 (2월 27일 발매 예정, 24일 주문 마감)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21390&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21390&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Feb 2023 17:36:45 GMT</pubDate>
-            <content:encoded><![CDATA[36,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/0778361490afab64d42ea2c9898cd527.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shame / Food for Worms (Black Vinyl) *예약상품 (2월 27일 발매 예정, 24일 주문 마감)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21391&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21391&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Feb 2023 17:36:45 GMT</pubDate>
-            <content:encoded><![CDATA[34,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/0778361490afab64d42ea2c9898cd527.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Shame / Food for Worms (CD) *예약상품 (2월 27일 발매 예정, 24일 주문 마감)]]></title>
