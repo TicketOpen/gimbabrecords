@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 17:40:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 05:38:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bjork / Fossora (Standard CD, Gatefold Card Sleeve) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21444&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21444&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 28 Feb 2023 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[25,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/659ed78903dc6fede0e6a6f8452b6bba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Randy Goodrum / Fool`s Paradise (CD, "황금시대 숨은 명반" 시리즈) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21439&amp;cate_no=24&amp;display_group=1</link>
@@ -96,12 +104,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/c4aadebc439a2dfcb62d294893f3b007.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Patrick Bruel / Entre-Deux... (2CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21426&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21426&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 24 Feb 2023 17:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[18,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/440c6bd8c61871b22fbded65f0065080.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[맥거핀(MGFF) / MUFFY (Transparent Sea Blue Vinyl) *예약상품 (3월 3일 발송 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21443&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21443&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 28 Feb 2023 05:36:51 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/171ddbd9a0c8bf1535d2a8faa782393d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Giorgio Moroder / Best Of Electronic Disco (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 24 Feb 2023 05:36:00 GMT</pubDate>
             <content:encoded><![CDATA[34,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/3c04edfb105563663588d3221e6f87ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sly & The Family Stone / Fresh (Vinyl, Sundazed HQ Pressing) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21413&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21413&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 23 Feb 2023 17:37:09 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/a53a3b0e493c9c1df8a6a0e8d8ba0e21.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Various Artists / Thermal Expansion (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/fd490848147b27f2b50a3cecfdc9540d.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[맥거핀(MGFF) / MUFFY (Transparent Sea Blue Vinyl) *예약상품 (3월 3일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21443&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21443&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 28 Feb 2023 05:37:10 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/171ddbd9a0c8bf1535d2a8faa782393d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Marker Starling / Diamond Violence (Clear Vinyl) *예약상품 (3월 8일 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21363&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21363&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 23 Feb 2023 05:35:39 GMT</pubDate>
             <content:encoded><![CDATA[17,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/1c445428c2063d7c100f9f565b33e05b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shabason & Krgovich (Joseph Shabason & Nicholas Krgovich) / At Scaramouche (Vinyl) *예약상품 (3월 8일 이후 배송 시작) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21320&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21320&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Feb 2023 05:36:16 GMT</pubDate>
-            <content:encoded><![CDATA[39,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/02c2e10310b988c2cf697a53d6aa06e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Daft Punk / Alive 2007 (Vinyl, 2LP) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -680,6 +680,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/86c1c67e7c17969ef0a7ba2777795aef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Bjork / Fossora (Standard CD, Gatefold Card Sleeve) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21444&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21444&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 28 Feb 2023 05:37:28 GMT</pubDate>
+            <content:encoded><![CDATA[25,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/659ed78903dc6fede0e6a6f8452b6bba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Randy Goodrum / Fool`s Paradise (CD, "황금시대 숨은 명반" 시리즈) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21439&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21439&amp;cate_no=30&amp;display_group=1</guid>
@@ -766,14 +774,6 @@
             <pubDate>Fri, 24 Feb 2023 17:37:46 GMT</pubDate>
             <content:encoded><![CDATA[18,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/440c6bd8c61871b22fbded65f0065080.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Andy Shauf / Norm (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21419&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21419&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 24 Feb 2023 17:37:46 GMT</pubDate>
-            <content:encoded><![CDATA[22,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/66540a7a697b3f83ed3fc82ab90fd983.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yaeji / With A Hammer (CD, Digipak, 국내반) *예약상품 (4월 7일 발매) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
@@ -1736,6 +1736,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/f1a922179a095660b173e5ee27ed5761.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[맥거핀(MGFF) / MUFFY (Transparent Sea Blue Vinyl) *예약상품 (3월 3일 발송 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21443&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21443&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 28 Feb 2023 05:38:31 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/171ddbd9a0c8bf1535d2a8faa782393d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박지윤 / 꽃, 다시 첫번째 (180g Clear Vinyl, 한정반) *예약상품 (3월 8일 발매 예정) / 1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21404&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21404&amp;cate_no=52&amp;display_group=1</guid>
@@ -1819,14 +1827,6 @@
             <title><![CDATA[현경과 영애 / 아름다운 사람, 내친구 (180g Clear White Vinyl, 2023 Remaster) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21295&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21295&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Wed, 08 Feb 2023 05:37:52 GMT</pubDate>
-            <content:encoded><![CDATA[47,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/a1de06e1e0b6ce906ffddfcb301fcd4b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현경과 영애 / 아름다운 사람, 내친구 (180g Black Vinyl, 2023 Remaster) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21294&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21294&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Wed, 08 Feb 2023 05:37:52 GMT</pubDate>
             <content:encoded><![CDATA[47,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/a1de06e1e0b6ce906ffddfcb301fcd4b.jpg" length="0" type="image/jpg"/>

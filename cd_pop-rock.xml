@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 17:40:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 05:38:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bjork / Fossora (Standard CD, Gatefold Card Sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21444&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21444&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 28 Feb 2023 05:37:28 GMT</pubDate>
+            <content:encoded><![CDATA[25,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/659ed78903dc6fede0e6a6f8452b6bba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Randy Goodrum / Fool`s Paradise (CD, "황금시대 숨은 명반" 시리즈)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21439&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 24 Feb 2023 17:37:46 GMT</pubDate>
             <content:encoded><![CDATA[18,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/440c6bd8c61871b22fbded65f0065080.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Andy Shauf / Norm (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21419&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21419&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 24 Feb 2023 17:37:46 GMT</pubDate>
-            <content:encoded><![CDATA[22,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/66540a7a697b3f83ed3fc82ab90fd983.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
