@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 05:38:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 17:39:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Notorious B.I.G. / Greatest Hits (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21447&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21447&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 28 Feb 2023 17:36:48 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/92560bc06cba3e29f3af623bcf555069.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Doors / Soft Parade (CD, 40th Anniversary Expanded Edition, EU Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21446&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21446&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 28 Feb 2023 17:36:48 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201606/4104_shop1_386175.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joni MItchell / Hejira (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21445&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21445&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 28 Feb 2023 17:36:48 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201607/4646_shop1_265985.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bjork / Fossora (Standard CD, Gatefold Card Sleeve)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21444&amp;cate_no=24&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Sat, 25 Feb 2023 17:34:46 GMT</pubDate>
             <content:encoded><![CDATA[29,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/ff5f88a7373183a4f58eacf39743d26e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marker Starling / Diamond Violence (CD, 5곡의 일본반 한정 보너스트랙 추가, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21429&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21429&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sat, 25 Feb 2023 17:34:46 GMT</pubDate>
-            <content:encoded><![CDATA[25,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/9a500c1bca0849b340d8a30213c3c623.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prep / Back To You (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21428&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21428&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sat, 25 Feb 2023 17:34:46 GMT</pubDate>
-            <content:encoded><![CDATA[24,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/195264fa942a0a94fa6702bf69402aee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nekosen / Mitsu Getsu Ki Kou (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21427&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21427&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sat, 25 Feb 2023 17:34:46 GMT</pubDate>
-            <content:encoded><![CDATA[32,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/c4aadebc439a2dfcb62d294893f3b007.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
