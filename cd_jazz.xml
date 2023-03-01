@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 05:38:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 17:39:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Deodato / Night Cruiser & Happy Hour (1CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21464&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21464&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Wed, 01 Mar 2023 17:38:53 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/5150972275d11c620b8555fe9cb8c18e.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Frank Sinatra / Sinatra And Swingin' Brass (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21462&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21462&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Wed, 01 Mar 2023 17:38:53 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/fdf59cf98f71430a7f7d9d7fa5536354.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Paolo Fresu / The Blue Note Albums (8CD Box Set)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21425&amp;cate_no=46&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 10 Feb 2023 17:37:20 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/10f7ab15f84707ffb887e79e823f3029.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fred Hersch & Esperanza Spalding / Alive At The Village Vanguard (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21323&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21323&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 10 Feb 2023 17:37:20 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/d5124d3009dd1b7376922df131515d48.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alessandro Galati / Portrait in Black and White (CD) *예약상품 (3월초 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21311&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21311&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Feb 2023 17:37:12 GMT</pubDate>
-            <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/6f251787014b49862cce63b03a149af1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
