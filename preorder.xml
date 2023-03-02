@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 05:38:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 17:39:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Thu, 23 Feb 2023 17:37:31 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/e0ae14c5a1e116c840ca069b00813dcb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Haruka Nakamura / I"ll (アイル) (2nd Pressing, Clear Pink Vinyl) *예약상품 (4월말부터 배송이 시작됩니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21474&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21474&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 02 Mar 2023 17:37:38 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/2c2cde7f50285250804916afffdcb51e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Haruka Nakamura / Grace (Vinyl, 3rd Pressing) *예약상품 (5월 22일 이후 배송이 시작됩니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21475&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21475&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 02 Mar 2023 17:37:38 GMT</pubDate>
+            <content:encoded><![CDATA[47,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/3bd7e96b0f9b7e55f26eee62b8b2d522.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Terri Lyne Carrington / New Standards Vol. 1 (Vinyl, 2LP) *예약상품 (3월 10일 이후 배송 예정)]]></title>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 21 Feb 2023 17:36:45 GMT</pubDate>
             <content:encoded><![CDATA[57,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/f4f33dc1da0420ba161701c2571ba41d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박지윤 / 꽃, 다시 첫번째 (180g Clear Vinyl, 한정반) *예약상품 (3월 8일 발매 예정) / 1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21404&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21404&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 23 Feb 2023 05:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/767bb263065f0a14baae058528a902b3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RiE MORRiS / Here With You (EP, 12" Vinyl) *예약상품 (상세 설명을 참조하세요.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21405&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21405&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 23 Feb 2023 05:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[37,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/0a7bb1bfa9d16c31f099ce3ebce3adc1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
