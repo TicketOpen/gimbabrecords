@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 05:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 17:38:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Miles Davis / Tutu (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21515&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21515&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 07 Mar 2023 17:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201602/3131_shop1_766566.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Deodato / Night Cruiser & Happy Hour (1CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21464&amp;cate_no=46&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 10 Feb 2023 17:37:20 GMT</pubDate>
             <content:encoded><![CDATA[19,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/612162800bd01cd4ab29fbdb81cd5837.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jon Batiste / We Are (CD, Deluxe Edition) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21324&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21324&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 10 Feb 2023 17:37:20 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/10f7ab15f84707ffb887e79e823f3029.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
