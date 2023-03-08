@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 17:38:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 05:38:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RADWIMPS / Forever Daze (Blue Colored Vinyl 2LP, 유럽수입반) *예약상품 (4월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21522&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21522&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 08 Mar 2023 05:36:33 GMT</pubDate>
+            <content:encoded><![CDATA[57,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/a4d372e598a8f7b7f47fe201d5e949ca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Music by Remedios) / Love Letter 러브레터 (2023 Edition, Limited White Vinyl, Exclusive Pressing) *예약상품 (2차 예약 - 2023년 7월 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20726&amp;cate_no=42&amp;display_group=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Feb 2023 17:36:35 GMT</pubDate>
             <content:encoded><![CDATA[199,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/588251286a0fe7f114a7b91002b97e44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Radwimps & 陣内一真 / 스즈메의 문단속 애니메이션 음악 (Suzume no Tojimari OST) (Vinyl, 2LP) *예약상품 (3월 10일 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21018&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21018&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 24 Feb 2023 17:37:27 GMT</pubDate>
-            <content:encoded><![CDATA[67,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e0353d91c13c715ba0edeb9be19e3121.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OST (Son Lux) / Everything Everywhere All at Once 에브리씽 에브리웨어 올 앳 원스 (Black & White Vinyl, 2LP) *예약상품 (8월 4일 발매, 2월 24일 주문 마감)]]></title>
