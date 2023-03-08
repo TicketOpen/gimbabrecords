@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Holiday</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 05:38:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 17:39:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Howard Blake / The Snowman 스노우맨 사운드트랙 (CD + Live Stage Show DVD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21527&amp;cate_no=51&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21527&amp;cate_no=51&amp;display_group=1</guid>
+            <pubDate>Wed, 08 Mar 2023 17:38:49 GMT</pubDate>
+            <content:encoded><![CDATA[12,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/3f5c69926d4a260238a4d8e7ab9cf54d.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Peggy Lee / Ultimate Christmas (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21063&amp;cate_no=51&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 05:46:08 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/cfa26e40165b9ed191f863740f371b37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vince Guaraldi / A Charlie Brown Christmas (CD, Deluxe Edition, 국내반)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20549&amp;cate_no=51&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20549&amp;cate_no=51&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 05:46:08 GMT</pubDate>
-            <content:encoded><![CDATA[14,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202011/3304ecc5879d215f33addc4c309f9a6d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
