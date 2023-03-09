@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 05:38:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 17:39:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pusha T / It's Almost Dry (CD, US Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21543&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21543&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Mar 2023 17:37:16 GMT</pubDate>
+            <content:encoded><![CDATA[20,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/ac613ddcf19d77146314b605a1134cc8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mac Demarco / Five Easy Hot Dogs (CD, US Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21542&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21542&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Mar 2023 17:37:16 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/ca77cb46433232bb2d917c63553009f9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New England / New England (Remastered CD + bonus tracks)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21532&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 07 Mar 2023 17:36:50 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/b945cb771e7d6bc5ffcfabfbd613d23a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Van Halen / 5150 (CD) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21519&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21519&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 07 Mar 2023 17:36:50 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/678d22febe506faf6c7fcf7899ce7cb2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pantera / Far Beyond Driven (CD) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21518&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21518&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 07 Mar 2023 17:36:50 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/d6e7ee279fda87cfbba067096f46559c.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Movies/Merch</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 05:38:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 17:39:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Wed, 15 Feb 2023 17:37:09 GMT</pubDate>
             <content:encoded><![CDATA[53,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/d24bc21fa3b885b3fe79bf0848267deb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rega(레가) Planar 1 턴테이블 (블랙, 화이트 색상 선택) + FONO MINI A2D MK2 (포노앰프) 묶음 한정할인 (+보너스 레코드 증정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21173&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21173&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Tue, 24 Jan 2023 17:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[750,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/22bb1666512355ec85d6885b9513390f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Beatles / Revolver (2022 New Mix Vinyl + Tote Bag Box Set 2022년 새로운 믹싱을 거쳐 발매된 바이닐 + 천가방)]]></title>
@@ -88,7 +80,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/666f0a1d5a5bdced17eed0e6af5b9934.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Rega(레가) Planar 1 턴테이블 (블랙, 화이트 색상 선택) *보너스 레코드 증정]]></title>
+            <title><![CDATA[Rega(레가) Planar 1 턴테이블 (블랙, 화이트 색상 선택) *보너스 레코드 증정 + 3월 31일까지 구매시 3만원 추가 적립]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19661&amp;cate_no=27&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19661&amp;cate_no=27&amp;display_group=1</guid>
             <pubDate>Sat, 18 Feb 2023 17:35:36 GMT</pubDate>
@@ -102,6 +94,14 @@
             <pubDate>Mon, 27 Feb 2023 17:38:07 GMT</pubDate>
             <content:encoded><![CDATA[240,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/fd490848147b27f2b50a3cecfdc9540d.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rega(레가) Fono MM 포노앰프 (2017 Black)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19659&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19659&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Mar 2023 17:37:38 GMT</pubDate>
+            <content:encoded><![CDATA[480,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/e190800e4896d6d126038449d89cb408.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
