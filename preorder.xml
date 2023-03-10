@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 17:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 05:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,28 +80,28 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/3bd7e96b0f9b7e55f26eee62b8b2d522.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Terri Lyne Carrington / New Standards Vol. 1 (Vinyl, 2LP) *예약상품 (3월 10일 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21261&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21261&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 28 Feb 2023 17:37:16 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/8e8e7483b9c79c610266ebf65856ec18.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marker Starling / Diamond Violence (Clear Vinyl) *예약상품 (3월 8일 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21363&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21363&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 27 Feb 2023 17:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[36,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/14c04820cd54d435396826c207e3107a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[OST (Son Lux) / Everything Everywhere All at Once 에브리씽 에브리웨어 올 앳 원스 (Black & White Vinyl, 2LP) *예약상품 (8월 4일 발매, 2월 24일 주문 마감)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21395&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21395&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Tue, 21 Feb 2023 17:36:45 GMT</pubDate>
             <content:encoded><![CDATA[57,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/f4f33dc1da0420ba161701c2571ba41d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yaeji / With A Hammer (CD, Digipak, 국내반) *예약상품 (4월 7일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21406&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21406&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 10 Mar 2023 05:37:08 GMT</pubDate>
+            <content:encoded><![CDATA[17,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/1c445428c2063d7c100f9f565b33e05b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백예린 / 정규 2집 + 2집 리믹스 tellusboutyourself (Vinyl, 3LP) *예약상품 / 1인 1매만 구매 가능 / 별도의 입금기한 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20706&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20706&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 10 Mar 2023 05:37:08 GMT</pubDate>
+            <content:encoded><![CDATA[65,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/7e8f708ca914d3ec58b053bd207b02ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

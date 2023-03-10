@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Bargain Bin</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 17:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 05:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/39f43fd8f33800c69b541eea305808fe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Various Artists / Pay Close Attention : XL Recordings (2CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18964&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18964&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Wed, 21 Dec 2022 17:35:55 GMT</pubDate>
-            <content:encoded><![CDATA[9,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/884586cda736a4f74fe5932073737cc2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[김정미 / 최신가요집 (1집) + 간다고 하지마오 (2집, 컴필레이션) + 바람 (3집) (일본에서 제작된 3장의 컬러바이닐 한정수량 묶음판매, Limited Edition) *할인판매]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18942&amp;cate_no=43&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18942&amp;cate_no=43&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 16 Nov 2022 05:44:55 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/7b1bc6070890df1440939c4e8f40ef88.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Chemical Brothers / Surrender (20th Anniversary 3CD + DVD Box Set) *한정수량 할인 (1인 1세트만 구매 가능)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17776&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17776&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Fri, 10 Mar 2023 05:37:14 GMT</pubDate>
+            <content:encoded><![CDATA[30,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/b85c13f3cadf065f71b30b994fa0f721.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
