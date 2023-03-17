@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 05:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 17:38:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nina Simone / Great Women Of Song: Nina Simone (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21594&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21594&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Mar 2023 17:37:30 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/d9c5c5db2743567e6e3a737c6db0a6da.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kendrick Scott, Reuben Rogers, Walter Smith III / Corridors (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21593&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21593&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Mar 2023 17:37:30 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/54ed2d99da90aa2ff55466e4d7c981b6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Julian Lage / The Layers (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21592&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21592&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Mar 2023 17:37:30 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/3772a672a5c88b5ddbfce3227ef4db11.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Eddie Higgins Trio / Portraits Of Love (CD + OBI, JPN Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21581&amp;cate_no=46&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Wed, 08 Mar 2023 17:38:18 GMT</pubDate>
             <content:encoded><![CDATA[12,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202110/89c143038d4376ce424ceaff47d138d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Miles Davis / Tutu (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21515&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21515&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 07 Mar 2023 17:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[12,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/6a2ba1965d299f2ad8798273cd4aad75.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Deodato / Night Cruiser & Happy Hour (1CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21464&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21464&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Wed, 01 Mar 2023 17:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[22,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/5150972275d11c620b8555fe9cb8c18e.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Frank Sinatra / Sinatra And Swingin' Brass (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21462&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21462&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Wed, 01 Mar 2023 17:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/fdf59cf98f71430a7f7d9d7fa5536354.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
