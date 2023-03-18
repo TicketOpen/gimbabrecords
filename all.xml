@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 17:38:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 05:37:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,14 +200,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/9c62c4a0f4865472ea007eaf03d04d86.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[HYBS / Making Steak (Cassette Tape, Limited Edition) *예약상품 (5월 10일경 배송 예정) (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21556&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21556&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Sat, 11 Mar 2023 17:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/be78a9101322e14900bcac63574d0fe4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[Various Artists / Thermal Expansion (Cassette) (김밥레코즈 ─ Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21389&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21389&amp;cate_no=26&amp;display_group=1</guid>
@@ -294,6 +286,14 @@
             <pubDate>Thu, 16 Mar 2023 17:36:23 GMT</pubDate>
             <content:encoded><![CDATA[33,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/6a6d860deb8fef0ec215b05822d8b7d2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Abba / Voyage (Alternative Cover, Limited Edition) *한정수량 할인판매 (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21006&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21006&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Sat, 18 Mar 2023 05:36:04 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/08c36970334499155187015170def2ba.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[하세가와 요헤이의 도쿄 레코드 100 (단행본, Book) *예약상품 (3월 23일부터 배송이 시작됩니다.) (김밥레코즈 ─ Movies/Merch)]]></title>
@@ -392,6 +392,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/fd490848147b27f2b50a3cecfdc9540d.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[250  / 뽕 (Vinyl, Toru Kotetsu Remaster Edition) *예약상품 (7월 중 발송 예정, 3월 24일 예약 마감 - 1인 최대 2매 구매 가능) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21551&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21551&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 11 Mar 2023 05:36:25 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/ee880632f1a7e25767542e1b8ab774df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HYBS / Making Steak (Cassette Tape, Limited Edition) *예약상품 (5월 10일경 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21556&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21556&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 11 Mar 2023 17:35:42 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/be78a9101322e14900bcac63574d0fe4.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[방준석 / TEMPEST (CD, Limited Edition, Digipak) *예약상품 (3월 23일 발매 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21567&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21567&amp;cate_no=42&amp;display_group=1</guid>
@@ -414,22 +430,6 @@
             <pubDate>Sat, 04 Mar 2023 17:35:49 GMT</pubDate>
             <content:encoded><![CDATA[48,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/bce30e9691fffaa9ce9f49fb0dbcdd88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HYBS / Making Steak (Cassette Tape, Limited Edition) *예약상품 (5월 10일경 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21556&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21556&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sat, 11 Mar 2023 17:35:42 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/be78a9101322e14900bcac63574d0fe4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[250  / 뽕 (Vinyl, Toru Kotetsu Remaster Edition) *예약상품 (7월 중 발송 예정, 3월 24일 예약 마감 - 1인 최대 2매 구매 가능) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21551&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21551&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sat, 11 Mar 2023 05:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/ee880632f1a7e25767542e1b8ab774df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Marker Starling / Diamond Violence (Clear Vinyl) *예약상품 (3월 30일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
