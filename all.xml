@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 17:37:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 05:37:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Boz Scaggs / Silk Degrees (CD, 보너스트랙 3곡 추가) *한정 할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21616&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21616&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sun, 19 Mar 2023 05:35:24 GMT</pubDate>
+            <content:encoded><![CDATA[12,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/4099b60be729ec086093365e800a7c6d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boz Scaggs / The Essential Boz Scaggs (2CD) *한정 할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21615&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21615&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sun, 19 Mar 2023 05:35:24 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/145c63e29fc0765d3e6d963e6ba4f888.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rendell / Carr Quintet (Don Rendell, Ian Carr, Michael Garrick, Dave Green, Trevor Tomkins)  / BBC Jazz Club II 1965-1966 (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21614&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 16 Mar 2023 17:36:09 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/e6be4b81722d23f269447516f6c3f837.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio / Ballad Higgins (CD + OBI, JPN Import) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21580&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21580&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Mar 2023 17:36:09 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/526863063f720b57faba767da9ad1f17.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio / Standard Higgins (CD + OBI, JPN Import) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21579&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21579&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Mar 2023 17:36:09 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/10d072b9963afe870af407327b84f0ae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Atmosfear / En Trance (Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
@@ -872,6 +872,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/311ff5c6346ca977796660255a986298.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Boz Scaggs / Silk Degrees (CD, 보너스트랙 3곡 추가) *한정 할인 (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21616&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21616&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Sun, 19 Mar 2023 05:36:24 GMT</pubDate>
+            <content:encoded><![CDATA[12,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/4099b60be729ec086093365e800a7c6d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boz Scaggs / The Essential Boz Scaggs (2CD) *한정 할인 (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21615&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21615&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Sun, 19 Mar 2023 05:36:24 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/145c63e29fc0765d3e6d963e6ba4f888.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ben E. King / What Is Soul? (CD, Japanese OBI, Atlantic R&B Best Collection 1000) *한정수량 할인 판매 (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21612&amp;cate_no=44&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21612&amp;cate_no=44&amp;display_group=1</guid>
@@ -950,22 +966,6 @@
             <pubDate>Mon, 20 Feb 2023 17:36:17 GMT</pubDate>
             <content:encoded><![CDATA[22,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/e379c3a7c90deb46056b0d8a458b2afb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eric Benet / The One (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21359&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21359&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Feb 2023 17:36:40 GMT</pubDate>
-            <content:encoded><![CDATA[9,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/8cc5db5850ebd9faa02b53e7927fc691.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Babyface / Love Songs (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21356&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21356&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Feb 2023 17:36:40 GMT</pubDate>
-            <content:encoded><![CDATA[9,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/ce95296e7f88241ff66aa51e53d4700e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Quasimoto / The Further Adventures Of Lord Quas (CD) (김밥레코즈 ─ CD ─ Hip Hop)]]></title>
