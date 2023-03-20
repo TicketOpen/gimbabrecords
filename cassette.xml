@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 05:37:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 17:38:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Mon, 20 Feb 2023 17:35:37 GMT</pubDate>
             <content:encoded><![CDATA[12,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/949cd9de297d834d11d5ee1f03ed9c0f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Natsu Summer & Ryusenkei / Sun Kissed Lady (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21283&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21283&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Sun, 05 Feb 2023 05:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[27,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/7de86ddb5d0270188aec470ae5120dcb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Joy Orbison / Still Slipping Vol. 1 (Cassette)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Sat, 18 Mar 2023 05:36:04 GMT</pubDate>
             <content:encoded><![CDATA[22,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/08c36970334499155187015170def2ba.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ABBA / Voyage (FR Artwork) (Limited Cassette) *한정수량 할인판매]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21005&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21005&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Mon, 20 Mar 2023 17:36:18 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/c4c81ebf631641066e7c8d6a464aae32.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

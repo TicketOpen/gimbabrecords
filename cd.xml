@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 05:37:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 17:38:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[kennytheking / EP tales (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21617&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21617&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 20 Mar 2023 17:36:05 GMT</pubDate>
+            <content:encoded><![CDATA[16,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/8a6616cfae1c05845fbae5de1e2bae59.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Boz Scaggs / Silk Degrees (CD, 보너스트랙 3곡 추가) *한정 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21616&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 17 Mar 2023 17:36:16 GMT</pubDate>
             <content:encoded><![CDATA[17,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/3772a672a5c88b5ddbfce3227ef4db11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio / Portraits Of Love (CD + OBI, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21581&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21581&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Mar 2023 17:36:09 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/e6be4b81722d23f269447516f6c3f837.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
