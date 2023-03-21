@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 17:38:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 05:37:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팔칠댄스 87dance / COLOR PAPER HOTEL (Black Vinyl) *3월 27일부터 발송됩니다.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21628&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21628&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 21 Mar 2023 05:37:10 GMT</pubDate>
+            <content:encoded><![CDATA[48,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/57d3ed36d712af8f3a28a3801ed69979.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크림빌라 / FURY (Black Vinyl, 100매 넘버링 한정반) *예약상품 / 1인 1매만 구매 가능 / 별도의 입금기한 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21621&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21621&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 21 Mar 2023 05:37:10 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/8c1f5ff8d443f4e7626102d57d83f881.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[baewonlee / Sonder (Black Vinyl, 150장 한정) *예약상품 (3월 28일부터 발송됩니다.)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21620&amp;cate_no=52&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 22 Feb 2023 17:38:08 GMT</pubDate>
             <content:encoded><![CDATA[199,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/588251286a0fe7f114a7b91002b97e44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[효도앤베이스 Hyodo and BASS / 1집 Hyodo and BASS (180g Vinyl, 2LP, 한정반) *1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21396&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21396&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Feb 2023 17:38:22 GMT</pubDate>
-            <content:encoded><![CDATA[59,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/47eeca186ecc2b0777d7f96e6a8448df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[림지훈 / Organ, Orgasm (180g Black Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21338&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21338&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Mon, 13 Feb 2023 17:37:53 GMT</pubDate>
-            <content:encoded><![CDATA[44,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/3747aa3644bf2f63d2a18930f0e4ecfa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
