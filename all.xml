@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 05:37:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 17:37:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,38 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/8a6616cfae1c05845fbae5de1e2bae59.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Prep / Futures (Limited Clear Vinyl) *1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21645&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21645&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 22 Mar 2023 17:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[32,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/c7bc525e4e8292ea688ef453e75120ee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[John Scofield / John Scofield (180g Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21644&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21644&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 22 Mar 2023 17:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[35,100원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/ec172f14baa563f4925ec0eb3146792d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선과영 / 밤과낮 (180g Black Vinyl, Limited Edition) *예약상품 (7월 20일 발매 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21643&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21643&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 22 Mar 2023 17:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/a36d0aadc033f2d6e88d86e59319661d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이랑 / LANG LEE  LIVE IN SEOUL 2022 (Clear Pink 투명 핑크 Vinyl) *예약상품 (9월 12일 화요일 발매 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21642&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21642&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 22 Mar 2023 17:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[47,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/560ddd879f5b0fca24bd4574ee3c5eb9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Gabriel da Rosa / E O Que A Casa Oferece (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21630&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21630&amp;cate_no=25&amp;display_group=1</guid>
@@ -166,38 +198,6 @@
             <pubDate>Mon, 20 Mar 2023 17:36:12 GMT</pubDate>
             <content:encoded><![CDATA[36,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/0ca66bf5da7069a28a4157e39eb9d9bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Barry Morgan and Ray Cooper / Percussion Spectrum (Vinyl, Themes 라이브러리 시리즈) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21622&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21622&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 20 Mar 2023 17:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[36,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/8043a56dafadf37657851f1d2d2c7168.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[크림빌라 / FURY (Black Vinyl, 100매 넘버링 한정반) *예약상품 / 1인 1매만 구매 가능 / 별도의 입금기한 설정 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21621&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21621&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Mar 2023 05:35:15 GMT</pubDate>
-            <content:encoded><![CDATA[42,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/8c1f5ff8d443f4e7626102d57d83f881.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[baewonlee / Sonder (Black Vinyl, 150장 한정) *예약상품 (3월 28일부터 발송됩니다.) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21620&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21620&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 20 Mar 2023 17:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[40,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/3dbf94882edac4c1c15948e97c23e320.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미역수염 Seaweed Mustache / Bombora (봄보라 컬러 Vinyl, 150장 한정) *예약상품 (3월 28일부터 발송됩니다.) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21619&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21619&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 20 Mar 2023 17:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[40,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/d9c253e75f80f69e4958e146c147ea57.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Various Artists / Thermal Expansion (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,6 +392,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/e190800e4896d6d126038449d89cb408.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[선과영 / 밤과낮 (180g Black Vinyl, Limited Edition) *예약상품 (7월 20일 발매 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21643&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21643&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 22 Mar 2023 17:36:10 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/a36d0aadc033f2d6e88d86e59319661d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이랑 / LANG LEE  LIVE IN SEOUL 2022 (Clear Pink 투명 핑크 Vinyl) *예약상품 (9월 12일 화요일 발매 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21642&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21642&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 22 Mar 2023 17:36:10 GMT</pubDate>
+            <content:encoded><![CDATA[47,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/560ddd879f5b0fca24bd4574ee3c5eb9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Peach Pit / Being So Normal (Black Vinyl, 2022 repressing) *예약상품 (3월 31일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=16326&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=16326&amp;cate_no=42&amp;display_group=1</guid>
@@ -414,14 +430,6 @@
             <pubDate>Tue, 21 Mar 2023 05:35:36 GMT</pubDate>
             <content:encoded><![CDATA[48,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/57d3ed36d712af8f3a28a3801ed69979.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크림빌라 / FURY (Black Vinyl, 100매 넘버링 한정반) *예약상품 / 1인 1매만 구매 가능 / 별도의 입금기한 설정 (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21621&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21621&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Mar 2023 05:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[42,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/8c1f5ff8d443f4e7626102d57d83f881.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[baewonlee / Sonder (Black Vinyl, 150장 한정) *예약상품 (3월 28일부터 발송됩니다.) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -462,14 +470,6 @@
             <pubDate>Sat, 11 Mar 2023 17:35:42 GMT</pubDate>
             <content:encoded><![CDATA[29,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/be78a9101322e14900bcac63574d0fe4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[방준석 / TEMPEST (CD, Limited Edition, Digipak) *예약상품 (3월 23일 발매 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21567&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21567&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 15 Mar 2023 05:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[17,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/956f024b71c8e01c7cee0c3ea530f368.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yaeji 예지 / With A Hammer (CD, Digipak, 국내반) *예약상품 (4월 7일 발매) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -592,7 +592,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/8a6616cfae1c05845fbae5de1e2bae59.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[방준석 / TEMPEST (CD, Limited Edition, Digipak) *예약상품 (3월 23일 발매 예정) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <title><![CDATA[방준석 / TEMPEST (CD, Limited Edition, Digipak) (김밥레코즈 ─ CD ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21567&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21567&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Wed, 15 Mar 2023 05:35:51 GMT</pubDate>
@@ -1736,6 +1736,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/8a513fc31ea12e53ab03718b452150ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[선과영 / 밤과낮 (180g Black Vinyl, Limited Edition) *예약상품 (7월 20일 발매 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21643&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21643&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 22 Mar 2023 17:37:31 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/a36d0aadc033f2d6e88d86e59319661d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이랑 / LANG LEE  LIVE IN SEOUL 2022 (Clear Pink 투명 핑크 Vinyl) *예약상품 (9월 12일 화요일 발매 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21642&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21642&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 22 Mar 2023 17:37:31 GMT</pubDate>
+            <content:encoded><![CDATA[47,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/560ddd879f5b0fca24bd4574ee3c5eb9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Hookuo 후쿠오 / Mild Dawn City Vol. 2 (Transparent Blue Vinyl) *예약상품 (3월 27일부터 발송됩니다.) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21629&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21629&amp;cate_no=52&amp;display_group=1</guid>
@@ -1814,22 +1830,6 @@
             <pubDate>Fri, 10 Mar 2023 17:38:51 GMT</pubDate>
             <content:encoded><![CDATA[43,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/c0b4b6afa26275e87aaf9e091929dfb6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맥거핀(MGFF) / MUFFY (Transparent Sea Blue Vinyl) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21443&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21443&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 28 Feb 2023 05:38:31 GMT</pubDate>
-            <content:encoded><![CDATA[44,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/171ddbd9a0c8bf1535d2a8faa782393d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박지윤 / 꽃, 다시 첫번째 (180g Clear Vinyl, 한정반) *1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21404&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21404&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 23 Feb 2023 05:37:13 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/767bb263065f0a14baae058528a902b3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Peanuts Deluxe Holiday Collection (Ultimate Collector's Edition) (Blu-ray + DVD Pack + Snowglobe & Window Clings) *할인상품 (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
