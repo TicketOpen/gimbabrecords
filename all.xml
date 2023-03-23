@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 17:37:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 05:37:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Donny McCaslin / Casting For Gravity (CD, Digipak) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21647&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21647&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Mar 2023 05:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/06ebfb71b0e01e443064dfe12dca53a0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Donny McCaslin / Fast Future (CD, Digipak) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21646&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21646&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Mar 2023 05:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/a4e1c3c8870a3362a0fa64d083e0ee31.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST / Pretty Woman 프리티 우먼 (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21641&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 21 Mar 2023 17:35:52 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201602/3104_shop1_517446.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dionne Warwick / Sure Thing: The Warner Bros. Recordings (1972-1977) (6CD Box Set) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21631&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21631&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Mar 2023 17:35:52 GMT</pubDate>
-            <content:encoded><![CDATA[61,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/8fb78de1a35928d3333c5f2fd9eaf0aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[kennytheking / EP tales (CD, Digipak) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21617&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21617&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 20 Mar 2023 17:36:05 GMT</pubDate>
-            <content:encoded><![CDATA[16,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/8a6616cfae1c05845fbae5de1e2bae59.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Prep / Futures (Limited Clear Vinyl) *1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl)]]></title>
@@ -1064,6 +1064,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/c3b4f3c65a2ac1ffc0973def2beb40c6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Donny McCaslin / Casting For Gravity (CD, Digipak) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21648&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21648&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Mar 2023 05:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/06ebfb71b0e01e443064dfe12dca53a0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Donny McCaslin / Casting For Gravity (CD, Digipak) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21647&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21647&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Mar 2023 05:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/06ebfb71b0e01e443064dfe12dca53a0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Donny McCaslin / Fast Future (CD, Digipak) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21646&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21646&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Mar 2023 05:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/a4e1c3c8870a3362a0fa64d083e0ee31.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Frank Sinatra / Come Dance With Me! (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21633&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21633&amp;cate_no=46&amp;display_group=1</guid>
@@ -1134,30 +1158,6 @@
             <pubDate>Thu, 16 Mar 2023 17:37:26 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/526863063f720b57faba767da9ad1f17.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio / Standard Higgins (CD + OBI, JPN Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21579&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21579&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Mar 2023 17:37:26 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/10d072b9963afe870af407327b84f0ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio / If Dreams Come True (CD + OBI, JPN Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21578&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21578&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Mar 2023 17:37:26 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/d50a3bd8d4c3cc51cf7c5085f2ee9f31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio / Haunted Heart (CD + OBI, JPN Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21577&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21577&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Mar 2023 17:37:26 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/441aff52528f37cc6ccc86a99f27939f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
