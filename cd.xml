@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 05:37:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 17:37:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Unknown Mortal Ochestra / V (CD, Trifold sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21705&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21705&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 31 Mar 2023 17:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[18,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/61ee2f6ebd30ac4e2168c65d481b4b23.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nosaj Thing / Continua (CD, Jewel Case)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21702&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21702&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 31 Mar 2023 17:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/01e1ffce6f64741d126ba386326e8673.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Yo La Tengo / This Stupid World (CD, trifold sleeve)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21689&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 23 Mar 2023 05:35:36 GMT</pubDate>
             <content:encoded><![CDATA[19,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/06ebfb71b0e01e443064dfe12dca53a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Donny McCaslin / Fast Future (CD, Digipak)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21646&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21646&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 23 Mar 2023 05:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[19,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/a4e1c3c8870a3362a0fa64d083e0ee31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST / Pretty Woman 프리티 우먼 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21641&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21641&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Mar 2023 17:35:52 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/27f72ede4dc7139f533bbcf9233d0e99.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

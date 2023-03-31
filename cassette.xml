@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 05:37:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 17:37:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Unknown Mortal Ochestra / V (Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21706&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21706&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Fri, 31 Mar 2023 17:36:13 GMT</pubDate>
+            <content:encoded><![CDATA[14,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/c67501c64c6c928a24715a391fc23495.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프롬 Fromm / 무드, 선데이 Mood, Sunday (Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21661&amp;cate_no=26&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 23 Feb 2023 17:37:16 GMT</pubDate>
             <content:encoded><![CDATA[21,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/20c18b714faf6e1967ceeceacc5d21af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Moon / Enta Da Stage (Black Cassette, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21023&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21023&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Mar 2023 17:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[33,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/6a6d860deb8fef0ec215b05822d8b7d2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

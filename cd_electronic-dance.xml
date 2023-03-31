@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Electronic/Dance</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 05:37:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 17:37:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nosaj Thing / Continua (CD, Jewel Case)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21702&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21702&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Fri, 31 Mar 2023 17:36:51 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/01e1ffce6f64741d126ba386326e8673.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stephane Pompougnac (Various Artists) / Hotel Costes: Best Of... (CD, Digipak) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21497&amp;cate_no=31&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:41:33 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/1b55800fe4efb97ade657e8b4a140b82.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joseph Shabason / The Fellowship (CD, gatefold sleeve)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20538&amp;cate_no=31&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20538&amp;cate_no=31&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:41:33 GMT</pubDate>
-            <content:encoded><![CDATA[20,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/311ff5c6346ca977796660255a986298.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
