@@ -4,16 +4,16 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 17:38:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 05:37:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[선과영 / 밤과낮 (180g Black Vinyl, Limited Edition) *예약상품 (7월 20일 발매 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21643&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21643&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 22 Mar 2023 17:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/a36d0aadc033f2d6e88d86e59319661d.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Grey October Sound / Lo-Fi City Pop (Vinyl) *예약상품 (7월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21652&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21652&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 24 Mar 2023 05:35:41 GMT</pubDate>
+            <content:encoded><![CDATA[46,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/ebe5275019d3f2370131f99cfd1db825.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Peach Pit / Being So Normal (Black Vinyl, 2022 repressing) *예약상품 (3월 31일 발송 예정)]]></title>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 21 Mar 2023 17:36:19 GMT</pubDate>
             <content:encoded><![CDATA[34,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202104/70b0a7d44d42f0a5ad35c9a864a29138.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선과영 / 밤과낮 (180g Black Vinyl, Limited Edition) *예약상품 (7월 20일 발매 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21643&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21643&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 22 Mar 2023 17:36:10 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/a36d0aadc033f2d6e88d86e59319661d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HYBS / Making Steak (Yellow Colored Vinyl) *예약상품 (5월말 배송 예정, 1인 최대 2매까지만 구매가 가능합니다. 구매시 유의사항을 반드시 확인해 주세요.)]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 11 Mar 2023 05:36:25 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/ee880632f1a7e25767542e1b8ab774df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grey October Sound / Lo-Fi City Pop (Vinyl) *예약상품 (7월말 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21652&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21652&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 24 Mar 2023 05:35:41 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/ebe5275019d3f2370131f99cfd1db825.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HYBS / Making Steak (Cassette Tape, Limited Edition) *예약상품 (5월 10일경 배송 예정)]]></title>
