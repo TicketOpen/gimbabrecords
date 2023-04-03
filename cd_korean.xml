@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 05:37:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 17:37:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민수 Minsu / EP NOW NOW (CD + 포토북 + 핀버튼 뱃지)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21715&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21715&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 03 Apr 2023 17:36:31 GMT</pubDate>
+            <content:encoded><![CDATA[17,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/5c94c8a938ffd567bb697909f5263fa3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[kennytheking / EP tales (CD, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21617&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 28 Dec 2022 17:35:46 GMT</pubDate>
             <content:encoded><![CDATA[22,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/641077518f0bccabec0322922e979282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예람 / 세상의 끝에서 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20938&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20938&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Wed, 28 Dec 2022 17:35:46 GMT</pubDate>
-            <content:encoded><![CDATA[20,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/7d55b02941222ccd64b7ce771332745d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
