@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 05:37:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 17:37:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Toninho Horta / To Jobim With Love (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21750&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21750&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Apr 2023 17:37:10 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/31b5c6bb45ea9affedcb27080bda6a62.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Carminho / Portuguesa (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21749&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21749&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Apr 2023 17:37:10 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/c2468cbe61d463a067bb9b50b2ec9cce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Antonio Carlos Jobim / Tide & Stone Flower (1CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21748&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21748&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Apr 2023 17:37:10 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/67e21c9b9406a24bfd0d20f936589716.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lucas Santtana / O C​é​u É Velho Há Muito Tempo (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21747&amp;cate_no=79&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Fri, 24 Feb 2023 17:38:31 GMT</pubDate>
             <content:encoded><![CDATA[18,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/440c6bd8c61871b22fbded65f0065080.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daniel Salinas / Atlantis (CD, Mr. Bongo Reissue)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21371&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21371&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Mon, 20 Feb 2023 17:36:45 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/e379c3a7c90deb46056b0d8a458b2afb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joyce with Mauricio Maestro / Natureza (produced, arranged & conducted by Claus Ogerman) (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21286&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21286&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Sun, 05 Feb 2023 05:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/921de9d5199c70f9fc7cd89e139db104.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joyce Moreno / Cool (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21281&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21281&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Sun, 05 Feb 2023 05:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/3eb3c0920d6ad0c8ef45e8970d9054b8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
