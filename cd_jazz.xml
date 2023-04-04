@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 17:37:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 05:37:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Esbjörn Svensson Trio (Esbjorn Svensson Trio = e.s.t.) / When Everyone Has Gone (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21744&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21744&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Apr 2023 05:36:13 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/4e6ee2eb535ede980955bb90bd5ceae4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Christian Scott aTunde Adjuah / Axiom (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21740&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21740&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Apr 2023 05:36:13 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/db0d68d7d99bc045fd7af4ab5f5b452b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kenny Drew Trio / Fantasia (CD, 국내반)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21651&amp;cate_no=46&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 17 Mar 2023 17:37:30 GMT</pubDate>
             <content:encoded><![CDATA[17,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/54ed2d99da90aa2ff55466e4d7c981b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Julian Lage / The Layers (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21592&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21592&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Mar 2023 17:37:30 GMT</pubDate>
-            <content:encoded><![CDATA[17,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/3772a672a5c88b5ddbfce3227ef4db11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio / Portraits Of Love (CD + OBI, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21581&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21581&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Mar 2023 17:37:26 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/e6be4b81722d23f269447516f6c3f837.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

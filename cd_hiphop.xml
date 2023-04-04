@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Hip Hop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 17:37:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 05:37:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Czarface & MF Doom / Super What? (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21741&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21741&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Apr 2023 05:36:06 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/b02eaa4cd22714574967dbe8cd399953.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kenny Beats / LOUIE (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21684&amp;cate_no=45&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 19 Dec 2022 17:36:12 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/f7784d51a12fa643fd330da17bfdeb2f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joji / Smithereens (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20648&amp;cate_no=45&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20648&amp;cate_no=45&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/548c189a9903e4494ba0f3110e2434b4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Electronic/Dance</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 17:37:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 05:37:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Gotan Project / Tango 3.0 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21739&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21739&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Apr 2023 05:35:52 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/db22c993c8e49259420bf8691789c913.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gotan Project / Lunatico (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21738&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21738&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Apr 2023 05:35:52 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/63af7d6ea5b1d190fbae77e34d5d5aca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gotan Project / The Complete Studio Recordings (3CD) *단종된 박스셋 / 한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21736&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21736&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Apr 2023 05:35:52 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/b07f132055776732ce10afcadc054c68.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nosaj Thing / Continua (CD, Jewel Case)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21702&amp;cate_no=31&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:41:33 GMT</pubDate>
             <content:encoded><![CDATA[17,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/15b1ad1c873167d35be9eaf81f47edc5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brian Eno / FOREVERANDEVERNOMORE (CD, Paper Sleeve)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20628&amp;cate_no=31&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20628&amp;cate_no=31&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:41:33 GMT</pubDate>
-            <content:encoded><![CDATA[19,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/1de2ff56b3bed99b4ab23092983b936f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vangelis / Heaven And Hell (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20622&amp;cate_no=31&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20622&amp;cate_no=31&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:41:33 GMT</pubDate>
-            <content:encoded><![CDATA[11,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/5652a9bf2866f11978fdb73ceb11c75d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sylvan Esso / Free Love (CD, gatefold sleeve) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20619&amp;cate_no=31&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20619&amp;cate_no=31&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:41:33 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/1b55800fe4efb97ade657e8b4a140b82.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
