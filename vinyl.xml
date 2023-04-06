@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 17:37:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 05:37:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bruno Berle / No Reino Dos Afetos (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21764&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21764&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 06 Apr 2023 05:35:22 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/1499393f85d2a042475a3f1629700ba6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Yogee New Waves / A.Y.A e.p (10" Vinyl, Limited Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21763&amp;cate_no=25&amp;display_group=1</link>
@@ -14,6 +22,14 @@
             <pubDate>Wed, 05 Apr 2023 17:35:09 GMT</pubDate>
             <content:encoded><![CDATA[34,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/f32082e5a9fcc6c0c22aca1699cee5ee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김아일 Qim Isle / some hearts are for two (Vinyl, Limited to 400)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21762&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21762&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 06 Apr 2023 05:35:22 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/90ac7609c84ebef281cc40972497e670.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dhidalah / Threshold (Vinyl) *한정수량 할인]]></title>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 04 Apr 2023 17:35:38 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/ec309ced1c3a4fc3e2abf8ca986dd7f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sayonara Ponytail  / All Night Thing (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21752&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21752&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Apr 2023 17:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[47,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/7fb46a4dc8270e97339c78385c3b0700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Pains Of Being Pure At Heart / Higher Than The Stars Remixes (12" Vinyl, 45rpm)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21751&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21751&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Apr 2023 17:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/99ea676ed5bf2d21e69ba30d4cd29146.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
