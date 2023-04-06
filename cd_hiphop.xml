@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Hip Hop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 05:37:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 17:37:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[De La Soul / 3 Feet High And Rising (CD, gatefold sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21774&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21774&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Thu, 06 Apr 2023 17:36:37 GMT</pubDate>
+            <content:encoded><![CDATA[26,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/bf5a2f91f4fbe96e7b98569d668d847b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Czarface & MF Doom / Super What? (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21741&amp;cate_no=45&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 13 Jan 2023 17:36:32 GMT</pubDate>
             <content:encoded><![CDATA[22,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/049f9c5db13a5b9bc4a517c39e6b403b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chief Keef / Finally Rich (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20879&amp;cate_no=45&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20879&amp;cate_no=45&amp;display_group=1</guid>
-            <pubDate>Mon, 19 Dec 2022 17:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/f7784d51a12fa643fd330da17bfdeb2f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
