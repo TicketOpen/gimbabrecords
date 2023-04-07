@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 05:37:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 17:37:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권진아 / The Flag (CD + 96p Booklet)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21776&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21776&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 07 Apr 2023 17:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[17,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/df053a5280b42b8a65fcd109b93d9085.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검정치마 / 3집 Part.2 THIRSTY (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21775&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21775&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 07 Apr 2023 17:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/6ee834bac40ab0f8a74507f8889ebbf3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[De La Soul / 3 Feet High And Rising (CD, gatefold sleeve)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21774&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 04 Apr 2023 05:34:55 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/e3c4cfdf3f156468eb0eb95abfe445f9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Czarface & MF Doom / Super What? (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21741&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21741&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Apr 2023 05:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[21,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/b02eaa4cd22714574967dbe8cd399953.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Christian Scott aTunde Adjuah / Axiom (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21740&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21740&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Apr 2023 05:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/db0d68d7d99bc045fd7af4ab5f5b452b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

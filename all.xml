@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 05:37:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 17:37:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권진아 / The Flag (CD + 96p Booklet) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21776&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21776&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 07 Apr 2023 17:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[17,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/df053a5280b42b8a65fcd109b93d9085.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검정치마 / 3집 Part.2 THIRSTY (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21775&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21775&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 07 Apr 2023 17:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/6ee834bac40ab0f8a74507f8889ebbf3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[De La Soul / 3 Feet High And Rising (CD, gatefold sleeve) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21774&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 04 Apr 2023 05:34:55 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/e3c4cfdf3f156468eb0eb95abfe445f9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Czarface & MF Doom / Super What? (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21741&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21741&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Apr 2023 05:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[21,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/b02eaa4cd22714574967dbe8cd399953.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Christian Scott aTunde Adjuah / Axiom (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21740&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21740&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Apr 2023 05:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/db0d68d7d99bc045fd7af4ab5f5b452b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ZAYN / Mind Of Mine (Limited Neon Green Vinyl, 2LP, Deluxe Edition) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
@@ -584,6 +584,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201906/0498f8a0d78a04c4aed45bb46a5ac182.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[권진아 / The Flag (CD + 96p Booklet) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21776&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21776&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Fri, 07 Apr 2023 17:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[17,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/df053a5280b42b8a65fcd109b93d9085.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검정치마 / 3집 Part.2 THIRSTY (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21775&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21775&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Fri, 07 Apr 2023 17:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/6ee834bac40ab0f8a74507f8889ebbf3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[민수 Minsu / EP NOW NOW (CD + 포토북 + 핀버튼 뱃지) (김밥레코즈 ─ CD ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21715&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21715&amp;cate_no=29&amp;display_group=1</guid>
@@ -662,22 +678,6 @@
             <pubDate>Sat, 28 Jan 2023 17:36:12 GMT</pubDate>
             <content:encoded><![CDATA[26,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/fb7d802415fc6174df4fca1d568bc558.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hathaw9y 해서웨이 / LOVE (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21045&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21045&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Fri, 06 Jan 2023 05:36:19 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/28805dcfc93f8c06be9925f5d17efbd9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이비티비 ABTB / iii (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20939&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20939&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Wed, 28 Dec 2022 17:35:46 GMT</pubDate>
-            <content:encoded><![CDATA[22,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/641077518f0bccabec0322922e979282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Electric Light Orchestra / All Over The World - The Very Best Of Electric Light Orchestra (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
