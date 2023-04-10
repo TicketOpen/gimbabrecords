@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 17:37:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 05:37:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beck, Bogert & Appice / Beck, Bogert & Appice (CD, Music On CD Series)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21777&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21777&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 10 Apr 2023 05:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/095e43f1ba3db48f2ea759794103cc5c.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Electric Light Orchestra / All Over The World - The Very Best Of Electric Light Orchestra (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21743&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 03 Apr 2023 17:36:37 GMT</pubDate>
             <content:encoded><![CDATA[17,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/d580e87a04661bc5c7f6c060624a139e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Garbage / Version 2.0 (2CD, Deluxe Edition) *1회 한정 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21723&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21723&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 03 Apr 2023 17:36:37 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201807/11407_shop1_15317281289967.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
