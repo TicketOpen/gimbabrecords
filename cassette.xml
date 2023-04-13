@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 05:37:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 17:37:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지나오킹 Jina0King / 사람들은 모두 다른 향기 Everybody Different Scent (Cassette + 포토 카드 + Download)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21794&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21794&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 13 Apr 2023 17:35:22 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/a2909c8345d39142449e4c92ff0bf361.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[사공 / 노래모음집 (Cassette, 250매 한정) *예약상품 (4월 18일 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21793&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21793&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 13 Apr 2023 17:35:22 GMT</pubDate>
+            <content:encoded><![CDATA[17,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/85c420f1dfc122e01752636b4b858667.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Unknown Mortal Ochestra / V (Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21706&amp;cate_no=26&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Sat, 28 Jan 2023 05:35:56 GMT</pubDate>
             <content:encoded><![CDATA[99,000원]]></content:encoded>
             <enclosure url="http://img.echosting.cafe24.com/thumb/img_product_medium.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[왕가위 사운드트랙 카세트 3개 묶음 판매 2 (화양연화 + 동사서독 + 일대종사 카세트, 미니카드 3장 포함) - 한정판매]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21184&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21184&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Wed, 08 Mar 2023 17:37:19 GMT</pubDate>
-            <content:encoded><![CDATA[120,000원]]></content:encoded>
-            <enclosure url="http://img.echosting.cafe24.com/thumb/img_product_medium.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[CMAT / If My Wife New I'd Be Dead (Gold Glitter Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21122&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21122&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Thu, 23 Feb 2023 17:37:16 GMT</pubDate>
-            <content:encoded><![CDATA[21,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/20c18b714faf6e1967ceeceacc5d21af.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
