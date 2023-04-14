@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 17:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 05:37:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[De La Soul / 3 Feet High And Rising (Limited Yellow Vinyl) *1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21797&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21797&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Apr 2023 05:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[56,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/750ec0949ca552103562e99401c073b7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[De La Soul / 3 Feet High And Rising (Limited Magenta Vinyl) *1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21796&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21796&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Apr 2023 05:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[56,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/3cacb47006dcb8380314b365471c8d34.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[OST ( Michael Andrews) / Donnie Darko 도니 다코 (20th Anniversary, Silver Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21795&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21795&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Apr 2023 05:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/76aac66c6d118ccc92594b64bb608557.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사공 / 노래모음집 (Olive Green Vinyl, 500장 한정) *예약상품 (4월 18일 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21792&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Mon, 10 Apr 2023 17:35:37 GMT</pubDate>
             <content:encoded><![CDATA[32,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/3b4c3e13e4042011865f0452b5e5bd7e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Babe Ruth / First Base (Limited Colored Vinyl, 1,000매 한정반) *한정 수량 할인 판매]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21781&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21781&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 10 Apr 2023 17:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/681101e213421b52e6d3efa179d840ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Quincy Jones / The Dude (Vinyl, Remastered) *한정수량 할인 판매 (1인 1매만 구매 가능)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21780&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21780&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 10 Apr 2023 17:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/dd22eebaba62ebdeb6e57f8197dfad1f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eiichi Ohtaki / 乗合馬車 Noriai Basha (Omnibus) (Vinyl, 2LP, 50th Anniversary Edition, Limited)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21778&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21778&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 10 Apr 2023 17:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[66,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/cb5126428deced351031c92cbcac3491.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
