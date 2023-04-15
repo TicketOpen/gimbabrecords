@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 05:37:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 17:37:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Blur / Blur (2LP) + The Great Escape (2LP) 한정수량 10% 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21803&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21803&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 15 Apr 2023 17:35:21 GMT</pubDate>
+            <content:encoded><![CDATA[117,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/a49bc663d1ab9d7111b38bd126752fbf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (James Horner) / Titanic 타이타닉 (25주년 기념 Limited Edition - Smoky Color Vinyl 2LP + 포스터 및 뉴스페이퍼 프린트 포함, 일련번호 표기) *한정수량 판매 / 입금기한 별도 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21801&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21801&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 15 Apr 2023 17:35:21 GMT</pubDate>
+            <content:encoded><![CDATA[52,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/c058fe32e5d4315a3f2f55aeea638bab.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Radiohead / A Moon Shaped Pool (180g White Vinyl, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21800&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21800&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 15 Apr 2023 17:35:21 GMT</pubDate>
+            <content:encoded><![CDATA[63,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/07d439f83598aa3cfb8f46fd3db1c4a1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mark Guiliana / the sound of listening (Colored Vinyl) *할인상품 (쟈켓 모서리에 작은 눌림이 있습니다.)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21799&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Thu, 13 Apr 2023 17:35:15 GMT</pubDate>
             <content:encoded><![CDATA[34,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/e30f3b2cc5ad27295fee8995b77be68c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kendrick Scott / Corridors (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21787&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21787&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 13 Apr 2023 17:35:15 GMT</pubDate>
-            <content:encoded><![CDATA[34,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/20d27f9e950fe7febc65ea662eaf2ce2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Lee Hooker / Burnin' (180g Vinyl, 60th Anniversary Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21786&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21786&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 13 Apr 2023 17:35:15 GMT</pubDate>
-            <content:encoded><![CDATA[37,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/b0aa75aac0fb32c84405327ffb99b516.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Johnny Coles / Little Johnny C (180g Vinyl, Blue Note Classic Vinyl Series)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21785&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21785&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 13 Apr 2023 17:35:15 GMT</pubDate>
-            <content:encoded><![CDATA[37,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/d9abc3baf8e59228560d66e00db2caac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

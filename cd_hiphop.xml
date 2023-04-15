@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Hip Hop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 05:37:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 17:37:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Joey Badass (Joey Bada$$) / 2000 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21804&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21804&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Sat, 15 Apr 2023 17:36:18 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/ad94b2882995f1211224b79c104dd1ae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[De La Soul / 3 Feet High And Rising (CD, gatefold sleeve)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21774&amp;cate_no=45&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 17 Jan 2023 17:35:49 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/786e93b07223a83c173046b4f0d5355f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nas / Original Album Classics (3CD Box) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21109&amp;cate_no=45&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21109&amp;cate_no=45&amp;display_group=1</guid>
-            <pubDate>Fri, 13 Jan 2023 17:36:32 GMT</pubDate>
-            <content:encoded><![CDATA[22,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/049f9c5db13a5b9bc4a517c39e6b403b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
