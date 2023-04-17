@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 05:37:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 17:37:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[test 용 2]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21812&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21812&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 17 Apr 2023 17:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[50,000원]]></content:encoded>
+            <enclosure url="http://img.echosting.cafe24.com/thumb/img_product_medium.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[test 용]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21811&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21811&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 17 Apr 2023 17:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[50,000원]]></content:encoded>
+            <enclosure url="http://img.echosting.cafe24.com/thumb/img_product_medium.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[The Mamas and the Papas / The Mamas and the Papas (Limited Violet Vinyl) *할인상품]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21810&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 14 Apr 2023 17:35:17 GMT</pubDate>
             <content:encoded><![CDATA[37,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/3aaa27050d4caba24c02fb8432daf3dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Foals / Life Is Yours (White Vinyl) *1회 한정 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21798&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21798&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 14 Apr 2023 17:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/deace2087f436c7eb3cff4ad1ab8752a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[De La Soul / 3 Feet High And Rising (Limited Yellow Vinyl) *1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21797&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21797&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 14 Apr 2023 05:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[56,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/750ec0949ca552103562e99401c073b7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
