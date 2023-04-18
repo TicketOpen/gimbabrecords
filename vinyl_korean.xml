@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 05:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 17:36:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Paper River 페이퍼리버 / where, there was (140g White Vinyl, 200장 한정) *예약상품 (4월 26일 발매) / 1인 1매만 구매 가능 / 별도의 입금 기한 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21832&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21832&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Apr 2023 17:36:43 GMT</pubDate>
+            <content:encoded><![CDATA[40,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/27bd077be4bdc2616e698758d55f676f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[test 용 2]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21812&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 22 Mar 2023 17:37:31 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/a36d0aadc033f2d6e88d86e59319661d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이랑 / LANG LEE  LIVE IN SEOUL 2022 (Clear Pink 투명 핑크 Vinyl) *예약상품 (9월 12일 화요일 발매 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21642&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21642&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Wed, 22 Mar 2023 17:37:31 GMT</pubDate>
-            <content:encoded><![CDATA[47,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/560ddd879f5b0fca24bd4574ee3c5eb9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

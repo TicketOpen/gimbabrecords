@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 05:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 17:36:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Diana Krall / Turn Up The Quiet (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21839&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21839&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Apr 2023 17:36:04 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201706/7448_shop1_505528.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Henry Franklin, Adrian Younge & Ali Shaheed Muhammad / Jazz Is Dead 14 (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21831&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21831&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Apr 2023 17:36:04 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/8f4a4059a9f99c335951250cd5cf797e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Diana Krall / The Look of Love (CD, EU Import) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21813&amp;cate_no=46&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 23 Mar 2023 05:36:42 GMT</pubDate>
             <content:encoded><![CDATA[19,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/a4e1c3c8870a3362a0fa64d083e0ee31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Frank Sinatra / Come Dance With Me! (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21633&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21633&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Mar 2023 17:37:02 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/0ce4b48e1fea1baafe909adad38a2362.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Frank Sinatra / Songs For Swingin' Lovers (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21632&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21632&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Mar 2023 17:37:02 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201602/3104_shop1_517446.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
