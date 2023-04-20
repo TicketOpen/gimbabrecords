@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 17:37:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 05:37:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/27bd077be4bdc2616e698758d55f676f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[test 용 2]]></title>
+            <title><![CDATA[Bronze 브론즈 / Skyline (12" Blue Vinyl) *1인 1매만 구매 가능 / 별도의 입금기한 설정]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21812&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21812&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Mon, 17 Apr 2023 17:37:47 GMT</pubDate>
-            <content:encoded><![CDATA[50,000원]]></content:encoded>
-            <enclosure url="http://img.echosting.cafe24.com/thumb/img_product_medium.gif" length="0" type="image/gif"/>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/4d14ff235539b491989c1bac8a9434e5.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[test 용]]></title>
+            <title><![CDATA[Bronze 브론즈 / Skyline (12" Yellow Vinyl) *1인 1매만 구매 가능 / 별도의 입금기한 설정]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21811&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21811&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Mon, 17 Apr 2023 17:37:47 GMT</pubDate>
-            <content:encoded><![CDATA[50,000원]]></content:encoded>
-            <enclosure url="http://img.echosting.cafe24.com/thumb/img_product_medium.gif" length="0" type="image/gif"/>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/b983813884c2b3e42484bd92d5ff6f06.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[사공 / 노래모음집 (Olive Green Vinyl, 500장 한정)]]></title>
