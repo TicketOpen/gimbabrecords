@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 05:37:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 17:36:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202010/4a1c8d96998cc8cc2ee9f51d244b77aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ron Trent / Ron Trent Presents WARM: What Do The Stars Say To You (Black Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21862&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21862&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 21 Apr 2023 17:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[37,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/2af376bb913f00b2a0fadcd6db53a645.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[boygenius (Julien Baker, Phoebe Bridgers, Lucy Dacus) / the record (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21861&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21861&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 21 Apr 2023 17:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[48,100원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/daee8c23a6677221eb96647b9c4a94bb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Daniel Caesar / NEVER ENOUGH (Vinyl, 2LP) *할인상품 (쟈켓 모서리에 작은 눌림이 있습니다.) / 1인 최대 2매까지 구매 가능 / 별도의 입금기한 설정 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21859&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21859&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Thu, 20 Apr 2023 17:35:45 GMT</pubDate>
             <content:encoded><![CDATA[47,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/5e516400fcb862dbe2612e008056014a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Angel Olsen / Forever Means EP (Baby Pink Vinyl, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21847&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21847&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 20 Apr 2023 17:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[30,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/f36cdd5c8898b00ae8bc28fb391c082f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ned Doheny / Separate Oceans (NUMERO 052) (Sea Splash Blue Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21846&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21846&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 20 Apr 2023 17:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[48,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201511/1788_shop1_706368.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지나오킹 Jina0King / 사람들은 모두 다른 향기 Everybody Different Scent (Cassette + 포토 카드 + Download) (김밥레코즈 ─ Cassette)]]></title>
@@ -480,12 +480,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/a4d372e598a8f7b7f47fe201d5e949ca.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Haruka Nakamura / I"ll (アイル) (2nd Pressing, Clear Pink Vinyl) *예약상품 (4월말부터 배송이 시작됩니다.) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21474&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21474&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 19 Apr 2023 17:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[42,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/2c2cde7f50285250804916afffdcb51e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Haruka Nakamura / Grace (Vinyl, 3rd Pressing) *예약상품 (5월 22일 이후 배송이 시작됩니다.) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21475&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21475&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 21 Apr 2023 17:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[47,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/3bd7e96b0f9b7e55f26eee62b8b2d522.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Van Halen / Balance (CD) *할인상품 (김밥레코즈 ─ Bargain Bin)]]></title>
