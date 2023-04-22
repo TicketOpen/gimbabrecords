@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 05:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 17:37:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202010/4a1c8d96998cc8cc2ee9f51d244b77aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[OST (음악 Hiromi) / Blue Giant 블루 자이언트 (애니메이션 극장판 사운드트랙, 2LP, Limited Edition) *1인 최대 2매까지 구매 가능 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21863&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21863&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 22 Apr 2023 17:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[69,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/51c6e8c614cf48eaf4f034a523815c11.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ron Trent / Ron Trent Presents WARM: What Do The Stars Say To You (Black Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21862&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21862&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 20 Apr 2023 17:35:45 GMT</pubDate>
             <content:encoded><![CDATA[38,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/06c5b720b54952cb50312e09b021b32a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ron Trent / Ron Trent Presents WARM: What Do The Stars Say To You (White Vinyl, Limited Edition, 일련번호 표기) *1인 1매 구매 가능 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21848&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21848&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 20 Apr 2023 17:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[47,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/5e516400fcb862dbe2612e008056014a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지나오킹 Jina0King / 사람들은 모두 다른 향기 Everybody Different Scent (Cassette + 포토 카드 + Download) (김밥레코즈 ─ Cassette)]]></title>
