@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 17:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 05:37:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블라세 / MultrillVerse (Transparent Blue Vinyl, Limited to 500) *예약상품 (5월 3일 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21897&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21897&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 25 Apr 2023 05:36:55 GMT</pubDate>
+            <content:encoded><![CDATA[46,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/182653ade810250a1b00946a7e6c0352.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[So!YoON! (황소윤) / 정규 2집 Episode1 : Love (180g Vinyl, 초도한정반) *예약상품 (10월 2일 발매, 4월 28일 주문 마감)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21864&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 27 Mar 2023 17:37:24 GMT</pubDate>
             <content:encoded><![CDATA[42,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/dce3960e673a0cedf822a62d7a648df8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나상현씨밴드 / 정규 2집 2021 (투명 클리어 컬러 Vinyl, 2LP, 500장 한정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21649&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21649&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 23 Mar 2023 17:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[59,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/4d9e16e6efae6be7b5e8c60e4a81add7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
