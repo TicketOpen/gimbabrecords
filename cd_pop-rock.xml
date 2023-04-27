@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 05:37:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 17:37:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pink Floyd / The Dark Side Of The Moon - Live At Wembley 1974 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21918&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21918&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 27 Apr 2023 17:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[22,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/4dc03a55f395758c461b44de9d478aed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rosalia / Motomami (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21917&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21917&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 27 Apr 2023 17:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[20,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/88c9668bd1254d7aa9a04781504e0718.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Megadeth / The Sick, The Dying... And The Dead! (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21916&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21916&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 27 Apr 2023 17:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[18,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/baa2084a0428386d87ad4c2fc0413fd9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tim Bernardes / Mil Coisas Invisiveis (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21850&amp;cate_no=30&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Mon, 17 Apr 2023 17:36:24 GMT</pubDate>
             <content:encoded><![CDATA[13,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/3a03c7740642c8f7b7dedc49aacf076c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Andy Shauf / Neon Skyline (CD, Digi)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21802&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21802&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Sat, 15 Apr 2023 17:35:59 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/ea0ddd2d5f7ad43c8842539d1f262eb7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beck, Bogert & Appice / Beck, Bogert & Appice (CD, Music On CD Series)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21777&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21777&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 10 Apr 2023 05:36:16 GMT</pubDate>
-            <content:encoded><![CDATA[19,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/095e43f1ba3db48f2ea759794103cc5c.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Electric Light Orchestra / All Over The World - The Very Best Of Electric Light Orchestra (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21743&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21743&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Apr 2023 05:35:46 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/e31849a5656bc4fcdb9764f362e39ee1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 05:37:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 17:37:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Devon Gilfillian / Love You Anyway (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21913&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21913&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Thu, 27 Apr 2023 17:36:53 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/656390987c42c9fb1bda51b4d8d1dab0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kenny Beats / LOUIE (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21684&amp;cate_no=44&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 24 Feb 2023 17:37:59 GMT</pubDate>
             <content:encoded><![CDATA[37,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/538357f3826ee92e5476d27161342035.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charles Stepney / Step On Step (CD, Digipak)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21415&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21415&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Thu, 23 Feb 2023 17:38:05 GMT</pubDate>
-            <content:encoded><![CDATA[26,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/f3b182177db3362ab400649c02d39ff7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
