@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 17:39:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 05:37:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/95b87dc894be42e544c94463d066f5e7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김두수 / 6집 곱사무舞 (140g Blue Vinyl, 2LP) *1인 1매만 구매 가능 / 별도의 입금기한 설정 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21901&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21901&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 27 Apr 2023 05:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[58,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/962478fd885036a71868787743720007.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dosii 도시 / 반향 (Clear Orange Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21900&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21900&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 27 Apr 2023 05:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/97d975547d9a33355922352d405f90f1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Donnie & Joe Emerson / Baby (Vinyl, Heart Shaped Record) *1인 1매만 구매 가능 (구매시 유의사항을 확인하세요) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21899&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21899&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Tue, 25 Apr 2023 05:35:07 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/cfb3d24e1ce1c319219013932a55ad2b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[João Donato (Joao Donato) & Donatinho / Sintetizamor (Vinyl, 2023 RSD Exclusive, Limited Edition, 포스터 포함) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21888&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21888&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 25 Apr 2023 05:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[38,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/3347e4739205b2a784089e6ccfed228d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carole King / The Legendary Demos (Limited Milky Clear Vinyl, 2023 RSD Exclusive) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21887&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21887&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 25 Apr 2023 05:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[41,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/b278ed18bbd5f0ee60a0d6f23d318c03.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[So!YoON! (황소윤) / 정규 2집 Episode1 : Love (Cassette, 초도한정반) *예약상품 (10월 2일 발매, 4월 28일 주문 마감) (김밥레코즈 ─ Cassette)]]></title>
@@ -1736,6 +1736,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/f500db7ea2a347fd6facbe8cd7307d8e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김두수 / 6집 곱사무舞 (140g Blue Vinyl, 2LP) *1인 1매만 구매 가능 / 별도의 입금기한 설정 (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21901&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21901&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Thu, 27 Apr 2023 05:36:58 GMT</pubDate>
+            <content:encoded><![CDATA[58,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/962478fd885036a71868787743720007.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dosii 도시 / 반향 (Clear Orange Vinyl) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21900&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21900&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Thu, 27 Apr 2023 05:36:58 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/97d975547d9a33355922352d405f90f1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[블라세 / MultrillVerse (Transparent Blue Vinyl, Limited to 500) *예약상품 (5월 3일 발송 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21897&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21897&amp;cate_no=52&amp;display_group=1</guid>
@@ -1814,22 +1830,6 @@
             <pubDate>Tue, 28 Mar 2023 17:36:33 GMT</pubDate>
             <content:encoded><![CDATA[40,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/9671562326c72ca09154e76b2d4487ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유라시아 eurasia / [파이Ø] (140g White Vinyl, 150매 한정반) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21662&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21662&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 28 Mar 2023 17:36:33 GMT</pubDate>
-            <content:encoded><![CDATA[40,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/c3d4e5aea8f551b619fe235bb8c3d1bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NUCK 넋업샨 / NOT REALLY NOW NOT ANYMORE (Vinyl, 400매 한정반) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21659&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21659&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Mon, 27 Mar 2023 17:37:24 GMT</pubDate>
-            <content:encoded><![CDATA[42,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/dce3960e673a0cedf822a62d7a648df8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nick Cave & The Bad Seeds / Your Funeral... My Trial (Remastered CD + DVD, NTSC Version) *1회 한정 할인 (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
