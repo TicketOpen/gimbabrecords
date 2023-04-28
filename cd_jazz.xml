@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 17:37:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 05:37:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[In The Country / This Was The Pace Of My Heartbeat (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21928&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21928&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 28 Apr 2023 05:36:23 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/8e00b67b111e3dc7f586d533465ec228.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[In The Country / Losing Stones, Collecting Bones (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21927&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21927&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 28 Apr 2023 05:36:23 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/010859904cf39938f8d574c06b3d0fa9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Herbie Hancock / Mr. Hands (Remastered CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21926&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21926&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 28 Apr 2023 05:36:23 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/c427430d81a7099a7a1bf2778db8effb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Walter Smith III / Return to Casual (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21915&amp;cate_no=46&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 04 Apr 2023 17:36:50 GMT</pubDate>
             <content:encoded><![CDATA[24,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/67e21c9b9406a24bfd0d20f936589716.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Esbjörn Svensson Trio (Esbjorn Svensson Trio = e.s.t.) / When Everyone Has Gone (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21744&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21744&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Apr 2023 05:36:13 GMT</pubDate>
-            <content:encoded><![CDATA[20,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/4e6ee2eb535ede980955bb90bd5ceae4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Christian Scott aTunde Adjuah / Axiom (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21740&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21740&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Apr 2023 05:36:13 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/db0d68d7d99bc045fd7af4ab5f5b452b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kenny Drew Trio / Fantasia (CD, 국내반)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21651&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21651&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Thu, 23 Mar 2023 17:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[13,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/fded1a81ddc8caa732ea86d071a33c67.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

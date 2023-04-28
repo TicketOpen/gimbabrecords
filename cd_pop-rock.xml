@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 17:37:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 05:37:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Fiona Apple / Extraordinary Machine (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21925&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21925&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 28 Apr 2023 05:35:56 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/823af146770a31762351e9129d81b382.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pink Floyd / The Dark Side Of The Moon - Live At Wembley 1974 (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21918&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 17 Apr 2023 17:36:24 GMT</pubDate>
             <content:encoded><![CDATA[13,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202010/4a1c8d96998cc8cc2ee9f51d244b77aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mary Hopkin / Post Card (CD + 4 bonus tracks, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21814&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21814&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 17 Apr 2023 17:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/3a03c7740642c8f7b7dedc49aacf076c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
