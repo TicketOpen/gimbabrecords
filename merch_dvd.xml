@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 17:37:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 05:37:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Sat, 29 Apr 2023 17:36:59 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201810/f2d87c5c47bb961b6573993ab413b700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nick Cave & The Bad Seeds / Let Love In (Remastered CD + DVD, NTSC Version) *1회 한정 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21728&amp;cate_no=64&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21728&amp;cate_no=64&amp;display_group=1</guid>
-            <pubDate>Sat, 29 Apr 2023 17:36:59 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201810/4bc11f2dacfcd7b9ec3d8198eaac776a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nick Cave & The Bad Seeds / Henry's Dream (Remastered CD + DVD, NTSC Version) *1회 한정 할인]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Tue, 11 Apr 2023 17:37:20 GMT</pubDate>
             <content:encoded><![CDATA[17,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201801/9628_shop1_867671.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arcade Fire / Reflektor Tapes + Live At Earls Court (2DVD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=6380&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=6380&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Tue, 02 May 2023 05:37:06 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201702/6380_shop1_808423.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
