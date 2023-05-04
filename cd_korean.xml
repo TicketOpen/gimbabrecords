@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 05:37:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 17:37:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Daddy O Radio 데디오레디오 / 정규 1집 GREEN TATTOO (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21966&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21966&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Thu, 04 May 2023 17:35:47 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/e7ed400c192ca7a2e696a0a0a6913dcb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[So!YoON! (황소윤) / 정규 2집 Episode1 : Love (CD, 초도한정반) *예약상품 (10월 2일 발매, 4월 28일 주문 마감)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21865&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 07 Feb 2023 05:36:07 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/2908d474ac6740dab93cdea9bd1e11cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김상희 / Love Story (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21190&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21190&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Sat, 28 Jan 2023 17:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[26,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/03fa518235c51c58df4c17ed0972586c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

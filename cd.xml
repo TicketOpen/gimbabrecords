@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 05:37:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 17:37:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Daddy O Radio 데디오레디오 / 정규 1집 GREEN TATTOO (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21966&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21966&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 04 May 2023 17:35:07 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/e7ed400c192ca7a2e696a0a0a6913dcb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST / Taxi Driver 택시 드라이버 Original Soundtrack Recording (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21930&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 27 Apr 2023 17:35:54 GMT</pubDate>
             <content:encoded><![CDATA[17,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/e4485d39695692cadc47640cf611b912.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Devon Gilfillian / Love You Anyway (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21913&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21913&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 27 Apr 2023 17:35:54 GMT</pubDate>
-            <content:encoded><![CDATA[17,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/656390987c42c9fb1bda51b4d8d1dab0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
