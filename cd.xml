@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 05:37:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 17:37:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cecile McLorin Salvant / Melusine (CD, EU Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21977&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21977&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 09 May 2023 17:35:14 GMT</pubDate>
+            <content:encoded><![CDATA[22,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9a122b8b278a4ca82df222efc2531d1c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Samara Joy / Linger Awhile (CD, 국내반)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21973&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 27 Apr 2023 17:35:54 GMT</pubDate>
             <content:encoded><![CDATA[18,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/baa2084a0428386d87ad4c2fc0413fd9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Walter Smith III / Return to Casual (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21915&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21915&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 27 Apr 2023 17:35:54 GMT</pubDate>
-            <content:encoded><![CDATA[17,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/e30f3b2cc5ad27295fee8995b77be68c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

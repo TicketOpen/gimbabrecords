@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 05:37:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 17:37:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cecile McLorin Salvant / Melusine (CD, EU Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21977&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21977&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 09 May 2023 17:36:27 GMT</pubDate>
+            <content:encoded><![CDATA[22,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9a122b8b278a4ca82df222efc2531d1c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Samara Joy / Linger Awhile (CD, 국내반)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21973&amp;cate_no=46&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 10 Apr 2023 17:36:42 GMT</pubDate>
             <content:encoded><![CDATA[22,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/7b995eabd65193f0742d5fc789c48dfd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Toninho Horta / To Jobim With Love (CD, Digipak)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21750&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21750&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Apr 2023 17:36:50 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/31b5c6bb45ea9affedcb27080bda6a62.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
