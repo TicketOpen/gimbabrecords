@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 05:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 05:37:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Durand Jones / Wait Til I Get Over (CD) *예약상품 (5월 12일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21986&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21986&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 11 May 2023 05:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[18,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/1920ab5cd46c6b7fd23e17184523d26c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cecile McLorin Salvant / Melusine (CD, EU Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21977&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 27 Apr 2023 17:35:54 GMT</pubDate>
             <content:encoded><![CDATA[20,400원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/88c9668bd1254d7aa9a04781504e0718.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Megadeth / The Sick, The Dying... And The Dead! (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21916&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21916&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 27 Apr 2023 17:35:54 GMT</pubDate>
-            <content:encoded><![CDATA[18,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/baa2084a0428386d87ad4c2fc0413fd9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

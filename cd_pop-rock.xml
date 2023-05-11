@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 05:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 05:37:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Durand Jones / Wait Til I Get Over (CD) *예약상품 (5월 12일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21986&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21986&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 11 May 2023 05:36:08 GMT</pubDate>
+            <content:encoded><![CDATA[18,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/1920ab5cd46c6b7fd23e17184523d26c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fiona Apple / Extraordinary Machine (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21925&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 17 Apr 2023 17:36:24 GMT</pubDate>
             <content:encoded><![CDATA[13,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/95b87dc894be42e544c94463d066f5e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Creedence Clearwater Revival (CCR) / Willy And The Poor Boys (Remastered CD, 40th Anniversary Edition) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21821&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21821&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 17 Apr 2023 17:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202010/4a1c8d96998cc8cc2ee9f51d244b77aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
