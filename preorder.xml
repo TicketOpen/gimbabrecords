@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 17:36:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 05:37:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jack Johnson / Sing-A-Longs And Lullabies For The Film Curious George (Vinyl) *한정할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=4115&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=4115&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 15 May 2023 05:35:24 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201606/4115_shop1_945821.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Anri / COOOL (Clear Green Vinyl, 2023 reissue) *예약상품 (7월말 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21870&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 12 May 2023 17:35:33 GMT</pubDate>
             <content:encoded><![CDATA[74,100원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/52bd46809d9b3cf1884973c2b6228b09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[So!YoON! (황소윤) / 정규 2집 Episode1 : Love (180g Vinyl, 초도한정반) *예약상품 (10월 2일 발매, 4월 28일 주문 마감)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21864&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21864&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 12 May 2023 17:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/cb4b24a62c316183b009f5776cf10674.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

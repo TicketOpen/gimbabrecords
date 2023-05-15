@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 17:36:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 05:37:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/823af146770a31762351e9129d81b382.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Jack Johnson / Brushfire Fairytales (Vinyl, 20th Anniversary, Remastered, HQ Pressing) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22014&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22014&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 15 May 2023 05:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[35,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/ff43d9f742057b22bf1f0d7f4d33d4fe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Postal Service / Give Up (20th Anniversary Colored Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22013&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22013&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 15 May 2023 05:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/8eee9fb737a62f020398f4e919aba4f8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Susanne Sundfor (Susanne Sundfør) / Blomi (Blómi) (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22011&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22011&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Thu, 11 May 2023 17:35:17 GMT</pubDate>
             <content:encoded><![CDATA[38,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/3ba29d371ea8b288b6cf496b7e4dcbb2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stacey Kent / The Boy Next Door (180g Vinyl, 2LP, Remastered) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21997&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21997&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 11 May 2023 17:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[65,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/bb52ec8d544e2f593408609c5e54eca3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Os Mutantes / Os Mutantes (Vinyl, Mono Pressing) *구매시 유의사항을 확인하세요. (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21995&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21995&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 13 May 2023 05:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[54,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/41a37c0f611d1102d357a06d84697d22.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HYBS / Making Steak (Cassette Tape, Limited Edition) *할인상품 (케이스 파손 할인 - 유의사항을 확인하세요) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/9b75167fbc00e8673e58c53c8d7d4925.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Jack Johnson / Sing-A-Longs And Lullabies For The Film Curious George (Vinyl) *한정할인 (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=4115&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=4115&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 15 May 2023 05:35:24 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201606/4115_shop1_945821.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Anri / COOOL (Clear Green Vinyl, 2023 reissue) *예약상품 (7월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21870&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21870&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 12 May 2023 17:35:33 GMT</pubDate>
             <content:encoded><![CDATA[74,100원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/52bd46809d9b3cf1884973c2b6228b09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[So!YoON! (황소윤) / 정규 2집 Episode1 : Love (180g Vinyl, 초도한정반) *예약상품 (10월 2일 발매, 4월 28일 주문 마감) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21864&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21864&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 12 May 2023 17:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/cb4b24a62c316183b009f5776cf10674.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Van Halen / Balance (CD) *할인상품 (김밥레코즈 ─ Bargain Bin)]]></title>
