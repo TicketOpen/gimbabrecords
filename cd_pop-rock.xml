@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 05:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 17:37:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Quasi / Breaking The Balls Of History (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22021&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22021&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 16 May 2023 17:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/ea704b70c115e09d9392737d0c6a250d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[boygenius (Julien Baker, Phoebe Bridgers, Lucy Dacus) / the record (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21996&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 18 Apr 2023 17:35:41 GMT</pubDate>
             <content:encoded><![CDATA[19,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/4872a6c6814aa42b9979bd8d228adeee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Creedence Clearwater Revival (CCR) / Best Of (CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21823&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21823&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 17 Apr 2023 17:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/6f4e9640a71bdcbb4fe5e690348274f5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
