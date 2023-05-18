@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 05:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 17:36:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콜드 Colde / Love Part 2 (CD) *예약상품 (6월 9일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22043&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22043&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 18 May 2023 17:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[21,100원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/a8c435716df0bc42fcfc9a154b1763b3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[콜드 Colde / Love Part 1 (CD) *예약상품 (5월 26일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22042&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22042&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 18 May 2023 17:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[20,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/1c330884d9627d875a62fc9d0b6ac003.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[양희은 / 불나무 (180g Vinyl) *예약상품 (9월 7일 발매 예정, 5월 21일 주문 마감)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22029&amp;cate_no=42&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 15 May 2023 05:35:24 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201606/4115_shop1_945821.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anri / COOOL (Clear Green Vinyl, 2023 reissue) *예약상품 (7월말 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21870&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21870&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 24 Apr 2023 17:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[51,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/30340bcee5549a37365f6a024326a729.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anri / Heaven Beach (Clear Yellow Vinyl, 2023 reissue) *예약상품 (7월말 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21867&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21867&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 24 Apr 2023 17:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[51,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/1a176473f5e9b5600fbe20379faeeec8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
