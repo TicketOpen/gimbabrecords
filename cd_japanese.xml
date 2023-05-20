@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Japanese</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 05:36:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 17:37:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jun Miyake / Especially Sexy (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22108&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22108&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Sat, 20 May 2023 17:36:49 GMT</pubDate>
+            <content:encoded><![CDATA[35,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/60edc91dd0c5575f1f91a67c247d8a27.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jun Miyake / June Night Love (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22107&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22107&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Sat, 20 May 2023 17:36:49 GMT</pubDate>
+            <content:encoded><![CDATA[35,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/66ff6110899423658affdfb6c9ae1d3a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Vaundy / strobo (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22037&amp;cate_no=90&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 16 Mar 2023 17:38:08 GMT</pubDate>
             <content:encoded><![CDATA[32,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/f1903e64069b48eec67e9f50d053fd25.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Uyama Hiroto / A Son Of The Sun (CD, Digipak)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21573&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21573&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Mar 2023 17:38:08 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202011/836ad2eff4779a03e8be52d85c593772.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryo Fukui / Scenery (CD, Cardboard sleeve, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21572&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21572&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Mar 2023 17:38:08 GMT</pubDate>
-            <content:encoded><![CDATA[26,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/ab50a7a20fc3cc6af700da40c8330a86.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
