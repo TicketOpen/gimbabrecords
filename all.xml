@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 17:37:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 05:36:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/02939fbf5bd74f4e37f5e48d9cf7476c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[듀스 Deux / 2집 Deuxism (Clear Blue Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22100&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22100&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 20 May 2023 05:34:54 GMT</pubDate>
+            <content:encoded><![CDATA[55,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/07949364c2c34d9a0297ea8e61f4dbc2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eddie Suzuki / High Tide (Limited Orange Colored Vinyl) *한정수량 할인 상품 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22099&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22099&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 20 May 2023 05:34:54 GMT</pubDate>
+            <content:encoded><![CDATA[37,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/59d310bb194374b35e154459f2a28a4f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Mathieu Boogaerts / En Anglais (Viny) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22098&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22098&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 19 May 2023 17:35:20 GMT</pubDate>
             <content:encoded><![CDATA[52,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/672bc338c47ab4205438a55d683a969f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carlos Toshiki & Omega Tribe / Natsuko (Blue Vinyl) *예약상품 (8월 중순 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22086&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22086&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 19 May 2023 17:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[52,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/f2b4dd459d6c4aeee1cff85287d6b7f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tomoko Aran / 浮遊空間 (Fuyü-Kükan) (Blue Vinyl, 2023 Pressing) *예약상품 (8월 중순 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22085&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22085&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 19 May 2023 17:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[50,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/823fc2de9e2f2a188640cdc186ec2a6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lana Del Rey / Did you know that there's a tunnel under Ocean Blvd (Green Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -1736,6 +1736,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/ab50a7a20fc3cc6af700da40c8330a86.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[듀스 Deux / 2집 Deuxism (Clear Blue Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22100&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22100&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Sat, 20 May 2023 05:36:49 GMT</pubDate>
+            <content:encoded><![CDATA[55,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/07949364c2c34d9a0297ea8e61f4dbc2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하나옴니버스 / 1,2,3집 (180g Vinyl. 3LP) *예약상품 (9월 14일 발매 예정, 5월 21일 주문 마감) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22030&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22030&amp;cate_no=52&amp;display_group=1</guid>
@@ -1822,14 +1830,6 @@
             <pubDate>Thu, 27 Apr 2023 05:36:58 GMT</pubDate>
             <content:encoded><![CDATA[57,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/962478fd885036a71868787743720007.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dosii 도시 / 반향 (Clear Orange Vinyl) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21900&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21900&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 27 Apr 2023 05:36:58 GMT</pubDate>
-            <content:encoded><![CDATA[42,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/97d975547d9a33355922352d405f90f1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nick Cave & The Bad Seeds / Lovely Creatures - The Best Of Nick Cave And The Bad Seeds (1984-2014) (3CD + DVD, NTSC Version) *1회 한정 할인 (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
