@@ -4,11 +4,19 @@
         <title>김밥레코즈 ─ CD ─ Japanese</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 05:37:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 17:37:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Jun Miyake / Especially Sexy (CD)]]></title>
+            <title><![CDATA[Grey October Sound / Lo-Fi City Pop (CD, JPN Import) *구매시 유의사항을 참조하세요.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22143&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22143&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Tue, 23 May 2023 17:37:23 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/96e98588ad5149b03028abbcc3ec846d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jun Miyake / Especially Sexy (CD) *예약판매 (6월 중순 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22108&amp;cate_no=90&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22108&amp;cate_no=90&amp;display_group=1</guid>
             <pubDate>Sat, 20 May 2023 17:36:49 GMT</pubDate>
@@ -16,7 +24,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/60edc91dd0c5575f1f91a67c247d8a27.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jun Miyake / June Night Love (CD)]]></title>
+            <title><![CDATA[Jun Miyake / June Night Love (CD) *예약판매 (6월 중순 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22107&amp;cate_no=90&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22107&amp;cate_no=90&amp;display_group=1</guid>
             <pubDate>Sat, 20 May 2023 17:36:49 GMT</pubDate>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 16 Mar 2023 17:38:08 GMT</pubDate>
             <content:encoded><![CDATA[39,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/23a521d7eec5828576a6261f321b919e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Akina Nakamori / Best Akina メモワール (Memoir) + 3 (2CD, Special Edition,  2022 Lacquer Master Sound)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21574&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21574&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Mar 2023 17:38:08 GMT</pubDate>
-            <content:encoded><![CDATA[32,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/f1903e64069b48eec67e9f50d053fd25.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
