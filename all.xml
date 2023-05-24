@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 17:37:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 05:37:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/a8c435716df0bc42fcfc9a154b1763b3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Marvin Gaye / Greatest Hits Live In '76 (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22151&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22151&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 24 May 2023 05:35:44 GMT</pubDate>
+            <content:encoded><![CDATA[35,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/eba6ba6278aa890874ed15e267bc368b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Sza / SOS (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22150&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22150&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 22 May 2023 17:35:19 GMT</pubDate>
             <content:encoded><![CDATA[35,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/51883cc56591897d908d30a33deb5406.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mr. Big / Mr. Big (Limited Colored Vinyl - Solid Blue 색상, 일련번호 표기, 2023 RSD First) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22138&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22138&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 22 May 2023 17:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[59,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9df1999eb627f835eb21362f38d24b25.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lana Del Rey / Did you know that there's a tunnel under Ocean Blvd (Pink Cassette) (김밥레코즈 ─ Cassette)]]></title>
