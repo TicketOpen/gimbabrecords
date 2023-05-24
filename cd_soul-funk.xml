@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 05:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 17:38:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sudan Archives / Natural Brown Prom Queen (CD, US Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22159&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22159&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Wed, 24 May 2023 17:36:50 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/787d0bfdde0faddb95df874c76f21926.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Devon Gilfillian / Love You Anyway (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21913&amp;cate_no=44&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 01 Mar 2023 17:38:40 GMT</pubDate>
             <content:encoded><![CDATA[22,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/5150972275d11c620b8555fe9cb8c18e.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Prince / Sign O' The Times (3CD, Deluxe Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21424&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21424&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Fri, 24 Feb 2023 17:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/538357f3826ee92e5476d27161342035.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
