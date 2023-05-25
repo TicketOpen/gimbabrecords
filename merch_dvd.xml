@@ -4,17 +4,9 @@
         <title>김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 05:37:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 17:37:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Nick Cave & The Bad Seeds / Lovely Creatures - The Best Of Nick Cave And The Bad Seeds (1984-2014) (3CD + DVD, NTSC Version) *1회 한정 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21732&amp;cate_no=64&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21732&amp;cate_no=64&amp;display_group=1</guid>
-            <pubDate>Sat, 29 Apr 2023 17:36:59 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/ca93b8a639d3abe35208eb5e3f16db63.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Nick Cave & The Bad Seeds / Your Funeral... My Trial (Remastered CD + DVD, NTSC Version) *1회 한정 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21731&amp;cate_no=64&amp;display_group=1</link>
@@ -102,6 +94,14 @@
             <pubDate>Sat, 13 May 2023 17:37:22 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201810/d5e0e2771f730a3dfcfb31d85d82173b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[King Crimson / In The Court Of The Crimson King - King Crimson at 50 (A Film By Toby Amies) (Blu-Ray + DVD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20701&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20701&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Thu, 25 May 2023 17:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/1bfbcfab3a692e9dd51d278e96043427.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
