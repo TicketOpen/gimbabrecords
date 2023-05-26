@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 17:37:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 05:37:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,7 +104,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/37cfede50d66b60abd81dccf6f1cdae5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jamiroquai / Live At BBC Maida Vale 1999 (12" Blue Vinyl, Limited Edition, 2023 Record Store Day) (김밥레코즈 ─ Vinyl)]]></title>
+            <title><![CDATA[Jamiroquai / Live At BBC Maida Vale 1999 (12" Blue Vinyl, Limited Edition, 2023 RSD Exclusive) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22170&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22170&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Thu, 25 May 2023 17:35:18 GMT</pubDate>
@@ -112,7 +112,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/18aef12139959b13dae921ad8cbe6232.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Raincoats / Odyshape (Vinyl, Reissue) *할인상품 (구매시 상세정보를 확인하세요) (김밥레코즈 ─ Vinyl)]]></title>
+            <title><![CDATA[The Raincoats / Odyshape (Clear Vinyl, Reissue) *할인상품 (구매시 상세정보를 확인하세요) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22169&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22169&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Thu, 25 May 2023 17:35:18 GMT</pubDate>
@@ -392,20 +392,36 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/9b75167fbc00e8673e58c53c8d7d4925.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Shigeo Sekito /  Special Sound Series Vol. 2 華麗なるエレクトーン (ザ・ワード) (Vinyl, Reissue) *예약상품 (6월 하순 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21938&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21938&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sat, 20 May 2023 17:35:24 GMT</pubDate>
-            <content:encoded><![CDATA[54,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/fc8708902dab85afa24ddc0b1d0bf1a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Babadu /Babadu! (Vinyl) *예약상품 (6월 중순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22110&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22110&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Tue, 23 May 2023 17:35:57 GMT</pubDate>
             <content:encoded><![CDATA[47,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/c898c3876f2d3f2ee875a3d999a54e53.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jun Miyake / Especially Sexy (Vinyl) *예약상품 (6월 중순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22109&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22109&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 25 May 2023 17:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/ee8bcc1a655f341aeb8bf6e40ca5319c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jun Miyake / June Night Love (Vinyl) *예약상품 (6월 중순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22106&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22106&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sun, 21 May 2023 05:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/38ea7146d9403c2d35f16319ca7cc5e9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shigeo Sekito /  Special Sound Series Vol. 2 華麗なるエレクトーン (ザ・ワード) (Vinyl, Reissue) *예약상품 (6월 하순 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21938&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21938&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 20 May 2023 17:35:24 GMT</pubDate>
+            <content:encoded><![CDATA[54,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/fc8708902dab85afa24ddc0b1d0bf1a9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jun Miyake / June Night Love (CD) *예약판매 (6월 중순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -422,14 +438,6 @@
             <pubDate>Tue, 23 May 2023 17:35:57 GMT</pubDate>
             <content:encoded><![CDATA[35,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/60edc91dd0c5575f1f91a67c247d8a27.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jun Miyake / June Night Love (Vinyl) *예약상품 (6월 중순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22106&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22106&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sun, 21 May 2023 05:35:53 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/38ea7146d9403c2d35f16319ca7cc5e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[양희은 / 불나무 (180g Vinyl) *예약상품 (9월 7일 발매 예정, 5월 21일 주문 마감) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 25 May 2023 05:35:34 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201606/4115_shop1_945821.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jun Miyake / Especially Sexy (Vinyl) *예약상품 (6월 중순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22109&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22109&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 25 May 2023 17:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/ee8bcc1a655f341aeb8bf6e40ca5319c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Van Halen / Balance (CD) *할인상품 (김밥레코즈 ─ Bargain Bin)]]></title>
