@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 05:37:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 17:37:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김인순 / 언덕에 앉아, 달려라 풍선 (150g Vinyl, 700매 한정반)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22172&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22172&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Fri, 26 May 2023 17:37:03 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/5dcd7719e395462577290b254dadf76f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원 플러스 원 / 언덕에 서서, 당신의 모든 것을 (150g Vinyl, 700매 한정반)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22171&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22171&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Fri, 26 May 2023 17:37:03 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/1fed5358227acfee5c59595d5ed8eaf3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윈디시티 Windy City / Love Record (180g Green, Yellow Vinyl, 2LP, 2022 Remastering) *1인 1매만 구매 가능합니다.]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22149&amp;cate_no=52&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 08 May 2023 17:37:14 GMT</pubDate>
             <content:encoded><![CDATA[59,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201811/8912cd0b234dbc2ac5f7aa34af4aa4f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[듀스 DEUX / 1집 DEUX (Clear Vinyl) *한정수량 할인 / 별도의 입금기한 설정]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21972&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21972&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Mon, 08 May 2023 05:36:47 GMT</pubDate>
-            <content:encoded><![CDATA[55,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/4955a55e26ac7d2cdefe78109667307c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 /  9집 웃는 모습으로 간직하고 싶어 (180g Black Vinyl, 2,500장 넘버링 한정반) *1인 2매까지 구매 가능 / 별도의 입금기한 설정]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21958&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21958&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Wed, 03 May 2023 17:37:31 GMT</pubDate>
-            <content:encoded><![CDATA[46,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/00958ead23b714ee14db7bba457e3e76.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

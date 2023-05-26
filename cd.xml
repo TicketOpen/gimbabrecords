@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 05:37:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 17:37:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Peter Frampton / Frampton Comes Alive! (Remastered CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22175&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22175&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 26 May 2023 17:34:48 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/7ef2c959e83cf899390523382595ccd6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joan Baez / The Best Of Joan Baez (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22174&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22174&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 26 May 2023 17:34:48 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/d7b1d50838ea3f89f1e2a331e2dc125e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eric Clapton / 461 Ocean Boulevard (Remastered CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22173&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22173&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 26 May 2023 17:34:48 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/1d97623953dda64dc5fe5df3fc4bd175.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sza / SOS (CD, Jewel Case)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22160&amp;cate_no=24&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Mon, 22 May 2023 17:35:12 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201606/4101_shop1_679783.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carpenters / Singles 1969-1981 (Remastered CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22128&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22128&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 22 May 2023 17:35:12 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/06a062c72a2b4c0c1ce29e3547408ee6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미란이 / The Drift (CD + 80p 포토북)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22127&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22127&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 22 May 2023 17:35:12 GMT</pubDate>
-            <content:encoded><![CDATA[22,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/c9e31efcf9c22c7f2a305bd007df3d24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brandee Younger / Brand New Life (CD, Jewel Case)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22126&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22126&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 22 May 2023 17:35:12 GMT</pubDate>
-            <content:encoded><![CDATA[17,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/37cfede50d66b60abd81dccf6f1cdae5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
