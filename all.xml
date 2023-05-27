@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 17:37:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 05:37:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Marcos Valle / O Compositor E O Cantor (CD, JPN Import, Limited Edition) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22176&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22176&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sat, 27 May 2023 05:35:02 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/466b2b32a94d66fada26a8cac5b205ca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Peter Frampton / Frampton Comes Alive! (Remastered CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22175&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 22 May 2023 17:35:12 GMT</pubDate>
             <content:encoded><![CDATA[24,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/6ece68ff5289def9cd7131ca9f31abd6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Derek & The Dominos (Eric Clapton) / Layla And Other Assorted Love Songs (Remastered CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22129&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22129&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 22 May 2023 17:35:12 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201606/4101_shop1_679783.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김인순 / 언덕에 앉아, 달려라 풍선 (150g Vinyl, 700매 한정반) (김밥레코즈 ─ Vinyl)]]></title>
@@ -1352,6 +1352,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/26a10de180d2a614d5cde040599b3395.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Marcos Valle / O Compositor E O Cantor (CD, JPN Import, Limited Edition) (김밥레코즈 ─ CD ─ World)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22176&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22176&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Sat, 27 May 2023 05:36:36 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/466b2b32a94d66fada26a8cac5b205ca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Rosalia / Motomami (CD) (김밥레코즈 ─ CD ─ World)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21917&amp;cate_no=79&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21917&amp;cate_no=79&amp;display_group=1</guid>
@@ -1438,14 +1446,6 @@
             <pubDate>Tue, 04 Apr 2023 05:36:33 GMT</pubDate>
             <content:encoded><![CDATA[45,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/b07f132055776732ce10afcadc054c68.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Antonio Carlos Jobim / Wave (CD) (김밥레코즈 ─ CD ─ World)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21733&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21733&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Apr 2023 05:36:33 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/312166640110b81a8ed89335eac148fe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Max Richter / The New Four Seasons - Vivaldi Recomposed 새로운 사계: 비발디 리컴포즈드 (CD, 국내반) (김밥레코즈 ─ CD ─ Classical/Crossover)]]></title>
