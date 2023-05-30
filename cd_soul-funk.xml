@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 05:37:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 17:36:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Azymuth / Aurora (CD) *절판 시디 한정판매 (1인 1매만 구매 가능합니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22179&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22179&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Tue, 30 May 2023 17:35:57 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9ec346fe6864819e36b2d60fe08cce49.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Azymuth / Butterfly (CD) *절판 시디 한정판매 (1인 1매만 구매 가능합니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22178&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22178&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Tue, 30 May 2023 17:35:57 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9e2d42ee6b41045a16bae77be4425b33.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Azymuth / Aurora: Remixes + Originals (2CD) *절판 시디 한정판매 (1인 1매만 구매 가능합니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22177&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22177&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Tue, 30 May 2023 17:35:57 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/1484f6645d8036ae4ddfbc88aa4da02e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sza / SOS (CD, Jewel Case)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22160&amp;cate_no=44&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Sat, 18 Mar 2023 17:36:23 GMT</pubDate>
             <content:encoded><![CDATA[12,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/2cb96491a5bb49b9e507081d38259103.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Buckshot LeFonque / Music Evolution (CD) *한정수량 판매 / 할인 (절판된 시디)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21611&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21611&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Sat, 18 Mar 2023 17:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/5e344d9102567006354fc73b06fd7523.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / Wattstax: The Complete Concert (6CD Set)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21596&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21596&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Mar 2023 17:37:17 GMT</pubDate>
-            <content:encoded><![CDATA[100,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/d76ea0e81375efff317379f53626c207.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / The Best Of Wattstax (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21595&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21595&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Mar 2023 17:37:17 GMT</pubDate>
-            <content:encoded><![CDATA[17,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/041596cae90ec8676b30970c95f18003.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

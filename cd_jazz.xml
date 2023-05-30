@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 05:37:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 17:36:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Azymuth / Aurora (CD) *절판 시디 한정판매 (1인 1매만 구매 가능합니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22179&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22179&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 30 May 2023 17:36:09 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9ec346fe6864819e36b2d60fe08cce49.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Azymuth / Butterfly (CD) *절판 시디 한정판매 (1인 1매만 구매 가능합니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22178&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22178&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 30 May 2023 17:36:09 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9e2d42ee6b41045a16bae77be4425b33.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Azymuth / Aurora: Remixes + Originals (2CD) *절판 시디 한정판매 (1인 1매만 구매 가능합니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22177&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22177&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 30 May 2023 17:36:09 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/1484f6645d8036ae4ddfbc88aa4da02e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Madlib / Shades Of Blue: Madlib Invades Blue Note (CD, US Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22157&amp;cate_no=46&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Thu, 27 Apr 2023 17:37:05 GMT</pubDate>
             <content:encoded><![CDATA[17,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/e4485d39695692cadc47640cf611b912.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[London Brew / London Brew (2CD Set)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21911&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21911&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Thu, 27 Apr 2023 17:37:05 GMT</pubDate>
-            <content:encoded><![CDATA[19,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/b4af8a62b89a7f0b56f68589edec120f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Diana Krall / Turn Up The Quiet (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21839&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21839&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 18 Apr 2023 17:36:04 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201706/7448_shop1_505528.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Henry Franklin, Adrian Younge & Ali Shaheed Muhammad / Jazz Is Dead 14 (CD, Digipak)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21831&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21831&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 18 Apr 2023 17:36:04 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/8f4a4059a9f99c335951250cd5cf797e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
