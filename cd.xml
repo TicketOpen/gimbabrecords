@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 05:38:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 17:37:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Il Rovescio Della Medaglia / Contaminazione 2.0 (CD + Bonus tracks)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22185&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22185&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 31 May 2023 17:35:08 GMT</pubDate>
+            <content:encoded><![CDATA[17,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/86b871f5089487055e3f1d2379dd305f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ruru 루루 / 나의 XX을 도와줘 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22182&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22182&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 31 May 2023 17:35:08 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/7d22702d28dcb23bdd8657aa01e932c5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Marcos Valle / Carioca Soul (CD + Bonus tracks) *절판 시디 한정판매 (1인 1매만 구매 가능합니다.)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22181&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 25 May 2023 05:35:10 GMT</pubDate>
             <content:encoded><![CDATA[20,400원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/47f065eb7dee0cbecc405485740051de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sudan Archives / Natural Brown Prom Queen (CD, US Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22159&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22159&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 24 May 2023 17:35:41 GMT</pubDate>
-            <content:encoded><![CDATA[20,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/787d0bfdde0faddb95df874c76f21926.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MED, Blu, Madlib / Bad Neighbor (CD, US Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22158&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22158&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 24 May 2023 17:35:41 GMT</pubDate>
-            <content:encoded><![CDATA[23,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/bd5e6f2871767d1dc276fc1a5687994e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
