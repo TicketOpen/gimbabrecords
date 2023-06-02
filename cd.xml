@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 17:37:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 05:37:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Big L / Lifestylez Ov Da Poor & Dangerous (CD, US Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22187&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22187&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 02 Jun 2023 05:35:14 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201903/1849f1f4a152eae4ea51c73c26d3d42a.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Il Rovescio Della Medaglia / Contaminazione 2.0 (CD + Bonus tracks)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22185&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 26 May 2023 17:34:48 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/1d97623953dda64dc5fe5df3fc4bd175.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sza / SOS (CD, Jewel Case)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22160&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22160&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 25 May 2023 05:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[20,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/47f065eb7dee0cbecc405485740051de.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
