@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 05:37:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 17:37:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백예린 / 단독공연 [Turn on that Blue Vinyl] 라이브 특별반 (Blue Colored Vinyl, 2LP) *예약상품 / 1인 1매만 구매 가능 / 별도의 입금기한 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20707&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20707&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 02 Jun 2023 17:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[54,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/ff1655ed18cf42fd64b3f15f6a5aa460.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백예린 / 정규 2집 + 2집 리믹스 tellusboutyourself (Vinyl, 3LP) *예약상품 / 1인 1매만 구매 가능 / 별도의 입금기한 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20706&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20706&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 02 Jun 2023 17:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[65,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/7e8f708ca914d3ec58b053bd207b02ae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Carlos Toshiki & Omega Tribe / Natsuko (Blue Vinyl) *예약상품 (8월 중순 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22086&amp;cate_no=42&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 29 May 2023 17:35:50 GMT</pubDate>
             <content:encoded><![CDATA[64,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/62c282732411400ce6c9277864d816f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jack Johnson / Sing-A-Longs And Lullabies For The Film Curious George (Vinyl) *예약상품 (한정할인)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=4115&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=4115&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 25 May 2023 05:35:34 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201606/4115_shop1_945821.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HYBS / Making Steak (Yellow Colored Vinyl) *예약상품 (6월 중순 배송 예정, 1인 최대 2매까지만 구매가 가능합니다. 구매시 유의사항을 반드시 확인해 주세요.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21027&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21027&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 26 May 2023 17:35:18 GMT</pubDate>
-            <content:encoded><![CDATA[59,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/3fa9f4bf6747152aef9e6b7abd105785.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

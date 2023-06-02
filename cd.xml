@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 05:37:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 17:37:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bedtime Pictures / Before Dawn (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22202&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22202&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 02 Jun 2023 17:35:12 GMT</pubDate>
+            <content:encoded><![CDATA[12,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/a699f34498fa3f795816a26e4ec20dd5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Lemon Twigs / Everything Harmony (CD, US Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22197&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22197&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 02 Jun 2023 17:35:12 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/2fff175e5c7536635422092d80618ee2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[허정혁 / 봉오리 시절 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22194&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22194&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 02 Jun 2023 17:35:12 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/c8d0196953a13e77c910975cb4e432d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Big L / Lifestylez Ov Da Poor & Dangerous (CD, US Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22187&amp;cate_no=24&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Sat, 27 May 2023 05:35:02 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/466b2b32a94d66fada26a8cac5b205ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Peter Frampton / Frampton Comes Alive! (Remastered CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22175&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22175&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 26 May 2023 17:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/7ef2c959e83cf899390523382595ccd6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joan Baez / The Best Of Joan Baez (CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22174&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22174&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 26 May 2023 17:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/d7b1d50838ea3f89f1e2a331e2dc125e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eric Clapton / 461 Ocean Boulevard (Remastered CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22173&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22173&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 26 May 2023 17:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/1d97623953dda64dc5fe5df3fc4bd175.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
