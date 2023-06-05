@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 05:37:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 17:37:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=10899&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=10899&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Mon, 05 Jun 2023 05:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[50,500원]]></content:encoded>
+            <content:encoded><![CDATA[50,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201805/10899_shop1_15267890060163.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
