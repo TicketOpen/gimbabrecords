@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 17:37:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 05:37:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9ec346fe6864819e36b2d60fe08cce49.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Azymuth / Butterfly (CD) *절판 시디 한정판매 (1인 1매만 구매 가능합니다.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22178&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22178&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 30 May 2023 17:35:01 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9e2d42ee6b41045a16bae77be4425b33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Azymuth / Aurora: Remixes + Originals (2CD) *절판 시디 한정판매 (1인 1매만 구매 가능합니다.)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22177&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22177&amp;cate_no=24&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Sat, 27 May 2023 05:35:02 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/466b2b32a94d66fada26a8cac5b205ca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peter Frampton / Frampton Comes Alive! (Remastered CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22175&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22175&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 05 Jun 2023 05:34:55 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/7ef2c959e83cf899390523382595ccd6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

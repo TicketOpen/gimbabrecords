@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 17:37:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 05:37:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 30 May 2023 17:35:57 GMT</pubDate>
             <content:encoded><![CDATA[13,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9ec346fe6864819e36b2d60fe08cce49.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Azymuth / Butterfly (CD) *절판 시디 한정판매 (1인 1매만 구매 가능합니다.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22178&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22178&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Tue, 30 May 2023 17:35:57 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9e2d42ee6b41045a16bae77be4425b33.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Azymuth / Aurora: Remixes + Originals (2CD) *절판 시디 한정판매 (1인 1매만 구매 가능합니다.)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Sat, 18 Mar 2023 17:36:23 GMT</pubDate>
             <content:encoded><![CDATA[12,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/2cb96491a5bb49b9e507081d38259103.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Buckshot LeFonque / Music Evolution (CD) *한정수량 판매 / 할인 (절판된 시디)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21611&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21611&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Mon, 05 Jun 2023 05:35:56 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/5e344d9102567006354fc73b06fd7523.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

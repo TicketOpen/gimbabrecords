@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 17:37:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 05:37:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9ec346fe6864819e36b2d60fe08cce49.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Azymuth / Butterfly (CD) *절판 시디 한정판매 (1인 1매만 구매 가능합니다.) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22178&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22178&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 30 May 2023 17:35:01 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9e2d42ee6b41045a16bae77be4425b33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Azymuth / Aurora: Remixes + Originals (2CD) *절판 시디 한정판매 (1인 1매만 구매 가능합니다.) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22177&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22177&amp;cate_no=24&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Sat, 27 May 2023 05:35:02 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/466b2b32a94d66fada26a8cac5b205ca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peter Frampton / Frampton Comes Alive! (Remastered CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22175&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22175&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 05 Jun 2023 05:34:55 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/7ef2c959e83cf899390523382595ccd6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Various Artists / Hidden Waters: Strange & Sublime Sounds Of Rio De Janeiro (Vinyl, 2LP, Mr. Bongo) (김밥레코즈 ─ Vinyl)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201509/632_shop1_473684.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Taeko Ohnuki (Taeko Onuki) / Sunshower (Vinyl, Limited White Colored Pressing 흰색 바이닐) *예약상품 (9월말~10월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=10899&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=10899&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 05 Jun 2023 05:35:22 GMT</pubDate>
+            <content:encoded><![CDATA[50,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201805/10899_shop1_15267890060163.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[백예린 / 단독공연 [Turn on that Blue Vinyl] 라이브 특별반 (Blue Colored Vinyl, 2LP) *예약상품 / 1인 1매만 구매 가능 / 별도의 입금기한 설정 (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20707&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20707&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 29 May 2023 17:35:50 GMT</pubDate>
             <content:encoded><![CDATA[64,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/768082da683eb8a0916c26ae7af88c1c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SPEED / Rise (Vinyl, 2LP) *예약상품 (8월 중순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22080&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22080&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 29 May 2023 17:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[64,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/62c282732411400ce6c9277864d816f1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Van Halen / Balance (CD) *할인상품 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -880,14 +880,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9ec346fe6864819e36b2d60fe08cce49.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Azymuth / Butterfly (CD) *절판 시디 한정판매 (1인 1매만 구매 가능합니다.) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22178&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22178&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Tue, 30 May 2023 17:35:57 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9e2d42ee6b41045a16bae77be4425b33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Azymuth / Aurora: Remixes + Originals (2CD) *절판 시디 한정판매 (1인 1매만 구매 가능합니다.) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22177&amp;cate_no=44&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22177&amp;cate_no=44&amp;display_group=1</guid>
@@ -966,6 +958,14 @@
             <pubDate>Sat, 18 Mar 2023 17:36:23 GMT</pubDate>
             <content:encoded><![CDATA[12,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/2cb96491a5bb49b9e507081d38259103.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Buckshot LeFonque / Music Evolution (CD) *한정수량 판매 / 할인 (절판된 시디) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21611&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21611&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Mon, 05 Jun 2023 05:35:56 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/5e344d9102567006354fc73b06fd7523.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Big L / Lifestylez Ov Da Poor & Dangerous (CD, US Import) (김밥레코즈 ─ CD ─ Hip Hop)]]></title>
@@ -1072,14 +1072,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9ec346fe6864819e36b2d60fe08cce49.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Azymuth / Butterfly (CD) *절판 시디 한정판매 (1인 1매만 구매 가능합니다.) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22178&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22178&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 30 May 2023 17:36:09 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9e2d42ee6b41045a16bae77be4425b33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Azymuth / Aurora: Remixes + Originals (2CD) *절판 시디 한정판매 (1인 1매만 구매 가능합니다.) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22177&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22177&amp;cate_no=46&amp;display_group=1</guid>
@@ -1158,6 +1150,14 @@
             <pubDate>Thu, 27 Apr 2023 17:37:05 GMT</pubDate>
             <content:encoded><![CDATA[17,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/e4485d39695692cadc47640cf611b912.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[London Brew / London Brew (2CD Set) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21911&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21911&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Mon, 05 Jun 2023 05:36:09 GMT</pubDate>
+            <content:encoded><![CDATA[19,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/b4af8a62b89a7f0b56f68589edec120f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
@@ -1376,14 +1376,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9ec346fe6864819e36b2d60fe08cce49.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Azymuth / Butterfly (CD) *절판 시디 한정판매 (1인 1매만 구매 가능합니다.) (김밥레코즈 ─ CD ─ World)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22178&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22178&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Tue, 30 May 2023 17:36:28 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9e2d42ee6b41045a16bae77be4425b33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Azymuth / Aurora: Remixes + Originals (2CD) *절판 시디 한정판매 (1인 1매만 구매 가능합니다.) (김밥레코즈 ─ CD ─ World)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22177&amp;cate_no=79&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22177&amp;cate_no=79&amp;display_group=1</guid>
@@ -1446,6 +1438,14 @@
             <pubDate>Tue, 04 Apr 2023 05:36:33 GMT</pubDate>
             <content:encoded><![CDATA[24,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/3ec6a117277aa97ca52ebd9cbdc15b2e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lucan Santtana / Modo avi​ã​o (CD) (김밥레코즈 ─ CD ─ World)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21746&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21746&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Mon, 05 Jun 2023 05:36:29 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/e2203b83faca605b13af8e45369b7fd8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Max Richter / The New Four Seasons - Vivaldi Recomposed 새로운 사계: 비발디 리컴포즈드 (CD, 국내반) (김밥레코즈 ─ CD ─ Classical/Crossover)]]></title>
