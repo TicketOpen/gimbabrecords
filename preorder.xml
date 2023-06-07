@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 05:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 17:37:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Shigeo Sekito /  Special Sound Series Vol. 2 華麗なるエレクトーン (ザ・ワード) (Vinyl, Reissue) *예약상품 (7월초 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21938&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21938&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 06 Jun 2023 17:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[54,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/fc8708902dab85afa24ddc0b1d0bf1a9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강아솔 / 정직한 마음(180g Clear Transparent Vinyl, 앨범 발매 10주년 한정반) *예약상품 (6월 21일부터 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22209&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22209&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 07 Jun 2023 17:36:03 GMT</pubDate>
+            <content:encoded><![CDATA[46,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/34fbee7a2f3482c27959a7b1c321cdf4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jun Miyake / June Night Love (CD) *예약판매 (6월 중순 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22107&amp;cate_no=42&amp;display_group=1</link>
@@ -22,14 +38,6 @@
             <pubDate>Wed, 07 Jun 2023 05:35:49 GMT</pubDate>
             <content:encoded><![CDATA[35,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/60edc91dd0c5575f1f91a67c247d8a27.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shigeo Sekito /  Special Sound Series Vol. 2 華麗なるエレクトーン (ザ・ワード) (Vinyl, Reissue) *예약상품 (6월 7일부터 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21938&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21938&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 06 Jun 2023 17:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[54,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/fc8708902dab85afa24ddc0b1d0bf1a9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bala Desejo / Sim Sim Sim (Vinyl, Mr.Bongo Pressing)  *예약상품 (6월 22일 이후 발송 예정)]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 29 May 2023 17:35:50 GMT</pubDate>
             <content:encoded><![CDATA[50,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/823fc2de9e2f2a188640cdc186ec2a6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryoko Hirosue / Arigato (Red Colored Vinyl) *예약상품 (8월 중순 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22082&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22082&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 29 May 2023 17:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[52,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/2becc45c513066cc61fe3f4e72812646.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
