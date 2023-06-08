@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 05:37:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 17:37:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kelly Lee Owens / LP 8 (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22218&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22218&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 08 Jun 2023 17:35:16 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/44fa27265eec745f3e3924ae92be12b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EVISBEATS / That's Life (CD) *구매 시 Bonus Mix CD 증정]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22208&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 30 May 2023 17:35:01 GMT</pubDate>
             <content:encoded><![CDATA[14,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/1484f6645d8036ae4ddfbc88aa4da02e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marcos Valle / O Compositor E O Cantor (CD, JPN Import, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22176&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22176&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sat, 27 May 2023 05:35:02 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/466b2b32a94d66fada26a8cac5b205ca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
