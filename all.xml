@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 17:37:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 05:37:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -344,11 +344,11 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/7b006abb8bad3c9f5f32382858af7ca6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Audio Technica Turntable - AT-LP3XBT 전자동 벨트 드라이브 스테레오 블루투스 턴테이블 (보너스 레코드 증정) (김밥레코즈 ─ Movies/Merch)]]></title>
+            <title><![CDATA[Audio Technica Turntable - AT-LP3XBT 전자동 벨트 드라이브 스테레오 블루투스 턴테이블 (보너스 레코드 증정) *한정기간 할인 (김밥레코즈 ─ Movies/Merch)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21940&amp;cate_no=27&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21940&amp;cate_no=27&amp;display_group=1</guid>
             <pubDate>Tue, 23 May 2023 05:35:51 GMT</pubDate>
-            <content:encoded><![CDATA[479,000원]]></content:encoded>
+            <content:encoded><![CDATA[429,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/ce993f731a33b5010f2d12777f58a2f4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -392,6 +392,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201509/632_shop1_473684.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Akina Nakamori / Crimson (White Colored Vinyl, 2023 reissue) *예약상품 (8월 중순 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15090&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15090&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 08 Jun 2023 17:35:46 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202007/f400a186557466b32f401388fbf08e71.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Akina Nakamori / Crimson (Limited 45rpm 2LP, 1 bonus track) *예약상품 (8월 중순 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22221&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22221&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 08 Jun 2023 17:35:46 GMT</pubDate>
+            <content:encoded><![CDATA[66,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/987256d377dcb59383570c6e268c7796.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[선우정아 / It's Okay, Dear (Vinyl) *예약상품 (8월 중순 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22214&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22214&amp;cate_no=42&amp;display_group=1</guid>
@@ -406,22 +422,6 @@
             <pubDate>Wed, 07 Jun 2023 17:36:03 GMT</pubDate>
             <content:encoded><![CDATA[46,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/34fbee7a2f3482c27959a7b1c321cdf4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Akina Nakamori / Crimson (Limited 45rpm 2LP, 1 bonus track) *예약상품 (8월 중순 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22221&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22221&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 08 Jun 2023 17:35:46 GMT</pubDate>
-            <content:encoded><![CDATA[66,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/987256d377dcb59383570c6e268c7796.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Akina Nakamori / Crimson (White Colored Vinyl, 2023 reissue) *예약상품 (8월 중순 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=15090&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=15090&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 08 Jun 2023 17:35:46 GMT</pubDate>
-            <content:encoded><![CDATA[47,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202007/f400a186557466b32f401388fbf08e71.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Camera Obscura / Let's Get Out Of This Country (Clear Vinyl, 2023 reissue) *예약상품 (7월 중순 이후 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
