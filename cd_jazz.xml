@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 05:37:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 17:37:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Gretchen Parlato & Lionel Loueke / Lean In (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22228&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22228&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 09 Jun 2023 17:36:10 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/efbe3297ebd227edf28104c0cf900b44.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Azymuth / Aurora (CD) *절판 시디 한정판매 (1인 1매만 구매 가능합니다.)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22179&amp;cate_no=46&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 27 Apr 2023 17:37:05 GMT</pubDate>
             <content:encoded><![CDATA[17,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/e4485d39695692cadc47640cf611b912.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[London Brew / London Brew (2CD Set)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21911&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21911&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Mon, 05 Jun 2023 05:36:09 GMT</pubDate>
-            <content:encoded><![CDATA[19,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/b4af8a62b89a7f0b56f68589edec120f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
