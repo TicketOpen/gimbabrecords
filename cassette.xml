@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 05:37:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 17:37:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Tue, 16 May 2023 17:35:39 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/22cf690771787103232a07eaf4fa990a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[So!YoON! (황소윤) / 정규 2집 Episode1 : Love (Cassette, 초도한정반) *예약상품 (10월 2일 발매, 4월 28일 주문 마감)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21866&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21866&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Mon, 24 Apr 2023 17:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[20,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/7ab83b199fec30fb7992ff07c28ad96b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지나오킹 Jina0King / 사람들은 모두 다른 향기 Everybody Different Scent (Cassette + 포토 카드 + Download)]]></title>
@@ -101,6 +93,14 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21186&amp;cate_no=26&amp;display_group=1</guid>
             <pubDate>Sun, 11 Jun 2023 05:35:17 GMT</pubDate>
             <content:encoded><![CDATA[120,000원]]></content:encoded>
+            <enclosure url="http://img.echosting.cafe24.com/thumb/img_product_medium.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[왕가위 사운드트랙 카세트 3개 묶음 판매 3 (2046 + 타락천사 + 에로스/ The Hand 카세트, 미니카드 3장 포함) - 한정수량 판매 (할인판매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21185&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21185&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Sun, 11 Jun 2023 17:35:42 GMT</pubDate>
+            <content:encoded><![CDATA[99,000원]]></content:encoded>
             <enclosure url="http://img.echosting.cafe24.com/thumb/img_product_medium.gif" length="0" type="image/gif"/>
         </item>
     </channel>
