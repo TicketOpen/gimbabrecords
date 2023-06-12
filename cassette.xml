@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 05:37:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 17:37:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[illathnmst. / .​.​. (Cassette) *겉포장 없이 출고된 상품입니다.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22231&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22231&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Mon, 12 Jun 2023 17:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[18,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/e18aaa8b545fc144981efbf1a1057bc2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thallus / Infinite Layers (Cassette) *겉포장 없이 출고된 상품입니다.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22230&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22230&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Mon, 12 Jun 2023 17:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[18,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/ede0a07f946d5a7b549b219dca4f6e43.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ColDrip / Lucid​/​/ (Cassette) *겉포장 없이 출고된 상품입니다.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22229&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22229&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Mon, 12 Jun 2023 17:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[18,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/2d090686fd95c534772dda560992e4eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Beach Fossils / Clash The Truth + Demos (Pink Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22227&amp;cate_no=26&amp;display_group=1</link>
@@ -56,6 +80,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/ca2ea77e431d9ff7ebb1f7f73c240bb3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[HYBS / Making Steak (Cassette Tape, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21556&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21556&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Mon, 12 Jun 2023 17:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/be78a9101322e14900bcac63574d0fe4.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[Various Artists / Thermal Expansion (Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21389&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21389&amp;cate_no=26&amp;display_group=1</guid>
@@ -70,38 +102,6 @@
             <pubDate>Fri, 19 May 2023 05:35:25 GMT</pubDate>
             <content:encoded><![CDATA[22,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/ae8826c21520fa489919f90e32e771ad.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Hot Chip / Freakout/Release (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21201&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21201&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Sat, 20 May 2023 17:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/7b82b2e9a20f0eef874616edf2416fce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alex G / God Save The Animals (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21200&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21200&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Mon, 05 Jun 2023 17:35:15 GMT</pubDate>
-            <content:encoded><![CDATA[21,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/6fb4d3a0dbc27a765a2256b81eba594e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왕가위 사운드트랙 카세트 3개 묶음 판매 4 (해피투게더 + 마이 블루베리 나이츠 + 첫사랑 카세트, 미니카드 3장 포함) - 한정판매]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21186&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21186&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Sun, 11 Jun 2023 05:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[120,000원]]></content:encoded>
-            <enclosure url="http://img.echosting.cafe24.com/thumb/img_product_medium.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[왕가위 사운드트랙 카세트 3개 묶음 판매 3 (2046 + 타락천사 + 에로스/ The Hand 카세트, 미니카드 3장 포함) - 한정수량 판매 (할인판매)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21185&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21185&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Sun, 11 Jun 2023 17:35:42 GMT</pubDate>
-            <content:encoded><![CDATA[99,000원]]></content:encoded>
-            <enclosure url="http://img.echosting.cafe24.com/thumb/img_product_medium.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

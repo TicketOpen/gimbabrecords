@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 05:37:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 17:37:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이정선 / 이정선 BEST (180g Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22232&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22232&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 12 Jun 2023 17:37:43 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/eeb7c9097ccc71c105242aabdc23fa70.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빛과 소금 / VOL.1 (180g Clear Vinyl, 2019 Remastered)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22220&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 20 May 2023 05:36:49 GMT</pubDate>
             <content:encoded><![CDATA[55,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/07949364c2c34d9a0297ea8e61f4dbc2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하나옴니버스 / 1,2,3집 (180g Vinyl. 3LP) *예약상품 (9월 14일 발매 예정, 5월 21일 주문 마감)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22030&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22030&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 16 May 2023 17:37:37 GMT</pubDate>
-            <content:encoded><![CDATA[138,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/12619aaa944588c18799fc5d57a566c3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
