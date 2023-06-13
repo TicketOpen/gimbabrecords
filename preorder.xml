@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 05:37:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 17:37:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콜드 Colde / Love Part 2 (CD) *예약상품 (6월 9일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22043&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22043&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 13 Jun 2023 17:36:11 GMT</pubDate>
+            <content:encoded><![CDATA[21,100원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/a8c435716df0bc42fcfc9a154b1763b3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Phum Viphurit / The Greng Jai Piece (Limited Red Vinyl) *예약상품 (8월 하순 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22233&amp;cate_no=42&amp;display_group=1</link>
@@ -14,14 +22,6 @@
             <pubDate>Tue, 13 Jun 2023 05:35:27 GMT</pubDate>
             <content:encoded><![CDATA[69,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/f95454db719e64fb2559f90dd5babd40.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jun Miyake / Especially Sexy (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22108&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22108&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 07 Jun 2023 05:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/60edc91dd0c5575f1f91a67c247d8a27.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Akina Nakamori / Crimson (White Colored Vinyl, 2023 reissue) *예약상품 (8월 중순 이후 배송)]]></title>
