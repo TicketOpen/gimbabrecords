@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Japanese</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 05:36:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 17:37:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Masayoshi Takanaka / An Insatiable High (SHM-CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22259&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22259&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Thu, 15 Jun 2023 17:37:32 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/5f0cd564da46e371bc84fac846c57742.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tatsuro Yamashita / Come Along 3 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22258&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22258&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Thu, 15 Jun 2023 17:37:32 GMT</pubDate>
+            <content:encoded><![CDATA[26,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/bcae6472cc3150494e291119aa7d27cd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EVISBEATS / That's Life (CD) *구매 시 Bonus Mix CD 증정]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22208&amp;cate_no=90&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 17 May 2023 17:37:55 GMT</pubDate>
             <content:encoded><![CDATA[36,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/ba3d441b22aa9b895baba7b00c60adf8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yorushika 요루시카 / Makeinu Ni Encore Wa Iranai 負け犬にアンコールはいらない (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22031&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22031&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Wed, 17 May 2023 17:37:55 GMT</pubDate>
-            <content:encoded><![CDATA[23,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/b7013be78b1a3e8204f6f8bd853071ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fantastic Plastic Machine / Fantastic Plastic Machine (CD, EU Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21650&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21650&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Thu, 23 Mar 2023 17:38:39 GMT</pubDate>
-            <content:encoded><![CDATA[17,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/09a683d0eeb2dd1ac9b9bb01b30980ed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

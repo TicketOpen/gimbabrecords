@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 05:36:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 17:37:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Freddie Gibbs / $oul $old $eparately (Soul Sold Separately) (Limited Neon Yellow Vinyl + 7" Flexi Disc, Indie Exclusive)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22252&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22252&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 15 Jun 2023 17:35:41 GMT</pubDate>
+            <content:encoded><![CDATA[51,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/c3f4d7751e4017763e6e1cf2ed5192b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sam Yahel, Ari Hoenig, Mike Moreno, Seamus Blake / Jazz Side Of The Moon: The Music Of Pink Floyd (Black Splatter Vinyl, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22251&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22251&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 15 Jun 2023 17:35:41 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/6cc61275f901cb9529891d9ecd75e6d2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헨 (HEN) / 소리들 (180g White Vinyl) *예약상품 (7월 말 발송 예정, 6월 25일 주문 마감)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22249&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 14 Jun 2023 05:36:05 GMT</pubDate>
             <content:encoded><![CDATA[54,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/de1f596bd59ec0e5ee74dbc50c294947.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Various Artists) / Guardians Of The Galaxy Vol. 3: Awesome Mix Vol. 3 가디언즈 오브 갤럭시 3 (Vinyl, 2LP) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22239&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22239&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 14 Jun 2023 05:36:05 GMT</pubDate>
-            <content:encoded><![CDATA[48,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/37e73f7a984b4f4777eeb910110f1fca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tatsuro Yamashita / Ride On Time (Vinyl, 2023 Reissue) *1인 1매만 구매 가능 / 별도의 입금기한 설정]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22237&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22237&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 13 Jun 2023 17:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[53,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/696e508c9fe449d98d9054939fb0aa31.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
