@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 05:37:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 17:37:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Noel Gallagher's High Flying Birds / Council Skies (Deluxe 2CD, Hardback Book Packaging)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22270&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22270&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 16 Jun 2023 17:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/29f4489f8913f32c7abb5d635cc90da0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Lemon Twigs / Everything Harmony (CD, US Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22197&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 11 May 2023 05:36:08 GMT</pubDate>
             <content:encoded><![CDATA[18,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/1920ab5cd46c6b7fd23e17184523d26c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fiona Apple / Extraordinary Machine (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21925&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21925&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 28 Apr 2023 05:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/823af146770a31762351e9129d81b382.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
