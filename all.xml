@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 17:37:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 05:36:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -124,7 +124,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=22267&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22267&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Fri, 16 Jun 2023 17:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/4adfaa364f9f0eaf7c4be4ecf5500bc3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,7 +132,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=22266&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22266&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Fri, 16 Jun 2023 17:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/43fde55c57dbfcf6ebec747088b132fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
