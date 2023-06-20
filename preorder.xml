@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 05:37:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 17:37:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오진우, 이소(Duo E) & 파네마  (스플릿 7" Vinyl) *예약상품 (6월 27일 발매일 이후 순차 발송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22286&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22286&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 20 Jun 2023 17:36:01 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/30b38436f76f3c3adcd09a98d47a126d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아마츄어증폭기 / 극좌표 (180g Black Vinyl) *예약상품 (6월 27일 발매일 이후 순차 발송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22285&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22285&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 20 Jun 2023 17:36:01 GMT</pubDate>
+            <content:encoded><![CDATA[40,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/ce882a3c522a4253e0166db33263595f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유재하 / 사랑하기 때문에 Special Vinyl Edition (180g Black Vinyl 블랙반) *예약상품 (6월 21일 발매 예정, 이후 순차 발송) / 1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22234&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22234&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 15 Jun 2023 05:35:12 GMT</pubDate>
+            <content:encoded><![CDATA[62,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/0b735a45c498584db9c18994b4111a3d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤지영 / 정규 1집 나의 정원에서 (Clear Vinyl) *예약상품 (9월 25일 발매 예정, 6월 29일 주문 마감)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22271&amp;cate_no=42&amp;display_group=1</link>
@@ -27,14 +51,6 @@
             <title><![CDATA[유재하 / 사랑하기 때문에 Special Vinyl Edition (180g Pastel Vinyl 파스텔반) *예약상품 (6월 21일 발매 예정, 이후 순차 발송) / 1인 1매만 구매 가능]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22236&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22236&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 15 Jun 2023 05:35:12 GMT</pubDate>
-            <content:encoded><![CDATA[62,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/0b735a45c498584db9c18994b4111a3d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유재하 / 사랑하기 때문에 Special Vinyl Edition (180g Black Vinyl 블랙반) *예약상품 (6월 21일 발매 예정, 이후 순차 발송) / 1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22234&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22234&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Thu, 15 Jun 2023 05:35:12 GMT</pubDate>
             <content:encoded><![CDATA[62,400원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/0b735a45c498584db9c18994b4111a3d.jpg" length="0" type="image/jpg"/>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 07 Jun 2023 17:36:03 GMT</pubDate>
             <content:encoded><![CDATA[46,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/34fbee7a2f3482c27959a7b1c321cdf4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Camera Obscura / Let's Get Out Of This Country (Clear Vinyl, 2023 reissue) *예약상품 (7월 중순 이후 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22215&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22215&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 08 Jun 2023 17:35:46 GMT</pubDate>
-            <content:encoded><![CDATA[43,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/70f9f2820706b9c1835d04573df26962.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Camera Obscura / Underachievers Please Try Harder (Colored Vinyl, 2023 reissue) *예약상품 (7월 중순 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22213&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22213&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 08 Jun 2023 17:35:46 GMT</pubDate>
-            <content:encoded><![CDATA[43,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/7f727c12c4917f80bfc006ac1704edd2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
