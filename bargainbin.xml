@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Bargain Bin</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 17:37:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 05:37:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/20200113/9dff1b953a32fe1ac92401ad76077683.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Teenage Fanclub / Songs From Northern Britain (CD, Music On CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15698&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15698&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Wed, 21 Jun 2023 05:35:41 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/20200622/b0f32fca28e44559de8c66a28b28354d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[OST / Reservoir Dogs 저수지의 개들 (CD, EU Import) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=15692&amp;cate_no=43&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=15692&amp;cate_no=43&amp;display_group=1</guid>
             <pubDate>Mon, 12 Jun 2023 17:36:21 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201610/5545_shop1_904700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST	/ Mamma Mia! 맘마미아 (CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=15689&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=15689&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Thu, 15 Jun 2023 05:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202011/89f9ae592676a510500092fce25935fd.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
