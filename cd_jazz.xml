@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 05:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 17:37:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Norah Jones / Little Broken Hearts (2CD, Deluxe Edition, Newly Remixed)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22301&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22301&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Jun 2023 17:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/aab9f3f4091c50a82843defe03a77887.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Samara Joy / Linger Awhile (CD, Deluxe Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22300&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22300&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Jun 2023 17:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[18,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/517208e0b1df94ec250805d1f757fe62.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sonny Rollins / Go West!: The Contemporary Records Albums (Deluxe 3CD Boxset, Contemporary Records 70th Anniversary Series)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22299&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22299&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Jun 2023 17:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[42,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/3793112bdc49c70c47ff2f8a6af08dc5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Freddie Hubbard / Straight Life (CD, CTI 50th Anniversary Collection, Limited Edition) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22257&amp;cate_no=46&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Mon, 08 May 2023 05:36:03 GMT</pubDate>
             <content:encoded><![CDATA[14,700원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/c1259b2e4ed45417dd733038f2354d75.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[In The Country / This Was The Pace Of My Heartbeat (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21928&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21928&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 28 Apr 2023 05:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/8e00b67b111e3dc7f586d533465ec228.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[In The Country / Losing Stones, Collecting Bones (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21927&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21927&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 28 Apr 2023 05:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/010859904cf39938f8d574c06b3d0fa9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Herbie Hancock / Mr. Hands (Remastered CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21926&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21926&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 28 Apr 2023 05:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/c427430d81a7099a7a1bf2778db8effb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
