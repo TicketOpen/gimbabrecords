@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 05:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 17:38:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Slowdive / everything is alive (CD) *예약상품 (9월 1일 발매 예정, 6월 29일 주문 마감)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22320&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22320&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 23 Jun 2023 17:37:22 GMT</pubDate>
+            <content:encoded><![CDATA[18,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/57ddf8359962107f4ed2c70cc4f7cec2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jon & Vangelis / The Friends Of Mister Cairo (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22305&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22305&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 23 Jun 2023 17:37:22 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/b5fbbe4d48472768bc7cbd8588d4e614.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Frank Zappa / Freak Out! (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22304&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22304&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 23 Jun 2023 17:37:22 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/f6d12c4bb0b78579130031976a8bb567.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dream Theater / Metropolis Part 2: Scenes From A Memory (CD, EU Import) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22303&amp;cate_no=30&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Mon, 22 May 2023 17:35:56 GMT</pubDate>
             <content:encoded><![CDATA[24,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/6ece68ff5289def9cd7131ca9f31abd6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Derek & The Dominos (Eric Clapton) / Layla And Other Assorted Love Songs (Remastered CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22129&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22129&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 22 May 2023 17:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201606/4101_shop1_679783.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carpenters / Singles 1969-1981 (Remastered CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22128&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22128&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 22 May 2023 17:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/06a062c72a2b4c0c1ce29e3547408ee6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Quasi / Breaking The Balls Of History (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22021&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22021&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 16 May 2023 17:36:16 GMT</pubDate>
-            <content:encoded><![CDATA[19,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/ea704b70c115e09d9392737d0c6a250d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
