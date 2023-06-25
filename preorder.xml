@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 05:38:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 17:37:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Isao Suzuki, Hideo Ichikawa, Masahika Tagashi, Akira Shiomoto / Approach (Vinyl, 2LP, J-Jazz Masterclass Series) *예약상품 (6월 30일 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22264&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22264&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sun, 25 Jun 2023 17:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/243bbe34d4d711da6f8579d89ac67587.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Noriko Miyamoto with Isao Suzuki / Push (Vinyl, 2LP, J-Jazz Masterclass Series) *예약상품 (6월 30일 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22265&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22265&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sun, 25 Jun 2023 17:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/e195f91f3de716cbb7ade08c84e52216.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Slowdive / everything is alive (Cassette) *예약상품 (9월 1일 발매 예정, 6월 29일 주문 마감)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22321&amp;cate_no=42&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 13 Jun 2023 05:35:27 GMT</pubDate>
             <content:encoded><![CDATA[69,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/f95454db719e64fb2559f90dd5babd40.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Akina Nakamori / Crimson (White Colored Vinyl, 2023 reissue) *예약상품 (8월 중순 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=15090&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=15090&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 08 Jun 2023 17:35:46 GMT</pubDate>
-            <content:encoded><![CDATA[47,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202007/f400a186557466b32f401388fbf08e71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Akina Nakamori / Crimson (Limited 45rpm 2LP, 1 bonus track) *예약상품 (8월 중순 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22221&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22221&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 08 Jun 2023 17:35:46 GMT</pubDate>
-            <content:encoded><![CDATA[66,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/987256d377dcb59383570c6e268c7796.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
