@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 05:40:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 17:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Anri / Natsu-Ban EP (12" Vinyl, 45rpm) *예약상품 (8월말~9월초 사이 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22322&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22322&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 26 Jun 2023 17:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[34,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/1e4e371c7301d96c0e66527f820b5d2a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Isao Suzuki, Hideo Ichikawa, Masahika Tagashi, Akira Shiomoto / Approach (Vinyl, 2LP, J-Jazz Masterclass Series) *예약상품 (6월 30일 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22264&amp;cate_no=42&amp;display_group=1</link>
@@ -54,14 +62,6 @@
             <pubDate>Fri, 23 Jun 2023 17:37:01 GMT</pubDate>
             <content:encoded><![CDATA[40,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/04d9653054f8760fe976676fb8193752.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신모래 x 글램 굴드 / Dear. J (180g 불투명 핑크 Vinyl, 500장 한정) *예약상품 (6월 26일부터 발송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22288&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22288&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 21 Jun 2023 17:35:31 GMT</pubDate>
-            <content:encoded><![CDATA[46,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/504e9df73ce6c4a53d7b032fe1933e00.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤지영 / 정규 1집 나의 정원에서 (Clear Vinyl) *예약상품 (9월 25일 발매 예정, 6월 29일 주문 마감)]]></title>
