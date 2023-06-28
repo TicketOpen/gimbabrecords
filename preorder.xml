@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 05:39:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 17:37:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/30b38436f76f3c3adcd09a98d47a126d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아마츄어증폭기 / 극좌표 (180g Black Vinyl) *예약상품 (6월 27일 발매일 이후 순차 발송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22285&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22285&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 20 Jun 2023 17:36:01 GMT</pubDate>
-            <content:encoded><![CDATA[40,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/ce882a3c522a4253e0166db33263595f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Jack Johnson / Sing-A-Longs And Lullabies For The Film Curious George (Vinyl) *예약상품 (6월말 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=4115&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=4115&amp;cate_no=42&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Tue, 13 Jun 2023 05:35:27 GMT</pubDate>
             <content:encoded><![CDATA[69,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/f95454db719e64fb2559f90dd5babd40.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Akina Nakamori / Crimson (White Colored Vinyl, 2023 reissue) *예약상품 (8월 중순 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15090&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15090&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 28 Jun 2023 17:35:57 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202007/f400a186557466b32f401388fbf08e71.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
