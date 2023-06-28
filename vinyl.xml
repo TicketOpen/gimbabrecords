@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 17:37:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 05:39:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[King Krule / Space Heavy (Clear Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22347&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22347&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 28 Jun 2023 05:37:09 GMT</pubDate>
+            <content:encoded><![CDATA[40,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/ac2782c1280225e273a0df9ea0d568c0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[King Krule / Space Heavy (Black Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22346&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22346&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 28 Jun 2023 05:37:09 GMT</pubDate>
+            <content:encoded><![CDATA[40,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/52153a5935db8029eb90a334f9676062.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nicola Conte / Umoja (Vinyl, 2LP) *예약상품 (7월 11일 전후 배송 시작)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22344&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 26 Jun 2023 17:36:44 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/8b4e13552c3cd60f905fc2d3a4eb3aef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GoGo Penguin / Everything Is Going to Be OK (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22326&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22326&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 26 Jun 2023 17:36:44 GMT</pubDate>
-            <content:encoded><![CDATA[41,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/4f2d8bd3bb70c8ea8fbde17aa8cc4a43.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Frames / Dance The Devil (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22325&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22325&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 26 Jun 2023 17:36:44 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/ab0d908ff8d738756c782f88727172be.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

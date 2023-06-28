@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 17:37:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 05:39:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nicola Conte / Umoja (CD) *예약상품 (7월 11일 전후 배송 시작) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22345&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22345&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 28 Jun 2023 05:37:02 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/dc9b8995fb1515597d6f65f28ae41c7b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The National / First Two Pages of Frankenstein (CD, Trifold sleeve) *구매 선착순 MD 증정 (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22342&amp;cate_no=24&amp;display_group=1</link>
@@ -96,12 +104,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201610/5365_shop1_569403.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Miles Davis / Miles Davis And The Modern Jazz Giants (CD, RVG Remasters) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22306&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22306&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 23 Jun 2023 17:36:34 GMT</pubDate>
-            <content:encoded><![CDATA[14,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/6e19505814e67f2d15534e96db7825de.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[King Krule / Space Heavy (Clear Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22347&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22347&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 28 Jun 2023 05:37:09 GMT</pubDate>
+            <content:encoded><![CDATA[40,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/ac2782c1280225e273a0df9ea0d568c0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[King Krule / Space Heavy (Black Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22346&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22346&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 28 Jun 2023 05:37:09 GMT</pubDate>
+            <content:encoded><![CDATA[40,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/52153a5935db8029eb90a334f9676062.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nicola Conte / Umoja (Vinyl, 2LP) *예약상품 (7월 11일 전후 배송 시작) (김밥레코즈 ─ Vinyl)]]></title>
@@ -182,22 +198,6 @@
             <pubDate>Mon, 26 Jun 2023 17:36:44 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/8b4e13552c3cd60f905fc2d3a4eb3aef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GoGo Penguin / Everything Is Going to Be OK (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22326&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22326&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 26 Jun 2023 17:36:44 GMT</pubDate>
-            <content:encoded><![CDATA[41,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/4f2d8bd3bb70c8ea8fbde17aa8cc4a43.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Frames / Dance The Devil (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22325&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22325&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 26 Jun 2023 17:36:44 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/ab0d908ff8d738756c782f88727172be.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Slowdive / everything is alive (Cassette) *예약상품 (9월 1일 발매 예정, 6월 29일 주문 마감) (김밥레코즈 ─ Cassette)]]></title>
@@ -872,6 +872,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/4fa3ac253e8f049d1bde59f11f30fbd9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Nicola Conte / Umoja (CD) *예약상품 (7월 11일 전후 배송 시작) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22345&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22345&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Wed, 28 Jun 2023 05:38:02 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/dc9b8995fb1515597d6f65f28ae41c7b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Azymuth / Aurora (CD) *절판 시디 한정판매 (1인 1매만 구매 가능합니다.) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22179&amp;cate_no=44&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22179&amp;cate_no=44&amp;display_group=1</guid>
@@ -958,14 +966,6 @@
             <pubDate>Sat, 18 Mar 2023 17:36:23 GMT</pubDate>
             <content:encoded><![CDATA[12,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/2cb96491a5bb49b9e507081d38259103.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Buckshot LeFonque / Music Evolution (CD) *한정수량 판매 / 할인 (절판된 시디) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21611&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21611&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Mon, 05 Jun 2023 05:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/5e344d9102567006354fc73b06fd7523.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Eminem / Encore (CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD ─ Hip Hop)]]></title>
@@ -1064,6 +1064,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/b02eaa4cd22714574967dbe8cd399953.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Nicola Conte / Umoja (CD) *예약상품 (7월 11일 전후 배송 시작) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22345&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22345&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Wed, 28 Jun 2023 05:38:15 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/dc9b8995fb1515597d6f65f28ae41c7b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Miles Davis / Miles Davis And The Modern Jazz Giants (CD, RVG Remasters) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22306&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22306&amp;cate_no=46&amp;display_group=1</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Mon, 22 May 2023 17:36:21 GMT</pubDate>
             <content:encoded><![CDATA[17,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/37cfede50d66b60abd81dccf6f1cdae5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cecile McLorin Salvant / Melusine (CD, EU Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21977&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21977&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 09 May 2023 17:36:27 GMT</pubDate>
-            <content:encoded><![CDATA[22,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9a122b8b278a4ca82df222efc2531d1c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
