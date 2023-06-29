@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 17:37:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 17:37:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bossacucanova / Ao Vivo (CD + DVD-Video) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22358&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22358&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Jun 2023 17:35:14 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/7c7c58a7c739192ffd0687d44b0ee43a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nicola Conte / Umoja (CD) *예약상품 (7월 11일 전후 배송 시작)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22345&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 23 Jun 2023 17:36:34 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/cf17d6d3bd65dd3c60dc74245f119898.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Chemical Brothers / Brotherhood – Definitive Singles Collection (CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22307&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22307&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 23 Jun 2023 17:36:34 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201610/5365_shop1_569403.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
