@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Movies/Merch</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 05:38:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 17:37:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AT-VMN95EN 교체형 스타일러스(턴테이블 바늘) - 오디오 테크니카(Audio Technica) 턴테이블 LP-120XUSB, LP-W40WN, LP3XBT 등에 사용 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22367&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22367&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Fri, 30 Jun 2023 17:35:16 GMT</pubDate>
+            <content:encoded><![CDATA[129,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/2bd95779f8a1da953fe53a5c034087c5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AT-VMN95E 교체형 스타일러스(턴테이블 바늘) - 오디오 테크니카(Audio Technica) 턴테이블 LP-120XUSB, LP-W40WN, LP3XBT 등에 사용 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22366&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22366&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Fri, 30 Jun 2023 17:35:16 GMT</pubDate>
+            <content:encoded><![CDATA[58,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/47f34b39786943bc32c18dbd15ce8ea5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Discwasher Vinyl Record Cleaning Brush (Anti-Static)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22203&amp;cate_no=27&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Sat, 29 Apr 2023 17:35:13 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/c153bd767f1470fcbec28a1fe18ec27c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nick Cave & The Bad Seeds / Murder Ballads (Remastered CD + DVD, NTSC Version) *1회 한정 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21729&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21729&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Sat, 29 Apr 2023 17:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201810/f2d87c5c47bb961b6573993ab413b700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nick Cave & The Bad Seeds / Henry's Dream (Remastered CD + DVD, NTSC Version) *1회 한정 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21727&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21727&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Mon, 03 Apr 2023 17:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201509/632_shop1_473684.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

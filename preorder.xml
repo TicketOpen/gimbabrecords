@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 05:38:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 17:37:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Camera Obscura / Underachievers Please Try Harder (Colored Vinyl, 2023 reissue)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22213&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22213&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Jun 2023 17:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[43,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/7f727c12c4917f80bfc006ac1704edd2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Camera Obscura / Let's Get Out Of This Country (Clear Vinyl, 2023 reissue)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22215&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22215&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Jun 2023 17:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[43,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/70f9f2820706b9c1835d04573df26962.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[선우정아 / It's Okay, Dear (Vinyl) *예약상품 (8월 중순 이후 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22214&amp;cate_no=42&amp;display_group=1</link>
@@ -30,22 +46,6 @@
             <pubDate>Sun, 25 Jun 2023 17:35:48 GMT</pubDate>
             <content:encoded><![CDATA[59,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/e195f91f3de716cbb7ade08c84e52216.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Camera Obscura / Let's Get Out Of This Country (Clear Vinyl, 2023 reissue) *예약상품 (7월 중순 이후 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22215&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22215&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 29 Jun 2023 17:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[43,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/70f9f2820706b9c1835d04573df26962.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Camera Obscura / Underachievers Please Try Harder (Colored Vinyl, 2023 reissue) *예약상품 (7월 중순 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22213&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22213&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 29 Jun 2023 17:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[43,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/7f727c12c4917f80bfc006ac1704edd2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Isao Suzuki, Hideo Ichikawa, Masahika Tagashi, Akira Shiomoto / Approach (Vinyl, 2LP, J-Jazz Masterclass Series) *예약상품 (6월 30일 배송 예정)]]></title>
