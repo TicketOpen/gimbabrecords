@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 17:37:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 05:38:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/cf17d6d3bd65dd3c60dc74245f119898.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이민휘 / 빌린 입 (Vinyl, 45rpm) *예약상품 (7월 7일부터 순차 배송) / 1인 1매만 구매가 가능합니다. (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22368&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22368&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 03 Jul 2023 05:36:24 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/e11f1a4e5c73c33d0137aaf758810b14.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Jeff Buckley / Vinyle & Photos (Vinyl + 10 Photos, 하드커버 책자 스타일 패키지) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22365&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22365&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 28 Jun 2023 17:35:37 GMT</pubDate>
             <content:encoded><![CDATA[55,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/b9d7c85d0d83f0206fe9cd137fc85a31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Audioslave / Out of Exile (Vinyl, 2LP, 2023 Dutch Pressing) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22353&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22353&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 28 Jun 2023 17:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[65,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/b0fe3b7906a1bef65ebd65ab1842ce15.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Slowdive / everything is alive (Cassette) *예약상품 (9월 1일 발매 예정, 6월 29일 주문 마감) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201810/f2d87c5c47bb961b6573993ab413b700.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이민휘 / 빌린 입 (Vinyl, 45rpm) *예약상품 (7월 7일부터 순차 배송) / 1인 1매만 구매가 가능합니다. (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22368&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22368&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 03 Jul 2023 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/e11f1a4e5c73c33d0137aaf758810b14.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Camera Obscura / Underachievers Please Try Harder (Colored Vinyl, 2023 reissue) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22213&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22213&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 19 Jun 2023 17:35:39 GMT</pubDate>
             <content:encoded><![CDATA[52,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/cdf07eb18c741b629054359d1a6ae108.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[오진우, 이소(Duo E) & 파네마  (스플릿 7" Vinyl) *예약상품 (6월 27일 발매일 이후 순차 발송) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22286&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22286&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 20 Jun 2023 17:36:01 GMT</pubDate>
-            <content:encoded><![CDATA[22,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/30b38436f76f3c3adcd09a98d47a126d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Van Halen / Balance (CD) *할인상품 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -1736,6 +1736,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/76027158f3e0c90c17268e704575a3bb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이민휘 / 빌린 입 (Vinyl, 45rpm) *예약상품 (7월 7일부터 순차 배송) / 1인 1매만 구매가 가능합니다. (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22368&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22368&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 03 Jul 2023 05:38:19 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/e11f1a4e5c73c33d0137aaf758810b14.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박지윤 / 8집 나무가 되는 꿈 (180g White Vinyl, 한정반) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22291&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22291&amp;cate_no=52&amp;display_group=1</guid>
@@ -1822,14 +1830,6 @@
             <pubDate>Mon, 12 Jun 2023 17:37:43 GMT</pubDate>
             <content:encoded><![CDATA[44,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/eeb7c9097ccc71c105242aabdc23fa70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛과 소금 / VOL.1 (180g Clear Vinyl, 2019 Remastered) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22220&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22220&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 08 Jun 2023 17:37:28 GMT</pubDate>
-            <content:encoded><![CDATA[42,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/1fee5e0f9dbf7b4055a52291f7e1c9e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nick Cave & The Bad Seeds / Your Funeral... My Trial (Remastered CD + DVD, NTSC Version) *1회 한정 할인 (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
