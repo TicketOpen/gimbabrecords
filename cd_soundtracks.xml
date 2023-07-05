@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Soundtracks</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 17:39:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 05:40:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (음악 이민휘) / 웨이브 오리지널 드라마 박하경 여행기 (CD, DVD 사이즈 패키징)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22378&amp;cate_no=48&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22378&amp;cate_no=48&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jul 2023 05:39:24 GMT</pubDate>
+            <content:encoded><![CDATA[25,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/f5c3f02c4368dfa348bf3dade848bd9d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST / Mamma Mia! - Original Cast Recording 뮤지컬 맘마미아 (CD + 3 bonus tracks, Special Edition) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22308&amp;cate_no=48&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 05:45:50 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/ed058bf194c949274be0dc24aa87e7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Various Artists) / Music From Stranger Things Season 4 기묘한 이야기 4 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20327&amp;cate_no=48&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20327&amp;cate_no=48&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 05:45:50 GMT</pubDate>
-            <content:encoded><![CDATA[20,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/7bb534591d8b80b1790ee6574c9f4609.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
