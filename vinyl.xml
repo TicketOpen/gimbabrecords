@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 05:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 17:39:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Katalyst, Adrian Younge, Ali Shaheed Muhammad / Jazz Is Dead 13 (JID013) (Vinyl) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22381&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22381&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jul 2023 17:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/5240d9a547e62408da648c7a377f17a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lonnie Liston Smith, Adrian Younge, & Ali Shaheed Muhammad / Jazz Is Dead 17 (JID017) (Vinyl) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22379&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22379&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jul 2023 17:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[40,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/6f0d03b9e2d467c2f907ba1fa74600cb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various Artists / The Upsetter (180g Orange Vinyl, Limited Numbered Edition) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22377&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 30 Jun 2023 17:35:02 GMT</pubDate>
             <content:encoded><![CDATA[54,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201607/4789_shop1_276299.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pearl Jam / Yield (Remastered Vinyl, Die-cut cover)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22363&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22363&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 30 Jun 2023 17:35:02 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/d364630cf5f9f47dc97caef2b2563d0d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rina Sawayama / Rina (Clear Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22362&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22362&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 29 Jun 2023 17:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[28,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/fdfec07349ad8ad0f1918c75e3720892.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

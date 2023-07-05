@@ -4,14 +4,22 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 05:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 17:39:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[OST (음악 이민휘) / 웨이브 오리지널 드라마 박하경 여행기 (CD, DVD 사이즈 패키징)]]></title>
+            <title><![CDATA[Lonnie Liston Smith, Adrian Younge, & Ali Shaheed Muhammad / Jazz Is Dead 17 (JID017) (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22380&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22380&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jul 2023 17:36:58 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/7b897d73556120c9ea834256208ce3b5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (음악 이민휘) / 웨이브 오리지널 드라마 박하경 여행기 (CD, DVD 사이즈 패키징, 한정판)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22378&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22378&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 05 Jul 2023 05:37:56 GMT</pubDate>
+            <pubDate>Wed, 05 Jul 2023 17:36:58 GMT</pubDate>
             <content:encoded><![CDATA[25,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/f5c3f02c4368dfa348bf3dade848bd9d.jpg" length="0" type="image/jpg"/>
         </item>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 27 Jun 2023 17:35:22 GMT</pubDate>
             <content:encoded><![CDATA[17,700원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/ff2fdea85a5beb308dd59dede554c5af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eminem / Encore (CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22328&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22328&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Jun 2023 17:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/5649eced76b6de46ce1c7cbaf04f111b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

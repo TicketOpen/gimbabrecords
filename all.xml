@@ -4,14 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 05:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 17:39:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[OST (음악 이민휘) / 웨이브 오리지널 드라마 박하경 여행기 (CD, DVD 사이즈 패키징) (김밥레코즈 ─ CD)]]></title>
+            <title><![CDATA[Lonnie Liston Smith, Adrian Younge, & Ali Shaheed Muhammad / Jazz Is Dead 17 (JID017) (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22380&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22380&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jul 2023 17:36:58 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/7b897d73556120c9ea834256208ce3b5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (음악 이민휘) / 웨이브 오리지널 드라마 박하경 여행기 (CD, DVD 사이즈 패키징, 한정판) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22378&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22378&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 05 Jul 2023 05:37:56 GMT</pubDate>
+            <pubDate>Wed, 05 Jul 2023 17:36:58 GMT</pubDate>
             <content:encoded><![CDATA[25,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/f5c3f02c4368dfa348bf3dade848bd9d.jpg" length="0" type="image/jpg"/>
         </item>
@@ -96,12 +104,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/ff2fdea85a5beb308dd59dede554c5af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Eminem / Encore (CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22328&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22328&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Jun 2023 17:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/5649eced76b6de46ce1c7cbaf04f111b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Katalyst, Adrian Younge, Ali Shaheed Muhammad / Jazz Is Dead 13 (JID013) (Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22381&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22381&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jul 2023 17:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/5240d9a547e62408da648c7a377f17a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lonnie Liston Smith, Adrian Younge, & Ali Shaheed Muhammad / Jazz Is Dead 17 (JID017) (Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22379&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22379&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jul 2023 17:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[40,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/6f0d03b9e2d467c2f907ba1fa74600cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Various Artists / The Upsetter (180g Orange Vinyl, Limited Numbered Edition) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 30 Jun 2023 17:35:02 GMT</pubDate>
             <content:encoded><![CDATA[54,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201607/4789_shop1_276299.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pearl Jam / Yield (Remastered Vinyl, Die-cut cover) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22363&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22363&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 30 Jun 2023 17:35:02 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/d364630cf5f9f47dc97caef2b2563d0d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rina Sawayama / Rina (Clear Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22362&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22362&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 29 Jun 2023 17:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[28,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/fdfec07349ad8ad0f1918c75e3720892.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tatsuro Yamashita / Ride On Time (Limited Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -1064,6 +1064,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/b02eaa4cd22714574967dbe8cd399953.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Lonnie Liston Smith, Adrian Younge, & Ali Shaheed Muhammad / Jazz Is Dead 17 (JID017) (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22380&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22380&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jul 2023 17:38:09 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/7b897d73556120c9ea834256208ce3b5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Nicola Conte / Umoja (CD) *예약상품 (7월 11일 전후 배송 시작) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22345&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22345&amp;cate_no=46&amp;display_group=1</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Wed, 24 May 2023 17:37:05 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201601/2672_shop1_195367.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brandee Younger / Brand New Life (CD, Jewel Case) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22126&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22126&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Mon, 22 May 2023 17:36:21 GMT</pubDate>
-            <content:encoded><![CDATA[17,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/37cfede50d66b60abd81dccf6f1cdae5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
@@ -1256,10 +1256,10 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/7a0d9ac7addb58d5bcacd16711e74de0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[OST (음악 이민휘) / 웨이브 오리지널 드라마 박하경 여행기 (CD, DVD 사이즈 패키징) (김밥레코즈 ─ CD ─ Soundtracks)]]></title>
+            <title><![CDATA[OST (음악 이민휘) / 웨이브 오리지널 드라마 박하경 여행기 (CD, DVD 사이즈 패키징, 한정판) (김밥레코즈 ─ CD ─ Soundtracks)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22378&amp;cate_no=48&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22378&amp;cate_no=48&amp;display_group=1</guid>
-            <pubDate>Wed, 05 Jul 2023 05:39:24 GMT</pubDate>
+            <pubDate>Wed, 05 Jul 2023 17:38:22 GMT</pubDate>
             <content:encoded><![CDATA[25,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/f5c3f02c4368dfa348bf3dade848bd9d.jpg" length="0" type="image/jpg"/>
         </item>
