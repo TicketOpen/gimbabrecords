@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 05:38:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 17:38:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bill Evans Trio / Waltz For Debby (Vinyl, ORIGINAL JAZZ CLASSICS SERIES)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22393&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22393&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 07 Jul 2023 17:36:23 GMT</pubDate>
+            <content:encoded><![CDATA[57,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/7af788d385797a44b5759aed598a0987.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Azymuth / Light As A Feather (Black Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22392&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 04 Jul 2023 05:37:42 GMT</pubDate>
             <content:encoded><![CDATA[31,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/7c44654d7e9d8ca7983c6cfd6d151298.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Wailing Souls / Wild Suspense (180g Vinyl) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22375&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22375&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Jul 2023 05:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[31,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/d5a02a850ca17b5ef192516bdfa872f5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
