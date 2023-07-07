@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 17:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 05:38:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/383441e5e8634fc349b5b202a5a5d56b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Azymuth / Light As A Feather (Black Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22392&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22392&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 07 Jul 2023 05:36:32 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/315e9638f494cc686eec678292425332.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Karen Dalton / In My Own Time (50th Anniversary Remaster w/ 20p booklet, Limited Silver Colored Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22390&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22390&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 04 Jul 2023 05:37:42 GMT</pubDate>
             <content:encoded><![CDATA[31,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/d5a02a850ca17b5ef192516bdfa872f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Hold Steady / The Price Of Progress (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22374&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22374&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Jul 2023 05:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[38,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/1a281546c6850afa33099abfb4881ca6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tatsuro Yamashita / Ride On Time (Limited Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -424,14 +424,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/bce30e9691fffaa9ce9f49fb0dbcdd88.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jack Johnson / Sing-A-Longs And Lullabies For The Film Curious George (Vinyl) *예약상품 (7월 7일발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=4115&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=4115&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 03 Jul 2023 17:35:18 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201606/4115_shop1_945821.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[선우정아 / It's Okay, Dear (Vinyl) *예약상품 (8월 중순 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22214&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22214&amp;cate_no=42&amp;display_group=1</guid>
@@ -486,6 +478,14 @@
             <pubDate>Mon, 19 Jun 2023 17:35:39 GMT</pubDate>
             <content:encoded><![CDATA[52,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/cdf07eb18c741b629054359d1a6ae108.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Akina Nakamori / Crimson (White Colored Vinyl, 2023 reissue) *예약상품 (8월 중순 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15090&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15090&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 07 Jul 2023 05:36:53 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202007/f400a186557466b32f401388fbf08e71.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Van Halen / Balance (CD) *할인상품 (김밥레코즈 ─ Bargain Bin)]]></title>

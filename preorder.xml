@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 17:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 05:38:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Tue, 04 Jul 2023 17:37:51 GMT</pubDate>
             <content:encoded><![CDATA[48,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/bce30e9691fffaa9ce9f49fb0dbcdd88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jack Johnson / Sing-A-Longs And Lullabies For The Film Curious George (Vinyl) *예약상품 (7월 7일발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=4115&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=4115&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 03 Jul 2023 17:35:18 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201606/4115_shop1_945821.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[선우정아 / It's Okay, Dear (Vinyl) *예약상품 (8월 중순 이후 배송 예정)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Mon, 19 Jun 2023 17:35:39 GMT</pubDate>
             <content:encoded><![CDATA[52,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/cdf07eb18c741b629054359d1a6ae108.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Akina Nakamori / Crimson (White Colored Vinyl, 2023 reissue) *예약상품 (8월 중순 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15090&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15090&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 07 Jul 2023 05:36:53 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202007/f400a186557466b32f401388fbf08e71.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
