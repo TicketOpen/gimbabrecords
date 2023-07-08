@@ -4,17 +4,9 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jul 2023 05:38:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jul 2023 17:36:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Tatsuro Yamashita / Ride On Time (Limited Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22238&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22238&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Tue, 13 Jun 2023 17:35:57 GMT</pubDate>
-            <content:encoded><![CDATA[42,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/da4ea0e7205ecbd27a165cce84010a00.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[illathnmst. / .​.​. (Cassette) *겉포장 없이 출고된 상품입니다.]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22231&amp;cate_no=26&amp;display_group=1</link>
@@ -102,6 +94,14 @@
             <pubDate>Mon, 03 Jul 2023 17:35:05 GMT</pubDate>
             <content:encoded><![CDATA[18,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/7b82b2e9a20f0eef874616edf2416fce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alex G / God Save The Animals (Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21200&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21200&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Sat, 08 Jul 2023 17:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[21,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/6fb4d3a0dbc27a765a2256b81eba594e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
