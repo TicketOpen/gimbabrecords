@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 17:38:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jul 2023 05:38:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/383441e5e8634fc349b5b202a5a5d56b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Strokes / Is This It (Vinyl) *할인상품 (할인 사유는 상세 설명 참조) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22395&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22395&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 08 Jul 2023 05:36:07 GMT</pubDate>
+            <content:encoded><![CDATA[32,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/e8eff19379f0e4bf0f9154c65befbc69.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Strokes / Is This It (Vinyl) *쟈켓의 미세한 주름 또는 자국으로 인한 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22394&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22394&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 08 Jul 2023 05:36:07 GMT</pubDate>
+            <content:encoded><![CDATA[34,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/cf2ee2d0e49eb4cc849b5a1ce30c43ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Bill Evans Trio / Waltz For Debby (Vinyl, ORIGINAL JAZZ CLASSICS SERIES) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22393&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22393&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Wed, 05 Jul 2023 17:37:04 GMT</pubDate>
             <content:encoded><![CDATA[40,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/6f0d03b9e2d467c2f907ba1fa74600cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / The Upsetter (180g Orange Vinyl, Limited Numbered Edition) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22377&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22377&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Jul 2023 05:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[31,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/d79370dfdb4df22122ba1ce55b2c66ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Upsetters / Rhythm Shower (180g Orange Vinyl, Limited Numbered Edition) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22376&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22376&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Jul 2023 05:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[31,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/7c44654d7e9d8ca7983c6cfd6d151298.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tatsuro Yamashita / Ride On Time (Limited Cassette) (김밥레코즈 ─ Cassette)]]></title>
