@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 17:37:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 05:38:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[khc/moribet / 전파납치 (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22401&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22401&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 10 Jul 2023 05:36:43 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/85029a9804b396bf650a5ab60d34a510.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ryuichi Sakamoto / 12 (CD, 국내반)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22391&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 27 Jun 2023 17:35:22 GMT</pubDate>
             <content:encoded><![CDATA[17,700원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/ee644778ba7ddd1799e1268a1cf536d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Queens of the Stone Age / In Times New Roman... (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22337&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22337&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Jun 2023 17:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[17,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/383441e5e8634fc349b5b202a5a5d56b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
