@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 05:38:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 17:37:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시너가렛 / Invisible Diary (CD, EP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22408&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22408&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Jul 2023 17:36:23 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/d01b4bee6df7b8f18010576aa70d21cb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[khc/moribet / 전파납치 (CD, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22401&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 18 May 2023 17:35:25 GMT</pubDate>
             <content:encoded><![CDATA[21,100원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/a8c435716df0bc42fcfc9a154b1763b3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콜드 Colde / Love Part 1 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22042&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22042&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Thu, 18 May 2023 17:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[20,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/1c330884d9627d875a62fc9d0b6ac003.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
