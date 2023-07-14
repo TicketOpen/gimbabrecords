@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 17:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 05:39:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/a2909c8345d39142449e4c92ff0bf361.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[프롬 Fromm / 무드, 선데이 Mood, Sunday (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21661&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21661&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Jun 2023 17:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[17,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/566de739832704365c4f747aaa88427e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Odeeno / Moment (Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21660&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21660&amp;cate_no=26&amp;display_group=1</guid>
@@ -101,6 +93,14 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21186&amp;cate_no=26&amp;display_group=1</guid>
             <pubDate>Sun, 09 Jul 2023 17:35:57 GMT</pubDate>
             <content:encoded><![CDATA[120,000원]]></content:encoded>
+            <enclosure url="http://img.echosting.cafe24.com/thumb/img_product_medium.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[왕가위 사운드트랙 카세트 3개 묶음 판매 3 (2046 + 타락천사 + 에로스/ The Hand 카세트, 미니카드 3장 포함) - 한정수량 판매 (할인판매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21185&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21185&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Jul 2023 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[99,000원]]></content:encoded>
             <enclosure url="http://img.echosting.cafe24.com/thumb/img_product_medium.gif" length="0" type="image/gif"/>
         </item>
     </channel>

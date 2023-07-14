@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 17:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 05:39:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Wham! / The Singles : Echoes From The Edge Of Heaven (Blue Color Vinyl, 2LP) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22443&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22443&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Jul 2023 05:36:48 GMT</pubDate>
+            <content:encoded><![CDATA[54,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/3d9f6c95edddc88e7dcab22475b10152.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wham! / The Singles: Echoes From The Edge Of Heaven (Black Vinyl, 2LP) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22442&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22442&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Jul 2023 05:36:48 GMT</pubDate>
+            <content:encoded><![CDATA[46,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/6e071a8ff7ded24c95f1c9dfeb4fa0c7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bobo Stenson Trio / Sphere (180g Vinyl, 한정반)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22427&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 11 Jul 2023 17:35:47 GMT</pubDate>
             <content:encoded><![CDATA[46,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/1ae0ef23b1cae238d1687b8c03f99ccd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rae Sremmurd / Sremm 4 Life (Yellow Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22417&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22417&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 11 Jul 2023 17:35:47 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/78de65bc9246b520d675857b1717f0e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coolio / My Soul (Vinyl, 2LP, 25th Anniversary Special Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22416&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22416&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 11 Jul 2023 17:35:47 GMT</pubDate>
-            <content:encoded><![CDATA[52,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/553a2085869d806e27cbb84feed34f1f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
