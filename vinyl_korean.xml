@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 05:37:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 17:37:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 18 Jul 2023 17:37:03 GMT</pubDate>
             <content:encoded><![CDATA[35,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/5097bc1bc0ba2ab66a1d9b23e2e3329b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김광진 / 정규 3집 It’s Me (180g Vinyl, 한정반)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22459&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22459&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 19 Jul 2023 17:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/e431d2b7c2ae6d141c8279a8908d4553.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이민휘 / 빌린 입 (Vinyl, 45rpm) *1인 1매만 구매가 가능합니다.]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 15 Jun 2023 05:36:45 GMT</pubDate>
             <content:encoded><![CDATA[52,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/f6b2e68269d81cee4531769ed3a22809.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유재하 / 사랑하기 때문에 Special Vinyl Edition (180g Pastel Vinyl 파스텔반) *1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22236&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22236&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 15 Jun 2023 05:36:45 GMT</pubDate>
-            <content:encoded><![CDATA[62,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/0b735a45c498584db9c18994b4111a3d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

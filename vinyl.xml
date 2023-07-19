@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 05:37:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 17:37:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 18 Jul 2023 17:35:12 GMT</pubDate>
             <content:encoded><![CDATA[35,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/5097bc1bc0ba2ab66a1d9b23e2e3329b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김광진 / 정규 3집 It’s Me (180g Vinyl, 한정반)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22459&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22459&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 19 Jul 2023 17:35:56 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/e431d2b7c2ae6d141c8279a8908d4553.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Khruangbin & Friends / Live at Stubb's (Vinyl) *한정수량 할인 (온라인 스토어 한정)]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 14 Jul 2023 05:36:48 GMT</pubDate>
             <content:encoded><![CDATA[54,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/3d9f6c95edddc88e7dcab22475b10152.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wham! / The Singles: Echoes From The Edge Of Heaven (Black Vinyl, 2LP) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22442&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22442&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 14 Jul 2023 05:36:48 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/6e071a8ff7ded24c95f1c9dfeb4fa0c7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
