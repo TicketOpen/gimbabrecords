@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 05:37:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 17:38:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nothing But Thieves / Dead Club City (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22468&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22468&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 20 Jul 2023 17:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[41,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/eacda2ced14057854c6f37d478fd3778.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Coldplay / Prospekt's March (Vinyl, Reissue)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22467&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22467&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 20 Jul 2023 17:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[34,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/0186db878e1ad9077a88cc19176f41de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공중도둑 (Mid-Air Thief) / 공중도덕 (Gongjoong Doduk) (Limited Colored Vinyl, Tan+Pink Swirl Color, Gimbab Records Exclusive 김밥레코즈 한정반) *할인상품]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22466&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 14 Jul 2023 17:35:43 GMT</pubDate>
             <content:encoded><![CDATA[53,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/776aa84dcc6fdc260819dff06603e794.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tatsuro Yamashita / Go Ahead! (Vinyl, 2023 Reissue) *1인 1매만 구매 가능 / 별도의 입금기한 설정]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22444&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22444&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 14 Jul 2023 17:35:43 GMT</pubDate>
-            <content:encoded><![CDATA[53,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/bd728cc854b4b40d8c2a30b2f9a5f2ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wham! / The Singles : Echoes From The Edge Of Heaven (Blue Color Vinyl, 2LP) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22443&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22443&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 14 Jul 2023 05:36:48 GMT</pubDate>
-            <content:encoded><![CDATA[54,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/3d9f6c95edddc88e7dcab22475b10152.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
