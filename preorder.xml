@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 05:37:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 17:37:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Aphex Twin / Blackbox Life Recorder 21f / in a room7 F760 (CD) *예약상품 (7월 31일 발송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22479&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22479&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 21 Jul 2023 17:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/ac87ac40aa17587b2af4fa57b3f9d334.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aphex Twin / Blackbox Life Recorder 21f / in a room7 F760 (Vinyl + Download) *예약상품 (7월 31일 발송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22478&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22478&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 21 Jul 2023 17:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[43,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/8787f4670895b198e8cad631785fb12c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anri / Timely (Clear Sky-Blue Vinyl, 2023 reissue) *예약상품 (7월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21868&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21868&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 21 Jul 2023 17:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[51,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/1b10a8a4eb8f20bab3ef3dcf5b54eb61.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[선과영 / 밤과낮 (180g Black Vinyl, Limited Edition) *예약상품 (8월 23일 발매 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21643&amp;cate_no=42&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Fri, 23 Jun 2023 17:37:01 GMT</pubDate>
             <content:encoded><![CDATA[18,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/57ddf8359962107f4ed2c70cc4f7cec2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Slowdive / everything is alive (Black Vinyl) *예약상품 (9월 1일 발매 예정, 6월 29일 주문 마감)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22319&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22319&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 23 Jun 2023 17:37:01 GMT</pubDate>
-            <content:encoded><![CDATA[38,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/9d129110b8e23c9889efce7ac3eb37ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Slowdive / everything is alive (Crystal Clear Vinyl) *예약상품 (9월 1일 발매 예정, 6월 29일 주문 마감)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22318&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22318&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 23 Jun 2023 17:37:01 GMT</pubDate>
-            <content:encoded><![CDATA[40,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/04d9653054f8760fe976676fb8193752.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤지영 / 정규 1집 나의 정원에서 (Clear Vinyl) *예약상품 (9월 25일 발매 예정, 6월 29일 주문 마감)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22271&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22271&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 19 Jun 2023 17:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[52,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/cdf07eb18c741b629054359d1a6ae108.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
