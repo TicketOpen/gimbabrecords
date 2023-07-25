@@ -4,9 +4,41 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 05:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 17:37:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Brian Blade & The Fellowship Band / Kings Highway (CD, Digisleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22501&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22501&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 25 Jul 2023 17:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/07719e54ea75bb5c7de1d83879872663.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ben Folds / What Matters Most (CD, Standard Version)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22499&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22499&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 25 Jul 2023 17:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/c77feddc1b52af43590d08d6a4f8d01f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ben Folds / What Matters Most (CD, Limited Edition - Autographed Insert, 3 Exclusive Bonus Tracks 아티스트 사인과 보너스 트랙을 담은 버전)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22498&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22498&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 25 Jul 2023 17:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[27,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/c77feddc1b52af43590d08d6a4f8d01f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Apollo Brown & Philmore Greene / Cost Of Living (CD, US Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22493&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22493&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 25 Jul 2023 17:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/522301db080f9b29b3565b0639416b76.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tony Allen, Adrian Younge, Ali Shaheed Muhammad / Jazz Is Dead 018 (JID018) (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22486&amp;cate_no=24&amp;display_group=1</link>
@@ -70,38 +102,6 @@
             <pubDate>Fri, 21 Jul 2023 17:35:20 GMT</pubDate>
             <content:encoded><![CDATA[12,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/be5255e5fa33de7ed07fd63f6b0f2214.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stereolab / Mars Audiac Quintet (2CD, Expanded Edition) *한정수량 할인 (온라인 스토어 한정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22464&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22464&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 18 Jul 2023 17:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[19,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/08c39d91ee23c15f4427fce121c4074f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stereolab / Emperor Tomato Ketchup (2CD, Expanded Edition) *한정수량 할인 (온라인 스토어 한정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22463&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22463&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 18 Jul 2023 17:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[19,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/32f2ed732181bdc52087dc48d38cde79.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Radio Dept. / Passive Aggressive: Singles 2002-2010 (2CD) *한정수량 할인 (온라인 스토어 한정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22462&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22462&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 18 Jul 2023 17:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/214b8ac7196dd5b1dfed36d673a52e9b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bon Iver / Bon Iver (CD, Digipak, Die-cut sleeve, 10th Anniversary Edition) *한정수량 할인 (온라인 스토어 한정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22461&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22461&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 18 Jul 2023 17:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/a7d5f32fd587a7883e2622efd79235ea.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

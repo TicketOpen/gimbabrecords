@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Hip Hop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 05:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 17:37:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Apollo Brown & Philmore Greene / Cost Of Living (CD, US Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22493&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22493&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Tue, 25 Jul 2023 17:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/522301db080f9b29b3565b0639416b76.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DJ Quik / Rhythm-Al-Ism (CD, US Import) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22438&amp;cate_no=45&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 18 Apr 2023 17:35:58 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/fccdb88451dfa872d012435202fc2176.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Drake & 21 Savage / Her Loss (CD, EU Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21816&amp;cate_no=45&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21816&amp;cate_no=45&amp;display_group=1</guid>
-            <pubDate>Mon, 17 Apr 2023 17:36:47 GMT</pubDate>
-            <content:encoded><![CDATA[25,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/72c360ef71928b234b1d645b59fb3bbc.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
