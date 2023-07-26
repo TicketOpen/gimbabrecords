@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 05:37:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 17:37:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bobby Caldwell / Cat in the Hat (Vinyl, 2023 Remastered Reissue) *예약상품 (10월 첫째주 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22507&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22507&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 26 Jul 2023 17:35:24 GMT</pubDate>
+            <content:encoded><![CDATA[41,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/6c23e38abac64eff763dd0e2fb81fe3a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bobby Caldwell / Bobby Caldwell (Vinyl, 2023 Remastered Reissue) *예약상품 (10월 첫째주 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22506&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22506&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 26 Jul 2023 17:35:24 GMT</pubDate>
+            <content:encoded><![CDATA[41,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/f5154886df1ce6e026d1d28cbadbc1c1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / 오아시스 팝훼스티발 제4집 고향초, 당신은 몰라 (Vinyl, 한정반)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22505&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22505&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 26 Jul 2023 17:35:24 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/44bdb9181da3dffec3c16d9a4f1b81b8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Lovin' Spoonful / Daydream (Vinyl, Mono)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22503&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Mon, 24 Jul 2023 17:35:21 GMT</pubDate>
             <content:encoded><![CDATA[47,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/97a940d003071c7639f281ab6c15a8fe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Abbey Lincoln / Straight Ahead (180g Vinyl, Bernie Grundman Remaster) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22490&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22490&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 24 Jul 2023 17:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[37,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/57bf0e4a04e1a4ac675a3b93baed8a74.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kenny Barron Trio / Lemuria-Seascape (Vinyl, 2LP, Bernie Grundman Remaster) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22489&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22489&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 24 Jul 2023 17:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[52,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/f215ddb4d0f93bdf93486c8b281ac492.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thelonious Monk / The Classic Quartet (Limited 180g Blue Vinyl, Mono, Bernie Grundman Remaster, 2022 RSD Limited Edition) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22488&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22488&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 24 Jul 2023 17:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/f7b7d8ac7861a9ecb1949b659cbe3279.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

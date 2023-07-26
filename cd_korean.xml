@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 05:37:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 17:37:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전기뱀장어 / 정규 3집 동심원 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22504&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22504&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Wed, 26 Jul 2023 17:35:59 GMT</pubDate>
+            <content:encoded><![CDATA[15,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/a277ae732af0e24fbc9d1a204ae18a4d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송남현 / 마침내 나는 신록의 봉우리를 비집고 (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22453&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 02 Jun 2023 17:35:47 GMT</pubDate>
             <content:encoded><![CDATA[20,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/c8d0196953a13e77c910975cb4e432d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ruru 루루 / 나의 XX을 도와줘 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22182&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22182&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Wed, 19 Jul 2023 17:36:30 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/7d22702d28dcb23bdd8657aa01e932c5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
