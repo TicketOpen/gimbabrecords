@@ -4,9 +4,65 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 17:37:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 05:37:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[beabadoobee / Beatopia (CD, Gatefold sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22531&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22531&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 28 Jul 2023 05:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/7eaaaf50c6f21be31c6884490df3a7c7.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Manitoba / Jacknuggeted EP (CD, paper sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22530&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22530&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 28 Jul 2023 05:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[11,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/5cb319f0e65d3f89df703f5e5d0efa63.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alan Parsons Project / Tales Of Mystery And Imagination Edgar Allan Poe (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22529&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22529&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 28 Jul 2023 05:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/c3c7630edd3d69c8c726a3eb3a4547ae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[George Michael / Symphonica (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22528&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22528&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 28 Jul 2023 05:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/fa03464c9391fd07bdb0d78eb1d864c2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mika / Life In Cartoon Motion (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22527&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22527&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 28 Jul 2023 05:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201805/10857_shop1_569601.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Florence + The Machine / High As Hope (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22526&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22526&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 28 Jul 2023 05:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201807/11405_shop1_15317279160233.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stone Temple Pilots / Original Album Series (5CD Box Set) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22525&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22525&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 28 Jul 2023 05:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[26,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/6f9a1d7224b5d422de42c20381a78a4d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bully / Lucky For You (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22518&amp;cate_no=24&amp;display_group=1</link>
@@ -46,62 +102,6 @@
             <pubDate>Tue, 25 Jul 2023 17:35:20 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/c77feddc1b52af43590d08d6a4f8d01f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ben Folds / What Matters Most (CD, Limited Edition - Autographed Insert, 3 Exclusive Bonus Tracks 아티스트 사인과 보너스 트랙을 담은 버전)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22498&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22498&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 25 Jul 2023 17:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[27,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/c77feddc1b52af43590d08d6a4f8d01f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Apollo Brown & Philmore Greene / Cost Of Living (CD, US Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22493&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22493&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 25 Jul 2023 17:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/522301db080f9b29b3565b0639416b76.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tony Allen, Adrian Younge, Ali Shaheed Muhammad / Jazz Is Dead 018 (JID018) (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22486&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22486&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 24 Jul 2023 17:35:15 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/394f2b614a0094d7c416f97560ab7d2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aphex Twin / Blackbox Life Recorder 21f / in a room7 F760 (CD) *예약상품 (7월 31일 발송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22479&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22479&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 21 Jul 2023 17:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[21,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/ac87ac40aa17587b2af4fa57b3f9d334.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marvin Gaye / The Very Best of Marvin Gaye (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22474&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22474&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 21 Jul 2023 17:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/9739bd706f53f3cac5a640d26d3ea047.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Booker T. & The MG's / Original Album Series (5CD Box Set) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22473&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22473&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 21 Jul 2023 17:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[26,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/65401b4cf7c277d46cf7e40b4e424106.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daniel Caesar / NEVER ENOUGH (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22472&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22472&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 21 Jul 2023 17:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[25,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/f796f8119b745baa347a3513f781b339.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

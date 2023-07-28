@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 17:37:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 05:37:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[beabadoobee / Beatopia (Vinyl, Coke Bottle Green Colored, Gatefold Sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22532&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22532&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 28 Jul 2023 05:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[35,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/912d360b542934085f50a5412cd0d754.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실리카겔 / 정규 1집 실리카겔 (Vinyl, 2LP) *1인 1매만 구매 가능합니다 / 별도의 입금기한 설정]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22524&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 27 Jul 2023 05:35:20 GMT</pubDate>
             <content:encoded><![CDATA[54,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/76ca7ca2b71e44ea057b8c770ee0458a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio / Secret Love (180g LP, Limited Edition) *예약상품 (9월말 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22509&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22509&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 27 Jul 2023 05:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[54,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/095cbf2d7db62b1f2b5fb9cac155e834.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
