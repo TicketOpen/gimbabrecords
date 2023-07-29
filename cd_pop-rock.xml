@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jul 2023 05:37:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 17:37:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Andy Bell / Another View (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22550&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22550&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Sat, 29 Jul 2023 17:36:18 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/777541d64885d23769ada4613e6e6f09.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[beabadoobee / Beatopia (CD, Gatefold sleeve)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22531&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 25 Jul 2023 17:36:09 GMT</pubDate>
             <content:encoded><![CDATA[27,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/c77feddc1b52af43590d08d6a4f8d01f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pet Shop Boys / Smash: The Singles 1985-2020 (3CD Boxset)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22470&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22470&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 21 Jul 2023 17:36:08 GMT</pubDate>
-            <content:encoded><![CDATA[37,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/2eb6819242c0d72f7f5c1368c711772c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
