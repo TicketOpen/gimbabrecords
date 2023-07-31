@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 05:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 17:37:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nina Simone / Baltimore (Limited Red Vinyl, 3000매 한정반) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22556&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22556&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 31 Jul 2023 17:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/1995b335fe61b556730504e03840fc93.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Etta James / At Last (Vinyl, Kevin Gray 리마스터, 4곡의 보너스트랙)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22555&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22555&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 31 Jul 2023 17:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[41,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/277cdddf199d4d7e3e235b49ae48788c.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Lindstrøm (Lindstrom) / Everyone Else Is A Stranger (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22553&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 28 Jul 2023 17:35:55 GMT</pubDate>
             <content:encoded><![CDATA[34,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201709/8470_shop1_690942.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alvvays / Alvvays (Black Vinyl + Download, UK / EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22541&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22541&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 28 Jul 2023 17:35:55 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201602/2723_shop1_968546.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Temples / Hot Motion (Limited Transparent Red with Black Marble Vinyl + Poster + Download) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22540&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22540&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 28 Jul 2023 17:35:55 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/20200116/6de101e2b4ff4d33280c5a2d00ee1fbf.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
