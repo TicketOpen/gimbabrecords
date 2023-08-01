@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 17:37:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 05:42:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 31 Jul 2023 17:35:48 GMT</pubDate>
             <content:encoded><![CDATA[41,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/277cdddf199d4d7e3e235b49ae48788c.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[THAMA 따마 / DON'T DIE COLORS (180g Opaque Marron Vinyl, Limited Edition) *예약상품 (8월 12일 발송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22554&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22554&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 01 Aug 2023 05:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[46,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/b2fdf546dffe6c78be8b63a02d2be70c.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Lindstrøm (Lindstrom) / Everyone Else Is A Stranger (Vinyl)]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 28 Jul 2023 17:35:55 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/26d0a38a83cc30e8cf3fefc4e5c1d36b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alvvays / Antisocialites (BLACK Vinyl + Download, UK / EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22542&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22542&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 28 Jul 2023 17:35:55 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201709/8470_shop1_690942.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
