@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 05:37:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 17:38:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nina Simone / Baltimore (Limited Red Colored Vinyl, 일련번호 표기) *한정수량 할인 + 추가 할인 (추가 할인 사유는 상세 설명을 참조하세요)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22572&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22572&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 02 Aug 2023 17:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[37,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/2aff454da0a94e06db5f233bedb63883.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anri / Heaven Beach (Limited Colored Vinyl) *할인상품 (할인사유는 아래 제품 페이지를 참조해 주세요)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22571&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22571&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 02 Aug 2023 17:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/4076d85a5b15dabfd2906be023697b99.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anri / Timely (Limited Colored Vinyl) *할인상품 (할인사유는 상세 설명을 참조하세요)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22570&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22570&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 02 Aug 2023 17:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/32e85e73056f699290fcbd58bcbcb7b2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Supreme Jubilees / It'll All Be Over (Opaque Maroon & Transparent Yellow Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22568&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 01 Aug 2023 17:36:43 GMT</pubDate>
             <content:encoded><![CDATA[42,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/6723ca62ba6a338b5e37621d6a552ae9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Ting Tings / We Started Nothing (Pink & Purple Marbled Vinyl, 15th Anniversary, Limited Numbered Edition) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22559&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22559&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 01 Aug 2023 17:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[41,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/f5c1e58605563b5290ac116c01a472ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Karen Dalton / In My Own Time (50th Anniversary Edition, Black Vinyl, Remastered, Expanded 20p Booklet)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22558&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22558&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 01 Aug 2023 17:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[42,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/33432ea7540a9e1de94ef53e1532d4e1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Music By M83, Score composed by Anthony Gonzalez & Joseph Trapanese) / Oblivion 오블리비언 (Eco Vinyl 2LP, 10th Anniversary)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22557&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22557&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 01 Aug 2023 17:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[66,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/716128b576cfe67ab966e62b33000865.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
