@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 05:37:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 17:37:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저스디스 / 2 Many Homes 4 1 Kid : Instrumentals & Remixes (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22579&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22579&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Thu, 03 Aug 2023 17:36:12 GMT</pubDate>
+            <content:encoded><![CDATA[10,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/c0b986ac8494df4edd642f7f82809f92.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전진희 / 정규 3집 아무도 모르게 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22578&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22578&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Thu, 03 Aug 2023 17:36:12 GMT</pubDate>
+            <content:encoded><![CDATA[18,100원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/f69c267fccb8c2e557bbd115e8e306c3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나상현씨밴드 / 축제 (CD, 7인치 사이즈 쟈켓)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22577&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22577&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Thu, 03 Aug 2023 17:36:12 GMT</pubDate>
+            <content:encoded><![CDATA[16,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/8cf0a54f5200584f5b1a693c45f03a1b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전기뱀장어 / 정규 3집 동심원 (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22504&amp;cate_no=29&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Thu, 15 Jun 2023 17:36:16 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/37e78c42b43704bc2e3a7c623038bef0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제이클레프 (Jclef) / O, Pruned! (CD, EP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22250&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22250&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Thu, 15 Jun 2023 05:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[13,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/dc741cf6992c90dcf67225aa32cadd8b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bedtime Pictures / Before Dawn (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22202&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22202&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Fri, 02 Jun 2023 17:35:47 GMT</pubDate>
-            <content:encoded><![CDATA[12,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/a699f34498fa3f795816a26e4ec20dd5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허정혁 / 봉오리 시절 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22194&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22194&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Fri, 02 Jun 2023 17:35:47 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/c8d0196953a13e77c910975cb4e432d7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
