@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Aug 2023 17:37:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 05:36:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201810/d82e69326eae61cb2f373ab8db48a7a5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤미래 / 1집 As Time Goes By (180g Clear Vinyl, 2LP) *예약상품 (10월 5일 발매 예정, 8월 7일 주문 마감) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22521&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22521&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Aug 2023 05:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[67,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/77f06d3c28e45439c030355eb6230ddc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[설(SURL) / of us (180g Black Vinyl, 한정반) *예약상품 (8월 9일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22584&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22584&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 28 Jul 2023 17:36:14 GMT</pubDate>
             <content:encoded><![CDATA[54,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/ec13e2f291e90aa09f2c75216406e6a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio / You Are Too Beautiful (180g LP, Limited Edition)  *예약상품 (9월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22508&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22508&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 27 Jul 2023 05:35:41 GMT</pubDate>
-            <content:encoded><![CDATA[55,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/e1cc02618a210938db3076b8adfc44ab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Eminem / Curtain Call 2 (Vinyl, 2LP) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
