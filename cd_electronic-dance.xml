@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Electronic/Dance</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 05:36:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 17:37:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[John Carroll Kirby / Blowout (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22601&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22601&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Aug 2023 17:36:26 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/e4a092e1b354ca306e01effc07d3d529.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[C418 / Minecraft Volume Alpha 마인크래프트 게임 음악 (CD) *예약상품 (8월 24일경 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22574&amp;cate_no=31&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 15 Jun 2023 17:36:30 GMT</pubDate>
             <content:encoded><![CDATA[22,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/1df3aadfd4ece03e2b406383b0c1d3cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Death Grips / The Money Store (CD, US Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22253&amp;cate_no=31&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22253&amp;cate_no=31&amp;display_group=1</guid>
-            <pubDate>Thu, 15 Jun 2023 17:36:30 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/5a2f7411044f4983e35040c2ca616e1e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
