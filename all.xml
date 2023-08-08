@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 17:37:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 05:37:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201810/d82e69326eae61cb2f373ab8db48a7a5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[설(SURL) / of us (180g Black Vinyl, 한정반) *예약상품 (8월 9일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22584&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22584&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 04 Aug 2023 05:35:58 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/534e4a1edfcc427b46c57672106f773e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[C418 / Minecraft Volume Alpha 마인크래프트 게임음악 (Green Colored Vinyl) *예약상품 (8월 24일경 발송 예정) / 예약기간 할인 (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22573&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22573&amp;cate_no=42&amp;display_group=1</guid>
@@ -406,14 +414,6 @@
             <pubDate>Mon, 07 Aug 2023 05:35:18 GMT</pubDate>
             <content:encoded><![CDATA[67,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/77f06d3c28e45439c030355eb6230ddc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설(SURL) / of us (180g Black Vinyl, 한정반) *예약상품 (8월 9일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22584&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22584&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 04 Aug 2023 05:35:58 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/534e4a1edfcc427b46c57672106f773e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소란 / 3집 CAKE (180g White Vinyl, 한정반, 쟈켓 색상 2종 중 선택 가능) *예약상품 (8월 9일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
