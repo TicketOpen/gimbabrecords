@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 05:37:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 17:37:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Masego / Lady Lady (Red / Gold Colored Vinyl, 2023 Pressing) *예약상품 (8월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22612&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22612&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 08 Aug 2023 17:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[43,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/9c731e974593214079fd230fc31ea69d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nina Simone / You've Got To (Bone Cream Colored Vinyl, Indie Exclusive Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22611&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22611&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 08 Aug 2023 17:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[37,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/dfdca115a09297bc3d0c0fcb9d862647.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pharoah Sanders / Black Unity (180g Vinyl, Verve By Request Series)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22610&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22610&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 08 Aug 2023 17:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[47,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/2a375ab02fccb90b4d868e81815e7329.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Joao Donato / Quem E Quem (Vinyl) *할인상품 (할인 사유 / 유의사항을 확인하세요)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22609&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Mon, 07 Aug 2023 17:35:42 GMT</pubDate>
             <content:encoded><![CDATA[42,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201704/6955_shop1_689401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Primal Scream / Maximum Rock 'N' Roll: Singles Vol. 2 (180g Vinyl, 2LP + Download, 아티스트 사인반) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22598&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22598&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 07 Aug 2023 17:35:42 GMT</pubDate>
-            <content:encoded><![CDATA[33,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/6ba2024bbde37bf6b051d41f86572f9a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tim Bernardes / Mil Coisas Invisiveis (White Vinyl, 2LP, Indie Exclusive) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22596&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22596&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 07 Aug 2023 17:35:42 GMT</pubDate>
-            <content:encoded><![CDATA[47,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/b21e082426f452671c2f3b4a223d00b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Magnetic Fields / Holiday (Vinyl + Download)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22595&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22595&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 07 Aug 2023 17:35:42 GMT</pubDate>
-            <content:encoded><![CDATA[32,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/27af47e8c52679035add62b9b071fdf9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

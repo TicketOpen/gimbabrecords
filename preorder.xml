@@ -4,16 +4,32 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 05:37:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 17:37:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[설(SURL) / of us (180g Black Vinyl, 한정반) *예약상품 (8월 9일 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22584&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22584&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 04 Aug 2023 05:35:58 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/534e4a1edfcc427b46c57672106f773e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Masego / Lady Lady (Red / Gold Colored Vinyl, 2023 Pressing) *예약상품 (8월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22612&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22612&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 08 Aug 2023 17:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[43,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/9c731e974593214079fd230fc31ea69d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bobby Caldwell / Cat in the Hat (Vinyl, 2023 Remastered Reissue) *예약상품 (2차 예약 - 10월 10일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22507&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22507&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 08 Aug 2023 17:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[41,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/6c23e38abac64eff763dd0e2fb81fe3a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bobby Caldwell / Bobby Caldwell (Vinyl, 2023 Remastered Reissue) *예약상품 (2차 예약, 10월 10일 이후 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22506&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22506&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 26 Jul 2023 17:35:45 GMT</pubDate>
+            <content:encoded><![CDATA[41,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/f5154886df1ce6e026d1d28cbadbc1c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[C418 / Minecraft Volume Alpha 마인크래프트 게임음악 (Green Colored Vinyl) *예약상품 (8월 24일경 발송 예정) / 예약기간 할인]]></title>
@@ -30,14 +46,6 @@
             <pubDate>Mon, 07 Aug 2023 05:35:18 GMT</pubDate>
             <content:encoded><![CDATA[67,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/77f06d3c28e45439c030355eb6230ddc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소란 / 3집 CAKE (180g White Vinyl, 한정반, 쟈켓 색상 2종 중 선택 가능) *예약상품 (8월 9일 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22583&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22583&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 04 Aug 2023 05:35:58 GMT</pubDate>
-            <content:encoded><![CDATA[44,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/75042b9e2887e16e1631f344b2d924d5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[C418 / Minecraft Volume Alpha 마인크래프트 게임 음악 (CD) *예약상품 (8월 24일경 발송 예정)]]></title>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 28 Jul 2023 17:36:14 GMT</pubDate>
             <content:encoded><![CDATA[44,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/2397106f3466a58c1c0ae6b26bee800a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bobby Caldwell / Bobby Caldwell (Vinyl, 2023 Remastered Reissue) *예약상품 (10월 첫째주 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22506&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22506&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 26 Jul 2023 17:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[41,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/f5154886df1ce6e026d1d28cbadbc1c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안다영 / ANTIHERO (140g Vinyl) *예약상품 (8월 10일 발매) / 1인 1매만 구매 가능]]></title>
