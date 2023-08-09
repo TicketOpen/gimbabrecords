@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 05:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 17:37:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전시관(ZXQ) / 도시인(doshiin) (180g Transparent Blue Color Vinyl) *예약상품 (8월 16일 발송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22617&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22617&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 09 Aug 2023 17:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[40,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/c2f668b15679331332859425ac754a19.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[REO Speedwagon / The Hits (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22614&amp;cate_no=25&amp;display_group=1</link>
@@ -93,14 +101,6 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22604&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Mon, 07 Aug 2023 17:35:42 GMT</pubDate>
             <content:encoded><![CDATA[73,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/7d1f0029f99c4056751004b79fbae846.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[King Gizzard And The Lizard Wizard / Petrodragonic Apocalypse; or, Dawn Of Eternal Night: An Annihilation Of Planet Earth And The Beginning Of Merciless Damnation (Lucky Rainbow Colored Vinyl, 2LP) *구매시 유의사항을 참조하세요.]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22602&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22602&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 07 Aug 2023 17:35:42 GMT</pubDate>
-            <content:encoded><![CDATA[75,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/7d1f0029f99c4056751004b79fbae846.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
