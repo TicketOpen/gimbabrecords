@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 17:37:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 05:37:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[21 Savage & Metro Boomin / Savage Mode II (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22616&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22616&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 09 Aug 2023 05:35:21 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202103/b809ef7c3ae57a02202b4e6f63536df8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AC/DC / Highway To Hell (CD, Digipak) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22615&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22615&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 09 Aug 2023 05:35:21 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201610/5502_shop1_808375.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[John Carroll Kirby / Blowout (CD, Digipak) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22601&amp;cate_no=24&amp;display_group=1</link>
@@ -88,20 +104,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/e81edbfdf8abd25441d7530f8c17a2fe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Julie Byrne / The Greater Wings (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22552&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22552&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sun, 30 Jul 2023 05:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/a38d6ec336ac97d484159ae3f7bdd0ea.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[REO Speedwagon / The Hits (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22614&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22614&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 09 Aug 2023 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[27,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/eedda6f144045c43e2bdb9367ca458af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Andy Bell / Another View (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22550&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22550&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sat, 29 Jul 2023 17:35:29 GMT</pubDate>
-            <content:encoded><![CDATA[19,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/777541d64885d23769ada4613e6e6f09.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Nothing But Thieves / Dead Club City (Milky Transparent Vinyl, Indie Exclusive Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22613&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22613&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 09 Aug 2023 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[43,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/eacda2ced14057854c6f37d478fd3778.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Masego / Lady Lady (Red / Gold Colored Vinyl, 2023 Pressing) *예약상품 (8월말 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
@@ -182,22 +198,6 @@
             <pubDate>Mon, 07 Aug 2023 17:35:42 GMT</pubDate>
             <content:encoded><![CDATA[75,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/7d1f0029f99c4056751004b79fbae846.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Morales Presents Teena Marie / Love Songs & Funky Beats - Remixed With Loving Devotion (Vinyl, 3LP) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22600&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22600&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 07 Aug 2023 17:35:42 GMT</pubDate>
-            <content:encoded><![CDATA[66,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/5b89aed98dc9fd8a1c1a4af36d1ce019.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Kinks / Something Else By The Kinks (180g Vinyl, MONO, 2022 Reissue) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22599&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22599&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 07 Aug 2023 17:35:42 GMT</pubDate>
-            <content:encoded><![CDATA[42,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201704/6955_shop1_689401.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bully / Lucky For You (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -680,6 +680,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/e5d57807573cdfe5c2fcfe2a08356138.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[AC/DC / Highway To Hell (CD, Digipak) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22615&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22615&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Wed, 09 Aug 2023 05:36:10 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201610/5502_shop1_808375.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Bon Jovi / Cross Road - 14 Classic Grooves (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22569&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22569&amp;cate_no=30&amp;display_group=1</guid>
@@ -766,14 +774,6 @@
             <pubDate>Thu, 27 Jul 2023 17:36:35 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/6fbd5e5528e23dedafb8bcbdcd24fdc5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beach House / Become EP (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22515&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22515&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 27 Jul 2023 17:36:35 GMT</pubDate>
-            <content:encoded><![CDATA[16,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/187b258b990361231d524fb127e20dbf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[John Carroll Kirby / Blowout (CD, Digipak) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
@@ -968,6 +968,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/787d0bfdde0faddb95df874c76f21926.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[21 Savage & Metro Boomin / Savage Mode II (CD) (김밥레코즈 ─ CD ─ Hip Hop)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22616&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22616&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Wed, 09 Aug 2023 05:36:31 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202103/b809ef7c3ae57a02202b4e6f63536df8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[MF Doom / Operation: Doomsday (CD, Digipak) (김밥레코즈 ─ CD ─ Hip Hop)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22597&amp;cate_no=45&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22597&amp;cate_no=45&amp;display_group=1</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Fri, 02 Jun 2023 05:36:24 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201903/1849f1f4a152eae4ea51c73c26d3d42a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[MED, Blu, Madlib / Bad Neighbor (CD, US Import) (김밥레코즈 ─ CD ─ Hip Hop)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22158&amp;cate_no=45&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22158&amp;cate_no=45&amp;display_group=1</guid>
-            <pubDate>Wed, 24 May 2023 17:36:58 GMT</pubDate>
-            <content:encoded><![CDATA[23,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/bd5e6f2871767d1dc276fc1a5687994e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[John Carroll Kirby / Blowout (CD, Digipak) (김밥레코즈 ─ CD ─ Jazz)]]></title>
