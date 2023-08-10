@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 05:37:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 17:37:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ennio Morricone / Film Music 1966-1987 (2CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22625&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22625&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 10 Aug 2023 17:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/3fce171ac162fa67e4167ec414bd74b9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Ennio Morricone) / The Mission: Music From The Motion Picture 미션 (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22624&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22624&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 10 Aug 2023 17:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201702/6197_shop1_800872.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[21 Savage & Metro Boomin / Savage Mode II (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22616&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 03 Aug 2023 17:35:32 GMT</pubDate>
             <content:encoded><![CDATA[16,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/8cf0a54f5200584f5b1a693c45f03a1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[C418 / Minecraft Volume Alpha 마인크래프트 게임 음악 (CD) *예약상품 (8월 24일경 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22574&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22574&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 03 Aug 2023 05:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/d65c512dae7a447d51c64107715c586c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bon Jovi / Cross Road - 14 Classic Grooves (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22569&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22569&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 02 Aug 2023 17:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[13,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/e81edbfdf8abd25441d7530f8c17a2fe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

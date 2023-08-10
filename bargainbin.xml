@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Bargain Bin</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 05:37:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 17:37:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202109/9d93a24e595df987137186c2aa4d72f9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Billie Eilish / When We All Fall Asleep, Where Do We Go? (Collector's Edition 7" Box Set, 7인치 7장이 들어있는 박스셋) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17179&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17179&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Thu, 10 Aug 2023 17:36:13 GMT</pubDate>
+            <content:encoded><![CDATA[81,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/89a96d9f1fe79972dea0419bcf8a6db4.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Fleetwood Mac / Original Album Series (5CD) *할인상품]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=16643&amp;cate_no=43&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=16643&amp;cate_no=43&amp;display_group=1</guid>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 08 Apr 2023 17:35:54 GMT</pubDate>
             <content:encoded><![CDATA[14,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202011/6cce8672e7daa269c93cf7281cdac625.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mount Kimbie / DJ Kicks (CD, EU Import) *2020 추석할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=15719&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=15719&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Mon, 17 Apr 2023 17:36:09 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202011/1dde761e0f17aa5fe92b6d1a8792fdcc.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
