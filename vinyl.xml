@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 17:37:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 05:37:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bobby Caldwell / Heart Of Mine (Vinyl) *예약상품 (11월 중순 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22627&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22627&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 11 Aug 2023 05:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/03f1481d2c254bfddbafc128b3f1b2de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sinead O'Connor / So Far…The Best Of Sinéad O'Connor (Clear Vinyl, 2LP, Reissue)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22623&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 08 Aug 2023 17:34:58 GMT</pubDate>
             <content:encoded><![CDATA[37,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/dfdca115a09297bc3d0c0fcb9d862647.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pharoah Sanders / Black Unity (180g Vinyl, Verve By Request Series)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22610&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22610&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 08 Aug 2023 17:34:58 GMT</pubDate>
-            <content:encoded><![CDATA[47,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/2a375ab02fccb90b4d868e81815e7329.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
