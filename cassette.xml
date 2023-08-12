@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Aug 2023 05:37:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Aug 2023 17:36:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tatsuro Yamashita / Circus Town (Limited Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22640&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22640&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Sat, 12 Aug 2023 17:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/a4fbbe687716daa2c530065cebc58edd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tatsuro Yamashita / Spacy (Limited Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22638&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22638&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Sat, 12 Aug 2023 17:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/5809a255458c09fc8b8a819128eeedc5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bully / Lucky For You (Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22519&amp;cate_no=26&amp;display_group=1</link>
@@ -48,6 +64,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/3710ce44abb1e8fa6f0f5331a0498ea7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Tatsuro Yamashita / Ride On Time (Limited Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22238&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22238&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Sat, 12 Aug 2023 17:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/da4ea0e7205ecbd27a165cce84010a00.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[illathnmst. / .​.​. (Cassette) *겉포장 없이 출고된 상품입니다.]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22231&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22231&amp;cate_no=26&amp;display_group=1</guid>
@@ -72,36 +96,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/2d090686fd95c534772dda560992e4eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지나오킹 Jina0King / 사람들은 모두 다른 향기 Everybody Different Scent (Cassette + 포토 카드 + Download)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21794&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21794&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Thu, 13 Apr 2023 17:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/a2909c8345d39142449e4c92ff0bf361.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Odeeno / Moment (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21660&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21660&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Tue, 28 Mar 2023 17:34:49 GMT</pubDate>
-            <content:encoded><![CDATA[16,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/ca2ea77e431d9ff7ebb1f7f73c240bb3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / Thermal Expansion (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21389&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21389&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Sat, 01 Jul 2023 17:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[12,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/949cd9de297d834d11d5ee1f03ed9c0f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hot Chip / Freakout/Release (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21201&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21201&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Mon, 03 Jul 2023 17:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/7b82b2e9a20f0eef874616edf2416fce.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Tatsuro Yamashita / For You (Cassette, Limited Edition, 2023 Remaster)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22002&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22002&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Sat, 12 Aug 2023 17:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/281ecdf4b6b6ccf072c23ef13621e69d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
