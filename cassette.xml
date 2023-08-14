@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Aug 2023 17:36:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 05:37:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/3323f87f8ef0e4a916893e2a7c4ac93c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Tatsuro Yamashita / Go Ahead! (Limited Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22446&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22446&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Fri, 14 Jul 2023 17:35:51 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/3710ce44abb1e8fa6f0f5331a0498ea7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tatsuro Yamashita / Ride On Time (Limited Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22238&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22238&amp;cate_no=26&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Sat, 12 Aug 2023 17:35:09 GMT</pubDate>
             <content:encoded><![CDATA[42,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/281ecdf4b6b6ccf072c23ef13621e69d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지나오킹 Jina0King / 사람들은 모두 다른 향기 Everybody Different Scent (Cassette + 포토 카드 + Download)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21794&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21794&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Mon, 14 Aug 2023 05:35:56 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/a2909c8345d39142449e4c92ff0bf361.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
