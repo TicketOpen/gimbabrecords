@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 05:37:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 17:37:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bobby Caldwell / Heart Of Mine (Vinyl) *예약상품 (11월 중순 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22627&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22627&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 11 Aug 2023 05:35:39 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/03f1481d2c254bfddbafc128b3f1b2de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bobby Caldwell / Cat in the Hat (Vinyl, 2023 Remastered Reissue) *예약상품 (2차 예약 - 10월 10일 이후 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22507&amp;cate_no=42&amp;display_group=1</link>
@@ -30,14 +38,6 @@
             <pubDate>Fri, 11 Aug 2023 17:35:13 GMT</pubDate>
             <content:encoded><![CDATA[52,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/3e67ab7888aea8b5e826859449b9cf62.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bobby Caldwell / Heart Of Mine (Vinyl) *예약상품 (11월 중순 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22627&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22627&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 11 Aug 2023 05:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/03f1481d2c254bfddbafc128b3f1b2de.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mai Yamane / Tasogare (Limited White Vinyl, 2023 Pressing) *예약상품 (11월 중순 배송 예정)]]></title>
