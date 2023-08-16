@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 05:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 17:37:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (RADWIMPS) / 날씨의 아이 Weathering With You (Black Vinyl 2LP) *예약상품 (12월 22일 배송 시작) / 8월 25일까지 결제 완료 분은 추가 5% 적립]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22660&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22660&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Aug 2023 17:35:40 GMT</pubDate>
+            <content:encoded><![CDATA[69,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/ccc9f0a6e6be3d57cc7dcdcd37d51fa4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various Artists / City Pop Story - Urban & Ocean (Vinyl, 2LP) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22647&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 11 Aug 2023 17:34:51 GMT</pubDate>
             <content:encoded><![CDATA[46,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/2cd8ef5de58526cf9bf5e0f49e8a1d84.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yuki Okazaki / So Many Friends (Limited Yellow Colored Vinyl) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22634&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22634&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 11 Aug 2023 17:34:51 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/364da1b862543b8f2382353ec84c590d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
