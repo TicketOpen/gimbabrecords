@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Aug 2023 05:37:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Aug 2023 17:37:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GoGo Penguin / GoGo Penguin (Limited Clear Vinyl 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22673&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22673&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 19 Aug 2023 17:35:13 GMT</pubDate>
+            <content:encoded><![CDATA[40,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/67772f1c0796ae4a02330902b1b19aff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GoGo Penguin / GGP/RMX (Black Vinyl 2LP) *한정수량 할인판매]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22672&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22672&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 19 Aug 2023 17:35:13 GMT</pubDate>
+            <content:encoded><![CDATA[40,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/d9cf820480d8679f7a165bdb0f7ab7b5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GoGo Penguin / GGP / RMX (Limited Colored Vinyl 2LP Red+Blue Special Edition) *한정컬러반 할인 판매]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22671&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22671&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 19 Aug 2023 17:35:13 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/502dd67cc46dc3ae1f6d01c1b4d12785.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라드 뮤지엄 Rad Museum / 1집 RAD (130g Vinyl, 2LP)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22668&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Sat, 12 Aug 2023 17:35:03 GMT</pubDate>
             <content:encoded><![CDATA[69,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/9e7c91c70fc2bffbcc8b6a9e7477d099.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GONTITI / Vacances (Vinyl, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22646&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22646&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 12 Aug 2023 17:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[48,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/666f885c921316fe56fd483625cbc308.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EPO / Vitamin E.P.O (Limited Clear Pink Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22645&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22645&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 12 Aug 2023 17:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[48,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/3af9a9e1467f4fafa051b87ac94a4666.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yoshitaka Minami / South Of The Border (Limited Blue Vinyl, Bernie Grundman이 커팅한 2023 리마스터)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22644&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22644&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 12 Aug 2023 17:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/bb74868cc4a210b79c94fe4e6d5c187d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
