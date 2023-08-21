@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Movies/Merch</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 05:37:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 17:37:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Fri, 30 Jun 2023 17:35:16 GMT</pubDate>
             <content:encoded><![CDATA[58,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/47f34b39786943bc32c18dbd15ce8ea5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Discwasher Vinyl Record Cleaning Brush (Anti-Static)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22203&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22203&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Fri, 02 Jun 2023 17:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[21,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/3c0da3e312fbc3e7e50552137ee06c38.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Vinyl Styl 12.75"X12.75" Outer Record Sleeves w/ Resealable Tape Strip VS-P-012 (12인치 바이닐 / 엘피 레코드 보호비닐 50매 / 재밀봉 가능한 테이프 스트립이 달린 비닐)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Fri, 18 Aug 2023 17:35:32 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201810/f2d87c5c47bb961b6573993ab413b700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nick Cave & The Bad Seeds / Henry's Dream (Remastered CD + DVD, NTSC Version) *1회 한정 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21727&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21727&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Mon, 21 Aug 2023 17:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201509/632_shop1_473684.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

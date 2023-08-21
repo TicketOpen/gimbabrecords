@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 05:37:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 17:37:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다브다 / Yonder (CD) *예약상품 (8월 28일 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22678&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22678&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 21 Aug 2023 17:35:51 GMT</pubDate>
+            <content:encoded><![CDATA[16,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/656cc764a57cb39e30622b0af681ad77.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Low Hanging Fruits 로우 행잉 프루츠 / Today From Past Days (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22669&amp;cate_no=29&amp;display_group=1</link>
@@ -30,6 +38,22 @@
             <pubDate>Fri, 04 Aug 2023 05:36:13 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/dada79ed80fe1bf73153dad2266b8688.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빈지노 / NOWITZKI (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22581&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22581&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 21 Aug 2023 17:35:51 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/8f6d0f9cb3bd6facc1a1deea12372a0e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이센스 / 3집 저금통 (CD + Booklet)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22580&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22580&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 21 Aug 2023 17:35:51 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/24e9dc53f1d3a99d62c84dc733be9fdb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[저스디스 / 2 Many Homes 4 1 Kid : Instrumentals & Remixes (CD)]]></title>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 18 Jul 2023 17:35:45 GMT</pubDate>
             <content:encoded><![CDATA[18,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/c20534baff24840efa7cbd50f0032e2a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전기흐른 / 정규 1집 우리는 밤에 산다 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22441&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22441&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Wed, 12 Jul 2023 17:36:50 GMT</pubDate>
-            <content:encoded><![CDATA[13,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/7f188ecb40b164f166741e29a5672113.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시너가렛 / Invisible Diary (CD, EP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22408&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22408&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Tue, 11 Jul 2023 17:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/d01b4bee6df7b8f18010576aa70d21cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[khc/moribet / 전파납치 (CD, Digipak)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22401&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22401&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Mon, 10 Jul 2023 05:37:22 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/85029a9804b396bf650a5ab60d34a510.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

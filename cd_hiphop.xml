@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ CD ─ Hip Hop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 05:37:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 17:37:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,22 +22,6 @@
             <pubDate>Mon, 07 Aug 2023 17:36:38 GMT</pubDate>
             <content:encoded><![CDATA[20,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/20200116/524c08d427fd055419c126f7fb220dbe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈지노 / NOWITZKI (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22581&amp;cate_no=45&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22581&amp;cate_no=45&amp;display_group=1</guid>
-            <pubDate>Thu, 03 Aug 2023 17:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[14,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/8f6d0f9cb3bd6facc1a1deea12372a0e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이센스 / 3집 저금통 (CD + Booklet)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22580&amp;cate_no=45&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22580&amp;cate_no=45&amp;display_group=1</guid>
-            <pubDate>Thu, 03 Aug 2023 17:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[14,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/24e9dc53f1d3a99d62c84dc733be9fdb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Apollo Brown & Philmore Greene / Cost Of Living (CD, US Import)]]></title>
@@ -102,6 +86,22 @@
             <pubDate>Fri, 02 Jun 2023 05:36:24 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201903/1849f1f4a152eae4ea51c73c26d3d42a.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[MED, Blu, Madlib / Bad Neighbor (CD, US Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22158&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22158&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Mon, 21 Aug 2023 17:36:18 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/bd5e6f2871767d1dc276fc1a5687994e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Madlib / Shades Of Blue: Madlib Invades Blue Note (CD, US Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22157&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22157&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Mon, 21 Aug 2023 17:36:18 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201601/2672_shop1_195367.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
