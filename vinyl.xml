@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 17:37:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 05:37:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Piper / Summer Breeze (Blue Colored Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22685&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22685&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 23 Aug 2023 05:35:41 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/57d74f25a430be010727e55972545d73.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mild High Club / Timeline (12" Marble Vinyl, 45 RPM, Reissue)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22684&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 19 Aug 2023 17:35:13 GMT</pubDate>
             <content:encoded><![CDATA[40,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/67772f1c0796ae4a02330902b1b19aff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GoGo Penguin / GGP/RMX (Black Vinyl 2LP) *한정수량 할인판매]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22672&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22672&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 19 Aug 2023 17:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[40,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/d9cf820480d8679f7a165bdb0f7ab7b5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
