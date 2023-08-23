@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 05:37:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 17:37:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[채무자들 / 채무자들 (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22686&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22686&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Wed, 23 Aug 2023 17:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[17,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/eb6a9fd012c178699c42e7a320b4f658.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다브다 / Yonder (CD) *예약상품 (8월 28일 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22678&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 17 Jul 2023 17:36:42 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/8f396c41d5d12deceaa41c36b20a905a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공중그늘 / EP 광원 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22452&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22452&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Tue, 18 Jul 2023 17:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[18,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/c20534baff24840efa7cbd50f0032e2a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
