@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 17:37:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 05:37:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,7 +40,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/597779412e97b9a8ca9b2ea02b2c7a6f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[aimyon 아이묭 / Kimi Wa Rock Wo Kikanai 君はロックを聴かない (CD) (김밥레코즈 ─ CD)]]></title>
+            <title><![CDATA[Aimyon / Kimi Wa Rock Wo Kikanai 君はロックを聴かない (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22698&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22698&amp;cate_no=24&amp;display_group=1</guid>
             <pubDate>Wed, 23 Aug 2023 17:35:08 GMT</pubDate>
@@ -48,7 +48,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/4584a454061cf492bb5cc0fbcabeeebd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[aimyon 아이묭 / Ai No Hana 愛の花 (CD, Limited Edition) (김밥레코즈 ─ CD)]]></title>
+            <title><![CDATA[Aimyon / Ai No Hana 愛の花 (CD, Limited Edition) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22697&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22697&amp;cate_no=24&amp;display_group=1</guid>
             <pubDate>Wed, 23 Aug 2023 17:35:08 GMT</pubDate>
@@ -200,6 +200,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/3c9f4058b19dec3b432b05e1dc466c63.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[위댄스 / 숨(SUM) (Cassette, Clear Shell) (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22703&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22703&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 24 Aug 2023 05:35:08 GMT</pubDate>
+            <content:encoded><![CDATA[17,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/8f35dcc048916def0b01cc5175f0c6d2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Tatsuro Yamashita / Circus Town (Limited Cassette) (김밥레코즈 ─ Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22640&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22640&amp;cate_no=26&amp;display_group=1</guid>
@@ -286,14 +294,6 @@
             <pubDate>Sun, 20 Aug 2023 05:35:27 GMT</pubDate>
             <content:encoded><![CDATA[16,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/ca2ea77e431d9ff7ebb1f7f73c240bb3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / Thermal Expansion (Cassette) (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21389&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21389&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Mon, 21 Aug 2023 17:35:23 GMT</pubDate>
-            <content:encoded><![CDATA[12,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/949cd9de297d834d11d5ee1f03ed9c0f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SHINKI, MINJU / Letter to now:here (카세트북 + 음악 다운로드 QR코드 포함) (김밥레코즈 ─ Movies/Merch)]]></title>
@@ -392,6 +392,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201509/632_shop1_473684.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연석원 / The Mermaid (180g Black Vinyl) *예약상품 (8월 29일 발매) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22522&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22522&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 24 Aug 2023 05:35:22 GMT</pubDate>
+            <content:encoded><![CDATA[41,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/968bcc765e300916d270920af4a84a88.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연석원 / The Mermaid (180g White Vinyl) *예약상품 (8월 29일 발매) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22523&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22523&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 24 Aug 2023 05:35:22 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/e5177662df1ebc02c38e82b8078fa636.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[다브다 / Yonder (CD) *예약상품 (8월 28일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22678&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22678&amp;cate_no=42&amp;display_group=1</guid>
@@ -406,14 +422,6 @@
             <pubDate>Thu, 17 Aug 2023 17:35:37 GMT</pubDate>
             <content:encoded><![CDATA[53,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/745c56a363d9424146cdcc7dd57e6d29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위댄스 / 숨(SUM) (CD + 가사지 + 가사엽서 1매) *예약상품 (8월 24일 발매) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22662&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22662&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 17 Aug 2023 17:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/e71c960bcf189e292f2af89a64225597.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bobby Caldwell / Bobby Caldwell (Vinyl, 2023 Remastered Reissue) *예약상품 (2차 예약, 10월 10일 이후 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 11 Aug 2023 05:35:39 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/03f1481d2c254bfddbafc128b3f1b2de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kiyoshi Sugimoto / Our Time (Vinyl) *예약상품 (12월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22628&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22628&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 11 Aug 2023 17:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[52,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/3e67ab7888aea8b5e826859449b9cf62.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Eminem / Curtain Call 2 (Vinyl, 2LP) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -608,7 +608,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/6ed79030b18fc3673326baa1c47e31d0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[위댄스 / 숨(SUM) (CD + 가사지 + 가사엽서 1매) *예약상품 (8월 24일 발매) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <title><![CDATA[위댄스 / 숨(SUM) (CD + 가사지 + 가사엽서 1매) (김밥레코즈 ─ CD ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22662&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22662&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Thu, 17 Aug 2023 17:35:50 GMT</pubDate>
@@ -1648,7 +1648,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/597779412e97b9a8ca9b2ea02b2c7a6f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[aimyon 아이묭 / Kimi Wa Rock Wo Kikanai 君はロックを聴かない (CD) (김밥레코즈 ─ CD ─ Japanese)]]></title>
+            <title><![CDATA[Aimyon / Kimi Wa Rock Wo Kikanai 君はロックを聴かない (CD) (김밥레코즈 ─ CD ─ Japanese)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22698&amp;cate_no=90&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22698&amp;cate_no=90&amp;display_group=1</guid>
             <pubDate>Wed, 23 Aug 2023 17:37:03 GMT</pubDate>
@@ -1656,7 +1656,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/4584a454061cf492bb5cc0fbcabeeebd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[aimyon 아이묭 / Ai No Hana 愛の花 (CD, Limited Edition) (김밥레코즈 ─ CD ─ Japanese)]]></title>
+            <title><![CDATA[Aimyon / Ai No Hana 愛の花 (CD, Limited Edition) (김밥레코즈 ─ CD ─ Japanese)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22697&amp;cate_no=90&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22697&amp;cate_no=90&amp;display_group=1</guid>
             <pubDate>Wed, 23 Aug 2023 17:37:03 GMT</pubDate>
@@ -1704,7 +1704,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/70ab8aeee454ca0a28fb04e06c291297.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Various Artists / Mellow The Best Of J-AOR (2CD) (김밥레코즈 ─ CD ─ Japanese)]]></title>
+            <title><![CDATA[Various Artists / The Best Of J-AOR - Mellow- (2CD) (김밥레코즈 ─ CD ─ Japanese)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22277&amp;cate_no=90&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22277&amp;cate_no=90&amp;display_group=1</guid>
             <pubDate>Tue, 20 Jun 2023 17:37:36 GMT</pubDate>

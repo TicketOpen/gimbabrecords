@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 17:37:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 05:37:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연석원 / The Mermaid (180g Black Vinyl) *예약상품 (8월 29일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22522&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22522&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 24 Aug 2023 05:35:22 GMT</pubDate>
+            <content:encoded><![CDATA[41,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/968bcc765e300916d270920af4a84a88.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연석원 / The Mermaid (180g White Vinyl) *예약상품 (8월 29일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22523&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22523&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 24 Aug 2023 05:35:22 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/e5177662df1ebc02c38e82b8078fa636.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다브다 / Yonder (CD) *예약상품 (8월 28일 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22678&amp;cate_no=42&amp;display_group=1</link>
@@ -22,14 +38,6 @@
             <pubDate>Thu, 17 Aug 2023 17:35:37 GMT</pubDate>
             <content:encoded><![CDATA[53,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/745c56a363d9424146cdcc7dd57e6d29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위댄스 / 숨(SUM) (CD + 가사지 + 가사엽서 1매) *예약상품 (8월 24일 발매)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22662&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22662&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 17 Aug 2023 17:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/e71c960bcf189e292f2af89a64225597.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bobby Caldwell / Bobby Caldwell (Vinyl, 2023 Remastered Reissue) *예약상품 (2차 예약, 10월 10일 이후 발송 예정)]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 11 Aug 2023 05:35:39 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/03f1481d2c254bfddbafc128b3f1b2de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kiyoshi Sugimoto / Our Time (Vinyl) *예약상품 (12월초 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22628&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22628&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 11 Aug 2023 17:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[52,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/3e67ab7888aea8b5e826859449b9cf62.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
