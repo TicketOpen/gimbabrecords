@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 05:37:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 17:37:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전호권 / 야즈드의 불빛 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22715&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22715&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 28 Aug 2023 17:35:02 GMT</pubDate>
+            <content:encoded><![CDATA[18,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/8d32cf9c777c7d0c7757c95d881e08e2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Beach Boys / Today! + Summer Days (And Summer Nights!!) (HDCD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22702&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 23 Aug 2023 17:35:08 GMT</pubDate>
             <content:encoded><![CDATA[13,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201807/11336_shop1_15309382510878.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Miles Davis / We Want Miles (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22691&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22691&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 23 Aug 2023 17:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[12,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/20200506/2c79a6062e21ca80117baecc6b7d1698.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
