@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 05:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 17:36:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mitski / The Land Is Inhospitable and So Are We (Cassette) *예약상품 (9월 15일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22723&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22723&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Tue, 29 Aug 2023 17:35:05 GMT</pubDate>
+            <content:encoded><![CDATA[18,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/d1bb0233e3ae2d480148f45bb5ec80e7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위댄스 / 숨(SUM) (Cassette, Clear Shell)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22703&amp;cate_no=26&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 12 Jun 2023 17:36:02 GMT</pubDate>
             <content:encoded><![CDATA[18,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/2d090686fd95c534772dda560992e4eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tatsuro Yamashita / For You (Cassette, Limited Edition, 2023 Remaster)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22002&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22002&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Mon, 28 Aug 2023 05:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/281ecdf4b6b6ccf072c23ef13621e69d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
