@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 17:37:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 05:37:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[C418 / Minecraft Volume Beta 마인크래프트 게임 음악 (Limited Red Orange + Yellow Splatter 2LP) *한정수량 할인 / 예약상품 (8월 30일 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22575&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22575&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 24 Aug 2023 17:35:40 GMT</pubDate>
+            <content:encoded><![CDATA[39,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/3c78be417514494311ef422aa9eca67e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Phum Viphurit / The Greng Jai Piece (Limited Red Vinyl) *예약상품 (8월 하순 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22233&amp;cate_no=42&amp;display_group=1</link>
@@ -38,14 +46,6 @@
             <pubDate>Thu, 24 Aug 2023 17:35:40 GMT</pubDate>
             <content:encoded><![CDATA[34,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/9f89998d3484262bfd706f2f5bd52c90.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[C418 / Minecraft Volume Beta 마인크래프트 게임 음악 (Limited Red Orange + Yellow Splatter 2LP) *한정수량 할인 / 예약상품 (8월 30일 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22575&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22575&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 24 Aug 2023 17:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[39,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/3c78be417514494311ef422aa9eca67e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[C418 / Minecraft Volume Alpha 마인크래프트 게임 음악 (CD) *예약상품 (8월 30일경 발송 예정)]]></title>
