@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 05:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 17:37:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HYBS / Tip Toe (Limited 7" Splatter Vinyl) *예약상품 (10월말 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22735&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22735&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 31 Aug 2023 17:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/3f964291e6467bc378697db7b33a38a5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Velvet Underground / The Velvet Underground & Nico (Vinyl, Remastered Edition, 60th Anniversary, US Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22734&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22734&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 31 Aug 2023 17:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[31,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201706/735_shop1_515560.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Radwimps & Kazuma Jinnouchi / Suzume 스즈메의 문단속 OST (Vinyl, 2LP - EU Pressing)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22733&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22733&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 31 Aug 2023 17:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[77,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/03c079018a9ad7503e79015ee78adc54.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Masayoshi Takanaka / Brasilian Skies (Black Vinyl, Limited Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22732&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 29 Aug 2023 17:34:59 GMT</pubDate>
             <content:encoded><![CDATA[38,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/0aa743d0c3057502b4c1fdcdc8fc9315.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shuggie Otis / Introducing Shuggie Otis (Red Vinyl, Limited Numbered Edition) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22721&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22721&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 28 Aug 2023 17:35:09 GMT</pubDate>
-            <content:encoded><![CDATA[38,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/a9f5278a9dee59f90adff85bd2ce0591.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gloria Estefan / Let It Loose (Translucent Red Vinyl, Limited Numbered Edition) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22720&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22720&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 28 Aug 2023 17:35:09 GMT</pubDate>
-            <content:encoded><![CDATA[38,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/6ce6cb0f8d63308a19c582370b21972b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carlos Nunez / Os Amores Libres (Vinyl, 2LP) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22719&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22719&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 28 Aug 2023 17:35:09 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/66485280407b40cf1de3d07c6fe6855a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
