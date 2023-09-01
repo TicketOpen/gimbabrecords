@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 17:37:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 05:37:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tyler, The Creator / Call Me If You Get Lost: The Estate Sale (Geneva Blue Vinyl, 3LP, Limited Deluxe Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22738&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22738&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 01 Sep 2023 05:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[72,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/13b027f151cdd0cd38289e4d37f11c94.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[88rising / Head in the Clouds: 5 Year Anniversary (Bone & White Vinyl, 2LP, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22737&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22737&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 01 Sep 2023 05:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[72,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/ef5b2bccc47c948109e30193c49d98f3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박지윤 / parkjiyoon9 (9집) (180g Grey Silver Vinyl + 48p Photobook - 컬러바이닐 + 48페이지 사진집/ 책자) *예약상품 (9월 15일부터 배송 시작)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22736&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22736&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 01 Sep 2023 05:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[53,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/3ae590c7d25d57e18ec827fe8fc81c6c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HYBS / Tip Toe (Limited 7" Splatter Vinyl) *예약상품 (10월말 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22735&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 29 Aug 2023 17:34:59 GMT</pubDate>
             <content:encoded><![CDATA[46,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/e3b1dd15744171fc27eaadcf70199aaa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mitski / The Land Is Inhospitable and So Are We (Robin Egg Blue Vinyl, 핑크색 다이컷 슬립케이스) *예약상품 (9월 15일 발매)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22726&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22726&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 29 Aug 2023 17:34:59 GMT</pubDate>
-            <content:encoded><![CDATA[46,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/19e0b8bf5c99f3dc94b66717594083d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mitski / The Land Is Inhospitable and So Are We (Black Vinyl) *예약상품 (9월 15일 발매)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22725&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22725&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 29 Aug 2023 17:34:59 GMT</pubDate>
-            <content:encoded><![CDATA[40,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/d08f5bebc249670c14793953758edd8c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김정훈 / blue & disappear (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22722&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22722&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 29 Aug 2023 17:34:59 GMT</pubDate>
-            <content:encoded><![CDATA[38,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/0aa743d0c3057502b4c1fdcdc8fc9315.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
