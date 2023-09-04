@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Sep 2023 17:37:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 05:38:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소금 (sogumm) / 정규 1집 Sobrightttttttt (Clear Vinyl, 한정반) *예약상품 (10월 27일 발매 예정, 9월 14일 자정 주문 마감)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22754&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22754&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Sep 2023 05:35:43 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/7009279dddb57c31d56c8c636185da08.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST (Son Lux) / Everything Everywhere All at Once 에브리씽 에브리웨어 올 앳 원스 (Black & White Vinyl, 2LP) *한정수량 할인 + 추가 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22753&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 01 Sep 2023 17:34:59 GMT</pubDate>
             <content:encoded><![CDATA[57,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/8745e38a99cb38c06696853e906f7880.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[J. Cole / 2014 Forest Hills Drive (Vinyl, 2LP) *할인상품 (쟈켓 모서리에 눌림 자국이 있습니다.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22739&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22739&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 01 Sep 2023 17:34:59 GMT</pubDate>
-            <content:encoded><![CDATA[65,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201610/5506_shop1_163342.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
