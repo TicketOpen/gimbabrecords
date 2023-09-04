@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 05:38:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 17:37:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이희상 / WHOEVER EP (10" Green Vinyl) *예약상품 (9월 8일 금요일부터 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22756&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22756&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Sep 2023 17:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[36,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/acab0b5db62c3f2765f00da2a037a64c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소금 (sogumm) / 정규 1집 Sobrightttttttt (Clear Vinyl, 한정반) *예약상품 (10월 27일 발매 예정, 9월 14일 자정 주문 마감)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22754&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 09 Aug 2023 17:37:46 GMT</pubDate>
             <content:encoded><![CDATA[40,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/c2f668b15679331332859425ac754a19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설(SURL) / of us (180g Black Vinyl, 한정반)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22584&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22584&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Fri, 04 Aug 2023 05:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/534e4a1edfcc427b46c57672106f773e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
