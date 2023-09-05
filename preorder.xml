@@ -4,16 +4,24 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 05:37:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 17:37:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[The Tony Williams Lifetime / Emergency! (Vinyl 2LP, Remastered) *예약상품 (9월 7일 이후 배송 시작)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22661&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22661&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 05 Sep 2023 05:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[53,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/745c56a363d9424146cdcc7dd57e6d29.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Fujii Kaze / Help Ever Hurt Never (Limited Colored Vinyl, 2LP + Flexi Disc+Poster) *예약상품 (10월초 배송 예정) / "구매시 유의사항"을 확인하세요]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22272&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22272&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 05 Sep 2023 17:36:12 GMT</pubDate>
+            <content:encoded><![CDATA[103,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/1c99bdfeed7631a10d9b2ba7c346b6c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fujii Kaze / Love All Serve All (Limited Colored Vinyl, 2LP+Flexi Disc+Poster) *예약상품 (10월초 배송 예정) / "구매시 유의사항"을 확인하세요]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22273&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22273&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 05 Sep 2023 17:36:12 GMT</pubDate>
+            <content:encoded><![CDATA[103,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/42e789ab6347a44dc1d038906160692f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Radwimps & 陣内一真 / 스즈메의 문단속 OST (Suzume no Tojimari OST) (Black Vinyl, 2LP - 일본 프레싱) *예약상품 (12월 22일 이후 배송 시작) / 8월 25일까지 결제 완료 분은 추가 5% 적립]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 31 Aug 2023 17:35:50 GMT</pubDate>
             <content:encoded><![CDATA[31,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/3f964291e6467bc378697db7b33a38a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Radwimps / 너의 이름은 (Kimi No Na Ha, 君の名は) OST (Black Vinyl, 2LP) *예약상품 (12월 22일 이후 발송 시작) / 8월 25일까지 결제가 완료된 주문은 추가 5%  적립]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19687&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19687&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Aug 2023 17:36:01 GMT</pubDate>
-            <content:encoded><![CDATA[69,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/5978b5be69998eac255a0985b430b174.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
