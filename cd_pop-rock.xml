@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 05:37:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 17:37:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[George Harrison / All Things Must Pass: 50th Anniversay (Deluxe 3CD Box Set + sticker pack, Limited Edition) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22765&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22765&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Wed, 06 Sep 2023 17:35:47 GMT</pubDate>
+            <content:encoded><![CDATA[27,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/e8d0d77f5dc1cbee4333287e98dc1abb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mitski / The Land Is Inhospitable and So Are We (CD) *예약상품 (9월 15일 발매)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22724&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 28 Jul 2023 05:36:12 GMT</pubDate>
             <content:encoded><![CDATA[11,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/5cb319f0e65d3f89df703f5e5d0efa63.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alan Parsons Project / Tales Of Mystery And Imagination Edgar Allan Poe (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22529&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22529&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 28 Jul 2023 05:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/c3c7630edd3d69c8c726a3eb3a4547ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

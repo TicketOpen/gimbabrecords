@@ -4,9 +4,65 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 05:37:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 17:37:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arild Andersen / Molde Concert (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22776&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22776&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 06 Sep 2023 17:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/7494720f8f6f6c0604f83b7cd4410ff6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marcin Wasilewski Trio / Live (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22775&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22775&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 06 Sep 2023 17:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/9e79e688c02252d29d2448e8c7231f90.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nils Petter Molvaer / Khmer (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22774&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22774&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 06 Sep 2023 17:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201910/46c5668f2e20a2f77421a74ab71f1c5e.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Keith Jarrett / Budapest Concert (2CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22773&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22773&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 06 Sep 2023 17:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202104/227023914426a2a7f3dd7ad33fee9f2a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tord Gustavsen Trio / Opening (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22772&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22772&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 06 Sep 2023 17:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/c6846bad63f0402a75dd65eec8608672.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[George Harrison / All Things Must Pass: 50th Anniversay (Deluxe 3CD Box Set + sticker pack, Limited Edition) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22765&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22765&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 06 Sep 2023 17:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[27,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/e8d0d77f5dc1cbee4333287e98dc1abb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Crusaders / 5 Original Albums (5CD Box Set)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22764&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22764&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 06 Sep 2023 17:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/bc6b92289d6a7f9675b99f54a568606c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[C418 / Minecraft Volume Beta (2CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22752&amp;cate_no=24&amp;display_group=1</link>
@@ -46,62 +102,6 @@
             <pubDate>Wed, 23 Aug 2023 17:35:08 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/92cb53b640469dd0c4af9dad06e75e47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stevie Wonder / Song Review: A Greatest Hits Collection (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22701&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22701&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 23 Aug 2023 17:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/3e3760dfe0b01e7e87fd5b60774e0f6a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arthur Brown's Kingdom Come / Journey (2CD, Remastered)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22700&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22700&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 23 Aug 2023 17:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[25,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/db37f0a82e4a94c763613b0adf30a54f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Incidents / Adult 大人 "Femme" Edition (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22699&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22699&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 23 Aug 2023 17:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/597779412e97b9a8ca9b2ea02b2c7a6f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aimyon / Kimi Wa Rock Wo Kikanai 君はロックを聴かない (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22698&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22698&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 23 Aug 2023 17:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/4584a454061cf492bb5cc0fbcabeeebd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aimyon / Ai No Hana 愛の花 (CD, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22697&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22697&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 23 Aug 2023 17:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[16,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/7661ab8ea27c27e1115e1804786b943c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CASIOPEA / Mint Jams (CD, DSD remaster)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22696&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22696&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 23 Aug 2023 17:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[29,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202104/310fb86375ac54ea57f1274949a53a13.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[OST / Marvel's Guardians Of The Galaxy: Cosmic Mix Vol. 1 (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22695&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22695&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 23 Aug 2023 17:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/001df8a47b06b446a8b83d8beedfc65c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
