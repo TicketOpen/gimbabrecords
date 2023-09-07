@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 17:37:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 05:37:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이희상 / WHOEVER EP (10" Green Vinyl) *예약상품 (9월 8일 금요일부터 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22756&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22756&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Sep 2023 17:35:17 GMT</pubDate>
+            <content:encoded><![CDATA[36,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/acab0b5db62c3f2765f00da2a037a64c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fujii Kaze / Love All Serve All (Limited Colored Vinyl, 2LP+Flexi Disc+Poster) *예약상품 (10월초 배송 예정) / "구매시 유의사항"을 확인하세요]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22273&amp;cate_no=42&amp;display_group=1</link>
@@ -30,14 +38,6 @@
             <pubDate>Wed, 30 Aug 2023 05:35:24 GMT</pubDate>
             <content:encoded><![CDATA[69,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e0353d91c13c715ba0edeb9be19e3121.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이희상 / WHOEVER EP (10" Green Vinyl) *예약상품 (9월 8일 금요일부터 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22756&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22756&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 04 Sep 2023 17:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[36,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/acab0b5db62c3f2765f00da2a037a64c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Car Seat Headrest / Twin Fantasy ("Face To Face",  Re-recording Version, 2LP) *예약상품 (9월 15일 이후 배송 예정)]]></title>
