@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 05:37:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 17:37:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cesaria Evora / Cafe Atlantico (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22783&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22783&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Thu, 07 Sep 2023 17:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/17f515ee6833a1c24dfc2eda55bbe3a5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Walter Wanderley / Batucada (SHM-CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22659&amp;cate_no=79&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 15 Aug 2023 17:36:56 GMT</pubDate>
             <content:encoded><![CDATA[18,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/2126a64d2b6078d5ed8fed7e91e7a6eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Astrud Gilberto / The Shadow Of Your Smile (SHM-CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22648&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22648&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Tue, 15 Aug 2023 17:36:56 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/1d933449badde34d05d971c2f24d1d20.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 05:37:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 17:37:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Gossip / Live In Liverpool (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22780&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22780&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 07 Sep 2023 17:36:15 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/b6920eaa9a0728916b415035a43924a6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ben Folds Five / Unauthorized Biography Of Reinhold Messner (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22779&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22779&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 07 Sep 2023 17:36:15 GMT</pubDate>
+            <content:encoded><![CDATA[12,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201704/6985_shop1_786556.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beady Eye / Be (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22778&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22778&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 07 Sep 2023 17:36:15 GMT</pubDate>
+            <content:encoded><![CDATA[11,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201511/2153_shop1_796356.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[George Harrison / All Things Must Pass: 50th Anniversay (Deluxe 3CD Box Set + sticker pack, Limited Edition) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22765&amp;cate_no=30&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Sun, 30 Jul 2023 05:36:06 GMT</pubDate>
             <content:encoded><![CDATA[18,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/a38d6ec336ac97d484159ae3f7bdd0ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Andy Bell / Another View (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22550&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22550&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Sat, 29 Jul 2023 17:36:18 GMT</pubDate>
-            <content:encoded><![CDATA[19,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/777541d64885d23769ada4613e6e6f09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[beabadoobee / Beatopia (CD, Gatefold sleeve)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22531&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22531&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 28 Jul 2023 05:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[23,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/7eaaaf50c6f21be31c6884490df3a7c7.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Manitoba / Jacknuggeted EP (CD, paper sleeve)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22530&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22530&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 28 Jul 2023 05:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[11,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/5cb319f0e65d3f89df703f5e5d0efa63.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
