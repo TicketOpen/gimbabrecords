@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 17:37:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 05:36:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Romy / Mid Air (CD, 수입반)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22785&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22785&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 08 Sep 2023 05:34:55 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/73cf39251338705376334d34cf518970.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Romy / Mid Air (CD, 국내반)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22784&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22784&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 08 Sep 2023 05:34:55 GMT</pubDate>
+            <content:encoded><![CDATA[17,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/0602f402f75fdfc04e147e69a2fa7b6b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cesaria Evora / Cafe Atlantico (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22783&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 06 Sep 2023 17:34:58 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201910/46c5668f2e20a2f77421a74ab71f1c5e.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Keith Jarrett / Budapest Concert (2CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22773&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22773&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 06 Sep 2023 17:34:58 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202104/227023914426a2a7f3dd7ad33fee9f2a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tord Gustavsen Trio / Opening (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22772&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22772&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 06 Sep 2023 17:34:58 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/c6846bad63f0402a75dd65eec8608672.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

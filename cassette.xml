@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 17:37:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 05:36:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Thu, 27 Jul 2023 17:36:00 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/9a92ed0b79d9442829e285540bdc926c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beach House / Become EP (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22516&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22516&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Thu, 27 Jul 2023 17:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/187b258b990361231d524fb127e20dbf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tatsuro Yamashita / Moonglow (Limited Cassette)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Mon, 12 Jun 2023 17:36:02 GMT</pubDate>
             <content:encoded><![CDATA[18,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/ede0a07f946d5a7b549b219dca4f6e43.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ColDrip / Lucid​/​/ (Cassette) *겉포장 없이 출고된 상품입니다.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22229&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22229&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Fri, 08 Sep 2023 05:35:08 GMT</pubDate>
+            <content:encoded><![CDATA[18,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/2d090686fd95c534772dda560992e4eb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
