@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 05:37:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 17:36:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,20 +280,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/3710ce44abb1e8fa6f0f5331a0498ea7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Slowdive / everything is alive (Cassette) (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22321&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22321&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Thu, 31 Aug 2023 17:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[14,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/10772996dd2b2eec3820e681174991b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tatsuro Yamashita / Ride On Time (Limited Cassette) (김밥레코즈 ─ Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22238&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22238&amp;cate_no=26&amp;display_group=1</guid>
             <pubDate>Sat, 12 Aug 2023 17:35:09 GMT</pubDate>
             <content:encoded><![CDATA[42,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/da4ea0e7205ecbd27a165cce84010a00.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[illathnmst. / .​.​. (Cassette) *겉포장 없이 출고된 상품입니다. (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22231&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22231&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Sun, 10 Sep 2023 17:34:55 GMT</pubDate>
+            <content:encoded><![CDATA[18,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/e18aaa8b545fc144981efbf1a1057bc2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[L!stener 리스너 매거진 Vol.1 (Magazine) (김밥레코즈 ─ Movies/Merch)]]></title>
