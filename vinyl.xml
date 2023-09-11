@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 05:37:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 17:36:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tatsuro Yamashita / It's A Poppin' Time (Vinyl, 2LP) *구매 제한 / 별도의 입금기한 등을 확인하세요.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22806&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22806&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 11 Sep 2023 17:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[63,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/747bd075eb5ed41485ea670f22458b1b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tatsuro Yamashita / Greatest Hits! Of Tatsuro Yamashita (Vinyl, Remaster)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22803&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22803&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 11 Sep 2023 17:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[51,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/17ccb352463dcec3d5bd253664caaf9b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Various Artists) / Call Me By Your Name 콜 미 바이 유어 네임 (Limited Velvet Purple Vinyl 2LP, 15,000매 한정반 / 일련번호 표기) *예약상품 (9월 26일 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22802&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22802&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 11 Sep 2023 17:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[56,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/60bfe269fc02de5a7f626bd4fc7a8ab5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mario Rui Silva / Stories From Another Time 1982​-​1988 (Vinyl, 2LP)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22794&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Fri, 08 Sep 2023 05:35:02 GMT</pubDate>
             <content:encoded><![CDATA[40,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/85e7806ee3e4aca04d3e6c2b00b92e59.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Harold Lopez-Nussa / Timba a la Americana (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22771&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22771&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 06 Sep 2023 17:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[37,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/4ed63d6e6f6233514ab6940f0f5e3f81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dr. Lonnie Smith / Turning Point (Vinyl, Blue Note Classic Vinyl Series)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22770&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22770&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 06 Sep 2023 17:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[37,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/51968b24a09d7d53ea6f3c0b0a0a9480.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cecil Taylor / Unit Structures (Vinyl, Blue Note Classic Vinyl Series)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22769&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22769&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 06 Sep 2023 17:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[37,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/74d04eaa484e6c66b2c8d8e246c346fc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
