@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 17:36:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 05:37:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Howwhywhenyou / Cream N Xour (CD + 스티커 팩 + 키링 패키지) *예약상품 (9월 13일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22800&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22800&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 11 Sep 2023 05:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[30,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/c4248e41fd39d7fba98e9f37d495482a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Howwhywhenyou 로고 티셔츠 (M, L, XL 사이즈) *9월 13일부터 발송]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22801&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22801&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 11 Sep 2023 05:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/8a0378599c30b2f61e38409a866fd485.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Taeko Ohnuki (Taeko Onuki) / Sunshower (Vinyl, Limited White Colored Pressing 흰색 바이닐)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=10899&amp;cate_no=42&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 04 Sep 2023 05:36:06 GMT</pubDate>
             <content:encoded><![CDATA[47,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201607/4767_shop1_677964.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Car Seat Headrest / Twin Fantasy (Mirror to Mirror) (White Vinyl, 2LP) *예약상품 (9월 15일 이후 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22586&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22586&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 04 Sep 2023 05:36:06 GMT</pubDate>
-            <content:encoded><![CDATA[47,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/094e8f5822d6f7fcdd8ccf961208398f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tyler, The Creator / Call Me If You Get Lost: The Estate Sale (Geneva Blue Vinyl, 3LP, Limited Deluxe Edition)*예약상품 (9월 15일 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22738&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22738&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 01 Sep 2023 17:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[72,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/13b027f151cdd0cd38289e4d37f11c94.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
