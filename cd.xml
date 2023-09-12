@@ -4,9 +4,57 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 05:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 17:37:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tohoku Shinkansen / Thru Traffic (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22820&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22820&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 12 Sep 2023 17:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[29,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/cc04eb10c2fae796151783ef35f47bc7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Minami Yoshitaka / South Of The Border (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22819&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22819&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 12 Sep 2023 17:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/3f7425ea6d3e8a071c0407024c8cb545.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / City Pop Story - Urban & Ocean (2CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22818&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22818&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 12 Sep 2023 17:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[39,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/9e7c91c70fc2bffbcc8b6a9e7477d099.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yurie Kokubu / Relief 72 Hours (Blu-spec CD2)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22817&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22817&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 12 Sep 2023 17:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/82821609e7aeee59db123074ca09f578.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fuyu Ni Wakarete 冬にわかれて (Saho Terao) / Flow (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22816&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22816&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 12 Sep 2023 17:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[37,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/50aaffb5bd38363242972aaa1d5cf497.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[kunmohile / kunmohile (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22815&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22815&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 12 Sep 2023 17:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[28,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/92cf77b7a1225dee949757c9e301c2ce.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Howwhywhenyou / Cream N Xour (CD + 스티커 팩 + 키링 패키지) *예약상품 (9월 13일 발매)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22800&amp;cate_no=24&amp;display_group=1</link>
@@ -54,54 +102,6 @@
             <pubDate>Thu, 07 Sep 2023 17:35:25 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/17f515ee6833a1c24dfc2eda55bbe3a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Hildur Guðnadóttir) / Chernobyl 체르노빌 (Music From The HBO Miniseries) (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22782&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22782&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 07 Sep 2023 17:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/e5950973e89376fce10af38d55ccd12e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Legend / Evolver (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22781&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22781&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 07 Sep 2023 17:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[12,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/5b6bc6e1b35858fb9b81b77d1c839503.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gossip / Live In Liverpool (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22780&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22780&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 07 Sep 2023 17:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[10,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/b6920eaa9a0728916b415035a43924a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ben Folds Five / Unauthorized Biography Of Reinhold Messner (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22779&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22779&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 07 Sep 2023 17:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[12,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201704/6985_shop1_786556.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beady Eye / Be (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22778&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22778&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 07 Sep 2023 17:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[11,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201511/2153_shop1_796356.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Amine / Limbo (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22777&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22777&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 07 Sep 2023 17:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[13,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/cc4375d2924b491b30aee3d8a53c0707.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
