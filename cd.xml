@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 05:37:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 17:37:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Fujii Kaze / Love All Serve All (CD, Standard, HK Import) *예약상품 (10월 4일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22828&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22828&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Sep 2023 17:34:55 GMT</pubDate>
+            <content:encoded><![CDATA[28,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/20e1ba9df5c6e2596bdf06d3cb190008.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fujii Kaze / Help Ever Hurt Never (CD, Standard Edition, HK Import) *예약상품 (10월 4일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22827&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22827&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Sep 2023 17:34:55 GMT</pubDate>
+            <content:encoded><![CDATA[28,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/56aa49531fc964cc626469d149f3a127.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fujii Kaze / Help Ever Hurt Never (CD, Standard, Made In Japan)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22826&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22826&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Sep 2023 17:34:55 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/a179449b58e69f0dd9249b7db7553dae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tohoku Shinkansen / Thru Traffic (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22820&amp;cate_no=24&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Sat, 09 Sep 2023 17:34:53 GMT</pubDate>
             <content:encoded><![CDATA[22,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/767a28fb8db47bdbdd1af6d921183fc1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Romy / Mid Air (CD, 수입반)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22785&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22785&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 08 Sep 2023 05:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[17,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/73cf39251338705376334d34cf518970.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Romy / Mid Air (CD, 국내반)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22784&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22784&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 08 Sep 2023 05:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[17,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/0602f402f75fdfc04e147e69a2fa7b6b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cesaria Evora / Cafe Atlantico (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22783&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22783&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 07 Sep 2023 17:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/17f515ee6833a1c24dfc2eda55bbe3a5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
