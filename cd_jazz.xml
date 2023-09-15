@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 05:37:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 17:37:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Noriko Miyamoto with Isao Suzuki / Push (CD, UK Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22850&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22850&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Sep 2023 17:36:31 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/e195f91f3de716cbb7ade08c84e52216.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Arild Andersen / Molde Concert (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22776&amp;cate_no=46&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 23 Aug 2023 17:36:23 GMT</pubDate>
             <content:encoded><![CDATA[12,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201511/2123_shop1_383429.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Carroll Kirby / Blowout (CD, Digipak)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22601&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22601&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Mon, 07 Aug 2023 17:36:44 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/e4a092e1b354ca306e01effc07d3d529.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

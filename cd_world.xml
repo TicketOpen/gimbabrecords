@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 05:37:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 17:37:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Various Artists / With Love Volume 1 : Compiled By Miche (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22853&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22853&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Sep 2023 17:36:52 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/e40870626d0df37390bf8a24dc7e3a9c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bala Desejo / Sim Sim Sim (CD, UK Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22848&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22848&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Sep 2023 17:36:52 GMT</pubDate>
+            <content:encoded><![CDATA[26,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/372a35539c889aacead60d7e918aadb3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mario Rui Silva / Stories From Another Time 1982​-​1988 (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22795&amp;cate_no=79&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 15 Aug 2023 17:36:56 GMT</pubDate>
             <content:encoded><![CDATA[18,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/bf29a0d854c1442ff909a768532d8018.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Astrud Gilberto / Beach Samba (SHM-CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22651&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22651&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Tue, 15 Aug 2023 17:36:56 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/736c711d66f2ddf666967f8ae8946e81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Astrud Gilberto / Look To The Rainbow (SHM-CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22650&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22650&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Tue, 15 Aug 2023 17:36:56 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/02cc3841bf84744a0bb6a09a507288cd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
