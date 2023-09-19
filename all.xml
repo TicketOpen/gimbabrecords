@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 17:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 05:37:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,14 +392,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/ce993f731a33b5010f2d12777f58a2f4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Car Seat Headrest / Teens Of Style (Vinyl) *예약상품 (9월 18일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=2533&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=2533&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 14 Sep 2023 17:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/31918bec227d961ed5a0b79af26bb7d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Fujii Kaze / Help Ever Hurt Never (Limited Colored Vinyl, 2LP + Flexi Disc+Poster) *예약상품 (10월초 배송 예정) / "구매시 유의사항"을 확인하세요 (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22272&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22272&amp;cate_no=42&amp;display_group=1</guid>
@@ -448,30 +440,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/7009279dddb57c31d56c8c636185da08.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Car Seat Headrest / Teens Of Denial  (Vinyl, 2LP) *예약상품 (9월 18일 이후 배송 시작) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=4767&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=4767&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 14 Sep 2023 17:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[47,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201607/4767_shop1_677964.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Car Seat Headrest / Twin Fantasy (Mirror to Mirror) (White Vinyl, 2LP) *예약상품 (9월 18일 이후 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22586&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22586&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 14 Sep 2023 17:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[47,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/094e8f5822d6f7fcdd8ccf961208398f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Car Seat Headrest / Twin Fantasy ("Face To Face",  Re-recording Version, 2LP) *예약상품 (9월 18일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=10254&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=10254&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 14 Sep 2023 17:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[47,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201803/10253_shop1_644188.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tyler, The Creator / Call Me If You Get Lost: The Estate Sale (Geneva Blue Vinyl, 3LP, Limited Deluxe Edition)*예약상품 (9월 18일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22738&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22738&amp;cate_no=42&amp;display_group=1</guid>
@@ -486,6 +454,38 @@
             <pubDate>Fri, 15 Sep 2023 05:35:50 GMT</pubDate>
             <content:encoded><![CDATA[28,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/56aa49531fc964cc626469d149f3a127.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fujii Kaze / Love All Serve All (CD, Standard, HK Import) *예약상품 (10월 4일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22828&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22828&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Sep 2023 05:35:23 GMT</pubDate>
+            <content:encoded><![CDATA[28,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/20e1ba9df5c6e2596bdf06d3cb190008.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Various Artists) / Call Me By Your Name 콜 미 바이 유어 네임 (Limited Velvet Purple Vinyl 2LP, 15,000매 한정반 / 일련번호 표기) *예약상품 (9월 26일 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22802&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22802&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Sep 2023 05:35:23 GMT</pubDate>
+            <content:encoded><![CDATA[56,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/60bfe269fc02de5a7f626bd4fc7a8ab5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이랑 / LANG LEE  LIVE IN SEOUL 2022 (Clear Pink 투명 핑크 Vinyl) *예약상품 (9월 18일 발매 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21642&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21642&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Sep 2023 05:35:23 GMT</pubDate>
+            <content:encoded><![CDATA[47,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/560ddd879f5b0fca24bd4574ee3c5eb9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알레프 / 사과향 (140g Pink Splatter Color Vinyl) *예약상품 (12월 22일 이후 배송 예정) / 9월 15일까지 결제가 완료된 주문은 추가 5% 적립 (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22793&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22793&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Sep 2023 05:35:23 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/08e2e0f810b81fc2f800cfc58bb3b00b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Eminem / Curtain Call 2 (Vinyl, 2LP) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
