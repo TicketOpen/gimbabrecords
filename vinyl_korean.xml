@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 05:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 17:37:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시인과 촌장 / 3집 숲 (180g Black Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22866&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22866&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Sep 2023 17:37:11 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/51d4ee2dbe95b53aedfee100a2debd2d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[들국화 / 들국화 II (180g Black Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22865&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22865&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Sep 2023 17:37:11 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/b484f0e210cea43110ae81ee0b430d39.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세이수미 Say Sue Me / 10 (EP, Transparent Clear Vinyl, Limited Edition, 45 RPM)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22844&amp;cate_no=52&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 12 Sep 2023 05:37:11 GMT</pubDate>
             <content:encoded><![CDATA[37,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/71d6598ea9ed292270c9bc0e76dbcdba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라쿠나(Lacuna) / I Love You (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22809&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22809&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Sep 2023 05:37:11 GMT</pubDate>
-            <content:encoded><![CDATA[40,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/c05f918ac734b231ecb9c70e764432a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라쿠나(Lacuna) / Cake (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22808&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22808&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Sep 2023 05:37:11 GMT</pubDate>
-            <content:encoded><![CDATA[37,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/f7b2cf5884c444b6eb872cc6f8668a54.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
