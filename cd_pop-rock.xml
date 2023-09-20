@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 05:37:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 17:37:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sparklehorse / Bird Machine (CD, Digi-sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22883&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22883&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Wed, 20 Sep 2023 17:35:51 GMT</pubDate>
+            <content:encoded><![CDATA[26,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/3eb6abf4281cbc1b1c02dafd75d78dce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beck, Bogert & Appice / Live In Japan 1973 & Live In London 1974 (4CD Box Set)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22881&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22881&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Wed, 20 Sep 2023 17:35:51 GMT</pubDate>
+            <content:encoded><![CDATA[93,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/b7dd2f7c7e6ae936007d5601172d6263.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various Artists / Paul Hillery Presents: We Are The Children Of The Setting Sun (CD, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22852&amp;cate_no=30&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 07 Sep 2023 17:36:15 GMT</pubDate>
             <content:encoded><![CDATA[11,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201511/2153_shop1_796356.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[George Harrison / All Things Must Pass: 50th Anniversay (Deluxe 3CD Box Set + Exclusive sticker pack, Limited Edition) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22765&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22765&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Wed, 06 Sep 2023 17:35:47 GMT</pubDate>
-            <content:encoded><![CDATA[27,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/e8d0d77f5dc1cbee4333287e98dc1abb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mitski / The Land Is Inhospitable and So Are We (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22724&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22724&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 29 Aug 2023 17:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[18,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/66c0f5ac204da62f11d8320760c7d4cf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

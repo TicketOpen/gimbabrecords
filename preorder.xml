@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 05:37:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 17:37:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Sat, 16 Sep 2023 05:36:06 GMT</pubDate>
             <content:encoded><![CDATA[42,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/f5154886df1ce6e026d1d28cbadbc1c1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oasis / The Masterplan (Limited Silver Vinyl, 2LP, Remaster) *예약상품 (11월 중순 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22891&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22891&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 20 Sep 2023 17:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/fede70285edda90b5d4d0d768642bfe8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oasis / The Masterplan (Black Vinyl, 2LP, Remastered) *예약상품 (11월 중순 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22890&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22890&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 20 Sep 2023 17:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/048fa57bc70191a5b903df1372032411.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하세가와 요헤이의 도쿄 레코드 100 (단행본, Book) *예약상품 (10월 10일 이후 배송 예정)]]></title>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 19 Sep 2023 05:35:23 GMT</pubDate>
             <content:encoded><![CDATA[56,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/60bfe269fc02de5a7f626bd4fc7a8ab5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알레프 / 사과향 (140g Pink Splatter Color Vinyl) *예약상품 (12월 22일 이후 배송 예정) / 9월 15일까지 결제가 완료된 주문은 추가 5% 적립]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22793&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22793&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 19 Sep 2023 05:35:23 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/08e2e0f810b81fc2f800cfc58bb3b00b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Radwimps & 陣内一真 / 스즈메의 문단속 OST (Suzume no Tojimari OST) (Black Vinyl, 2LP - 일본 프레싱) *예약상품 (12월 22일 이후 배송 시작) / 8월 25일까지 결제 완료 분은 추가 5% 적립]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21018&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21018&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 19 Sep 2023 17:35:35 GMT</pubDate>
-            <content:encoded><![CDATA[69,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e0353d91c13c715ba0edeb9be19e3121.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
