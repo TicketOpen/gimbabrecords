@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 17:37:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 05:37:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/5fc885ca98bc6d67dfdc41140e906fb0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Mitski / The Land Is Inhospitable and So Are We (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22723&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22723&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Tue, 29 Aug 2023 17:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[18,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/d1bb0233e3ae2d480148f45bb5ec80e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[위댄스 / 숨(SUM) (Cassette, Clear Shell)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22703&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22703&amp;cate_no=26&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Sat, 12 Aug 2023 17:35:09 GMT</pubDate>
             <content:encoded><![CDATA[42,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/a4fbbe687716daa2c530065cebc58edd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tatsuro Yamashita / Spacy (Limited Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22638&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22638&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Fri, 22 Sep 2023 05:35:21 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/5809a255458c09fc8b8a819128eeedc5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
