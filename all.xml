@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Sep 2023 05:37:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2023 17:37:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Travis Scott / Utopia (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22920&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22920&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sat, 23 Sep 2023 17:34:59 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/a5be7c67c9f687720c7fd0b26d3eb88f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cesaria Evora / Essential Cesaria Evora (2CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22916&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 15 Sep 2023 17:35:14 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201607/4667_shop1_173612.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Noriko Miyamoto with Isao Suzuki / Push (CD, UK Import) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22850&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22850&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 15 Sep 2023 17:35:14 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/e195f91f3de716cbb7ade08c84e52216.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Amaarae / Fountain Baby (Silver Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
@@ -816,7 +816,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/d65c512dae7a447d51c64107715c586c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Manitoba / Jacknuggeted EP (CD, paper sleeve) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
+            <title><![CDATA[Manitoba (aka Caribou) / Jacknuggeted EP (CD, paper sleeve) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22530&amp;cate_no=31&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22530&amp;cate_no=31&amp;display_group=1</guid>
             <pubDate>Fri, 28 Jul 2023 05:36:19 GMT</pubDate>
@@ -968,6 +968,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/23ab57ab0859ca71d1861da33ad5559f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Travis Scott / Utopia (CD) (김밥레코즈 ─ CD ─ Hip Hop)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22920&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22920&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Sat, 23 Sep 2023 17:36:12 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/a5be7c67c9f687720c7fd0b26d3eb88f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[UGK / Ridin' Dirty (CD, US Import) *한정수량 할인 (김밥레코즈 ─ CD ─ Hip Hop)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22886&amp;cate_no=45&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22886&amp;cate_no=45&amp;display_group=1</guid>
@@ -1054,14 +1062,6 @@
             <pubDate>Mon, 10 Jul 2023 17:37:11 GMT</pubDate>
             <content:encoded><![CDATA[26,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/0424853edba3e4822c0bff96ce1c4238.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eminem / Encore (CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD ─ Hip Hop)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22328&amp;cate_no=45&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22328&amp;cate_no=45&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Jun 2023 17:36:37 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/5649eced76b6de46ce1c7cbaf04f111b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Keith Jarrett / The Koln Concert (CD, US Import) *한정수량 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
