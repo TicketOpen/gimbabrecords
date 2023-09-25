@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 05:37:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 17:37:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (The Wonders 외) / That Thing You Do! 댓 싱 유 두 (Red Vinyl + Bonus 7" + 12p booklet) *예약상품 (11월 중순 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22923&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22923&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 25 Sep 2023 17:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[79,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/8a9e5d4da6e12f5ca827e788a2f398c0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Skid Row / Skid Row (Colored Vinyl - Red & Black 혼합 색상) *예약상품 (10월 11일 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22922&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22922&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 25 Sep 2023 17:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/0e78fd6d253ffb09ae899f658c7077d0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Amaarae / Fountain Baby (Silver Vinyl) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22919&amp;cate_no=25&amp;display_group=1</link>
@@ -16,15 +32,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/30685cdec768ec6e31a7e955553a10aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Dexter Wansel / Life On Mars (180g Translucent Blue Vinyl, Limited Numbered Vinyl) *추가 할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22918&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22918&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Sep 2023 17:35:32 GMT</pubDate>
-            <content:encoded><![CDATA[40,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/34bfdf6f0784937b2d7b4f3b94a1e8af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dexter Wansel / Life On Mars (180g Translucent Blue Vinyl, Limited Numbered Vinyl) *한정수량 할인]]></title>
+            <title><![CDATA[Dexter Wansel / Life On Mars (180g Translucent Blue Vinyl, Limited Numbered Vinyl) *한정수량 할인 / 예약상품 (10월 20일 이후 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22917&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22917&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Fri, 22 Sep 2023 17:35:32 GMT</pubDate>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 21 Sep 2023 17:35:46 GMT</pubDate>
             <content:encoded><![CDATA[39,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/456d7557a45f1b8d30e696704347e7fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Liam Gallagher / Knebworth 22 (Vinyl, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22904&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22904&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 21 Sep 2023 17:35:46 GMT</pubDate>
-            <content:encoded><![CDATA[58,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/8bfaa8779bea4d7d7deeb5ab16914bfa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
