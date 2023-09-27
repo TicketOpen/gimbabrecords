@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 17:37:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 05:36:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/8a2d5716deea54d538080504c64cd1ff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Skid Row / Subhuman Race (Black Vinyl, 2LP) *예약상품 (10월 11일 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22921&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22921&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 25 Sep 2023 17:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[54,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/5a2d77e1ccd4d8d68c14188ff8c82de4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Skid Row / Skid Row (Colored Vinyl - Red & Black 혼합 색상) *예약상품 (10월 11일 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22922&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22922&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 25 Sep 2023 17:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/0e78fd6d253ffb09ae899f658c7077d0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤지영 / 정규 1집 나의 정원에서 (Clear Vinyl) *예약상품 (10월 23일 발매 예정, 6월 29일 주문 마감) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22271&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22271&amp;cate_no=42&amp;display_group=1</guid>
@@ -422,22 +438,6 @@
             <pubDate>Mon, 25 Sep 2023 17:35:48 GMT</pubDate>
             <content:encoded><![CDATA[41,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/34bfdf6f0784937b2d7b4f3b94a1e8af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Skid Row / Skid Row (Colored Vinyl - Red & Black 혼합 색상) *예약상품 (10월 11일 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22922&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22922&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 25 Sep 2023 17:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/0e78fd6d253ffb09ae899f658c7077d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Skid Row / Subhuman Race (Black Vinyl, 2LP) *예약상품 (10월 11일 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22921&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22921&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 25 Sep 2023 17:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[54,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/5a2d77e1ccd4d8d68c14188ff8c82de4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤미래 / 1집 As Time Goes By (180g Clear Vinyl, 2LP) *예약상품 (11월 15일 발매 예정) (김밥레코즈 ─ Pre-Order)]]></title>
