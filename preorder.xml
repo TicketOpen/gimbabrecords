@@ -4,9 +4,57 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 05:36:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 17:37:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유다빈밴드 / 유다빈밴드 1집 (Vinyl) *예약상품 (10월 11일부터 발송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22930&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22930&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Sep 2023 17:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/ad67bff3eba1b552760ca2f8efad3bef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유다빈밴드 / GSI Edition (Vinyl) *예약상품 (10월 11일부터 발송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22929&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22929&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Sep 2023 17:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/e5c57743934814a663f5439a64f0e38d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설(SURL) / GSI Edition (Vinyl) *예약상품 (10월 11일부터 발송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22927&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22927&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Sep 2023 17:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/154c7ad77bfdf42bcb7eed1423d8f3f5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (The Wonders 외) / That Thing You Do! 댓 싱 유 두 (Red Vinyl + Bonus 7" + 12p booklet) *예약상품 (11월 중순 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22923&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22923&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 25 Sep 2023 17:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[79,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/8a9e5d4da6e12f5ca827e788a2f398c0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / '오늘도 안녕을 비네' 제임스레코드 컴필레이션 2023 (Clear Blue Vinyl, 200장 한정) *예약상품 (10월 11일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22926&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22926&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Sep 2023 17:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/e16c18f40c4efb9388e1a28ca74226e0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파란노을 Parannoul / After The Magic (Magenta Colored Vinyl, Limited Edition) *예약상품 (10월 20일 이후 배송 시작)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22925&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22925&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Sep 2023 17:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/9ac16df6f1083219f9e29cd9e7473bc5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Skid Row / Subhuman Race (Black Vinyl, 2LP) *예약상품 (10월 11일 이후 배송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22921&amp;cate_no=42&amp;display_group=1</link>
@@ -40,14 +88,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/f590246d2d572db365c70e87bf50fa50.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[OST (The Wonders 외) / That Thing You Do! 댓 싱 유 두 (Red Vinyl + Bonus 7" + 12p booklet) *예약상품 (11월 중순 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22923&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22923&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 25 Sep 2023 17:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[79,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/8a9e5d4da6e12f5ca827e788a2f398c0.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[Dexter Wansel / Life On Mars (180g Translucent Blue Vinyl, Limited Numbered Vinyl) *한정수량 할인 / 예약상품 (10월 20일 이후 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22917&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22917&amp;cate_no=42&amp;display_group=1</guid>
@@ -62,46 +102,6 @@
             <pubDate>Fri, 22 Sep 2023 05:35:35 GMT</pubDate>
             <content:encoded><![CDATA[67,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/77f06d3c28e45439c030355eb6230ddc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에코브릿지 / COMPILATION (180g Clear Orange Vinyl + 4페이지 가사집, 한정반) *예약상품 (10월 20일경 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20850&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20850&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 21 Sep 2023 17:36:06 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/80c269b5c3dfa3566717d7bb32ac495b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알레프 / 사과향 (140g Pink Splatter Color Vinyl) *예약상품 (12월 22일 이후 배송 예정) / 9월 15일까지 결제가 완료된 주문은 추가 5% 적립]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22793&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22793&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 21 Sep 2023 05:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/08e2e0f810b81fc2f800cfc58bb3b00b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bobby Caldwell / Bobby Caldwell (Vinyl, 2023 Remastered Reissue) *예약상품 (2차 예약, 10월 10일 이후 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22506&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22506&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sat, 16 Sep 2023 05:36:06 GMT</pubDate>
-            <content:encoded><![CDATA[42,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/f5154886df1ce6e026d1d28cbadbc1c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oasis / The Masterplan (Limited Silver Vinyl, 2LP, Remaster) *예약상품 (11월 중순 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22891&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22891&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 20 Sep 2023 17:35:31 GMT</pubDate>
-            <content:encoded><![CDATA[59,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/fede70285edda90b5d4d0d768642bfe8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oasis / The Masterplan (Black Vinyl, 2LP, Remastered) *예약상품 (11월 중순 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22890&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22890&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 20 Sep 2023 17:35:31 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/048fa57bc70191a5b903df1372032411.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

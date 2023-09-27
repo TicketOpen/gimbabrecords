@@ -4,25 +4,9 @@
         <title>김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 05:36:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 17:37:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Nick Cave & The Bad Seeds / Murder Ballads (Remastered CD + DVD, NTSC Version) *1회 한정 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21729&amp;cate_no=64&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21729&amp;cate_no=64&amp;display_group=1</guid>
-            <pubDate>Sat, 29 Apr 2023 17:36:59 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201810/f2d87c5c47bb961b6573993ab413b700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nick Cave & The Bad Seeds / Henry's Dream (Remastered CD + DVD, NTSC Version) *1회 한정 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21727&amp;cate_no=64&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21727&amp;cate_no=64&amp;display_group=1</guid>
-            <pubDate>Mon, 03 Apr 2023 17:37:55 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201509/632_shop1_473684.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Nick Cave & The Bad Seeds / The Boatman's Call (Remastered CD + DVD, NTSC Version) *1회 한정 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19566&amp;cate_no=64&amp;display_group=1</link>
@@ -102,6 +86,22 @@
             <pubDate>Fri, 22 Sep 2023 17:37:38 GMT</pubDate>
             <content:encoded><![CDATA[16,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/0523a093919d19ab88bdcdc0b3ed7fc2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Queen / Live At Wembley Stadium (2 DVD Set, 25th Anniversary Edition) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19757&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19757&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Sep 2023 17:37:05 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/773453bdc9d80e040b4ec94788924c5c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Keith Jarrett / The Art Of Improvisation (Documentary) (Blu-ray)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18779&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18779&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Sep 2023 17:37:05 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/a81d047aa4c871b1f2e985615a398138.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
