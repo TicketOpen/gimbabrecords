@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 17:37:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 05:36:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[터치드(TOUCHED) / GSI Edition (Vinyl) *예약상품 (10월 11일부터 발송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22934&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22934&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 04 Oct 2023 05:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/fa99601e62546d4500819b04c9727686.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[터치드(TOUCHED) / Purple (Purple Colored Vinyl) *예약상품 (10월 11일부터 발송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22933&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22933&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 04 Oct 2023 05:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/a52cf9d182ae004ccb7daf9a67271dcf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Christopher Larkin, David Peacock and Augustine Mayuga Gonzales / 할로우 나이트 Hollow Knight Piano Collections (Vinyl 2LP + 24p 책자) *예약상품 (11월 20일 이후 배송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22932&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 25 Sep 2023 17:35:27 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/0e78fd6d253ffb09ae899f658c7077d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Amaarae / Fountain Baby (Silver Vinyl) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22919&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22919&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Sep 2023 17:35:32 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/30685cdec768ec6e31a7e955553a10aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dexter Wansel / Life On Mars (180g Translucent Blue Vinyl, Limited Numbered Vinyl) *한정수량 할인 / 예약상품 (10월 20일 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22917&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22917&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Sep 2023 17:35:32 GMT</pubDate>
-            <content:encoded><![CDATA[41,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/34bfdf6f0784937b2d7b4f3b94a1e8af.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
