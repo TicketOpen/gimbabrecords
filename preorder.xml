@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 17:37:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 05:37:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Various Artists / '오늘도 안녕을 비네' 제임스레코드 컴필레이션 2023 (Clear Blue Vinyl, 200장 한정) *예약상품 (10월 11일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22926&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22926&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Sep 2023 17:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/e16c18f40c4efb9388e1a28ca74226e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유다빈밴드 / GSI Edition (Vinyl) *예약상품 (10월 11일부터 발송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22929&amp;cate_no=42&amp;display_group=1</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Sep 2023 17:35:33 GMT</pubDate>
             <content:encoded><![CDATA[42,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/154c7ad77bfdf42bcb7eed1423d8f3f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / '오늘도 안녕을 비네' 제임스레코드 컴필레이션 2023 (Clear Blue Vinyl, 200장 한정) *예약상품 (10월 11일 발매)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22926&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22926&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 27 Sep 2023 17:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/e16c18f40c4efb9388e1a28ca74226e0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파란노을 Parannoul / After The Magic (Magenta Colored Vinyl, Limited Edition) *예약상품 (10월 20일 이후 배송 시작)]]></title>
