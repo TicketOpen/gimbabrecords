@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Hip Hop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 05:37:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 17:37:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Onra / Fundamentals (CD, US Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22948&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22948&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Thu, 05 Oct 2023 17:36:28 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201602/2780_shop1_480337.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Travis Scott / Utopia (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22920&amp;cate_no=45&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 12 Jul 2023 17:37:20 GMT</pubDate>
             <content:encoded><![CDATA[23,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/ca73d611af9fe0c94648905b9ef668b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Little Simz / No Thank You (CD, Digipak)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22407&amp;cate_no=45&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22407&amp;cate_no=45&amp;display_group=1</guid>
-            <pubDate>Mon, 10 Jul 2023 17:37:11 GMT</pubDate>
-            <content:encoded><![CDATA[26,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/0424853edba3e4822c0bff96ce1c4238.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
