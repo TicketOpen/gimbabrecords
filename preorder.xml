@@ -4,16 +4,16 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 05:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 17:37:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[실리카겔 / 정규 1집 실리카겔 (Vinyl, 2LP) *예약상품 (10월 17일 발송 예정, 8월 13일 주문 마감)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22524&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22524&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 06 Oct 2023 05:35:53 GMT</pubDate>
-            <content:encoded><![CDATA[46,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/e93c16107c69b097c58baacf0d5eb30f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[하세가와 요헤이의 도쿄 레코드 100 (단행본, Book) *예약상품 (10월 20일 이후 배송 예정 - 배송 예정일이 연기되었습니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21582&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21582&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 06 Oct 2023 17:35:47 GMT</pubDate>
+            <content:encoded><![CDATA[17,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/fc51e7f523160cebd20ce77be87640b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tatsuro Yamashita / Christmas Eve (40th Anniversary Edition, 12" Vinyl, Limited Edition) *예약상품 (12월 22일 이후 배송 예정)]]></title>
@@ -22,6 +22,30 @@
             <pubDate>Thu, 05 Oct 2023 17:35:49 GMT</pubDate>
             <content:encoded><![CDATA[30,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/1f7415855617c01d5a41dd6638eecb24.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bobby Caldwell / Bobby Caldwell (Vinyl, 2023 Remastered Reissue) *예약상품 (2차 예약, 10월 10일 이후 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22506&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22506&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 06 Oct 2023 17:35:47 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/f5154886df1ce6e026d1d28cbadbc1c1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김뜻돌 / 꿈에서 걸려온 전화 (투명 블루 Vinyl, 발매 3주년 기념반) *예약상품 (10월 19일 발매 예정) / 1인 1매만 구매 가능 / 별도의 입금기한 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22951&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22951&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 06 Oct 2023 17:35:47 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/42159e9664b8ff779a734026f816a1b7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[실리카겔 / 정규 1집 실리카겔 (Vinyl, 2LP) *예약상품 (10월 17일 발송 예정, 8월 13일 주문 마감)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22524&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22524&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 06 Oct 2023 05:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[46,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/e93c16107c69b097c58baacf0d5eb30f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bruno Berle / No Reino Dos Afetos (Vinyl) *예약상품 (11월 10일경 배송 예정)]]></title>
@@ -78,30 +102,6 @@
             <pubDate>Thu, 28 Sep 2023 05:35:40 GMT</pubDate>
             <content:encoded><![CDATA[54,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/2678e956fae7f4cda498c87e56eebe6c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Christopher Larkin, David Peacock and Augustine Mayuga Gonzales / 할로우 나이트 Hollow Knight Piano Collections (Vinyl 2LP + 24p 책자) *예약상품 (11월 20일 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22932&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22932&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Sep 2023 05:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[89,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/8ae5db5aefe2401ed7deec390e438993.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유다빈밴드 / 유다빈밴드 1집 (Vinyl) *예약상품 (10월 11일부터 발송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22930&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22930&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 27 Sep 2023 17:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/ad67bff3eba1b552760ca2f8efad3bef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설(SURL) / GSI Edition (Vinyl) *예약상품 (10월 11일부터 발송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22927&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22927&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 27 Sep 2023 17:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[42,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/154c7ad77bfdf42bcb7eed1423d8f3f5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
