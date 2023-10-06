@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 17:37:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 05:37:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/8a2d5716deea54d538080504c64cd1ff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[실리카겔 / 정규 1집 실리카겔 (Vinyl, 2LP) *예약상품 (10월 17일 발송 예정, 8월 13일 주문 마감) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22524&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22524&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 06 Oct 2023 05:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[46,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/e93c16107c69b097c58baacf0d5eb30f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Tatsuro Yamashita / Christmas Eve (40th Anniversary Edition, 12" Vinyl, Limited Edition) *예약상품 (12월 22일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22950&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22950&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 27 Sep 2023 17:35:33 GMT</pubDate>
             <content:encoded><![CDATA[42,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/154c7ad77bfdf42bcb7eed1423d8f3f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파란노을 Parannoul / After The Magic (Magenta Colored Vinyl, Limited Edition) *예약상품 (10월 20일 이후 배송 시작) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22925&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22925&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 27 Sep 2023 17:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[44,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/9ac16df6f1083219f9e29cd9e7473bc5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Eminem / Curtain Call 2 (Vinyl, 2LP) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -1832,14 +1832,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/51d4ee2dbe95b53aedfee100a2debd2d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Nick Cave & The Bad Seeds / The Boatman's Call (Remastered CD + DVD, NTSC Version) *1회 한정 할인 (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19566&amp;cate_no=64&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19566&amp;cate_no=64&amp;display_group=1</guid>
-            <pubDate>Mon, 03 Apr 2023 17:37:55 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/9d3b0e77ec5487f17e5962b4a2f21bb2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tool / Opiate² (Blu-ray + 46p Hardcover Art Book) (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18681&amp;cate_no=64&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18681&amp;cate_no=64&amp;display_group=1</guid>
@@ -1918,6 +1910,14 @@
             <pubDate>Wed, 27 Sep 2023 17:37:05 GMT</pubDate>
             <content:encoded><![CDATA[19,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/773453bdc9d80e040b4ec94788924c5c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nick Cave & The Bad Seeds / The Boatman's Call (Remastered CD + DVD, NTSC Version) *1회 한정 할인 (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19566&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19566&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Mon, 03 Apr 2023 17:37:55 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/9d3b0e77ec5487f17e5962b4a2f21bb2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Keith Jarrett / The Art Of Improvisation (Documentary) (Blu-ray) (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
