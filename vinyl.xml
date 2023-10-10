@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 17:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 05:37:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Marcos Valle & Azymuth / Fly Cruzeiro (Limited Colored Vinyl, 500매 한정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22957&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22957&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 10 Oct 2023 05:35:15 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/938b7d954686cc2e44190551933defa2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lisa Ono / Bossa Carioca (Vinyl) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22956&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 05 Oct 2023 17:35:30 GMT</pubDate>
             <content:encoded><![CDATA[57,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201706/7362_shop1_365232.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carlos Nino & Friends / (I'm just) Chillin', on Fire (Vinyl, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22944&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22944&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 05 Oct 2023 17:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[53,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/02b7e8bfa082a916d459ca8aa36d9a16.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
