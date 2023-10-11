@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 17:37:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 05:37:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,20 +184,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/381e6b584b6691b2a3be358cc5b0ba3a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[개인구매링크 (김*현님) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22959&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22959&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 10 Oct 2023 17:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[54,000원]]></content:encoded>
-            <enclosure url="http://img.echosting.cafe24.com/thumb/img_product_medium.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[유재하 / 사랑하기 때문에 Special Vinyl Edition (180g Emerald Vinyl 에메랄드 컬러반) *10월 11일 0시~24시 사이 구매 및 결제를 완료하신 분들께는 추가로 약 5% (3,000원)를 추가 적립해  드립니다 (배송완료 후 일괄 적립). (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22958&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22958&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Tue, 10 Oct 2023 17:35:08 GMT</pubDate>
             <content:encoded><![CDATA[62,400원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/0b735a45c498584db9c18994b4111a3d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marcos Valle & Azymuth / Fly Cruzeiro (Limited Colored Vinyl, 500매 한정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22957&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22957&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 11 Oct 2023 05:35:50 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/938b7d954686cc2e44190551933defa2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[She & Him / A Very She & Him Christmas (Cassette) (김밥레코즈 ─ Cassette)]]></title>
