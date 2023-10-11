@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 05:37:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 17:37:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카더가든 / 정규 3집 Harmony (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22971&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22971&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 11 Oct 2023 17:35:01 GMT</pubDate>
+            <content:encoded><![CDATA[17,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/125e3d48216e0f32bab722c41c1151f2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sufjan Stevens / Javelin (CD + 48p booklet) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22967&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 20 Sep 2023 17:35:05 GMT</pubDate>
             <content:encoded><![CDATA[93,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/b7dd2f7c7e6ae936007d5601172d6263.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / With Love Volume 1 : Compiled By Miche (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22853&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22853&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 15 Sep 2023 17:35:14 GMT</pubDate>
-            <content:encoded><![CDATA[24,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/e40870626d0df37390bf8a24dc7e3a9c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
