@@ -4,11 +4,19 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 05:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 17:37:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[유재하 / 사랑하기 때문에 Special Vinyl Edition (180g Emerald Vinyl 에메랄드 컬러반) *10월 11일 0시~24시 사이 구매 및 결제를 완료하신 분들께는 추가로 약 5% (3,000원)를 추가 적립해  드립니다 (배송완료 후 일괄 적립).]]></title>
+            <title><![CDATA[Miiro(미로) / 계절범죄 (10" Vinyl) *예약상품 (10월 17일 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22986&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22986&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Thu, 12 Oct 2023 17:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/8a5534340890d895015b74104460a5b7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유재하 / 사랑하기 때문에 Special Vinyl Edition (180g Emerald Vinyl 에메랄드 컬러반)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22958&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22958&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Tue, 10 Oct 2023 17:37:05 GMT</pubDate>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 26 Sep 2023 17:37:00 GMT</pubDate>
             <content:encoded><![CDATA[43,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/55ec73715262610df26b812c33624c3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이들(Idol) / 아이들과 함께 춤을 (Limited Green Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22880&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22880&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Wed, 20 Sep 2023 17:37:02 GMT</pubDate>
-            <content:encoded><![CDATA[40,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/2cba96b50925f7508d0efbf6944fa40f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

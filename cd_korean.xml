@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 05:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 17:37:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한로로 / EP 1집 이상비행 (CD + 포토북)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22987&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22987&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Thu, 12 Oct 2023 17:35:37 GMT</pubDate>
+            <content:encoded><![CDATA[19,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/26c0a2f5befcab07854459416260853b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카더가든 / 정규 3집 Harmony (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22971&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 03 Aug 2023 17:36:12 GMT</pubDate>
             <content:encoded><![CDATA[10,400원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/c0b986ac8494df4edd642f7f82809f92.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전진희 / 정규 3집 아무도 모르게 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22578&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22578&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Thu, 03 Aug 2023 17:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[18,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/f69c267fccb8c2e557bbd115e8e306c3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
