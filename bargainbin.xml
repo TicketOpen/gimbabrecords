@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Bargain Bin</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 05:37:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 17:37:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Wed, 06 Sep 2023 17:35:33 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202102/279b961129350b0f4618742d2fc939e6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Helloween / Keeper Of The Seven Keys Part 1 (CD) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21510&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21510&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Fri, 13 Oct 2023 17:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201602/2756_shop1_373473.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강승원 / 일집 (180g Vinyl) *한정수량 할인]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 05:44:55 GMT</pubDate>
             <content:encoded><![CDATA[114,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/41b1b8b23dc76855a12fc656a0e9f504.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Fleetwood Mac / Original Album Series (5CD) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=16643&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=16643&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Thu, 12 Oct 2023 17:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[26,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202106/62f271fa2d994c5c1cd6d3d8569ee977.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
