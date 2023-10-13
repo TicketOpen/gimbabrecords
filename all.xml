@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 17:37:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 05:37:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,7 +40,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/125e3d48216e0f32bab722c41c1151f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sufjan Stevens / Javelin (CD + 48p booklet) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
+            <title><![CDATA[Sufjan Stevens / Javelin (CD + 48p booklet) *한정수량 할인 / 예약상품 (10월말 발송 예정) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22967&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22967&amp;cate_no=24&amp;display_group=1</guid>
             <pubDate>Tue, 10 Oct 2023 17:35:00 GMT</pubDate>
@@ -102,6 +102,22 @@
             <pubDate>Wed, 20 Sep 2023 17:35:05 GMT</pubDate>
             <content:encoded><![CDATA[23,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/e68f28282e1d805be40997b75ab3924f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김트리오 / Riverside Rendezvous: 12 Hits (130g Black Vinyl) *예약상품 (10월 26일 발매 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22989&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22989&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 13 Oct 2023 05:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/7baee9e5f516cf439acc16467c430362.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김트리오 / Riverside Rendezvous: 12 Hits (130g Jade Green Vinyl) *예약상품 (10월 26일 발매 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22988&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22988&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 13 Oct 2023 05:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/bf05037333ab9493d69e470a50c4e5d1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Miiro(미로) / 계절범죄 (10" Vinyl) *예약상품 (10월 17일 발송 예정) (김밥레코즈 ─ Vinyl)]]></title>
@@ -182,22 +198,6 @@
             <pubDate>Thu, 12 Oct 2023 17:35:01 GMT</pubDate>
             <content:encoded><![CDATA[46,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/981d067dc297dafd174c5f29cac29e65.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Adriana Calcanhotto / Errante (Vinyl, Gatefold) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22973&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22973&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 12 Oct 2023 17:35:01 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/752b186e2a7c48ff3daee3b024411bae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sufjan Stevens / Javelin (Indie Exclusive Lemonade Colored Vinyl + 48p booklet) *한정수량 할인 + 추가 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22970&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22970&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 10 Oct 2023 17:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[35,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/75437a33ffae82bda521b653368feff3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Explosions in the Sky / End (Cassette) *한정수량 할인 (김밥레코즈 ─ Cassette)]]></title>
@@ -376,11 +376,11 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/7b006abb8bad3c9f5f32382858af7ca6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Audio Technica Turntable - AT-LP3XBT 전자동 벨트 드라이브 스테레오 블루투스 턴테이블 (보너스 레코드 증정) (김밥레코즈 ─ Movies/Merch)]]></title>
+            <title><![CDATA[Audio Technica Turntable - AT-LP3XBT 전자동 벨트 드라이브 스테레오 블루투스 턴테이블 (보너스 레코드 증정) *한정수량 할인 (김밥레코즈 ─ Movies/Merch)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21940&amp;cate_no=27&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21940&amp;cate_no=27&amp;display_group=1</guid>
             <pubDate>Fri, 08 Sep 2023 17:35:18 GMT</pubDate>
-            <content:encoded><![CDATA[479,000원]]></content:encoded>
+            <content:encoded><![CDATA[429,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/ce993f731a33b5010f2d12777f58a2f4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -390,6 +390,38 @@
             <pubDate>Wed, 20 Sep 2023 17:35:25 GMT</pubDate>
             <content:encoded><![CDATA[18,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/8a2d5716deea54d538080504c64cd1ff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김트리오 / Riverside Rendezvous: 12 Hits (130g Black Vinyl) *예약상품 (10월 26일 발매 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22989&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22989&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 13 Oct 2023 05:35:52 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/7baee9e5f516cf439acc16467c430362.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김트리오 / Riverside Rendezvous: 12 Hits (130g Jade Green Vinyl) *예약상품 (10월 26일 발매 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22988&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22988&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 13 Oct 2023 05:35:52 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/bf05037333ab9493d69e470a50c4e5d1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sufjan Stevens / Javelin (Indie Exclusive Lemonade Colored Vinyl + 48p booklet) *예약상품 (10월 27일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22969&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22969&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 11 Oct 2023 17:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[36,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/8a715f378d044fc1aeb5de3e3a8af9b0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sufjan Stevens / Javelin (CD + 48p booklet) *한정수량 할인 / 예약상품 (10월말 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22967&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22967&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 13 Oct 2023 05:35:52 GMT</pubDate>
+            <content:encoded><![CDATA[18,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/c09a8049852d8a22c77b366413de4d6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Miiro(미로) / 계절범죄 (10" Vinyl) *예약상품 (10월 17일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -406,14 +438,6 @@
             <pubDate>Thu, 05 Oct 2023 17:35:49 GMT</pubDate>
             <content:encoded><![CDATA[37,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/1499393f85d2a042475a3f1629700ba6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sufjan Stevens / Javelin (Indie Exclusive Lemonade Colored Vinyl + 48p booklet) *예약상품 (10월 27일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22969&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22969&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 11 Oct 2023 17:35:29 GMT</pubDate>
-            <content:encoded><![CDATA[36,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/8a715f378d044fc1aeb5de3e3a8af9b0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Oasis / The Masterplan (Limited Silver Vinyl, 2LP, Remaster) *예약상품 (11월 중순 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -462,30 +486,6 @@
             <pubDate>Fri, 06 Oct 2023 17:35:47 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/42159e9664b8ff779a734026f816a1b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실리카겔 / 정규 1집 실리카겔 (Vinyl, 2LP) *예약상품 (10월 17일 발송 예정, 8월 13일 주문 마감) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22524&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22524&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 06 Oct 2023 05:35:53 GMT</pubDate>
-            <content:encoded><![CDATA[46,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/e93c16107c69b097c58baacf0d5eb30f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (The Wonders 외) / That Thing You Do! 댓 싱 유 두 (Red Vinyl + Bonus 7" + 12p booklet) *예약상품 (11월 중순 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22923&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22923&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 11 Oct 2023 17:35:29 GMT</pubDate>
-            <content:encoded><![CDATA[79,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/8a9e5d4da6e12f5ca827e788a2f398c0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Lena Raine) / Celeste 셀레스트 (Original Video Game Soundtrack) (Limited Pink Vinyl 2LP) *예약상품 (10월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22931&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22931&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 11 Oct 2023 17:35:29 GMT</pubDate>
-            <content:encoded><![CDATA[54,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/2678e956fae7f4cda498c87e56eebe6c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Eminem / Curtain Call 2 (Vinyl, 2LP) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -688,7 +688,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/145ff18371c85ff2448214b6d3b0bd8c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sufjan Stevens / Javelin (CD + 48p booklet) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <title><![CDATA[Sufjan Stevens / Javelin (CD + 48p booklet) *한정수량 할인 / 예약상품 (10월말 발송 예정) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22967&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22967&amp;cate_no=30&amp;display_group=1</guid>
             <pubDate>Tue, 10 Oct 2023 17:35:49 GMT</pubDate>
@@ -1736,6 +1736,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/4584a454061cf492bb5cc0fbcabeeebd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김트리오 / Riverside Rendezvous: 12 Hits (130g Black Vinyl) *예약상품 (10월 26일 발매 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22989&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22989&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Fri, 13 Oct 2023 05:37:35 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/7baee9e5f516cf439acc16467c430362.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김트리오 / Riverside Rendezvous: 12 Hits (130g Jade Green Vinyl) *예약상품 (10월 26일 발매 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22988&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22988&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Fri, 13 Oct 2023 05:37:35 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/bf05037333ab9493d69e470a50c4e5d1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Miiro(미로) / 계절범죄 (10" Vinyl) *예약상품 (10월 17일 발송 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22986&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22986&amp;cate_no=52&amp;display_group=1</guid>
@@ -1814,22 +1830,6 @@
             <pubDate>Wed, 27 Sep 2023 17:36:59 GMT</pubDate>
             <content:encoded><![CDATA[45,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/e16c18f40c4efb9388e1a28ca74226e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파란노을 Parannoul / After The Magic (Magenta Colored Vinyl, Limited Edition) *예약상품 (10월 20일 이후 배송 시작) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22925&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22925&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Wed, 27 Sep 2023 17:36:59 GMT</pubDate>
-            <content:encoded><![CDATA[44,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/9ac16df6f1083219f9e29cd9e7473bc5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나미 / 카멜레온 Chamelon (Black Vinyl) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22924&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22924&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 26 Sep 2023 17:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[43,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/55ec73715262610df26b812c33624c3b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tool / Opiate² (Blu-ray + 46p Hardcover Art Book) (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
