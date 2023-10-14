@@ -4,17 +4,9 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Oct 2023 05:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 17:36:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Keith Jarrett / The Koln Concert (CD, US Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22882&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22882&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Wed, 20 Sep 2023 17:36:17 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201710/5231_shop1_913584.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Noriko Miyamoto with Isao Suzuki / Push (CD, UK Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22850&amp;cate_no=46&amp;display_group=1</link>
@@ -24,7 +16,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/e195f91f3de716cbb7ade08c84e52216.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Arild Andersen / Molde Concert (CD) *한정수량 할인]]></title>
+            <title><![CDATA[Arild Andersen / Molde Concert (CD) *ECM 한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22776&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22776&amp;cate_no=46&amp;display_group=1</guid>
             <pubDate>Wed, 06 Sep 2023 17:36:14 GMT</pubDate>
@@ -32,7 +24,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/7494720f8f6f6c0604f83b7cd4410ff6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Marcin Wasilewski Trio / Live (CD) *한정수량 할인]]></title>
+            <title><![CDATA[Marcin Wasilewski Trio / Live (CD) *ECM 한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22775&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22775&amp;cate_no=46&amp;display_group=1</guid>
             <pubDate>Wed, 06 Sep 2023 17:36:14 GMT</pubDate>
@@ -40,7 +32,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/9e79e688c02252d29d2448e8c7231f90.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Nils Petter Molvaer / Khmer (CD) *한정수량 할인]]></title>
+            <title><![CDATA[Nils Petter Molvaer / Khmer (CD) *ECM 한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22774&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22774&amp;cate_no=46&amp;display_group=1</guid>
             <pubDate>Wed, 06 Sep 2023 17:36:14 GMT</pubDate>
@@ -48,7 +40,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201910/46c5668f2e20a2f77421a74ab71f1c5e.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Keith Jarrett / Budapest Concert (2CD) *한정수량 할인]]></title>
+            <title><![CDATA[Keith Jarrett / Budapest Concert (2CD) *ECM 한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22773&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22773&amp;cate_no=46&amp;display_group=1</guid>
             <pubDate>Wed, 06 Sep 2023 17:36:14 GMT</pubDate>
@@ -56,7 +48,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202104/227023914426a2a7f3dd7ad33fee9f2a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Tord Gustavsen Trio / Opening (CD) *한정수량 할인]]></title>
+            <title><![CDATA[Tord Gustavsen Trio / Opening (CD) *ECM 한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22772&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22772&amp;cate_no=46&amp;display_group=1</guid>
             <pubDate>Wed, 06 Sep 2023 17:36:14 GMT</pubDate>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 23 Aug 2023 17:36:23 GMT</pubDate>
             <content:encoded><![CDATA[12,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/20200506/2c79a6062e21ca80117baecc6b7d1698.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Miles Davis / In A Silent Way (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22690&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22690&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Sat, 14 Oct 2023 17:36:01 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201511/2123_shop1_383429.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
