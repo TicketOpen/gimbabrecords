@@ -4,9 +4,41 @@
         <title>김밥레코즈 ─ CD ─ Japanese</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 05:37:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 17:37:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Official HIGE DANdism / Report (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23029&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23029&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Tue, 17 Oct 2023 17:36:58 GMT</pubDate>
+            <content:encoded><![CDATA[25,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/da1a1a5d48cd75e408f460fb2b89346d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Official HIGE DANdism / Man In The Mirror (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23028&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23028&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Tue, 17 Oct 2023 17:36:58 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/abe1031e629bc13ae911a42832765b5d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Official HIGE DANdism / Escaparade (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23027&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23027&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Tue, 17 Oct 2023 17:36:58 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/dbcd7eae4648f08ebc28cf6bddb630bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Official HIGE DANdism / Chessboard/ Nichijou (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23026&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23026&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Tue, 17 Oct 2023 17:36:58 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/5e063cb27f5dae7bef543bb962904557.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Noriko Miyamoto with Isao Suzuki / Push (CD, UK Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22850&amp;cate_no=90&amp;display_group=1</link>
@@ -70,38 +102,6 @@
             <pubDate>Tue, 12 Sep 2023 17:37:21 GMT</pubDate>
             <content:encoded><![CDATA[23,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/82821609e7aeee59db123074ca09f578.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fuyu Ni Wakarete 冬にわかれて (Saho Terao) / Flow (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22816&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22816&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Sep 2023 17:37:21 GMT</pubDate>
-            <content:encoded><![CDATA[37,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/50aaffb5bd38363242972aaa1d5cf497.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[kunmohile / kunmohile (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22815&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22815&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Sep 2023 17:37:21 GMT</pubDate>
-            <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/92cf77b7a1225dee949757c9e301c2ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Incidents / Adult 大人 "Femme" Edition (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22699&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22699&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Wed, 23 Aug 2023 17:37:03 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/597779412e97b9a8ca9b2ea02b2c7a6f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aimyon / Kimi Wa Rock Wo Kikanai 君はロックを聴かない (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22698&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22698&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Wed, 23 Aug 2023 17:37:03 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/4584a454061cf492bb5cc0fbcabeeebd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
