@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 05:37:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 17:37:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pictured Resort / Best For Paradise (Limited Orange / Blue Marbled Vinyl, 2LP, 500매 한정반) *예약상품 (12월 11일 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23051&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23051&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 18 Oct 2023 17:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[67,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/e7a3024666a155a85dae8b244190795f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oneohtrix Point Never / Again (Blue Vinyl, 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23050&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23050&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 18 Oct 2023 17:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[61,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/def5f19fd4c04420bb465adfe0cffd77.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무키무키만만수 / 2012 (Black Vinyl) *예약상품 (10월 26일 발매 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23025&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 16 Oct 2023 17:35:27 GMT</pubDate>
             <content:encoded><![CDATA[37,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/dcc3f79efd90cd89700786eb0ccf3de0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Alain Goraguer) / La Planete Sauvage 애니메이션 판타스틱 플래닛 (Limited Blue Vinyl, 2LP, Expanded Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23014&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23014&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 16 Oct 2023 17:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[61,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/a918db0c128b3fc9eab5e74137ad083e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / With Love Volume 2 : Compiled By Miche (Vinyl, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22998&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22998&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 13 Oct 2023 17:35:34 GMT</pubDate>
-            <content:encoded><![CDATA[43,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/e2d080228321fc108125ca61a8c75818.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 05:37:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 17:37:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ben Sidran / Feel Your Groove (CD, "황금시대 숨은 명반" 시리즈)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23034&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23034&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Wed, 18 Oct 2023 17:36:24 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/d5604557e6c9dfc5f6dd46990d23dcab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various Artists / With Love Volume 1 : Compiled By Miche (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22853&amp;cate_no=44&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 28 Jun 2023 05:38:02 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/dc9b8995fb1515597d6f65f28ae41c7b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jessie Ware / What's Your Pleasure?: The Platinum Pleasure Edition (2CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22329&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22329&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Wed, 26 Jul 2023 17:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/23ab57ab0859ca71d1861da33ad5559f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

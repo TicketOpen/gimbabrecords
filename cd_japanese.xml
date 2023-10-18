@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Japanese</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 05:37:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 17:37:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[N.S.P / N.S.P II (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23032&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23032&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Wed, 18 Oct 2023 17:37:20 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/b59637cd7fa539dda7b68010a18760eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kingo Hamada / Heart Cocktail (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23031&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23031&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Wed, 18 Oct 2023 17:37:20 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/ec8a6181da2768f9f1b28c85fccdd24c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Miki Matsubara / Paradise Beach (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23030&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23030&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Wed, 18 Oct 2023 17:37:20 GMT</pubDate>
+            <content:encoded><![CDATA[27,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/a7ab71be8ee2ff60fa916195f7d76a6f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Official HIGE DANdism / Report (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23029&amp;cate_no=90&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 12 Sep 2023 17:37:21 GMT</pubDate>
             <content:encoded><![CDATA[29,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/cc04eb10c2fae796151783ef35f47bc7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Minami Yoshitaka / South Of The Border (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22819&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22819&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Sep 2023 17:37:21 GMT</pubDate>
-            <content:encoded><![CDATA[19,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/3f7425ea6d3e8a071c0407024c8cb545.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / City Pop Story - Urban & Ocean (2CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22818&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22818&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Sep 2023 17:37:21 GMT</pubDate>
-            <content:encoded><![CDATA[39,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/9e7c91c70fc2bffbcc8b6a9e7477d099.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yurie Kokubu / Relief 72 Hours (Blu-spec CD2)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22817&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22817&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Sep 2023 17:37:21 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/82821609e7aeee59db123074ca09f578.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
