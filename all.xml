@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Oct 2023 05:37:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 17:36:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/7b006abb8bad3c9f5f32382858af7ca6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[OST (Lena Raine) / Celeste 셀레스트 (Original Video Game Soundtrack) (Limited Pink Vinyl 2LP) *예약상품 (10월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22931&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22931&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 21 Oct 2023 17:35:16 GMT</pubDate>
+            <content:encoded><![CDATA[54,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/2678e956fae7f4cda498c87e56eebe6c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Christopher Larkin, David Peacock and Augustine Mayuga Gonzales / 할로우 나이트 Hollow Knight Piano Collections (Vinyl 2LP + 24p 책자) *예약상품 (11월 20일 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22932&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22932&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 21 Oct 2023 17:35:16 GMT</pubDate>
+            <content:encoded><![CDATA[89,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/8ae5db5aefe2401ed7deec390e438993.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[OST / Ashes Of Time 東邪西毒  동사서독 (CD, ARS Series, Limited Edition) *예약상품 (11월초 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17281&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17281&amp;cate_no=42&amp;display_group=1</guid>
@@ -470,22 +486,6 @@
             <pubDate>Wed, 18 Oct 2023 17:35:49 GMT</pubDate>
             <content:encoded><![CDATA[36,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/8a715f378d044fc1aeb5de3e3a8af9b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio / Bewitched (180g Vinyl, 2LP, Limited Edition) *예약상품 (12월 8일 이후 배송) / *10월 22일까지 결제가 완료된 주문은 5,000원을 추가적립해 드립니다. (12월 일괄적립 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23056&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23056&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 19 Oct 2023 17:35:53 GMT</pubDate>
-            <content:encoded><![CDATA[109,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/faf404eed04ccf19fc55c9b9de580b04.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio / Again (180g Vinyl, 2LP, Limited Edition) *예약상품 (12월 8일 이후 배송) / *10월 22일까지 결제가 완료된 주문은 5,000원을 추가적립해 드립니다. (12월 일괄적립 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23057&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23057&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 19 Oct 2023 17:35:53 GMT</pubDate>
-            <content:encoded><![CDATA[109,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/9aba2f23482b0711c4687652f151aa38.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Elton John / Goodbye Yellow Brick Road (Remastered CD) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
