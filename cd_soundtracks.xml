@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Soundtracks</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 05:37:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 17:37:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST / Little Mermaid 인어공주 (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23086&amp;cate_no=48&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23086&amp;cate_no=48&amp;display_group=1</guid>
+            <pubDate>Mon, 23 Oct 2023 17:36:51 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/47fdc2c107617b0d22f705e4dadfcae2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / Evangelion Finally 신세기 에반게리온 보컬곡 컴필레이션 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23083&amp;cate_no=48&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23083&amp;cate_no=48&amp;display_group=1</guid>
+            <pubDate>Mon, 23 Oct 2023 17:36:51 GMT</pubDate>
+            <content:encoded><![CDATA[17,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/b493ecf38445647a2239aae59a102a4a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST (Alain Goraguer) / La Planete Sauvage 애니메이션 판타스틱 플래닛 (CD, Expanded Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23013&amp;cate_no=48&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 03 Aug 2023 05:36:28 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/d65c512dae7a447d51c64107715c586c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (음악 이민휘 Feat. 지윤해, 김세영, 하범석) / 웨이브 오리지널 드라마 박하경 여행기 (CD, DVD 사이즈 패키징, 한정판)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22378&amp;cate_no=48&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22378&amp;cate_no=48&amp;display_group=1</guid>
-            <pubDate>Wed, 05 Jul 2023 17:38:22 GMT</pubDate>
-            <content:encoded><![CDATA[25,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/f5c3f02c4368dfa348bf3dade848bd9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST / Mamma Mia! - Original Cast Recording 뮤지컬 맘마미아 (CD + 3 bonus tracks, Special Edition) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22308&amp;cate_no=48&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22308&amp;cate_no=48&amp;display_group=1</guid>
-            <pubDate>Fri, 23 Jun 2023 17:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/cf17d6d3bd65dd3c60dc74245f119898.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
