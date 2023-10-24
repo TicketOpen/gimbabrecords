@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 05:37:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 17:36:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Strokes / Angles (Purple Vinyl, Limited Edition) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23093&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23093&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 24 Oct 2023 17:35:02 GMT</pubDate>
+            <content:encoded><![CDATA[45,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/f5bef5d810cc74ab37d1e98a412521fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sigur Ros / Atta (Vinyl, 2LP) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23092&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23092&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 24 Oct 2023 17:35:02 GMT</pubDate>
+            <content:encoded><![CDATA[51,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/6013c30c0d2be8af3767e91c272c74e6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울전자음악단 / 2집 Life Is Strange (180g Vinyl, 2LP, 2023 Newly Mixed Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23091&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23091&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 24 Oct 2023 17:35:02 GMT</pubDate>
+            <content:encoded><![CDATA[69,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/17b956654dc2d82ba84a9ae7c273f02d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Eagles / Hotel California  (Numbered Limited Edition, UltraDisc One-Step 45rpm SuperVinyl 2LP Box Set)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23089&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Fri, 20 Oct 2023 17:35:09 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/3ef0bd3ace2e548ff286171cbcadd75a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[De La Soul / Art Official Intelligence: Mosaic Thump (Vinyl, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23072&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23072&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Oct 2023 17:35:09 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/a86568d0ffb8a1f151a1c472bc947005.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cacophony (Marty Friedman & Jason Becker) / Speed Metal Symphony (Lemonade Yellow Vinyl, 35th Anniversary Limited Edition, Remastered)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23071&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23071&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Oct 2023 17:35:09 GMT</pubDate>
-            <content:encoded><![CDATA[33,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/f13a563a7575d2ef8fe00af340322176.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kurt Elling & Charlie Hunter / Superblue: Guilty Pleasures (Feat. Nate Smith) (Purple Vinyl, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23070&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23070&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Oct 2023 17:35:09 GMT</pubDate>
-            <content:encoded><![CDATA[36,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/a673c6501f7540675801c88e45bbf1b5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

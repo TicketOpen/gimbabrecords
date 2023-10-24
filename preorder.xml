@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 05:37:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 17:36:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Elliott Smith / New Moon (2LP) *예약상품 (11월 6일 이후로 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=6943&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=6943&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 24 Oct 2023 17:35:21 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201704/6943_shop1_883586.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Elliott Smith / Figure 8 (180g 2LP) *예약상품 (10월 27일 이후로 배송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=64&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 21 Oct 2023 17:35:16 GMT</pubDate>
             <content:encoded><![CDATA[89,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/8ae5db5aefe2401ed7deec390e438993.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST / Ashes Of Time 東邪西毒  동사서독 (CD, ARS Series, Limited Edition) *예약상품 (11월초 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17281&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17281&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Oct 2023 17:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[30,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202109/5eaa29aa21c54f9fbc6bc742769fe593.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

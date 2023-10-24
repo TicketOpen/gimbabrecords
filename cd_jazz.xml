@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 05:37:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 17:36:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Trio Beyond /Saudades (2CD) *ECM 한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23094&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23094&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 24 Oct 2023 17:36:03 GMT</pubDate>
+            <content:encoded><![CDATA[31,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/f1b52c894cd0d91bf328f2c65f4ca7d1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kurt Elling & Charlie Hunter / Superblue: The Iridescent Spree (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23085&amp;cate_no=46&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 23 Aug 2023 17:36:23 GMT</pubDate>
             <content:encoded><![CDATA[13,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201802/10113_shop1_796556.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thelonious Monk / Underground (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22692&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22692&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Wed, 23 Aug 2023 17:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201807/11336_shop1_15309382510878.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
