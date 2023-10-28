@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 17:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Oct 2023 05:37:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김트리오 / Riverside Rendezvous: 12 Hits (130g Jade Green Vinyl) *지금 주문하시면 11월 1일부터 배송이 진행됩니다.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22988&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22988&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 28 Oct 2023 05:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/bf05037333ab9493d69e470a50c4e5d1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김트리오 / Riverside Rendezvous: 12 Hits (130g Black Vinyl) *지금 주문하시면 11월 1일부터 배송이 진행됩니다.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22989&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22989&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 28 Oct 2023 05:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/7baee9e5f516cf439acc16467c430362.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Elliott Smith/ From A Basement On The Hill (Vinyl, 2LP) *예약상품 (11월 6일 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=2395&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=2395&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 28 Oct 2023 05:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201512/2395_shop1_725381.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sufjan Stevens / Javelin (Indie Exclusive Lemonade Colored Vinyl + 48p booklet) *예약상품 (11월 중순 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22969&amp;cate_no=42&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Fri, 27 Oct 2023 17:35:29 GMT</pubDate>
             <content:encoded><![CDATA[39,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/6324b3ca2c6103f6e9474425f164a1c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Art Blakey & The Jazz Messengers / A Night In Tunisia (180g LP) *뮤직온바이닐 베스트셀러 한정수량 할인 / 예약상품 (11월 8일 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=6667&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=6667&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 27 Oct 2023 17:35:29 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201703/6667_shop1_893470.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Hans Zimmer) / Interstellar Soundtrack 인터스텔라 (2LP/ EU Pressing) *뮤직온바이닐 베스트셀러 한정수량 할인 / 예약상품 (11월 8일 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=2184&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=2184&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 27 Oct 2023 17:35:29 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201511/2184_shop1_295285.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Portishead / Roseland NYC Live (180g 2LP / EU Pressing) *뮤직온바이닐 베스트셀러 한정수량 할인 / 예약상품 (11월 8일 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=9106&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=9106&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 27 Oct 2023 17:35:29 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201711/664_shop1_437860.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
