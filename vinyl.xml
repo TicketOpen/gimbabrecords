@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Oct 2023 05:37:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Oct 2023 17:36:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Madison Cunningham / Wednesday (Vinyl) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23130&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23130&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 28 Oct 2023 17:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/04d8faec98af9d7e90bcde18c73b2dd1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kylie Minogue / DIsco (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23124&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23124&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 28 Oct 2023 17:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[32,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/a8d05385e3fb9097b0c46c254a0063eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Doors / L.A. Woman (Vinyl, EU Pressing, radius corner (동그랗게 처리된 모서리) + embossed text) *절판된 바이닐]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23122&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 27 Oct 2023 17:35:08 GMT</pubDate>
             <content:encoded><![CDATA[39,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/3075c38c7cea43df4702b5ede0be5166.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Orion Sun / Getaway (12" Vinyl, Single Sided, 45 RPM)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23111&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23111&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 27 Oct 2023 17:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/d723a9717984b150d35ca9c132f80255.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jill Barber / Chansons ('Blush' Colored Vinyl, 10th Anniversary Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23110&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23110&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 27 Oct 2023 17:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/20200116/731729622a3542296c185220be65fafd.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
