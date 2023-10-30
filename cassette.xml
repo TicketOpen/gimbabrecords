@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 05:37:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 17:37:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구토와 눈물 Vomit & Tear / Sun Plaza (한정제작 Cassette) *OPP 로고 테이프 포함 패키지 선택 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23134&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23134&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Oct 2023 17:35:57 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/70487cd9fca90bc9e4273d3d47881c1f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Video Age / Away From The Castle (Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23104&amp;cate_no=26&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 12 Aug 2023 17:35:09 GMT</pubDate>
             <content:encoded><![CDATA[42,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/a4fbbe687716daa2c530065cebc58edd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tatsuro Yamashita / Spacy (Limited Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22638&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22638&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Sep 2023 05:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[42,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/5809a255458c09fc8b8a819128eeedc5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
