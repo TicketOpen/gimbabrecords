@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 17:37:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 05:37:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지누션 / The Real (180g Transparent Red Vinyl, Limited Edition) *예약상품 (11월 14일 발매 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23135&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23135&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 31 Oct 2023 05:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[46,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/b4131cabf94691685984671b647dab76.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Madison Cunningham / Wednesday (Vinyl) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23130&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 27 Oct 2023 17:35:08 GMT</pubDate>
             <content:encoded><![CDATA[36,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/9f1ddce4d46b73648efc24e64ba502e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Del Water Gap / I Miss You Already + I Haven't Left Yet (Vinyl, Gatefold) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23112&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23112&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 27 Oct 2023 17:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/3075c38c7cea43df4702b5ede0be5166.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
