@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Hip Hop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 05:37:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 17:37:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Billy Woods & Kenny Segal / Maps (CD, Jewel Case)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23144&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23144&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Tue, 31 Oct 2023 17:36:57 GMT</pubDate>
+            <content:encoded><![CDATA[29,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/17a865878ab697c17dcbb351cd753d43.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Apollo Brown & Joell Ortiz / Mona Lisa (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23143&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23143&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Tue, 31 Oct 2023 17:36:57 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/7446828af36f8482b0293eaae93ff6f7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Carrtoons / Saturday Night (CD, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23116&amp;cate_no=45&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 07 Aug 2023 17:36:38 GMT</pubDate>
             <content:encoded><![CDATA[20,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/20200116/524c08d427fd055419c126f7fb220dbe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Apollo Brown & Philmore Greene / Cost Of Living (CD, US Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22493&amp;cate_no=45&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22493&amp;cate_no=45&amp;display_group=1</guid>
-            <pubDate>Tue, 25 Jul 2023 17:36:30 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/522301db080f9b29b3565b0639416b76.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DJ Quik / Rhythm-Al-Ism (CD, US Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22438&amp;cate_no=45&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22438&amp;cate_no=45&amp;display_group=1</guid>
-            <pubDate>Wed, 12 Jul 2023 17:37:20 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/5b727e9fe80e49435957962cac6774d3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
