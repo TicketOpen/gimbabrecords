@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 05:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 17:37:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,7 +184,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/a8d05385e3fb9097b0c46c254a0063eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Doors / L.A. Woman (Vinyl, EU Pressing, radius corner (동그랗게 처리된 모서리) + embossed text) *절판된 바이닐 (김밥레코즈 ─ Vinyl)]]></title>
+            <title><![CDATA[The Doors / L.A. Woman (Vinyl, EU Pressing, radius corner (동그랗게 처리된 모서리 + embossed text) *절판된 바이닐 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23122&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23122&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Fri, 27 Oct 2023 17:35:08 GMT</pubDate>
@@ -392,6 +392,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/7b006abb8bad3c9f5f32382858af7ca6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Wild Nothing / Hold (Sea Blue In Coke Bottle Green Vinyl, Limited Edition) *한정수량 할인 / 예약상품 (11월 7일 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23106&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23106&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 01 Nov 2023 17:35:50 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/2d35c5eb67e367bd025156462ec9cfb1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bruno Berle / No Reino Dos Afetos (Vinyl) *예약상품 (11월 20일경 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21764&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21764&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 01 Nov 2023 17:35:50 GMT</pubDate>
+            <content:encoded><![CDATA[37,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/1499393f85d2a042475a3f1629700ba6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sufjan Stevens / Javelin (Black Vinyl + 48p Booklet) *한정수량 할인 / 예약상품 (11월 중순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22968&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22968&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 01 Nov 2023 17:35:50 GMT</pubDate>
+            <content:encoded><![CDATA[34,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/69a2e2aa831a2c7187b8c6dd4f55cb41.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[OST (Lena Raine) / Celeste 셀레스트 (Original Video Game Soundtrack) (Limited Pink Vinyl 2LP) *예약상품 (11월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22931&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22931&amp;cate_no=42&amp;display_group=1</guid>
@@ -462,30 +486,6 @@
             <pubDate>Wed, 01 Nov 2023 05:35:42 GMT</pubDate>
             <content:encoded><![CDATA[27,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201911/89826fccf5fd8f2cf982d02e9f6f06df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kirinji / Melancholy Mellow 1 -Amai Yuuutsu-19982002 (CD) *한정수량 할인 / 예약상품 (11월 23일 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=12502&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=12502&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 01 Nov 2023 05:35:42 GMT</pubDate>
-            <content:encoded><![CDATA[29,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201901/52bd7f004b8404ae63b2dd31cbe9ed58.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fishmans / Uchu Nippon Setagaya (宇宙 日本 世田谷) (Remaster, SHM-CD) *한정수량 할인 / 예약상품 (11월 23일 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=2851&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=2851&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 01 Nov 2023 05:35:42 GMT</pubDate>
-            <content:encoded><![CDATA[35,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201804/2851_shop1_633490.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Fishmans / Kuchu Camp 공중캠프 (空中キャンプ) (Remaster, SHM-CD) *한정수량 할인 / 예약상품 (11월 23일 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=2852&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=2852&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 01 Nov 2023 05:35:42 GMT</pubDate>
-            <content:encoded><![CDATA[35,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201602/2852_shop1_378014.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Elton John / Goodbye Yellow Brick Road (Remastered CD) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
