@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 05:37:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 17:36:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식케이 (Sik-K) / 정규앨범 POP A LOT (CD + Booklet)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23190&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23190&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Fri, 03 Nov 2023 17:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/c6119702469704f8e3e796922d3638e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크러쉬 (Crush) / 정규 3집 wonderego (2CD) *예약상품 (11월 15일 발매 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23155&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 28 Aug 2023 17:35:44 GMT</pubDate>
             <content:encoded><![CDATA[18,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/8d32cf9c777c7d0c7757c95d881e08e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채무자들 / 채무자들 (CD, Digipak)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22686&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22686&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Wed, 23 Aug 2023 17:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[17,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/eb6a9fd012c178699c42e7a320b4f658.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
