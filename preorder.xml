@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 17:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 05:37:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jiro Inagaki & Soul Media / Funky Stuff (Limited Clear Pink Vinyl) *예약상품 (11월 6일 이후 배송 시작)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=12794&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=12794&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 04 Nov 2023 05:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[51,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/3712e97590fbe116c9c00fbf635134c7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bobby Caldwell / Heart Of Mine (Vinyl) *예약상품 (11월 6일 이후 순차 발송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22627&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22627&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 04 Nov 2023 05:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/03f1481d2c254bfddbafc128b3f1b2de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Beatles / Now And Then (7" Black Vinyl) *예약상품 (11월 23일 이후 배송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23158&amp;cate_no=42&amp;display_group=1</link>
@@ -85,22 +101,6 @@
             <pubDate>Wed, 01 Nov 2023 17:35:50 GMT</pubDate>
             <content:encoded><![CDATA[37,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/1499393f85d2a042475a3f1629700ba6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sufjan Stevens / Javelin (Black Vinyl + 48p Booklet) *한정수량 할인 / 예약상품 (11월 중순 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22968&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22968&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 01 Nov 2023 17:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[34,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/69a2e2aa831a2c7187b8c6dd4f55cb41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Lena Raine) / Celeste 셀레스트 (Original Video Game Soundtrack) (Limited Pink Vinyl 2LP) *예약상품 (11월초 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22931&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22931&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 01 Nov 2023 05:35:41 GMT</pubDate>
-            <content:encoded><![CDATA[54,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/2678e956fae7f4cda498c87e56eebe6c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
