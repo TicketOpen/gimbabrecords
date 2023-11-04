@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 05:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 17:36:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Cagnet) / Long Vacation 롱 베케이션  (Limited Clear Purple Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23191&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23191&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 04 Nov 2023 17:34:42 GMT</pubDate>
+            <content:encoded><![CDATA[51,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/181425ba58da18a509a33b4556ec694c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[King Crimson / Larks Tongues In Aspic : 2023 Steven Wilson Mixes (50th Anniversary 2LP - 50주년 기념 리마스터 / 확장판)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23176&amp;cate_no=25&amp;display_group=1</link>
@@ -40,7 +48,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/770bc846ec164d6ad971904f9167f805.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Nas / It Was Written (Gold & Black Marbled Vinyl, 2LP)]]></title>
+            <title><![CDATA[Nas / It Was Written (Limited Gold & Black Marbled Vinyl, 2LP, National Album Day)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23172&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23172&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Fri, 03 Nov 2023 17:34:47 GMT</pubDate>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 03 Nov 2023 17:34:47 GMT</pubDate>
             <content:encoded><![CDATA[54,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/8157c9e2c5d902509c36a39c5552ffac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nulbarich / 2ND GALAXY (Vinyl) *절판 레코드 특별전 / 한정 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23165&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23165&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 03 Nov 2023 05:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[33,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/e49e9fe3fba34000a3097acad60d54bb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

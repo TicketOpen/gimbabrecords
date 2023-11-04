@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 05:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 17:36:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202107/b6831fb4395db29ffbd2b748ff55bac8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[OST (Cagnet) / Long Vacation 롱 베케이션  (Limited Clear Purple Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23191&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23191&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 04 Nov 2023 17:34:42 GMT</pubDate>
+            <content:encoded><![CDATA[51,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/181425ba58da18a509a33b4556ec694c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[King Crimson / Larks Tongues In Aspic : 2023 Steven Wilson Mixes (50th Anniversary 2LP - 50주년 기념 리마스터 / 확장판) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23176&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23176&amp;cate_no=25&amp;display_group=1</guid>
@@ -136,7 +144,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/770bc846ec164d6ad971904f9167f805.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Nas / It Was Written (Gold & Black Marbled Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
+            <title><![CDATA[Nas / It Was Written (Limited Gold & Black Marbled Vinyl, 2LP, National Album Day) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23172&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23172&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Fri, 03 Nov 2023 17:34:47 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 03 Nov 2023 17:34:47 GMT</pubDate>
             <content:encoded><![CDATA[54,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/8157c9e2c5d902509c36a39c5552ffac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nulbarich / 2ND GALAXY (Vinyl) *절판 레코드 특별전 / 한정 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23165&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23165&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 03 Nov 2023 05:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[33,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/e49e9fe3fba34000a3097acad60d54bb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구토와 눈물 Vomit & Tear / Sun Plaza (한정제작 Cassette) *OPP 로고 테이프 포함 패키지 선택 가능 (김밥레코즈 ─ Cassette)]]></title>
@@ -392,6 +392,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/7b006abb8bad3c9f5f32382858af7ca6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[크러쉬 (Crush) / 정규 3집 wonderego (Vinyl, 2LP, 일반반, Limited Edition) *예약상품 (내년 1월 말 발매 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23154&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23154&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 02 Nov 2023 17:35:10 GMT</pubDate>
+            <content:encoded><![CDATA[75,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/28c169cab29ff4203574128068c9b47d.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Molly Burch / Daydreamer (Cotton Candy Vinyl, Limited Edition) *한정수량 할인 / 예약상품 (11월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22977&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22977&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 04 Nov 2023 17:35:01 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/318d756e8fc309b95799cb283944faa5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sufjan Stevens / Javelin (Indie Exclusive Lemonade Colored Vinyl + 48p booklet) *예약상품 (11월 8일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22969&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22969&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 04 Nov 2023 17:35:01 GMT</pubDate>
+            <content:encoded><![CDATA[36,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/8a715f378d044fc1aeb5de3e3a8af9b0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Jiro Inagaki & Soul Media / Funky Stuff (Limited Clear Pink Vinyl) *예약상품 (11월 6일 이후 배송 시작) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=12794&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=12794&amp;cate_no=42&amp;display_group=1</guid>
@@ -448,14 +472,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/d4802589fc76b8ca770112383e8d083b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크러쉬 (Crush) / 정규 3집 wonderego (Vinyl, 2LP, 일반반, Limited Edition) *예약상품 (내년 1월 말 발매 예정) / 11월 3일 금요일 자정까지 예약하시는 분들은 3,500원 추가 적립 - 배송 전 일괄 적립됩니다.) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23154&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23154&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 02 Nov 2023 17:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[75,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/28c169cab29ff4203574128068c9b47d.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[크러쉬 (Crush) / 정규 3집 wonderego (2CD) *예약상품 (11월 15일 발매 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23155&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23155&amp;cate_no=42&amp;display_group=1</guid>
@@ -464,27 +480,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/415c2108abdd77d72eb87e1cd85118d6.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[OST (by Quruli) / 조제, 호랑이 그리고 물고기들 ジョゼと虎と魚たち  (Vinyll) *수요조사 (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17997&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17997&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 02 Nov 2023 17:35:10 GMT</pubDate>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/0c96ac46a28226f0f4ff15d52348e8e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Wild Nothing / Hold (Sea Blue In Coke Bottle Green Vinyl, Limited Edition) *한정수량 할인 / 예약상품 (11월 7일 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23106&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23106&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Wed, 01 Nov 2023 17:35:50 GMT</pubDate>
             <content:encoded><![CDATA[35,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/2d35c5eb67e367bd025156462ec9cfb1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bruno Berle / No Reino Dos Afetos (Vinyl) *예약상품 (11월 20일경 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21764&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21764&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 01 Nov 2023 17:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/1499393f85d2a042475a3f1629700ba6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Elton John / Goodbye Yellow Brick Road (Remastered CD) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -1735,7 +1736,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/a179449b58e69f0dd9249b7db7553dae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크러쉬 (Crush) / 정규 3집 wonderego (Vinyl, 2LP, 일반반, Limited Edition) *예약상품 (내년 1월 말 발매 예정) / 11월 3일 금요일 자정까지 예약하시는 분들은 3,500원 추가 적립 - 배송 전 일괄 적립됩니다.) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <title><![CDATA[크러쉬 (Crush) / 정규 3집 wonderego (Vinyl, 2LP, 일반반, Limited Edition) *예약상품 (내년 1월 말 발매 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23154&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23154&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Thu, 02 Nov 2023 17:36:23 GMT</pubDate>
