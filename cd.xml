@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 05:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 17:37:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mogwaa / Translucent (CD) *예약상품 (11월 13일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23195&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23195&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 07 Nov 2023 17:35:22 GMT</pubDate>
+            <content:encoded><![CDATA[16,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/7e1ba884901f037237d9ec42abf630fc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이설아 / 2집 작은 마을 (CD) *예약상품 (11월 13일부터 발송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23192&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 03 Nov 2023 17:34:41 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201811/4dfc74fa3b157fd6db30790b6acdd415.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gary Moore / Wild Frontier (Remastered CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23180&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23180&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 03 Nov 2023 17:34:41 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201704/6948_shop1_698026.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 05:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 17:37:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mogwaa / Translucent (Black Vinyl) *예약상품 (11월 13일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23193&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23193&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 07 Nov 2023 17:37:21 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/fef33e75f401064ffb0b4a84f723c1fa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크러쉬 (Crush) / 정규 3집 wonderego (Vinyl, 2LP, 일반반, Limited Edition) *예약상품 (내년 1월 말 발매 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23154&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 10 Oct 2023 17:37:05 GMT</pubDate>
             <content:encoded><![CDATA[62,400원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/0b735a45c498584db9c18994b4111a3d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Peggy Gou / (It Goes Like) Nanana (12" Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22953&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22953&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Fri, 06 Oct 2023 17:37:12 GMT</pubDate>
-            <content:encoded><![CDATA[29,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/33b9b64391b28c4d98319973ea9244ed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
