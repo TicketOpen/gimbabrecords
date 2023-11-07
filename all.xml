@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 17:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 05:37:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/7b006abb8bad3c9f5f32382858af7ca6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[최백호 / 찰나(刹那) ver.2 (180g Clear Vinyl) *예약상품 (12월 8일 발매 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23023&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23023&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 07 Nov 2023 05:35:41 GMT</pubDate>
+            <content:encoded><![CDATA[54,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/8131a595f91ba7ba07173d3937cbd85d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이설아 / 2집 작은 마을 (CD) *예약상품 (11월 13일부터 발송) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23192&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23192&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 06 Nov 2023 17:36:03 GMT</pubDate>
             <content:encoded><![CDATA[34,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/69a2e2aa831a2c7187b8c6dd4f55cb41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Lena Raine) / Celeste 셀레스트 (Original Video Game Soundtrack) (Limited Pink Vinyl 2LP) *예약상품 (11월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22931&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22931&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 06 Nov 2023 17:36:03 GMT</pubDate>
-            <content:encoded><![CDATA[54,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/2678e956fae7f4cda498c87e56eebe6c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Elton John / Goodbye Yellow Brick Road (Remastered CD) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -1784,7 +1784,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/c0a7b037963be84af4ab808fdab43720.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[최백호 / 찰나(刹那) ver.2 (180g Clear Vinyl) *예약상품 (12월 8일 발매 예정, 10월 25일 주문 마감) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <title><![CDATA[최백호 / 찰나(刹那) ver.2 (180g Clear Vinyl) *예약상품 (12월 8일 발매 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23023&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23023&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Wed, 18 Oct 2023 05:37:41 GMT</pubDate>
