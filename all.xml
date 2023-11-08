@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 05:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 17:37:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201811/4dfc74fa3b157fd6db30790b6acdd415.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[The Cars / Greatest Hits (Ruby Red Vinyl, Limited Edition, Rocktober 2023) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23200&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23200&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 08 Nov 2023 17:35:25 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/7250899c029edf69706cf5995b2fc9e3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A-Ha / Hunting High And Low (Orange Vinyl, Limited Edition, Rocktober 2023) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23199&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23199&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 08 Nov 2023 17:35:25 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201611/5706_shop1_392920.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Band / The Last Waltz (Vinyl, 3LP, Limited Edition, Rocktober 2023) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23198&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23198&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 08 Nov 2023 17:35:25 GMT</pubDate>
+            <content:encoded><![CDATA[94,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/e5696f6ba4ca2e7a104a4973da622791.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[OST (Danny Elfman) / The Nightmare Before Christmas 팀 버튼의 크리스마스 악몽 (Zoetrope Picture Disc, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23197&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23197&amp;cate_no=25&amp;display_group=1</guid>
@@ -174,30 +198,6 @@
             <pubDate>Fri, 03 Nov 2023 17:34:47 GMT</pubDate>
             <content:encoded><![CDATA[56,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/86036ff060e5dd9f12cda486f279a700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Robert Miles / Dreamland (Vinyl, 2LP, National Album Day 2023, Limited Edition) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23171&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23171&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 03 Nov 2023 17:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[50,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/477512c9d25f946e9cdb353b6e1c1636.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Glen Hansard / All That Was East Is West Of Me Now (Vinyl) *할인상품 (쟈켓 모서리에 작은 눌림이 있습니다.) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23170&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23170&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 03 Nov 2023 17:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[41,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/6dfcbb9ea42fbe843b844f3c28d97311.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Caroline Polachek / Desire, I Want To Turn Into You (Limited Metallic Copper Vinyl) *할인상품 (쟈켓 모서리에 작은 눌림이 있습니다.) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23169&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23169&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 03 Nov 2023 17:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/eb925d28a5f7c760df7ad2e44a1ff31f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mogwaa / Translucent (Cassette) *예약상품 (11월 13일 발매) (김밥레코즈 ─ Cassette)]]></title>
