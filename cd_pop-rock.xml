@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 05:37:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 17:37:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Caroline Polachek / Desire, I Want To Turn Into You (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23226&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23226&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Nov 2023 17:36:15 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/20046973bea8c1deb72aa4fd7f08b155.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Verve / This Is Music: The Singles 92-98 (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23184&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 28 Oct 2023 17:35:27 GMT</pubDate>
             <content:encoded><![CDATA[20,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/ec76941bf40f964656d902cb5dcecc57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Madison Cunningham / Who Are You Now (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23126&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23126&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Sat, 28 Oct 2023 17:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/79a7c481961f9c88c4420980c7f7ab62.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
