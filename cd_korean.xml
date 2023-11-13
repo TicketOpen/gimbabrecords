@@ -4,11 +4,27 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 05:36:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 17:36:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Mogwaa / Translucent (CD)]]></title>
+            <title><![CDATA[윤훼이 / 정규 1집 YUNHWAY (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23266&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23266&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 13 Nov 2023 17:35:37 GMT</pubDate>
+            <content:encoded><![CDATA[13,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/a2744db4a41a4184a5407d8a42f6d13c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NO:EL (노엘) / 정규 3집 TRIPONOEL (CD, 하드케이스 + 앨범커버 + 포토리릭북)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23265&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23265&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 13 Nov 2023 17:35:37 GMT</pubDate>
+            <content:encoded><![CDATA[26,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/e0849a760b7a828be3a53db82992de02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mogwaa 모과 / Translucent (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23195&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23195&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Tue, 07 Nov 2023 17:36:02 GMT</pubDate>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 16 Oct 2023 17:35:59 GMT</pubDate>
             <content:encoded><![CDATA[20,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/9490e70168cdca09fdce9a13e498bc63.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한로로 / EP 1집 이상비행 (CD + 포토북)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22987&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22987&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Thu, 12 Oct 2023 17:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[19,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/26c0a2f5befcab07854459416260853b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카더가든 / 정규 3집 Harmony (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22971&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22971&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Wed, 11 Oct 2023 17:35:43 GMT</pubDate>
-            <content:encoded><![CDATA[17,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/125e3d48216e0f32bab722c41c1151f2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
