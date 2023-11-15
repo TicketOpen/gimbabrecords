@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Japanese</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 05:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 05:36:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pizzicato Five / Remix Album: Happy End Of You (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23295&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23295&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Wed, 15 Nov 2023 05:36:37 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/b0b3342d63daed33b24a72600ccffced.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[kiss the gambler / 私は何を言っていますか? (What am I saying?) (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23153&amp;cate_no=90&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 13 Sep 2023 17:36:55 GMT</pubDate>
             <content:encoded><![CDATA[28,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/56aa49531fc964cc626469d149f3a127.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fujii Kaze / Help Ever Hurt Never (CD, Standard, Made In Japan)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22826&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22826&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Sep 2023 17:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[38,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/a179449b58e69f0dd9249b7db7553dae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
