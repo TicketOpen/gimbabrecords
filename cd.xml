@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 05:36:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 17:36:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beirut / Hadsel (CD, Digipak) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23305&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23305&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 15 Nov 2023 17:34:31 GMT</pubDate>
+            <content:encoded><![CDATA[18,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/84ca718e612375e14ed62413026a8a74.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wild Nothing / Hold (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23304&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23304&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 15 Nov 2023 17:34:31 GMT</pubDate>
+            <content:encoded><![CDATA[18,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/2d35c5eb67e367bd025156462ec9cfb1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Return To Forever / Romantic Warrior (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23301&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 15 Nov 2023 05:34:48 GMT</pubDate>
             <content:encoded><![CDATA[12,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/50cbc3552f8cc6e0d5846de2c413d366.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST / Dreamgirls 드림걸즈 (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23291&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23291&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 15 Nov 2023 05:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/6721c6f4e8df83badf91fa1e91cdb38a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Philip Glass) / Koyaanisqatsi 코야니스카시 (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23290&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23290&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 15 Nov 2023 05:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/bf311b372309064a523290bf5ada437d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

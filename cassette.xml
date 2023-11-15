@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 05:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 17:36:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[the neverminds / nevermind, the summer. (Cassette) *예약상품 (11월 마지막 주 발송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23303&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23303&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Wed, 15 Nov 2023 17:34:44 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/59b2bdce0afd29fe50af9ddbf4b61f7d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mogwaa 모과 / Translucent (Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23194&amp;cate_no=26&amp;display_group=1</link>
@@ -38,6 +46,14 @@
             <pubDate>Fri, 27 Oct 2023 17:35:16 GMT</pubDate>
             <content:encoded><![CDATA[18,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/2cdd6b572535b7e74bbd4d897ab3ef07.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Explosions in the Sky / End (Cassette) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22985&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22985&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Wed, 15 Nov 2023 17:34:44 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/c12cbe94c296630ca6c8331bf299c84d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Grandaddy / Sumday: The Cassette Demos (Cassette)]]></title>
@@ -86,22 +102,6 @@
             <pubDate>Sat, 09 Sep 2023 17:35:07 GMT</pubDate>
             <content:encoded><![CDATA[16,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/7c3366a2da6c70bd7d8959a0348c1c8d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lou Reed / Words & Music, May 1965 (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22796&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22796&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Sat, 09 Sep 2023 17:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/5fc885ca98bc6d67dfdc41140e906fb0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[위댄스 / 숨(SUM) (Cassette, Clear Shell)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22703&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22703&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Thu, 24 Aug 2023 05:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[17,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/8f35dcc048916def0b01cc5175f0c6d2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
