@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 17:36:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 05:36:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠인 quinn_ / 무중호흡 (EP 무중력 + 무호흡) (CD) *예약상품 (11월 22일부터 발송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23319&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23319&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Nov 2023 05:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/9be2eaa33741bbca150c6303edfe03ef.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정밀아 / 정규 4집 리버사이드 (CD) *예약상품 (11월 20일 발매 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23311&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 11 Nov 2023 17:35:19 GMT</pubDate>
             <content:encoded><![CDATA[64,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201708/8142_shop1_663710.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[the neverminds / nevermind, the summer. (Cassette) *예약상품 (11월 마지막 주 발송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23303&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23303&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 15 Nov 2023 17:34:56 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/59b2bdce0afd29fe50af9ddbf4b61f7d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
