@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 05:36:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 17:36:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BrokenTeeth 브로큰티스 / 추락은 천천히 (How To Sink Slowly) (140g Opaque Purple Vinyl + 접이식 포스터 형태의 인서트 1p) *1인 2매까지 구매 가능 / 별도의 입금기한 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23318&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23318&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 20 Nov 2023 17:36:12 GMT</pubDate>
+            <content:encoded><![CDATA[37,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/8259ce372921fd57f0209c3c8f7d9011.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BrokenTeeth 브로큰티스 / 편지 (180g Black Vinyl + 인서트 1p) *1인 2매까지 구매 가능 / 별도의 입금기한 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23317&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23317&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 20 Nov 2023 17:36:12 GMT</pubDate>
+            <content:encoded><![CDATA[39,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/7e3f01f2bdcf006b12bacb0ea6f0791b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라이프 앤 타임 (Life and Time) / 2집 Age (Black Vinyl) *예약상품 (11월 20일 발매 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23281&amp;cate_no=52&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 27 Oct 2023 17:37:07 GMT</pubDate>
             <content:encoded><![CDATA[44,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/88d77fa335f82aa1ae14988611e86d8a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울전자음악단 / 2집 Life Is Strange (180g Vinyl, 2LP, 2023 Newly Mixed Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23091&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23091&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 24 Oct 2023 17:36:45 GMT</pubDate>
-            <content:encoded><![CDATA[69,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/17b956654dc2d82ba84a9ae7c273f02d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무키무키만만수 / 2012 (Black Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23025&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23025&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 17 Oct 2023 17:37:05 GMT</pubDate>
-            <content:encoded><![CDATA[44,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/34722958ae283ac075e3421ab633ca8e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

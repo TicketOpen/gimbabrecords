@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 05:36:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 17:36:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BrokenTeeth 브로큰티스 / 추락은 천천히 (How To Sink Slowly) (140g Opaque Purple Vinyl + 접이식 포스터 형태의 인서트 1p) *1인 2매까지 구매 가능 / 별도의 입금기한 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23318&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23318&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 20 Nov 2023 17:34:42 GMT</pubDate>
+            <content:encoded><![CDATA[37,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/8259ce372921fd57f0209c3c8f7d9011.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BrokenTeeth 브로큰티스 / 편지 (180g Black Vinyl + 인서트 1p) *1인 2매까지 구매 가능 / 별도의 입금기한 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23317&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23317&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 20 Nov 2023 17:34:42 GMT</pubDate>
+            <content:encoded><![CDATA[39,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/7e3f01f2bdcf006b12bacb0ea6f0791b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Kills / God Games (Vinyl + 16p Booklet)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23316&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 15 Nov 2023 05:34:55 GMT</pubDate>
             <content:encoded><![CDATA[43,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/a29df4ceb35422dea747854c53791f01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blur / Modern Life Is Rubbish (30th Anniversary Orange Vinyl, National Album Day 2023, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23284&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23284&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 15 Nov 2023 05:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[65,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201706/7553_shop1_562318.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Takagi Masakatsu) / Mirai 미래의 미라이 (180g 'Pink Blossom' Colored Vinyl, Limited Edition) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23282&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23282&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 13 Nov 2023 17:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/81113925e884871ddf340de637ab886b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
