@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Nov 2023 17:36:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 05:36:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,11 +176,11 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/84ca718e612375e14ed62413026a8a74.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Lisa Ono / Boas Festas (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <title><![CDATA[Lisa Ono / Boas Festas (Vinyl) *할인상품 (구매시 유의사항을 참조하세요.) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23302&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23302&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Wed, 15 Nov 2023 05:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <content:encoded><![CDATA[43,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/a29df4ceb35422dea747854c53791f01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/f66ac6d3964960f0af01d8eccf9e1359.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[크러쉬 (Crush) / 정규 3집 wonderego (2CD) *예약상품 (11월 15일 발매 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23155&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23155&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 20 Nov 2023 05:35:25 GMT</pubDate>
+            <content:encoded><![CDATA[22,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/415c2108abdd77d72eb87e1cd85118d6.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[쿠인 quinn_ / 무중호흡 (EP 무중력 + 무호흡) (CD) *예약상품 (11월 22일부터 발송) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23319&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23319&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 10 Nov 2023 17:35:27 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/72eadf009fd684c05170e0ba2c1ef967.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brad Mehldau / Largo (Vinyl, 2LP) *예약상품 (11월 24일 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23216&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23216&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sat, 11 Nov 2023 17:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[64,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201708/8142_shop1_663710.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Elton John / Goodbye Yellow Brick Road (Remastered CD) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
