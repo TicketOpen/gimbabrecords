@@ -4,9 +4,41 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 05:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 17:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kirinji / Melancholy Mellow 1 -Amai Yuuutsu-19982002 (CD) *한정수량 할인 / 예약상품 (11월 23일 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=12502&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=12502&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 21 Nov 2023 17:37:24 GMT</pubDate>
+            <content:encoded><![CDATA[29,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201901/52bd7f004b8404ae63b2dd31cbe9ed58.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kirinji / 3 (Limited Paper-sleeve CD, 2014 reissue) *한정수량 할인 / 예약상품 (11월 23일 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=14168&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=14168&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 21 Nov 2023 17:37:24 GMT</pubDate>
+            <content:encoded><![CDATA[27,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201911/89826fccf5fd8f2cf982d02e9f6f06df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fishmans / Long Season (SHM-CD) *한정수량 할인 / 예약상품 (11월 23일 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=7474&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=7474&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 21 Nov 2023 17:37:24 GMT</pubDate>
+            <content:encoded><![CDATA[24,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201706/7474_shop1_998795.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이주영 / 2집 발라드 (Solid Red Vinyl, 450장 한정반) *예약상품 (11월 28일 발매 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23326&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23326&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 21 Nov 2023 17:37:24 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/f29a3ffdf86b012be5f75861f68e7e78.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이민휘 / 미래의 고향 (CD, Digipak) *예약상품 (11월 24일부터 발송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23321&amp;cate_no=42&amp;display_group=1</link>
@@ -70,38 +102,6 @@
             <pubDate>Thu, 16 Nov 2023 17:34:46 GMT</pubDate>
             <content:encoded><![CDATA[46,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/b5cd9d18ff83b98fcf31be4f1ffb1ea4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grey October Sound / Lo-Fi City Pop (Vinyl) *예약상품 (11월 24일 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21652&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21652&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Nov 2023 17:34:46 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/ebe5275019d3f2370131f99cfd1db825.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grey October Sound / Lo-Fi Ghibli (Vinyl) *예약상품 (12월 15일 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21196&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21196&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Nov 2023 17:34:46 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/2feeb21f655337fb9ed05a88187e282d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넉살X까데호 / 당신께 (180g 베이비핑크 불투명 Vinyl, 한정반) *예약상품 (11월 23일 발매 예정, 11월 15일 자정 주문 마감)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23264&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23264&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 10 Nov 2023 17:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/72eadf009fd684c05170e0ba2c1ef967.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brad Mehldau / Largo (Vinyl, 2LP) *예약상품 (11월 24일 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23216&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23216&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 20 Nov 2023 17:34:58 GMT</pubDate>
-            <content:encoded><![CDATA[64,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201708/8142_shop1_663710.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

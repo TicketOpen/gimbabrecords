@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 05:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 17:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여유와 설빈 / 정규 3집 희극 (CD) *11월 24일부터 발송]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23325&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23325&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 21 Nov 2023 17:37:03 GMT</pubDate>
+            <content:encoded><![CDATA[19,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/ef0b5ab887139a6b420a0bc11efa52b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여유와 설빈 / 정규 2집 노래는 저 멀리 (CD) *11월 24일부터 발송]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23324&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23324&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 21 Nov 2023 17:37:03 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/c2aa2f87b7caed4e17a92b09690a45af.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[릴리 잇 머신 (Lilly Eat Machine) / 우리는 불연소의 여름에 갇힌 채 밤을 맞고 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23323&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23323&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 21 Nov 2023 17:37:03 GMT</pubDate>
+            <content:encoded><![CDATA[12,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/f799740913a32c3cf50537041674045d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이민휘 / 미래의 고향 (CD, Digipak) *예약상품 (11월 24일부터 발송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23321&amp;cate_no=24&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Wed, 15 Nov 2023 05:34:48 GMT</pubDate>
             <content:encoded><![CDATA[13,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/35a6d47818a035faefddef078f5f290c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jay-Z / Magna Carta Holy Grail (CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23297&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23297&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 15 Nov 2023 05:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/d8890aa1b1078743262b840468ed5a84.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Syd / Fin (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23296&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23296&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 15 Nov 2023 05:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[12,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/83d25d4b2f8235708684686996234e03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pizzicato Five / Remix Album: Happy End Of You (CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23295&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23295&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 15 Nov 2023 05:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/b0b3342d63daed33b24a72600ccffced.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
