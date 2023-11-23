@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 05:36:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 17:36:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태버 (Tabber) / Madness Always Turns to Sadness (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23331&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23331&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Nov 2023 17:35:10 GMT</pubDate>
+            <content:encoded><![CDATA[17,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/297d0d1eee939d6d8d67a953f11893bd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여유와 설빈 / 정규 3집 희극 (CD) *11월 24일부터 발송]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23325&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 03 Nov 2023 17:35:18 GMT</pubDate>
             <content:encoded><![CDATA[14,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/c6119702469704f8e3e796922d3638e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크러쉬 (Crush) / 정규 3집 wonderego (2CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23155&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23155&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Thu, 02 Nov 2023 17:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[22,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/415c2108abdd77d72eb87e1cd85118d6.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
