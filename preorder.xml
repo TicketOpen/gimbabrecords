@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 17:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 05:36:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Christopher Larkin, David Peacock and Augustine Mayuga Gonzales / 할로우 나이트 Hollow Knight Piano Collections (Vinyl 2LP + 24p 책자) *예약상품 (12월 20일경 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22932&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22932&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Nov 2023 05:35:10 GMT</pubDate>
+            <content:encoded><![CDATA[89,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/8ae5db5aefe2401ed7deec390e438993.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sufjan Stevens / Javelin (Indie Exclusive Lemonade Colored Vinyl + 48p booklet) *예약상품 (12월 중순 이후 배송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22969&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 16 Nov 2023 17:34:46 GMT</pubDate>
             <content:encoded><![CDATA[46,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/86fb0b1ddfec6430ff2dc5552c1525a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[edbl & friends / JPRK＋Jackson Mathod (Vinyl) *예약상품 (12월 28일 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23229&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23229&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Nov 2023 17:34:46 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/3737876acb66a3a6470893c2354a33b5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
