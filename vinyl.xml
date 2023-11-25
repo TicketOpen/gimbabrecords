@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 05:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 17:36:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 24 Nov 2023 17:35:13 GMT</pubDate>
             <content:encoded><![CDATA[44,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/a11561bbcc7af260ccddad66ec743f72.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sia / Everyday Is Christmas (Snowman EP) (Limited Red & White Splatter Vinyl, RSD Black Friday 2023)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23373&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23373&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 25 Nov 2023 17:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[31,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/c4e5894db68bdea81f893b4d0e8bede0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tool / Lateralus (Picture Disc Vinyl, 2LP, Limited Edition) *할인상품 (쟈켓 모서리에 미세한 눌림 자국이 있습니다. 구매시 유의사항을 참조하세요.)]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 24 Nov 2023 17:35:13 GMT</pubDate>
             <content:encoded><![CDATA[41,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/bb4199be6b9e890b0dacd29567e13d44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[bar italia / The Twits (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23349&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23349&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 24 Nov 2023 17:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[41,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/34c0d1ce78b060b8dabf12ef93474d71.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

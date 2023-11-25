@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Bargain Bin</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 05:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 17:36:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,7 +56,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201602/2756_shop1_373473.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[강승원 / 일집 (180g Vinyl) *한정수량 할인]]></title>
+            <title><![CDATA[강승원 (Feat. 성시경, 이적, 박정현, 장기하, 윤하, 전인권, 윤도현...) / 일집 (180g Vinyl) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21310&amp;cate_no=43&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21310&amp;cate_no=43&amp;display_group=1</guid>
             <pubDate>Fri, 28 Jul 2023 17:36:21 GMT</pubDate>
@@ -80,14 +80,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/1411ec8446cb23a80819db8011ae2588.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김정미 / 최신가요집 (1집) + 간다고 하지마오 (2집, 컴필레이션) + 바람 (3집) (일본에서 제작된 3장의 컬러바이닐 한정수량 묶음판매, Limited Edition) *할인판매]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18942&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18942&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 05:44:55 GMT</pubDate>
-            <content:encoded><![CDATA[114,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/41b1b8b23dc76855a12fc656a0e9f504.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[Fleetwood Mac / Original Album Series (5CD) *할인상품]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=16643&amp;cate_no=43&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=16643&amp;cate_no=43&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Fri, 27 Oct 2023 17:35:37 GMT</pubDate>
             <content:encoded><![CDATA[26,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202106/c8097f14f4734f7c3016235a2379eed4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Leon Vynehall / DJ Kicks (CD, EU Import) *2020 추석할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15721&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15721&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Sat, 25 Nov 2023 17:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[14,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202011/6cce8672e7daa269c93cf7281cdac625.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
