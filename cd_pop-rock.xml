@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 05:36:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 17:36:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Doors / Live In Bakersfield (2CD, RSD Black Friday 2023)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23359&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23359&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Sun, 26 Nov 2023 17:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[37,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/20c5b9ab64326f6496e0de09e744bcbc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Beirut / Hadsel (CD, Digipak) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23305&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 03 Nov 2023 17:35:24 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201508/339_shop1_530064.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lenny Kravitz / Are You Gonna Go My Way (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23181&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23181&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 03 Nov 2023 17:35:24 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201811/4dfc74fa3b157fd6db30790b6acdd415.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
