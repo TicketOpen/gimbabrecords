@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 17:36:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 05:37:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/f66ac6d3964960f0af01d8eccf9e1359.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[the neverminds / nevermind, the summer. (Cassette) *예약상품 (11월 마지막 주 발송) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23303&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23303&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 27 Nov 2023 05:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/59b2bdce0afd29fe50af9ddbf4b61f7d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Beatles / Now And Then (7" Black Vinyl) *예약상품 (12월말 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23158&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23158&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 21 Nov 2023 17:37:24 GMT</pubDate>
             <content:encoded><![CDATA[29,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201901/52bd7f004b8404ae63b2dd31cbe9ed58.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kirinji / 3 (Limited Paper-sleeve CD, 2014 reissue) *한정수량 할인 / 예약상품 (11월 23일 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=14168&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=14168&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Nov 2023 17:37:24 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201911/89826fccf5fd8f2cf982d02e9f6f06df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Elton John / Goodbye Yellow Brick Road (Remastered CD) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
