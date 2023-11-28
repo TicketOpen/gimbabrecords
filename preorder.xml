@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 05:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 17:36:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Howard Shore) / SE7EN 세븐 (2LP orange and yellow colored vinyl) *예약상품 (2024년 2월 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23342&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23342&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 24 Nov 2023 17:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[68,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/71d7635c20416835f001e371925c4a5e.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[The Beatles / Now And Then (7" Black Vinyl) *예약상품 (12월말 이후 배송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23158&amp;cate_no=42&amp;display_group=1</link>
@@ -30,14 +38,6 @@
             <pubDate>Fri, 24 Nov 2023 17:35:32 GMT</pubDate>
             <content:encoded><![CDATA[33,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/91fdbe82e7f09f0692cadf1cac26ec02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Howard Shore) / SE7EN 세븐 (2LP orange and yellow colored vinyl) *예약상품 (2024년 2월 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23342&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23342&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 24 Nov 2023 17:35:32 GMT</pubDate>
-            <content:encoded><![CDATA[68,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/71d7635c20416835f001e371925c4a5e.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[산울림 / 동요 전집 (컬러 4LP Box Set, Limited Edition) *예약상품 (11월 28일 발매 예정) / 11월 24일 오전 11시까지 결제가 완료된 주문에 한해 8,000원 추가 적립]]></title>

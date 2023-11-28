@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 05:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 17:36:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Oasis / The Masterplan (CD, EU Import, Remastered Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23381&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23381&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 28 Nov 2023 17:35:25 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/4b1c05a50a2e1b2e37ec5ef84af38be1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[John Lennon / Power to the People: The Hits (CD + DVD) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23380&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23380&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 28 Nov 2023 17:35:25 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/de0e1c6a3d4836e0bc00352bcad09bbd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blur / The Ballad Of Darren (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23378&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23378&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 28 Nov 2023 17:35:25 GMT</pubDate>
+            <content:encoded><![CDATA[24,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/10057142baf50c4d57788abd8d3c6bc3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Doors / Live In Bakersfield (2CD, RSD Black Friday 2023)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23359&amp;cate_no=30&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Thu, 09 Nov 2023 17:36:15 GMT</pubDate>
             <content:encoded><![CDATA[21,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/20046973bea8c1deb72aa4fd7f08b155.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Verve / This Is Music: The Singles 92-98 (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23184&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23184&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 03 Nov 2023 17:35:24 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/899a25073eb8a422a7c19526eef2125a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Beach Boys / Smiley Smile & Wild Honey (HDCD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23183&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23183&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 03 Nov 2023 17:35:24 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/040125b1bc471a5b5378b2f47da4992e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rush / Moving Pictures (Remastered CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23182&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23182&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 03 Nov 2023 17:35:24 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201508/339_shop1_530064.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

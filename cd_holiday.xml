@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Holiday</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 05:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 17:36:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bing Crosby / Merry Chirstmas (SHM-CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23392&amp;cate_no=51&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23392&amp;cate_no=51&amp;display_group=1</guid>
+            <pubDate>Tue, 28 Nov 2023 17:36:12 GMT</pubDate>
+            <content:encoded><![CDATA[18,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201712/9343_shop1_191551.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tatsuro Yamashita / Christmas Eve (CD, 2021 Version)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23383&amp;cate_no=51&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23383&amp;cate_no=51&amp;display_group=1</guid>
+            <pubDate>Tue, 28 Nov 2023 17:36:12 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/1f7415855617c01d5a41dd6638eecb24.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Howard Blake / The Snowman 스노우맨 사운드트랙 (CD + Live Stage Show DVD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21527&amp;cate_no=51&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:42:21 GMT</pubDate>
             <content:encoded><![CDATA[18,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/6f0063dc6d40357abb744134223b58bb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Louis Armstrong / Louis Wishes You a Cool Yule (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20635&amp;cate_no=51&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20635&amp;cate_no=51&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:42:21 GMT</pubDate>
-            <content:encoded><![CDATA[17,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/490e50b33ccf1f61ae301025a83fac1d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Norah Jones / I Dream Of Christmas (CD, gatefold sleeve) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20604&amp;cate_no=51&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20604&amp;cate_no=51&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 05:46:08 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/cfa26e40165b9ed191f863740f371b37.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

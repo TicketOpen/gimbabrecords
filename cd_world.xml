@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 05:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 17:36:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mario Castro Neves & Samba S.A / Mario Castro Neves & Samba S.A (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23379&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23379&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Tue, 28 Nov 2023 17:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[26,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/be698c4810fccb88ef6576d3d6aba68f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[La Casa Azul / El Sonido Efervescente De La Casa Azul (CD, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23294&amp;cate_no=79&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 15 Aug 2023 17:36:56 GMT</pubDate>
             <content:encoded><![CDATA[18,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/80a1f864d063e22fc8a487c57eafc0c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Antonio Carlos Jobim / Tide (SHM-CD) 한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22655&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22655&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Tue, 15 Aug 2023 17:36:56 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/8c076c333cfccc05dfad044b110fcd40.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
