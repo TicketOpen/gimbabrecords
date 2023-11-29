@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 05:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 17:36:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크라운제이 / ASIA KING (180g 불투명 골드 컬러 바이닐) *예약상품 (12월 6일 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23396&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23396&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 29 Nov 2023 17:34:37 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/4e0ba69e5e56bbb551d46a692a72ac74.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마미손 - 나의 슬픔 (My Sadness) (140g 핑크 크리스탈 컬러 LP) *예약상품 (12월 6일부터 발송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23395&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23395&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 29 Nov 2023 17:34:37 GMT</pubDate>
+            <content:encoded><![CDATA[46,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/c72f8d6487a12ea0a73fdabea82f35c4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Can / Live in Stuttgart 1975 (Limited Orange VInyl, 3LP) *2023 블랙프라이데이 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23394&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Sun, 26 Nov 2023 17:34:42 GMT</pubDate>
             <content:encoded><![CDATA[40,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/ac77d58f5842b2d8bcbda97ed0553c5a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Mamas & The Papas / Captured Live At The Monterey International Pop Festival (Remastered Gold Vinyl, RSD Black Friday 2023)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23365&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23365&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 26 Nov 2023 17:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[43,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/862d7c66282c8b903a7ceeb730bed431.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Linkin Park / Lost Demos (Limited Translucent Sea Blue Vinyl, RSD Black Friday 2023)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23364&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23364&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 26 Nov 2023 17:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[40,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/b85de834b8083506640f6d18beb5700e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
