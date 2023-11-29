@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 17:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 05:36:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Can / Live in Stuttgart 1975 (Limited Orange VInyl, 3LP) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23394&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23394&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 29 Nov 2023 05:34:55 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/77958dda8d356af42b9973e2c6f5f005.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rival Consoles / Articulation (Limited Clear Vinyl) *2023 블랙프라이데이 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23376&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 26 Nov 2023 17:34:42 GMT</pubDate>
             <content:encoded><![CDATA[40,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/b85de834b8083506640f6d18beb5700e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chico Hamilton / The Master (180g Purple Marble Colored Vinyl, 50th Anniversary Edition, RSD Black Friday 2023)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23363&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23363&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 26 Nov 2023 17:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[47,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/59fd8f12752a39b37e0c62738b36af48.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
