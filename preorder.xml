@@ -4,9 +4,49 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 05:36:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 17:36:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마미손 - 나의 슬픔 (My Sadness) (140g 핑크 크리스탈 컬러 LP) *예약상품 (12월 6일부터 발송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23395&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23395&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 29 Nov 2023 17:34:55 GMT</pubDate>
+            <content:encoded><![CDATA[46,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/c72f8d6487a12ea0a73fdabea82f35c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mary Lattimore / Silver Ladders (Limited Metallic Silver Vinyl) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17093&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17093&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Nov 2023 17:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[30,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/14bc7efced37882a32cb437b5a8c8430.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Radwimps & 陣内一真 / 스즈메의 문단속 OST (Suzume no Tojimari OST) (Black Vinyl, 2LP - 일본 프레싱) *예약상품 (2월 16일 이후 배송예정) / 8월 25일까지 결제 완료 분은 추가 5% 적립]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21018&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21018&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 01 Dec 2023 17:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[69,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e0353d91c13c715ba0edeb9be19e3121.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Radwimps / 너의 이름은 (Kimi No Na Ha, 君の名は) OST (Black Vinyl, 2LP) *예약상품 (2월 16일 이후 배송예정) / 8월 25일까지 결제가 완료된 주문은 추가 5%  적립]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19687&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19687&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 01 Dec 2023 17:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[69,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/5978b5be69998eac255a0985b430b174.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (RADWIMPS) / 날씨의 아이 Weathering With You (Black Vinyl 2LP) *예약상품 (2월 16일 이후 배송예정) / 8월 25일까지 결제 완료 분은 추가 5% 적립]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22660&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22660&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 01 Dec 2023 17:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[69,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/ccc9f0a6e6be3d57cc7dcdcd37d51fa4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sufjan Stevens / Javelin (Indie Exclusive Lemonade Colored Vinyl + 48p booklet) *예약상품 (12월 중순 이후 배송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22969&amp;cate_no=42&amp;display_group=1</link>
@@ -30,14 +70,6 @@
             <pubDate>Wed, 29 Nov 2023 17:34:55 GMT</pubDate>
             <content:encoded><![CDATA[44,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/4e0ba69e5e56bbb551d46a692a72ac74.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마미손 - 나의 슬픔 (My Sadness) (140g 핑크 크리스탈 컬러 LP) *예약상품 (12월 6일부터 발송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23395&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23395&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 29 Nov 2023 17:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[46,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/c72f8d6487a12ea0a73fdabea82f35c4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Chet Baker / Memories - In Tokyo (Vinyl, 3rd Pressing, Limited Edition) *예약판매  (2024년 3월 배송 예정) *"구매시 유의사항"을 확인해 주세요.]]></title>
@@ -69,38 +101,6 @@
             <pubDate>Fri, 24 Nov 2023 17:35:32 GMT</pubDate>
             <content:encoded><![CDATA[30,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/c821cadea0e6ff6fc04bd9e82df96528.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Beatles / Now And Then (12" Black Vinyl) *예약상품 (12월말 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23159&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23159&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 24 Nov 2023 17:35:32 GMT</pubDate>
-            <content:encoded><![CDATA[38,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/6ddbbce0a64cec5e161571cc323e8cb0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Beatles / Now And Then (7" Light Blue Colored Vinyl) *예약상품 (12월말 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23161&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23161&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 24 Nov 2023 17:35:32 GMT</pubDate>
-            <content:encoded><![CDATA[33,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/91fdbe82e7f09f0692cadf1cac26ec02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mary Lattimore / Silver Ladders (Limited Metallic Silver Vinyl) *한정수량 할인 / 예약상품 (11월 30일 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17093&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17093&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 23 Nov 2023 17:34:58 GMT</pubDate>
-            <content:encoded><![CDATA[30,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/14bc7efced37882a32cb437b5a8c8430.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Christopher Larkin, David Peacock and Augustine Mayuga Gonzales / 할로우 나이트 Hollow Knight Piano Collections (Vinyl 2LP + 24p 책자) *예약상품 (12월 20일경 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22932&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22932&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 23 Nov 2023 05:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[89,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/8ae5db5aefe2401ed7deec390e438993.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
