@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Dec 2023 05:36:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 17:36:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nujabes / Metaphorical Music (Limited Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23430&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23430&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Sat, 02 Dec 2023 17:35:10 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/5c882d5787a1acdfc4110cd85049e092.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cigarettes After Sex / Cigarettes After Sex (Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23320&amp;cate_no=26&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 09 Sep 2023 17:35:07 GMT</pubDate>
             <content:encoded><![CDATA[23,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/54d0173f6b6a5f642a35a0c573fbba0f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DJ Tenniscoats / Reggae Mix (Cassette, 소량 한정제작)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22797&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22797&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Nov 2023 17:37:14 GMT</pubDate>
-            <content:encoded><![CDATA[16,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/7c3366a2da6c70bd7d8959a0348c1c8d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
