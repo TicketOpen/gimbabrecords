@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 05:36:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 17:36:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겸 GYE0M  / 남은 것들은 짙은 향기와 마지막 사랑 (Cassette) *예약상품 (12월 8일부터 발송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23444&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23444&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Dec 2023 17:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[17,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/551965b84b07c36ade84b9d2e9c482c1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[함병선 (9z) / Romance (Cassette) *예약상품 (12월 8일부터 발송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23442&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23442&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Dec 2023 17:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[17,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/b1c49b6401702eb6e1dd332ab1c9a7dd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주애 JUE / 6 Shots (Cassette) *예약상품 (12월 8일부터 발송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23440&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23440&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Dec 2023 17:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[17,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/2fd6cfa83fb587111c9277311082b8c4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nujabes / Metaphorical Music (Limited Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23430&amp;cate_no=26&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Sat, 16 Sep 2023 17:35:05 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/62ad0de81af1454ac374651bf45d1153.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tatsuro Yamashita / It's A Poppin' Time (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22805&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22805&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Mon, 11 Sep 2023 17:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[52,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/7e9cbf98cbc14239b959efe684014992.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tatsuro Yamashita / Greatest Hits! Of Tatsuro Yamashita (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22804&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22804&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Mon, 11 Sep 2023 17:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[41,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/babe54ec9c5b59d9d5623d726bb4a4c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Madlib / Sound Ancestors (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22798&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22798&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Sat, 09 Sep 2023 17:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[23,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/54d0173f6b6a5f642a35a0c573fbba0f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

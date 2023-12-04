@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 05:36:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 17:36:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겸 GYE0M  / 남은 것들은 짙은 향기와 마지막 사랑 (CD) *예약상품 (12월 8일부터 발송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23443&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23443&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Dec 2023 17:35:35 GMT</pubDate>
+            <content:encoded><![CDATA[18,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/92d64ab430231a0b8721b588d1a0bc0d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태버 (Tabber) / Madness Always Turns to Sadness (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23331&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 06 Nov 2023 17:36:17 GMT</pubDate>
             <content:encoded><![CDATA[21,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/42ad20774db6df671fbfd40b44f14191.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식케이 (Sik-K) / 정규앨범 POP A LOT (CD + Booklet)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23190&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23190&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Fri, 03 Nov 2023 17:35:18 GMT</pubDate>
-            <content:encoded><![CDATA[14,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/c6119702469704f8e3e796922d3638e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
