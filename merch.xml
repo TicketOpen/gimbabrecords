@@ -4,17 +4,9 @@
         <title>김밥레코즈 ─ Movies/Merch</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 05:36:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 17:36:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[The Beatles / On Air - Live At The BBC, Vol. 2 (2CD + Limited Edition XL T-shirt) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23422&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23422&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Mon, 04 Dec 2023 17:35:16 GMT</pubDate>
-            <content:encoded><![CDATA[31,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/48968ab49c41bcd9dca2fb3c1265d081.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Audio Technica Turntable - AT-SB727 휴대용 무선 블루투스 턴테이블]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23283&amp;cate_no=27&amp;display_group=1</link>
@@ -102,6 +94,14 @@
             <pubDate>Mon, 04 Dec 2023 05:35:16 GMT</pubDate>
             <content:encoded><![CDATA[30,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/f66ac6d3964960f0af01d8eccf9e1359.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Audio Technica Turntable - AT-LP7 완전 수동 벨트 드라이브 턴테이블 (보너스 레코드 증정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21941&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21941&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Tue, 05 Dec 2023 17:34:44 GMT</pubDate>
+            <content:encoded><![CDATA[1,190,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/7b006abb8bad3c9f5f32382858af7ca6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
