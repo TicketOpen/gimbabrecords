@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 17:36:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 05:36:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 05 Dec 2023 17:34:31 GMT</pubDate>
             <content:encoded><![CDATA[30,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/f4ad73b22a4aa2017625ecaa530bd9f5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jim Sullivan / U.F.O. (Limited Blue & Green Swirl Vinyl - Psychedelic Desert Sunset Pressing) *절판 레코드 특별전 / 2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23456&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23456&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 06 Dec 2023 05:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/433443402f96b161d29c311abb783610.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bill Fay / Still Some Light: Part 2 (Vinyl, 2LP) *2023 블랙프라이데이 할인]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 04 Dec 2023 17:35:03 GMT</pubDate>
             <content:encoded><![CDATA[88,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/4ab34fac6acae07b07323a137813e052.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Laurie Anderson / Big Science (Red Colored Vinyl) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23445&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23445&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 04 Dec 2023 17:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[31,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/962d76a7cfdcd558b0ccaa00a24c8f66.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
