@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 17:37:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 05:36:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김창완 / 나는 지구인이다 (180g Vinyl, 2LP Box Set, Limited Edition) *예약상품 (24년 3월 21일 발매 예정, 12월 7일 자정 주문 마감)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23431&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23431&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 07 Dec 2023 05:34:51 GMT</pubDate>
+            <content:encoded><![CDATA[89,100원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/e3f5c6fa901e3084b154ebaed73eeacb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Michael Buble / Christmas (Black Vinyl, EU Pressing) *예약상품 (12월 15일 이후 배송 진행)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17779&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 04 Dec 2023 17:35:22 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/3e67ab7888aea8b5e826859449b9cf62.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Junko Ohashi / Magical - 大橋純子の世界III (Blue Vinyl, 2LP) *예약상품 (12월 19일 이후 배송 진행)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21960&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21960&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 04 Dec 2023 17:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[56,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/7cf8f30156fa5480529e581ba0a1e4ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
