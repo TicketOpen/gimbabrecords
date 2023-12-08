@@ -4,11 +4,35 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 05:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 17:36:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[겸 GYE0M  / 남은 것들은 짙은 향기와 마지막 사랑 (CD) *예약상품 (12월 8일부터 발송)]]></title>
+            <title><![CDATA[Barry Manilow / The Essential Barry Manilow (2CD, Super Jewel Case) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23493&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23493&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 08 Dec 2023 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/8abed02ef5a439b11d2b57f429dd4ac9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mary Lattimore / Goodbye, Hotel Arkada (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23491&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23491&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 08 Dec 2023 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/fb2ebe5eb99a473515fc7dc4acace897.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sufjan Stevens / The Ascension (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23490&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23490&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 08 Dec 2023 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/04d28ac6a6055a8c9ffe9f79b42427a5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겸 GYE0M  / 남은 것들은 짙은 향기와 마지막 사랑 (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23443&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23443&amp;cate_no=24&amp;display_group=1</guid>
             <pubDate>Mon, 04 Dec 2023 17:34:57 GMT</pubDate>
@@ -78,30 +102,6 @@
             <pubDate>Thu, 30 Nov 2023 17:35:02 GMT</pubDate>
             <content:encoded><![CDATA[17,700원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/e126454ad773eaba8f6720fcf3a4dd7e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gary McFarland / Soft Samba (SHM-CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23393&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23393&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 28 Nov 2023 17:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[18,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/337a371dc2bb0b13368dfc450551de7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bing Crosby / Merry Chirstmas (SHM-CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23392&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23392&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 28 Nov 2023 17:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[18,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201712/9343_shop1_191551.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kenny Drew / Undercurrent (SHM-CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23391&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23391&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 28 Nov 2023 17:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[18,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201903/0f43403729b9b5f2110936491409ced9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
