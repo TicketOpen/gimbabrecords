@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 17:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 05:36:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -568,20 +568,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/1411ec8446cb23a80819db8011ae2588.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Chemical Brothers / Surrender (20th Anniversary 3CD + DVD Box Set) *한정수량 할인 (1인 1세트만 구매 가능) (김밥레코즈 ─ Bargain Bin)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17776&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17776&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Mon, 04 Dec 2023 17:35:29 GMT</pubDate>
-            <content:encoded><![CDATA[30,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202111/b85c13f3cadf065f71b30b994fa0f721.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[Fleetwood Mac / Original Album Series (5CD) *할인상품 (김밥레코즈 ─ Bargain Bin)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=16643&amp;cate_no=43&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=16643&amp;cate_no=43&amp;display_group=1</guid>
             <pubDate>Sun, 15 Oct 2023 17:35:49 GMT</pubDate>
             <content:encoded><![CDATA[26,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202106/62f271fa2d994c5c1cd6d3d8569ee977.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Otis Redding / Original Album Series (5CD) *할인상품 (김밥레코즈 ─ Bargain Bin)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=16639&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=16639&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Sat, 09 Dec 2023 05:35:07 GMT</pubDate>
+            <content:encoded><![CDATA[26,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202106/c8097f14f4734f7c3016235a2379eed4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겸 GYE0M  / 남은 것들은 짙은 향기와 마지막 사랑 (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
