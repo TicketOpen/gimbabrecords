@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Dec 2023 05:36:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 17:36:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월과 5월 (4월과 5월 외 여러 음악가) / 4월과 5월 작품집 : 오아시스 포크 훼스티발 vol.1 (Vinyl) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23495&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23495&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Sat, 09 Dec 2023 17:36:31 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/cbaea14f9cfe59327bae63cd22dcac7e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삐삐밴드 / 불가능한작전 (Vinyl, Limited Edition) *예약상품 (12월 20일 이후 배송) / 12월 12일까지 결제가 완료된 주문에 대해서는 2,500원을 추가 적립해드립니다. (배송 시작 시점에 적립)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23461&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 29 Nov 2023 17:36:22 GMT</pubDate>
             <content:encoded><![CDATA[44,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/4e0ba69e5e56bbb551d46a692a72ac74.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마미손 - 나의 슬픔 (My Sadness) (140g 핑크 크리스탈 컬러 LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23395&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23395&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Wed, 29 Nov 2023 17:36:22 GMT</pubDate>
-            <content:encoded><![CDATA[46,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/c72f8d6487a12ea0a73fdabea82f35c4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
