@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 17:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 05:36:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/b21541e2689348a337482700ec0f07c4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[OST (Ryuichi Sakamoto) / 괴물 Kaibutsu (Vinyl, Limited Edition) *예약상품 (12월 27일 이후 배송 예정) / 24시간 한정 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23506&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23506&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Dec 2023 05:35:01 GMT</pubDate>
+            <content:encoded><![CDATA[59,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/c88276abac8cbba3704eb086bcc2a8b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Paul McCartney / Pipes of Peace (Vinyl, Remastered) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23504&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23504&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 08 Dec 2023 17:34:57 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/38f28eb133fb34be64b4404311db3daf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Feelies / Some Kinda Love: Performing Music Of The Velvet Underground (Black Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23489&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23489&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 08 Dec 2023 17:34:57 GMT</pubDate>
-            <content:encoded><![CDATA[42,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/7796710f173f182edc115782f4460cf9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겸 GYE0M  / 남은 것들은 짙은 향기와 마지막 사랑 (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,6 +392,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/7b006abb8bad3c9f5f32382858af7ca6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[OST (Ryuichi Sakamoto) / 괴물 Kaibutsu (Vinyl, Limited Edition) *예약상품 (12월 27일 이후 배송 예정) / 24시간 한정 할인 (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23506&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23506&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Dec 2023 05:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[59,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/c88276abac8cbba3704eb086bcc2a8b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chet Baker / Memories - In Tokyo (Vinyl, 3rd Pressing, Limited Edition) *예약판매  (2024년 3월 배송 예정) *"구매시 유의사항"을 확인해 주세요. (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17261&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17261&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Dec 2023 05:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[48,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/c0ff3d190a2c241e032879c702f27ec4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Tuesday Beach Club / EP Tuesday Beach Club (CD) *예약상품 (12월 19일 발매) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23505&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23505&amp;cate_no=42&amp;display_group=1</guid>
@@ -470,22 +486,6 @@
             <pubDate>Thu, 07 Dec 2023 17:35:11 GMT</pubDate>
             <content:encoded><![CDATA[44,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/faa1723c5ccb5e912eaf13bee5a6844e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Cagnet) / Here We Are Again -"Long Vacation"  Original Soundtrack III (롱 베케이션 사운드트랙 - 영어 버전)  *예약상품 (12월 19일 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23437&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23437&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 07 Dec 2023 17:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/5180f0de08a8c6deb2b9138cab7369e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Noriyo Ikeda / Dream In The Street (Vinyl, 2023 Clear Pink Color Pressing, Limited Edition) *예약상품 (12월 19일 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=15233&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=15233&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 07 Dec 2023 17:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[48,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202008/fd90f89759e49fe23c5f63284ad9e74e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Elton John / Goodbye Yellow Brick Road (Remastered CD) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>

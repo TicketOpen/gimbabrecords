@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 17:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 05:36:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Ryuichi Sakamoto) / 괴물 Kaibutsu (Vinyl, Limited Edition) *예약상품 (12월 27일 이후 배송 예정) / 24시간 한정 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23506&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23506&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Dec 2023 05:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[59,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/c88276abac8cbba3704eb086bcc2a8b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chet Baker / Memories - In Tokyo (Vinyl, 3rd Pressing, Limited Edition) *예약판매  (2024년 3월 배송 예정) *"구매시 유의사항"을 확인해 주세요.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17261&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17261&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Dec 2023 05:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[48,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/c0ff3d190a2c241e032879c702f27ec4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tuesday Beach Club / EP Tuesday Beach Club (CD) *예약상품 (12월 19일 발매)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23505&amp;cate_no=42&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 07 Dec 2023 17:35:11 GMT</pubDate>
             <content:encoded><![CDATA[44,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/faa1723c5ccb5e912eaf13bee5a6844e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Cagnet) / Here We Are Again -"Long Vacation"  Original Soundtrack III (롱 베케이션 사운드트랙 - 영어 버전)  *예약상품 (12월 19일 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23437&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23437&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 07 Dec 2023 17:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/5180f0de08a8c6deb2b9138cab7369e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Noriyo Ikeda / Dream In The Street (Vinyl, 2023 Clear Pink Color Pressing, Limited Edition) *예약상품 (12월 19일 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=15233&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=15233&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 07 Dec 2023 17:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[48,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202008/fd90f89759e49fe23c5f63284ad9e74e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
