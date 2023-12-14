@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 05:37:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 17:36:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Keni Burke / Changes (Vinyl, Reissue) *예약주문 (12월 22일 이후 배송이 진행됩니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22512&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22512&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Dec 2023 17:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[41,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/a5e60b8327cfe8548fe7b1676e56a701.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bobby Caldwell / Bobby Caldwell (Vinyl, 2023 Remastered Reissue) *예약상품 (12월 21일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22506&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22506&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Dec 2023 17:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/f5154886df1ce6e026d1d28cbadbc1c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST (The Wonders 외) / That Thing You Do! 댓 싱 유 두 (Red Vinyl + Bonus 7" + 12p booklet) *예약상품 (1월 중순 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22923&amp;cate_no=42&amp;display_group=1</link>
@@ -40,14 +56,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/c88276abac8cbba3704eb086bcc2a8b1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bobby Caldwell / Bobby Caldwell (Vinyl, 2023 Remastered Reissue) *예약상품 (12월 21일 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22506&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22506&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Dec 2023 17:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[42,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/f5154886df1ce6e026d1d28cbadbc1c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Jay Richford & Gary Stevan / Feelings (Vinyl, UK Be With Records reissue) *예약상품 (12월 22일 이후 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=16116&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=16116&amp;cate_no=42&amp;display_group=1</guid>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 13 Dec 2023 17:35:48 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/2f16c7fe7c5f1f3d93bcee989f197459.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Keni Burke / Changes (Vinyl, Reissue) *예약주문 (12월 22일 이후 배송이 진행됩니다.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22512&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22512&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Dec 2023 17:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[41,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/a5e60b8327cfe8548fe7b1676e56a701.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Chet Baker / Memories - In Tokyo (Vinyl, 3rd Pressing, Limited Edition) *예약판매  (2024년 3월 배송 예정) *"구매시 유의사항"을 확인해 주세요.]]></title>

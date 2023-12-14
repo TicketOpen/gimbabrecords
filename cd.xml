@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 05:37:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 17:36:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Puma Blue / Holy Waters (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23512&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23512&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 14 Dec 2023 17:34:41 GMT</pubDate>
+            <content:encoded><![CDATA[20,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/b76c2a773b35e03105882b451157d459.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기리보이 / 정규 10집 소설 쓰고 자빠졌네 (CD + ALBUM BOOK 120p + 내지 + 포스터 2종)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23508&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23508&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 14 Dec 2023 17:34:41 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/46e13ed0ca07a1a2bd45a341c987df85.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Tuesday Beach Club / EP Tuesday Beach Club (CD) *예약상품 (12월 19일 발매)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23505&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 01 Dec 2023 17:35:06 GMT</pubDate>
             <content:encoded><![CDATA[18,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/5b0e37cc628c65b37626a5eba520aae2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Moonchild / Reflections (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23418&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23418&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 01 Dec 2023 17:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[22,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/2cce28a94688f94aed79a03b118bf44a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anohni and the Johnsons / My Back Was A Bridge For You To Cross (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23417&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23417&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 30 Nov 2023 17:35:02 GMT</pubDate>
-            <content:encoded><![CDATA[17,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/b21541e2689348a337482700ec0f07c4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
