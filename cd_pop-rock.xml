@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 05:36:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 17:36:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Benny Sings / Champagne People (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23530&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23530&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Sat, 16 Dec 2023 17:35:35 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/7f53fdada4fd6a49d3753758c978b0cf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[PinkPantheress / Heaven Knows (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23528&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 28 Nov 2023 17:35:25 GMT</pubDate>
             <content:encoded><![CDATA[17,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/de0e1c6a3d4836e0bc00352bcad09bbd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blur / The Ballad Of Darren (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23378&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23378&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 28 Nov 2023 17:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[24,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/10057142baf50c4d57788abd8d3c6bc3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
