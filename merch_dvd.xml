@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 05:36:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 17:36:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Mon, 14 Nov 2022 05:45:57 GMT</pubDate>
             <content:encoded><![CDATA[52,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/8d56d378cf50f231a771a15ec7647ae7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Peanuts Holiday Anniversary Collection (Charlie Brown Christmas 포함) 찰리 브라운 크리스마스 등 피너츠 3대 클래식을 모두 모은 "홀리데이 컬렉션" (Blu-ray, US IMPORT)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17872&amp;cate_no=64&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17872&amp;cate_no=64&amp;display_group=1</guid>
-            <pubDate>Mon, 14 Nov 2022 05:45:57 GMT</pubDate>
-            <content:encoded><![CDATA[54,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/af55d515ac543ce5661af02657b9ca5a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미인 (Blu-Ray, 신중현과 엽전들 주연, 1,500매 한정반, 서울레코드페어 기획) (아웃박스 + 50페이지 컬러 책자 + 엽서 5종)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 27 Sep 2023 17:37:05 GMT</pubDate>
             <content:encoded><![CDATA[19,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/773453bdc9d80e040b4ec94788924c5c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nick Cave & The Bad Seeds / The Boatman's Call (Remastered CD + DVD, NTSC Version) *1회 한정 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19566&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19566&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Sun, 17 Dec 2023 17:36:44 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/9d3b0e77ec5487f17e5962b4a2f21bb2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
