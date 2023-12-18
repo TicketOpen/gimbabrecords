@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 05:37:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 17:36:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Rolling Stones / Their Satanic Majesties Request (SHM-CD) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23545&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23545&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 18 Dec 2023 17:35:43 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/1016230fbd83a9499f40b5b6b80495dc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Rolling Stones / Hot Rocks (SHM-CD) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23544&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23544&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 18 Dec 2023 17:35:43 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/c6f38fb23528b87e8adbfdf11c1efd32.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sam Smith / Gloria (CD) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23543&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23543&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 18 Dec 2023 17:35:43 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/0f6fb9407d1a7c039fddb7a89d38a424.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Benny Sings / Champagne People (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23530&amp;cate_no=30&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Thu, 30 Nov 2023 17:35:38 GMT</pubDate>
             <content:encoded><![CDATA[17,700원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/b21541e2689348a337482700ec0f07c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Buck Meek / Haunted Mountain (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23416&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23416&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 30 Nov 2023 17:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[17,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/e126454ad773eaba8f6720fcf3a4dd7e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oasis / The Masterplan (CD, EU Import, Remastered Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23381&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23381&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 28 Nov 2023 17:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/4b1c05a50a2e1b2e37ec5ef84af38be1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Lennon / Power to the People: The Hits (CD + DVD) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23380&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23380&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 28 Nov 2023 17:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/de0e1c6a3d4836e0bc00352bcad09bbd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
