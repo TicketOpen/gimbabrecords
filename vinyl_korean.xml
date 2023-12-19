@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 05:37:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 17:36:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최백호 / 정규앨범 7 (seven) (Vinyl, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23557&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23557&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Dec 2023 17:36:06 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/7a1261f0e487a6c839b644b485b46efe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찬주 / Wonderland (Limited Numbered Yellow Vinyl) *예약상품 (12월 28일 이후 배송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23546&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 04 Dec 2023 17:36:49 GMT</pubDate>
             <content:encoded><![CDATA[46,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/ddc3a9a590306c236ad292e4949180c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이화 / 1집 눈내리던 겨울밤, 그대와 나 (Vinyl, 릴마스터 Remastering, 한정반) *블랙,레드,화이트 컬러 3종 중 선택 / 예약상품 (12월 12일 발매 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23438&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23438&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Mon, 04 Dec 2023 17:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[43,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/55f572f28f7cbec0ec3e55ffc03a8dec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

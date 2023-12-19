@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 05:37:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 17:36:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고희안 하와이 트리오 (Koheean Hawaii Trio) / Pink Island (CD) *예약상품 (12월 22일부터 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23558&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23558&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Dec 2023 17:34:53 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/d10ec96ff7fba58bb12fecee689089ea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기리보이 / 정규 10집 소설 쓰고 자빠졌네 (CD + ALBUM BOOK 120p + 내지 + 포스터 2종)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23508&amp;cate_no=29&amp;display_group=1</link>
@@ -16,7 +24,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/46e13ed0ca07a1a2bd45a341c987df85.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Tuesday Beach Club / EP Tuesday Beach Club (CD) *예약상품 (12월 19일 발매)]]></title>
+            <title><![CDATA[Tuesday Beach Club / EP Tuesday Beach Club (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23505&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23505&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Tue, 12 Dec 2023 17:35:11 GMT</pubDate>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 13 Nov 2023 17:35:37 GMT</pubDate>
             <content:encoded><![CDATA[13,400원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/a2744db4a41a4184a5407d8a42f6d13c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NO:EL (노엘) / 정규 3집 TRIPONOEL (CD, 하드케이스 + 앨범커버 + 포토리릭북)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23265&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23265&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Mon, 13 Nov 2023 17:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[26,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/e0849a760b7a828be3a53db82992de02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
