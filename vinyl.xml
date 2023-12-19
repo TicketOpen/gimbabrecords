@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 17:36:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 05:37:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Chet Baker & Crew / Chet Baker & Crew (180g Vinyl, 2LP, Limited Edition) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23547&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23547&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Dec 2023 05:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/a57ccb3f1032c784be1ce760ecbf301d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬주 / Wonderland (Limited Numbered Yellow Vinyl) *예약상품 (12월 28일 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23546&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23546&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Dec 2023 05:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/ef70d39474d8d2a2252bd775e3a3d696.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jockstrap & Taylor Skye / I<3UQTINVU (Red Vinyl, Limited Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23539&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 15 Dec 2023 17:34:45 GMT</pubDate>
             <content:encoded><![CDATA[41,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/b95a0bb8928522f4421ef19d5e781392.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Teenage Fanclub / Nothing Lasts Forever (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23526&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23526&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 15 Dec 2023 17:34:45 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/f7dbcff92615ac3797c0a9515d8ee9d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cecile McLorin Salvant / Melusine (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23525&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23525&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 15 Dec 2023 17:34:45 GMT</pubDate>
-            <content:encoded><![CDATA[41,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/b9690d9a59de000659daac4f52bf2034.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
