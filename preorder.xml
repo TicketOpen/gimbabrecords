@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 17:37:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 05:36:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Chet Baker / Memories - In Tokyo (Vinyl, 3rd Pressing, Limited Edition) *예약판매  (2024년 3월 배송 예정) *"구매시 유의사항"을 확인해 주세요.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17261&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17261&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Dec 2023 05:35:05 GMT</pubDate>
+            <content:encoded><![CDATA[48,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/c0ff3d190a2c241e032879c702f27ec4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryusenkei / Tokyo Sniper (180g Clear Vinyl) *예약주문 (1월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23251&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23251&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Dec 2023 17:34:40 GMT</pubDate>
+            <content:encoded><![CDATA[55,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/f197af56bfb07923b831f093bd4c38e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소란 (SORAN) / 2집 PRINCE (180g Black Vinyl) *예약상품 (12월 26일 발매)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23561&amp;cate_no=42&amp;display_group=1</link>
@@ -38,14 +54,6 @@
             <pubDate>Tue, 19 Dec 2023 17:34:40 GMT</pubDate>
             <content:encoded><![CDATA[14,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/d10ec96ff7fba58bb12fecee689089ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryusenkei / Tokyo Sniper (180g Clear Vinyl) *예약주문 (1월초 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23251&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23251&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 19 Dec 2023 17:34:40 GMT</pubDate>
-            <content:encoded><![CDATA[55,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/f197af56bfb07923b831f093bd4c38e0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jay Richford & Gary Stevan / Feelings (Vinyl, UK Be With Records reissue) *예약상품 (1월 12일 이후 배송 예정)]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 17 Dec 2023 17:35:27 GMT</pubDate>
             <content:encoded><![CDATA[38,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/67d714169d9d0ab9939e81510bfdcc6a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vince Guaraldi Trio / Peanuts Greatest Hits (Vinyl, Limited Picture Disc) *예약상품 (12월 27-28일경 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23521&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23521&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Dec 2023 05:35:31 GMT</pubDate>
-            <content:encoded><![CDATA[43,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/72b7f230865be837c48086ca9c4058c4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
