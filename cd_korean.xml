@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 05:36:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 17:36:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오프더메뉴 (off the menu) / 정규 1집 Every Point of View (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23586&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23586&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Fri, 22 Dec 2023 17:35:22 GMT</pubDate>
+            <content:encoded><![CDATA[16,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/507f037856625defb40a39d46a9724b5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고희안 하와이 트리오 (Koheean Hawaii Trio) / Pink Island (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23558&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 16 Nov 2023 17:34:58 GMT</pubDate>
             <content:encoded><![CDATA[20,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/9c57817db4ff6b4e22598d8cc23978ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤훼이 / 정규 1집 YUNHWAY (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23266&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23266&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Mon, 13 Nov 2023 17:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[13,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/a2744db4a41a4184a5407d8a42f6d13c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
