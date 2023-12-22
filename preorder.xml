@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 17:36:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 05:36:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김뜻돌 / 꿈에서 걸려온 전화 (140g 투명 블루 컬러 Vinyl, 발매 3주년 기념반) *예약상품 (2024년 3월 21일 발매 예정, 12월 22일 자정 주문 마감)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23507&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23507&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 22 Dec 2023 05:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/2f16c7fe7c5f1f3d93bcee989f197459.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[도재명 / 21st Century Odyssey (180g Vinyl) *예약상품 (12월 28일부터 발송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23578&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 17 Dec 2023 17:35:27 GMT</pubDate>
             <content:encoded><![CDATA[59,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/41b214ad2cb6e2e67231067dc3769827.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vince Guaraldi Trio / A Charlie Brown Christmas ("Christmas Tree" Green Vinyl, Original Stereo Mix) *예약상품 (12월 27-28일경 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23423&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23423&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sun, 17 Dec 2023 17:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[38,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/67d714169d9d0ab9939e81510bfdcc6a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
