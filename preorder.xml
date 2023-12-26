@@ -4,9 +4,41 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 05:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 17:36:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쏜애플 (THORNAPPLE) / EP 동물 (180g Black Vinyl) *예약상품 (12월 26일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23559&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23559&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 20 Dec 2023 17:35:40 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/0eebc5c77c3809a08bbf4fcbddbca219.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 (SORAN) / EP Share (180g Black Vinyl, 한정 사인반) *예약상품 (12월 26일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23560&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23560&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 20 Dec 2023 17:35:40 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/d19291f2c0e45da1fffd5f1d569bde48.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 (SORAN) / 2집 PRINCE (180g Black Vinyl, 한정 사인반) *예약상품 (12월 26일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23561&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23561&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 20 Dec 2023 17:35:40 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/7349f4b3840e07866625dbfe18af8b0f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이화 / 1집 눈내리던 겨울밤, 그대와 나 (Vinyl, 릴마스터 Remastering, 한정반) *블랙,레드,화이트 컬러 3종 중 선택 / 예약상품 (12월 12일 발매 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23438&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23438&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 26 Dec 2023 17:34:55 GMT</pubDate>
+            <content:encoded><![CDATA[43,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/55f572f28f7cbec0ec3e55ffc03a8dec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도재명 / 21st Century Odyssey (180g Vinyl) *예약상품 (12월 28일부터 발송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23578&amp;cate_no=42&amp;display_group=1</link>
@@ -22,14 +54,6 @@
             <pubDate>Tue, 19 Dec 2023 05:35:45 GMT</pubDate>
             <content:encoded><![CDATA[42,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/ef70d39474d8d2a2252bd775e3a3d696.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Weldon Irvine / Liberated Brother (Vinyl) *예약상품 (12월말 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23231&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23231&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Dec 2023 17:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/00f5e9f5e79d703b49cd8814fb93324e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김뜻돌 / 꿈에서 걸려온 전화 (140g 투명 블루 컬러 Vinyl, 발매 3주년 기념반) *예약상품 (2024년 3월 21일 발매 예정)]]></title>
@@ -54,30 +78,6 @@
             <pubDate>Thu, 21 Dec 2023 05:35:05 GMT</pubDate>
             <content:encoded><![CDATA[48,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/c0ff3d190a2c241e032879c702f27ec4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소란 (SORAN) / 2집 PRINCE (180g Black Vinyl) *예약상품 (12월 26일 발매)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23561&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23561&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 20 Dec 2023 17:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/7349f4b3840e07866625dbfe18af8b0f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소란 (SORAN) / EP Share (180g Black Vinyl) *예약상품 (12월 26일 발매)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23560&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23560&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 20 Dec 2023 17:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[38,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/d19291f2c0e45da1fffd5f1d569bde48.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏜애플 (THORNAPPLE) / EP 동물 (180g Black Vinyl) *예약상품 (12월 26일 발매)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23559&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23559&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 20 Dec 2023 17:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/0eebc5c77c3809a08bbf4fcbddbca219.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jay Richford & Gary Stevan / Feelings (Vinyl, UK Be With Records reissue) *예약상품 (1월 12일 이후 배송 예정)]]></title>
