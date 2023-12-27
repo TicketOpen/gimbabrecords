@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 05:36:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 17:36:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/bb395353eedaf1ad47cc839b60b4a2af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Rainbow99 (레인보우99) / Jamesrecord Collected (Vinyl, 2LP, 200장 한정) *예약상품 (1월 4일 발매 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23597&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23597&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Dec 2023 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[52,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/a8c22c40508440d29667bd627b7dd371.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Collective Soul / 7even Year Itch: Greatest Hits, 1994-2001 (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23596&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23596&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 22 Dec 2023 17:34:52 GMT</pubDate>
             <content:encoded><![CDATA[55,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/8654cfa36e93181b9cf2ad29d5292ebc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tomoko Aran / Last Good-bye (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23584&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23584&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Dec 2023 17:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[47,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/db474f47e35e561e6bee2985ca19f4e3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nancy Sinatra / Start Walkin' 1965-1976 (Cassette) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Cassette)]]></title>
@@ -392,36 +392,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/7b006abb8bad3c9f5f32382858af7ca6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쏜애플 (THORNAPPLE) / EP 동물 (180g Black Vinyl) *예약상품 (12월 26일 발매) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23559&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23559&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 20 Dec 2023 17:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/0eebc5c77c3809a08bbf4fcbddbca219.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Rainbow99 (레인보우99) / Jamesrecord Collected (Vinyl, 2LP, 200장 한정) *예약상품 (1월 4일 발매 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23597&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23597&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Dec 2023 17:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[52,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/a8c22c40508440d29667bd627b7dd371.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[소란 (SORAN) / EP Share (180g Black Vinyl, 한정 사인반) *예약상품 (12월 26일 발매) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23560&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23560&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 20 Dec 2023 17:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[38,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/d19291f2c0e45da1fffd5f1d569bde48.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소란 (SORAN) / 2집 PRINCE (180g Black Vinyl, 한정 사인반) *예약상품 (12월 26일 발매) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23561&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23561&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 20 Dec 2023 17:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/7349f4b3840e07866625dbfe18af8b0f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이화 / 1집 눈내리던 겨울밤, 그대와 나 (Vinyl, 릴마스터 Remastering, 한정반) *블랙,레드,화이트 컬러 3종 중 선택 / 예약상품 (12월 12일 발매 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23438&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23438&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 26 Dec 2023 17:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[43,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/55f572f28f7cbec0ec3e55ffc03a8dec.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Vince Guaraldi Trio / Peanuts Greatest Hits (Vinyl, Limited Picture Disc) *예약상품 (12월 27-28일경 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23521&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23521&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Dec 2023 17:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[43,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/72b7f230865be837c48086ca9c4058c4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도재명 / 21st Century Odyssey (180g Vinyl) *예약상품 (12월 28일부터 발송) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -486,6 +470,22 @@
             <pubDate>Wed, 27 Dec 2023 05:35:13 GMT</pubDate>
             <content:encoded><![CDATA[59,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/41b214ad2cb6e2e67231067dc3769827.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vince Guaraldi Trio / A Charlie Brown Christmas ("Christmas Tree" Green Vinyl, Original Stereo Mix) *예약상품 (12월 27-28일경 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23423&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23423&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Dec 2023 17:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[38,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/67d714169d9d0ab9939e81510bfdcc6a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vince Guaraldi Trio / Charlie Brown Holiday Hits (Vinyl) *예약상품 (12월 27-28일경 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23531&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23531&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Dec 2023 17:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/9cc94fc8fc4061cef80768c874d01997.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Elton John / Goodbye Yellow Brick Road (Remastered CD) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -1736,6 +1736,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/e195f91f3de716cbb7ade08c84e52216.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Rainbow99 (레인보우99) / Jamesrecord Collected (Vinyl, 2LP, 200장 한정) *예약상품 (1월 4일 발매 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23597&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23597&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Dec 2023 17:36:36 GMT</pubDate>
+            <content:encoded><![CDATA[52,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/a8c22c40508440d29667bd627b7dd371.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[도재명 / 21st Century Odyssey (180g Vinyl) *예약상품 (12월 28일부터 발송) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23578&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23578&amp;cate_no=52&amp;display_group=1</guid>
@@ -1744,7 +1752,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/155a7b7b914053cfcbc1db260ce0de7d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[소란 (SORAN) / 2집 PRINCE (180g Black Vinyl, 한정 사인반) *예약상품 (12월 26일 발매) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <title><![CDATA[소란 (SORAN) / 2집 PRINCE (180g Black Vinyl, 한정 사인반) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23561&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23561&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Wed, 20 Dec 2023 17:37:08 GMT</pubDate>
@@ -1752,7 +1760,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/7349f4b3840e07866625dbfe18af8b0f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[소란 (SORAN) / EP Share (180g Black Vinyl, 한정 사인반) *예약상품 (12월 26일 발매) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <title><![CDATA[소란 (SORAN) / EP Share (180g Black Vinyl, 한정 사인반) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23560&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23560&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Wed, 20 Dec 2023 17:37:08 GMT</pubDate>
@@ -1760,7 +1768,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/d19291f2c0e45da1fffd5f1d569bde48.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쏜애플 (THORNAPPLE) / EP 동물 (180g Black Vinyl) *예약상품 (12월 26일 발매) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <title><![CDATA[쏜애플 (THORNAPPLE) / EP 동물 (180g Black Vinyl) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23559&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23559&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Wed, 20 Dec 2023 17:37:08 GMT</pubDate>
@@ -1822,14 +1830,6 @@
             <pubDate>Thu, 07 Dec 2023 17:36:33 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/b38ca1d4e16c2b6b364e4e8e061489e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists (무한궤도, 티삼스, 높은음자리 등) / 80년대 가요제 (180g Vinyl) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23449&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23449&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 05 Dec 2023 17:36:16 GMT</pubDate>
-            <content:encoded><![CDATA[40,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/3bccef9d155eb7f28e9bbce53cd537fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Beatles / 1+ (CD+2장의 Blu-Ray 디스크 - 진귀한 영상을 서라운드 사운드로 만날 수 있는 27편의 프로모션 비디오 및 23편의 영상, 총 50편의 영상과 멤버들의 코멘터리 수록) *매장 10주년 기념 한정수량 할 (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>

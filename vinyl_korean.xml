@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 05:36:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 17:36:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rainbow99 (레인보우99) / Jamesrecord Collected (Vinyl, 2LP, 200장 한정) *예약상품 (1월 4일 발매 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23597&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23597&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Dec 2023 17:36:36 GMT</pubDate>
+            <content:encoded><![CDATA[52,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/a8c22c40508440d29667bd627b7dd371.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도재명 / 21st Century Odyssey (180g Vinyl) *예약상품 (12월 28일부터 발송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23578&amp;cate_no=52&amp;display_group=1</link>
@@ -16,7 +24,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/155a7b7b914053cfcbc1db260ce0de7d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[소란 (SORAN) / 2집 PRINCE (180g Black Vinyl, 한정 사인반) *예약상품 (12월 26일 발매)]]></title>
+            <title><![CDATA[소란 (SORAN) / 2집 PRINCE (180g Black Vinyl, 한정 사인반)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23561&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23561&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Wed, 20 Dec 2023 17:37:08 GMT</pubDate>
@@ -24,7 +32,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/7349f4b3840e07866625dbfe18af8b0f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[소란 (SORAN) / EP Share (180g Black Vinyl, 한정 사인반) *예약상품 (12월 26일 발매)]]></title>
+            <title><![CDATA[소란 (SORAN) / EP Share (180g Black Vinyl, 한정 사인반)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23560&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23560&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Wed, 20 Dec 2023 17:37:08 GMT</pubDate>
@@ -32,7 +40,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/d19291f2c0e45da1fffd5f1d569bde48.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쏜애플 (THORNAPPLE) / EP 동물 (180g Black Vinyl) *예약상품 (12월 26일 발매)]]></title>
+            <title><![CDATA[쏜애플 (THORNAPPLE) / EP 동물 (180g Black Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23559&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23559&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Wed, 20 Dec 2023 17:37:08 GMT</pubDate>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 07 Dec 2023 17:36:33 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/b38ca1d4e16c2b6b364e4e8e061489e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists (무한궤도, 티삼스, 높은음자리 등) / 80년대 가요제 (180g Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23449&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23449&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 05 Dec 2023 17:36:16 GMT</pubDate>
-            <content:encoded><![CDATA[40,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/3bccef9d155eb7f28e9bbce53cd537fc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
