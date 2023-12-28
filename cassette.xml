@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 05:36:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 17:36:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Mon, 04 Dec 2023 17:35:09 GMT</pubDate>
             <content:encoded><![CDATA[17,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/2fd6cfa83fb587111c9277311082b8c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nujabes / Metaphorical Music (Limited Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23430&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23430&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Sat, 02 Dec 2023 17:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/5c882d5787a1acdfc4110cd85049e092.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mogwaa 모과 / Translucent (Cassette)]]></title>
@@ -94,6 +86,14 @@
             <pubDate>Wed, 20 Sep 2023 17:35:18 GMT</pubDate>
             <content:encoded><![CDATA[24,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/2cff3b35eb035bd046580ac98a92e9d1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Various Artists) / Guardians Of The Galaxy Vol. 3: Awesome Mix Vol. 3 가디언즈 오브 갤럭시 3 (Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22887&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22887&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Dec 2023 17:34:40 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/f5389612571d9ba4b6ad328ee123ccb5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파란노을 Parannoul / After the Magic (Cassette)]]></title>
