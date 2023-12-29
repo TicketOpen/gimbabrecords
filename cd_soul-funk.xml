@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 05:37:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 17:36:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[edbl & friends / Jackson Method (CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23616&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23616&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 29 Dec 2023 17:35:13 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/6e2ed1d94bc22f9d701e8c07646a3dc6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[edbl & friends / JPRK (CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23615&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23615&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 29 Dec 2023 17:35:13 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/e5aa8710036096aa9e754744b94b6c43.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Boyz II Men / Legacy - The Greatest Hits Collection (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23574&amp;cate_no=44&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 13 Nov 2023 17:35:56 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/d7feb506ca339b690f9d8286a1b7c65d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Earth, Wind & Fire / Faces (CD, US Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23271&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23271&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Mon, 13 Nov 2023 17:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/3071bc386fde1f75bb3ef0c0663c13f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Donny Hathaway / A Donny Hathaway Collection (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23133&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23133&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Sat, 28 Oct 2023 17:35:41 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/7d1cc5cf0298096e13e78fe13a85f1e1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

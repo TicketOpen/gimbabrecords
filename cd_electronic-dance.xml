@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Electronic/Dance</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 05:37:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 17:36:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[edbl & friends / Jackson Method (CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23616&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23616&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Fri, 29 Dec 2023 17:35:08 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/6e2ed1d94bc22f9d701e8c07646a3dc6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[edbl & friends / JPRK (CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23615&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23615&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Fri, 29 Dec 2023 17:35:08 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/e5aa8710036096aa9e754744b94b6c43.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[PinkPantheress / Heaven Knows (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23528&amp;cate_no=31&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 28 Jul 2023 05:36:19 GMT</pubDate>
             <content:encoded><![CDATA[11,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/5cb319f0e65d3f89df703f5e5d0efa63.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aphex Twin / Blackbox Life Recorder 21f / in a room7 F760 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22479&amp;cate_no=31&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22479&amp;cate_no=31&amp;display_group=1</guid>
-            <pubDate>Fri, 21 Jul 2023 17:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[21,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/ac87ac40aa17587b2af4fa57b3f9d334.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nicolas Jaar / Cenizas (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22471&amp;cate_no=31&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22471&amp;cate_no=31&amp;display_group=1</guid>
-            <pubDate>Fri, 21 Jul 2023 17:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[25,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/79dadf80debe196ef4ffb409671bd199.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
