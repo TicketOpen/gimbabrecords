@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jan 2024 17:36:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 05:36:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이민휘 / 빌린 입 (CD, Remastered) *예약상품 (1월 5일 발매 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23631&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23631&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Tue, 02 Jan 2024 05:35:22 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/db943cf6b7cf52028d62002a73fe34a0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[천진우 / 3집 천진우 캐롤 모음집 (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23613&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 21 Nov 2023 17:37:35 GMT</pubDate>
             <content:encoded><![CDATA[14,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/c2aa2f87b7caed4e17a92b09690a45af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[릴리 잇 머신 (Lilly Eat Machine) / 우리는 불연소의 여름에 갇힌 채 밤을 맞고 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23323&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23323&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Nov 2023 17:37:35 GMT</pubDate>
-            <content:encoded><![CDATA[12,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/f799740913a32c3cf50537041674045d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
