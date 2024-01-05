@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ CD ─ Holiday</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 05:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 17:37:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=23383&amp;cate_no=51&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23383&amp;cate_no=51&amp;display_group=1</guid>
             <pubDate>Tue, 28 Nov 2023 17:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/1f7415855617c01d5a41dd6638eecb24.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
