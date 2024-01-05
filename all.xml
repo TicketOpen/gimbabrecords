@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 17:36:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 05:36:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/056dc4ef896629b9d04369c27f2d1b48.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이민휘 / 빌린 입 (CD, Remastered) *예약상품 (1월 5일 발매 예정) (김밥레코즈 ─ CD)]]></title>
+            <title><![CDATA[이민휘 / 빌린 입 (CD, Remastered) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23631&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23631&amp;cate_no=24&amp;display_group=1</guid>
             <pubDate>Tue, 02 Jan 2024 05:34:50 GMT</pubDate>
@@ -296,6 +296,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/62ad0de81af1454ac374651bf45d1153.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Audio Technica Turntable - AT-SB727 YE (옐로우 색상) 휴대용 무선 블루투스 턴테이블 (김밥레코즈 ─ Movies/Merch)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23633&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23633&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Fri, 05 Jan 2024 05:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[279,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/f8d419614cc7c2076b1b94392f80b998.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Audio Technica Turntable - AT-SB727 휴대용 무선 블루투스 턴테이블 (김밥레코즈 ─ Movies/Merch)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23283&amp;cate_no=27&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23283&amp;cate_no=27&amp;display_group=1</guid>
@@ -384,20 +392,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/0d7e009acd82c552165c53b49f58a014.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Discwasher RD2007Z D4+ Record Care System (청소용 용액, 청소용 브러쉬, 미니 브러쉬, 파우치) (김밥레코즈 ─ Movies/Merch)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22188&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22188&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Mon, 04 Dec 2023 05:35:16 GMT</pubDate>
-            <content:encoded><![CDATA[30,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/f66ac6d3964960f0af01d8eccf9e1359.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST / 交響詩 さよなら銀河鉄道999 -アンドロメダ終着駅 안녕 은하철도 999 안드로메다 종착역 (81년 극장판) 사운드트랙  (Vinyl) *예약상품 (2024년 3월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23464&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23464&amp;cate_no=42&amp;display_group=1</guid>
+            <title><![CDATA[OST /  銀河鉄道999 主題歌挿入歌集 은하철도 999 (TV 시리즈 사운드트랙) ("Ginga Tetsudou 999 Shudaika Sounyuu Kashuu" Vinyl) *예약상품 (2024년 3월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23462&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23462&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Thu, 28 Dec 2023 17:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[68,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/6c812f62cfc011fef3fa92559fd3f562.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[51,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/8fee14fb64154a0cc50a20c0807bc1bd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OST (Nozomi Aoki) / 交響詩 銀河鉄道999 극장판 은하철도 999 사운드트랙 ("Koukyou Shi Ginga Tetsudou 999" Vinyl) *예약상품 (2024년 3월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -408,20 +408,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/0b6af2f215413f6c24cd082b91d3bcc6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[OST /  銀河鉄道999 主題歌挿入歌集 은하철도 999 (TV 시리즈 사운드트랙) ("Ginga Tetsudou 999 Shudaika Sounyuu Kashuu" Vinyl) *예약상품 (2024년 3월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23462&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23462&amp;cate_no=42&amp;display_group=1</guid>
+            <title><![CDATA[OST / 交響詩 さよなら銀河鉄道999 -アンドロメダ終着駅 안녕 은하철도 999 안드로메다 종착역 (81년 극장판) 사운드트랙  (Vinyl) *예약상품 (2024년 3월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23464&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23464&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Thu, 28 Dec 2023 17:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[51,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/8fee14fb64154a0cc50a20c0807bc1bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이민휘 / 빌린 입 (CD, Remastered) *예약상품 (1월 5일 발매 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23631&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23631&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 02 Jan 2024 05:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[19,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/db943cf6b7cf52028d62002a73fe34a0.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[68,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/6c812f62cfc011fef3fa92559fd3f562.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Toe / The Book About My Idle Plot On A Vague Anxiety (Beer/ Cloudy Clear Vinyl + Download) *예약상품 (1월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -486,6 +478,14 @@
             <pubDate>Thu, 28 Dec 2023 17:34:52 GMT</pubDate>
             <content:encoded><![CDATA[79,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/8a9e5d4da6e12f5ca827e788a2f398c0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Christopher Larkin, David Peacock and Augustine Mayuga Gonzales / 할로우 나이트 Hollow Knight Piano Collections (Vinyl 2LP + 24p 책자) *예약상품 (2월 중순 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22932&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22932&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 05 Jan 2024 05:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[89,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/8ae5db5aefe2401ed7deec390e438993.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Elton John / Goodbye Yellow Brick Road (Remastered CD) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -592,7 +592,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/056dc4ef896629b9d04369c27f2d1b48.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이민휘 / 빌린 입 (CD, Remastered) *예약상품 (1월 5일 발매 예정) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <title><![CDATA[이민휘 / 빌린 입 (CD, Remastered) (김밥레코즈 ─ CD ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23631&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23631&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Tue, 02 Jan 2024 05:35:22 GMT</pubDate>
