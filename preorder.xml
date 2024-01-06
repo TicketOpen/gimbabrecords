@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Jan 2024 05:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jan 2024 17:37:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ryusenkei / Tokyo Sniper (180g Clear Vinyl) *예약주문 (지금 주문하시면 1월 11일 전후 배송이 시작됩니다. )]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23251&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23251&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Dec 2023 17:34:40 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/f197af56bfb07923b831f093bd4c38e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST /  銀河鉄道999 主題歌挿入歌集 은하철도 999 (TV 시리즈 사운드트랙) ("Ginga Tetsudou 999 Shudaika Sounyuu Kashuu" Vinyl) *예약상품 (2024년 3월말 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23462&amp;cate_no=42&amp;display_group=1</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 22 Dec 2023 05:35:04 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/2f16c7fe7c5f1f3d93bcee989f197459.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryusenkei / Tokyo Sniper (180g Clear Vinyl) *예약주문 (1월초 배송 예정)  - 2차 예약은 마감되었으며, 추가 예약은 21일 저녁 6시 이후 시작될 예정입니다. (가격이 59,500원으로 변경됩니다.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23251&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23251&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 19 Dec 2023 17:34:40 GMT</pubDate>
-            <content:encoded><![CDATA[59,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/f197af56bfb07923b831f093bd4c38e0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Chet Baker / Memories - In Tokyo (Vinyl, 3rd Pressing, Limited Edition) *예약판매  (2024년 3월 배송 예정) *"구매시 유의사항"을 확인해 주세요.]]></title>
