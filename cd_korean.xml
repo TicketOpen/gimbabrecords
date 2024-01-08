@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 05:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 17:36:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우효 / EP 돌아온 우효 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23662&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23662&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 08 Jan 2024 17:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/d504ff0724828a49d1dbcc43e102752f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코토바 Cotoba / Humanoid operational (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23661&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23661&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 08 Jan 2024 17:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[14,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/5197aa62d3a86934605e739226d23eba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봉제인간 / 12가지 말들 (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23632&amp;cate_no=29&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 04 Dec 2023 17:35:35 GMT</pubDate>
             <content:encoded><![CDATA[18,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/92d64ab430231a0b8721b588d1a0bc0d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태버 (Tabber) / Madness Always Turns to Sadness (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23331&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23331&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Thu, 23 Nov 2023 17:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[17,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/297d0d1eee939d6d8d67a953f11893bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여유와 설빈 / 정규 3집 희극 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23325&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23325&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Nov 2023 17:37:35 GMT</pubDate>
-            <content:encoded><![CDATA[19,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/ef0b5ab887139a6b420a0bc11efa52b1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 05:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 17:36:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우효 / EP 돌아온 우효 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23662&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23662&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 08 Jan 2024 17:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/d504ff0724828a49d1dbcc43e102752f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코토바 Cotoba / Humanoid operational (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23661&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23661&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 08 Jan 2024 17:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[14,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/5197aa62d3a86934605e739226d23eba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joao Selva / Passarinho (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23657&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23657&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 08 Jan 2024 17:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/2ae2c2aaf612e7e160b524ba8e474f0e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fishmans / Golden☆Best ~Polydor Years~ (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23654&amp;cate_no=24&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Fri, 05 Jan 2024 17:35:40 GMT</pubDate>
             <content:encoded><![CDATA[18,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/f01c380fe60f0ec7f00d43bc02506eaf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Evans / We Will Meet Again (SHM-CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23645&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23645&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 05 Jan 2024 17:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[18,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/1a5060d6d59619cb195c9abbf766fe6a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chet Baker / It Could Happen To You (SHM-CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23644&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23644&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 05 Jan 2024 17:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[18,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/4c11aa01ef9407d595632782cfdd1b7a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Paul Chambers / Bass On Top (SHM-CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23643&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23643&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 05 Jan 2024 17:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[18,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/28eb1bb2ed4aa625a7a0b038e4c48227.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
