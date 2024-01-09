@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Holiday</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 05:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 17:36:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Vince Guaraldi Trio / A Charlie Brown Christmas (4CD + 1 Blu-Ray Audio, Super Deluxe Box Set) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23671&amp;cate_no=51&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23671&amp;cate_no=51&amp;display_group=1</guid>
+            <pubDate>Tue, 09 Jan 2024 17:36:20 GMT</pubDate>
+            <content:encoded><![CDATA[89,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/36adf8815ce1254502f5339fe2864a2a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bing Crosby / Merry Chirstmas (SHM-CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23392&amp;cate_no=51&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 24 Nov 2022 17:38:14 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/4d7851b01a050ee294a0222ddfc00fe8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vince Guaraldi / A Charlie Brown Christmas (CD, Deluxe Edition, EU Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20642&amp;cate_no=51&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20642&amp;cate_no=51&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:42:21 GMT</pubDate>
-            <content:encoded><![CDATA[18,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/6f0063dc6d40357abb744134223b58bb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

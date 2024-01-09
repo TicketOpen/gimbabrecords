@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 05:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 17:36:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Joao Gilberto / Joao Gilberto (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23665&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23665&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Tue, 09 Jan 2024 17:36:08 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/08d41364ab49ad8d188bf577a3f931ec.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Joao Selva / Passarinho (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23657&amp;cate_no=79&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 15 Aug 2023 17:36:56 GMT</pubDate>
             <content:encoded><![CDATA[18,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/1cef6123a1bca6228d46284f7adea5df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Walter Wanderley / Rain Forest (SHM-CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22658&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22658&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Tue, 15 Aug 2023 17:36:56 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/cee7a37403eadd451eaedaf7c16393e3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 05:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 17:36:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Frank Sinatra With Count Basie And The Orchestra (Arranged & Conducted By Quincy Jones) / Sinatra At The Sands (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23672&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23672&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 09 Jan 2024 17:35:50 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/979302f1ececd65d998813f74f40880c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Robert Glasper Experiment / Black Radio (2CD, 10th Anniversary Deluxe Edition) *유니버설 재즈 클래식 베스트셀러 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23670&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23670&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 09 Jan 2024 17:35:50 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201607/4589_shop1_533447.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bill Evans / You Must Believe In Spring (SHM-CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23652&amp;cate_no=46&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 05 Jan 2024 17:36:38 GMT</pubDate>
             <content:encoded><![CDATA[18,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/28eb1bb2ed4aa625a7a0b038e4c48227.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Ornette Coleman Trio / At The "Golden Circle" Stockholm Vol.1 (SHM-CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23642&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23642&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 05 Jan 2024 17:36:38 GMT</pubDate>
-            <content:encoded><![CDATA[18,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/c38be7eaed5e34dfac13fe701d40fb88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dexter Gordon / Gettin' Around (SHM-CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23641&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23641&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 05 Jan 2024 17:36:38 GMT</pubDate>
-            <content:encoded><![CDATA[18,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/df384919133357269aec01df804754f7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
