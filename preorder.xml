@@ -4,16 +4,16 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 17:36:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 05:37:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[공중도둑 (Mid-Air-Thief, aka 공중도덕) / 무너지기 (6th Pressing, Black Vinyl + Download) *예약상품 (1월말 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=14080&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=14080&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Dec 2023 17:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202105/374deaecee28a068bc7670152c45e6b0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Chet Baker / Four (Vinyl, 2024 Pressing, Limited Edition)  *예약판매 (3월말에 배송이 진행될 예정입니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17277&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17277&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 10 Jan 2024 05:35:42 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202109/14851fafc63180b179cd6a2922ec97ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ryusenkei / Tokyo Sniper (180g Clear Vinyl) *예약주문 (지금 주문하시면 1월 11일 전후 배송이 시작됩니다. )]]></title>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 19 Dec 2023 17:34:40 GMT</pubDate>
             <content:encoded><![CDATA[59,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/f197af56bfb07923b831f093bd4c38e0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공중도둑 (Mid-Air-Thief, aka 공중도덕) / 무너지기 (6th Pressing, Black Vinyl + Download) *예약상품 (1월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=14080&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=14080&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Dec 2023 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[37,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202105/374deaecee28a068bc7670152c45e6b0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OST /  銀河鉄道999 主題歌挿入歌集 은하철도 999 (TV 시리즈 사운드트랙) ("Ginga Tetsudou 999 Shudaika Sounyuu Kashuu" Vinyl) *예약상품 (2024년 3월말 배송 예정)]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 05 Jan 2024 05:34:58 GMT</pubDate>
             <content:encoded><![CDATA[89,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/8ae5db5aefe2401ed7deec390e438993.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김창완 / 나는 지구인이다 (180g Vinyl, 2LP Box Set, Limited Edition) *예약상품 (24년 3월 21일 발매 예정, 12월 7일 자정 주문 마감)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23431&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23431&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 09 Jan 2024 17:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[89,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/e3f5c6fa901e3084b154ebaed73eeacb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
