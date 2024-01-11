@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 05:36:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 17:36:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Gregory Porter / Christmas Wish (CD, Paper sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23690&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23690&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Jan 2024 17:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[22,100원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/80e1aa262857939c7f5a37d86f7296db.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Frank Sinatra With Count Basie And The Orchestra (Arranged & Conducted By Quincy Jones) / Sinatra At The Sands (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23672&amp;cate_no=46&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 05 Jan 2024 17:36:38 GMT</pubDate>
             <content:encoded><![CDATA[18,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/4c11aa01ef9407d595632782cfdd1b7a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Paul Chambers / Bass On Top (SHM-CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23643&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23643&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 05 Jan 2024 17:36:38 GMT</pubDate>
-            <content:encoded><![CDATA[18,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/28eb1bb2ed4aa625a7a0b038e4c48227.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

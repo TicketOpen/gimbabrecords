@@ -4,9 +4,49 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 05:36:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 17:36:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Gregory Porter / Christmas Wish (CD, Paper sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23690&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23690&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Jan 2024 17:34:56 GMT</pubDate>
+            <content:encoded><![CDATA[22,100원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/80e1aa262857939c7f5a37d86f7296db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yes / The Yes Album (Expanded & Remastered CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23689&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23689&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Jan 2024 17:34:56 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/9a88411e9902320058476a79663250c7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yes / Yessongs (Remastered 2CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23688&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23688&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Jan 2024 17:34:56 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/5350bf017c01ec569e720fb803744013.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Beatles / Now And Then (CD, Paper-sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23687&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23687&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Jan 2024 17:34:56 GMT</pubDate>
+            <content:encoded><![CDATA[12,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/ccd02db2c0610ea457a56f5a1f93a8fb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Order / Substance (Remastered 2CD, 2023 New Version!) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23686&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23686&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Jan 2024 17:34:56 GMT</pubDate>
+            <content:encoded><![CDATA[28,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/6a2e41d170d0e8e23f60dba247e6865b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rainbow / On Stage (Remastered CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23674&amp;cate_no=24&amp;display_group=1</link>
@@ -62,46 +102,6 @@
             <pubDate>Tue, 09 Jan 2024 17:34:42 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/80a4988fb0f5016d2fc706b34cd45aeb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Guns N' Roses / Use Your Illusion II (Remastered 2CD, 13 Unreleased Live Recordings 포함, EU Import) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23667&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23667&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 09 Jan 2024 17:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[23,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/80a4988fb0f5016d2fc706b34cd45aeb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Guns N' Roses / Use Your Illusion I (Remastered 2CD, 13 Unreleased Live Recordings 포함, EU Import) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23666&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23666&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 09 Jan 2024 17:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[23,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/5d92a68504fe14c35b474372c53b739b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joao Gilberto / Joao Gilberto (CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23665&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23665&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 09 Jan 2024 17:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/08d41364ab49ad8d188bf577a3f931ec.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우효 / EP 돌아온 우효 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23662&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23662&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 08 Jan 2024 17:34:45 GMT</pubDate>
-            <content:encoded><![CDATA[14,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/d504ff0724828a49d1dbcc43e102752f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코토바 Cotoba / Humanoid operational (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23661&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23661&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 08 Jan 2024 17:34:45 GMT</pubDate>
-            <content:encoded><![CDATA[14,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/5197aa62d3a86934605e739226d23eba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

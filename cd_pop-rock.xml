@@ -4,9 +4,41 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 05:36:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 17:36:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Yes / The Yes Album (Expanded & Remastered CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23689&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23689&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Jan 2024 17:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/9a88411e9902320058476a79663250c7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yes / Yessongs (Remastered 2CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23688&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23688&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Jan 2024 17:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/5350bf017c01ec569e720fb803744013.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Beatles / Now And Then (CD, Paper-sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23687&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23687&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Jan 2024 17:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[12,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/ccd02db2c0610ea457a56f5a1f93a8fb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Order / Substance (Remastered 2CD, 2023 New Version!) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23686&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23686&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Jan 2024 17:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[28,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/6a2e41d170d0e8e23f60dba247e6865b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rainbow / On Stage (Remastered CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23674&amp;cate_no=30&amp;display_group=1</link>
@@ -70,38 +102,6 @@
             <pubDate>Fri, 05 Jan 2024 17:36:18 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/acf23f344ec8482265ef39f34042f4f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pearl Jam / Vitalogy (CD, 3곡이 추가된 Expanded Edition, US Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23617&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23617&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 29 Dec 2023 17:35:01 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201702/6436_shop1_276138.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nirvana / Nirvana (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23577&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23577&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 21 Dec 2023 17:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201512/2427_shop1_745348.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[King Crimson / Music Is Our Friend (Live In Washington & Albany 2021) (2CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23576&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23576&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 21 Dec 2023 17:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/d92072ee5ce8403067a28b2554197e16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grace Jones / Island Life (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23575&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23575&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 21 Dec 2023 17:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/03c724db0b5bb167ccc734545137321d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
