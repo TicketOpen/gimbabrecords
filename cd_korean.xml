@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 05:36:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 17:36:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모스크바서핑클럽 / 정규앨범 짙은 햇살 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23696&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23696&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Wed, 17 Jan 2024 17:35:16 GMT</pubDate>
+            <content:encoded><![CDATA[19,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/c9d871699975acb7cf5bc6b30565dd11.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자이언티 (Zion.T) / 정규 3집 Zip (CD + Booklet + Poster)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23691&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 14 Dec 2023 17:35:13 GMT</pubDate>
             <content:encoded><![CDATA[21,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/46e13ed0ca07a1a2bd45a341c987df85.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tuesday Beach Club / EP Tuesday Beach Club (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23505&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23505&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Dec 2023 17:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[12,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/b35229ce021a9258d809c02b46ff2527.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
