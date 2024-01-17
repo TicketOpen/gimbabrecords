@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 17:37:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 05:36:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[edbl & friends / JPRK＋Jackson Mathod (Vinyl) *예약상품 (1월 24일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23229&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23229&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 17 Jan 2024 05:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[46,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/3737876acb66a3a6470893c2354a33b5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[C418 / Minecraft Volume Alpha 마인크래프트 게임음악 (Green Colored Vinyl) *예약상품 (4월 중 발송 예정) / 예약기간 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22573&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22573&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 17 Jan 2024 05:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/9f89998d3484262bfd706f2f5bd52c90.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산울림 / 10집 너의 의미 (180g Black Vinyl, 2,000장 넘버링 한정반) *예약상품 (1월 23일 발매 예정) / 1인 2매까지 구매 가능 / 별도의 입금기한 설정]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23693&amp;cate_no=42&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 03 Jan 2024 17:35:30 GMT</pubDate>
             <content:encoded><![CDATA[51,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/0b6af2f215413f6c24cd082b91d3bcc6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST / 交響詩 さよなら銀河鉄道999 -アンドロメダ終着駅 안녕 은하철도 999 안드로메다 종착역 (81년 극장판) 사운드트랙  (Vinyl) *예약상품 (2024년 3월말 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23464&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23464&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Dec 2023 17:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[68,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/6c812f62cfc011fef3fa92559fd3f562.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Toe / The Book About My Idle Plot On A Vague Anxiety (Beer/ Cloudy Clear Vinyl + Download) *예약상품 (1월말 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21365&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21365&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Dec 2023 17:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[38,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/62271f1895cfc56a97734746fe035dbd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
