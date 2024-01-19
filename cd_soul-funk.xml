@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 05:37:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 17:36:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jorja Smith / falling or flying (CD + Booklet, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23726&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23726&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 19 Jan 2024 17:35:41 GMT</pubDate>
+            <content:encoded><![CDATA[25,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/35c77ba146f8faf57315ce1f83edd02f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Joao Selva / Passarinho (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23657&amp;cate_no=44&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 15 Nov 2023 05:35:46 GMT</pubDate>
             <content:encoded><![CDATA[12,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/83d25d4b2f8235708684686996234e03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Parliament / Mothership Connection (CD, US Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23277&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23277&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Mon, 13 Nov 2023 17:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/c6747f3b2ab1922b2c36d0fa9c8133a5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

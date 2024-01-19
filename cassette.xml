@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 05:37:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 17:36:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Grey October Sound / Lo-Fi City Pop (Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23729&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23729&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Fri, 19 Jan 2024 17:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[27,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/96e98588ad5149b03028abbcc3ec846d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grey October Sound / Lo-Fi Ghibli (Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23728&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23728&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Fri, 19 Jan 2024 17:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[25,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/d1b8ab0af7bcaf8980791780cc0fae4c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ABBA / Gold (Greatest Hits) (Black Cassette, 30th Anniversary Special Edition) *2023 블랙프라이데이 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23664&amp;cate_no=26&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 15 Nov 2023 17:34:44 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/c12cbe94c296630ca6c8331bf299c84d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grandaddy / Sumday: The Cassette Demos (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22888&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22888&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Wed, 20 Sep 2023 17:35:18 GMT</pubDate>
-            <content:encoded><![CDATA[24,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/2cff3b35eb035bd046580ac98a92e9d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파란노을 Parannoul / After the Magic (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22855&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22855&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Tue, 26 Dec 2023 17:34:44 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/62ad0de81af1454ac374651bf45d1153.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

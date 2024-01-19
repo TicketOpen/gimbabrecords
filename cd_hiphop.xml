@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Hip Hop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 05:37:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 17:36:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[McKinley Dixon / Beloved! Paradise! Jazz!? (CD, gatefold)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23727&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23727&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Fri, 19 Jan 2024 17:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/e6155fb5c92970d713098bb5f4a38160.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kendrick Lamar / Mr.Morale & The Big Steppers (CD, EU Import) *2023 블랙프라이데이 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23638&amp;cate_no=45&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 08 Jan 2024 17:35:43 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/20191205/71567280c27b2f4533ab1c37eeefc78d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Billy Woods & Kenny Segal / Maps (CD, Jewel Case)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23144&amp;cate_no=45&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23144&amp;cate_no=45&amp;display_group=1</guid>
-            <pubDate>Mon, 08 Jan 2024 17:35:43 GMT</pubDate>
-            <content:encoded><![CDATA[29,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/17a865878ab697c17dcbb351cd753d43.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
