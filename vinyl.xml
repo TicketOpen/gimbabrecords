@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 05:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 17:36:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lana Del Rey / Candy Necklace (Limited 7" Picture Disc) *예약상품 (2월 13일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23787&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23787&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Jan 2024 17:34:48 GMT</pubDate>
+            <content:encoded><![CDATA[29,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/4093c3496d72e0bfd3d38d765f608717.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lana Del Rey / Say Yes To Heaven (Limited 7" Picture Disc) *예약상품 (2월 13일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23786&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23786&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Jan 2024 17:34:48 GMT</pubDate>
+            <content:encoded><![CDATA[29,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/bb02d5160b0229184ba24133811c40f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Khruangbin / A LA SALA (Black Vinyl) *예약상품 (4월 5일 발매, 1월 25일까지 주문 완료시 2,500원 추가 적립)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23735&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 19 Jan 2024 17:34:52 GMT</pubDate>
             <content:encoded><![CDATA[31,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/06f404eb0c41799e784892dfde2defd8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Kinks / Kinda Kinks (Vinyl) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23716&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23716&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 19 Jan 2024 17:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[35,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/2e76b084a44dbab4fcb0ce8f7117ea4e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Johann Johannsson) / Arrival 컨택트 (Vinyl, 2LP) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23715&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23715&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 19 Jan 2024 17:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[38,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/0b701d38ed55004fc7d81b046224d747.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
