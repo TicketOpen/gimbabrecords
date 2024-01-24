@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 05:37:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 17:36:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소섬 / EP 1집 22 (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23861&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23861&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 24 Jan 2024 17:34:38 GMT</pubDate>
+            <content:encoded><![CDATA[10,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/041808ff6f84edb8d0981ec3cb6bd681.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NONA REEVES / 3X3 (CD, 2023 재발매, Limited Edition, Papersleeve)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23811&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 19 Jan 2024 17:34:46 GMT</pubDate>
             <content:encoded><![CDATA[20,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201805/10994_shop1_15275089683561.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tom Waits / Bastards (CD, Digipak) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23723&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23723&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 19 Jan 2024 17:34:46 GMT</pubDate>
-            <content:encoded><![CDATA[20,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201807/11433_shop1_15317322599908.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
