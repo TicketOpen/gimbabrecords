@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 05:36:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 17:36:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bebel Gilberto / Agora (CD) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23890&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23890&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Jan 2024 17:36:13 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202009/5bba474be3f5900f0cbac7530a080581.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Joao Gilberto / Joao Gilberto (CD, EU Import) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23665&amp;cate_no=79&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 07 Sep 2023 17:37:04 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/17f515ee6833a1c24dfc2eda55bbe3a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Walter Wanderley / Batucada (SHM-CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22659&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22659&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Tue, 15 Aug 2023 17:36:56 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/1cef6123a1bca6228d46284f7adea5df.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
