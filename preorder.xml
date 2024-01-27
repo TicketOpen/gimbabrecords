@@ -4,17 +4,9 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jan 2024 05:36:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 17:36:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Toe / The Book About My Idle Plot On A Vague Anxiety (Beer/ Cloudy Clear Vinyl + Download) *예약상품 (1월말 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21365&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21365&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Jan 2024 17:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[38,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/62271f1895cfc56a97734746fe035dbd.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[공중도둑 (Mid-Air-Thief, aka 공중도덕) / 무너지기 (6th Pressing, Amber Coastline Color Vinyl + Download) *예약상품 (1월 29일 이후 순차 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=14080&amp;cate_no=42&amp;display_group=1</link>
@@ -22,6 +14,14 @@
             <pubDate>Fri, 26 Jan 2024 17:35:11 GMT</pubDate>
             <content:encoded><![CDATA[37,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202105/374deaecee28a068bc7670152c45e6b0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Toe / The Book About My Idle Plot On A Vague Anxiety (Beer/ Cloudy Clear Vinyl + Download) *예약상품 (1월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21365&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21365&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Jan 2024 17:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/62271f1895cfc56a97734746fe035dbd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OST (The Wonders 외) / That Thing You Do! 댓 싱 유 두 (Red Vinyl + Bonus 7" + 12p booklet) *예약상품 (3월 중 배송 예정)]]></title>
