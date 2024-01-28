@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jan 2024 05:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2024 17:36:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ray Charles / Genius Loves Company (Vinyl, 2LP, 2022 reissue)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23931&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23931&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 28 Jan 2024 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/d5d7b9aa6661dcde712ad2f488fce3ed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mandy, Indiana / I've Seen A Way (Indie Exclusive Cloudy Clear Vinyl, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23930&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23930&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 28 Jan 2024 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[32,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/996c56abdb1c30f4cfe1405a68ca5443.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bruno Major / Columbo (Vinyl) *한정 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23924&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 26 Jan 2024 17:34:52 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/04f3a0aa208df8be1d11e60459e9d5e6.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Ride / Nowhere (Limited Transparent Curacao Colored Vinyl, Gatefold Sleeve)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23891&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23891&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Jan 2024 17:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/bba998c7d46bd1237ccf3943a0684fce.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Fred Again .. & Brian Eno / Secret Life (Vinyl, Gatefold Sleeve) *한정 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23888&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23888&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 27 Jan 2024 17:34:56 GMT</pubDate>
-            <content:encoded><![CDATA[36,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/b9b43d016cf3509b90bf2a2e1b06dc9e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
