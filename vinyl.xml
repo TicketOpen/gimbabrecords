@@ -4,9 +4,57 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 05:38:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 17:36:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sam Ryder / There's Nothing But Space, Man! (Vinyl, Blue Colored, Limited Edition)  *한정 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23961&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23961&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 29 Jan 2024 17:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[33,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/919e1626e05c0928607b92faf2e6916b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Olivia Rodrigo /Sour (Vinyl, Black Colored, Gatefold Sleeve) *2023 블랙프라이데이이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23958&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23958&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 29 Jan 2024 17:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[31,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/fa4ce5d50221a871d854e25747921125.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Justin Bieber / Changes (Vinyl, 2LP, Red Coloured, Gatefold Sleeve) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23956&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23956&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 29 Jan 2024 17:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/9358249b7575308afc4ebe57e0e8cab0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charlie Puth / Voicenotes (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23953&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23953&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 29 Jan 2024 17:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[34,100원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/2d42ddbbd678d1b4c235126c2935686c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charlie Puth / Nine Track Mind (Vinyl, Clear Colored, Atlantic Records 75th Anniversary Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23952&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23952&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 29 Jan 2024 17:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[48,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/396e2ad4f4d7b9b6dee6b10d7a2e37f5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ariana Grande / Yours Truly (Vinyl, Reissue, Gatefold Sleeve) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23946&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23946&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 29 Jan 2024 17:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/16eac80e218762bf98d551f979ceaba5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ray Charles / Genius Loves Company (Vinyl, 2LP, 2022 reissue)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23931&amp;cate_no=25&amp;display_group=1</link>
@@ -54,54 +102,6 @@
             <pubDate>Fri, 26 Jan 2024 17:34:52 GMT</pubDate>
             <content:encoded><![CDATA[49,400원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/132d2aaef811ffe0dd943e29a83d9805.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift / Midnights (Vinyl, Marbled Colored, Gatefold Sleeve)*일부 색상 주문 즉시 발송 (평일 기준) / 일시적 가격인하]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23901&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23901&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Jan 2024 17:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[48,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/89bf0f809a5867c5ddc319d127596a04.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift / Fearless :Taylor's Version (Vinyl, 3LP, Gold Colored, 3 Panel Gatefold Jacket)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23900&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23900&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Jan 2024 17:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[69,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/ef4e52cad2593d80b383d21e17ea469e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift / 1989 (Vinyl, 2LP, Gatefold Sleeve, EU/UK Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23898&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23898&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Jan 2024 17:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/48099378db3c37da93df6204e513b45e.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Ride / Tarantula (Vinyl, Reissue, Limited Edition )*유의사항 참조.]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23894&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23894&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Jan 2024 17:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/2d5c5e66a25bd19fb6b45725b3ee9c9b.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Ride / Going Blank Again (Vinyl, 2LP, Transparent Orange Colored, Gatefold Sleeve, Reissue)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23892&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23892&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Jan 2024 17:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/04f3a0aa208df8be1d11e60459e9d5e6.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Ride / Nowhere (Limited Transparent Curacao Colored Vinyl, Gatefold Sleeve)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23891&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23891&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 29 Jan 2024 05:36:29 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/bba998c7d46bd1237ccf3943a0684fce.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

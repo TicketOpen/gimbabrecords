@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 05:38:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 17:36:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[THE ACT WE ACT / フ​リ​ッ​カ​ー -Flicker- (Black Vinyl) *예약상품 (2월 초 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23697&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23697&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 29 Jan 2024 17:35:12 GMT</pubDate>
+            <content:encoded><![CDATA[31,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/049bda0cacd1ede4c85271ed958be50b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[끝없는잔향속에서우리는 / 우연의 연속에 의한 필연 (180g Vinyl) *예약상품 (4월 4일 발매 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23695&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23695&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 29 Jan 2024 17:35:12 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/b331b7f1fa080640f5bc60f866019884.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Lana Del Rey / Say Yes To Heaven (Limited 7" Picture Disc) *예약상품 (2월 13일 이후 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23786&amp;cate_no=42&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 24 Jan 2024 17:35:03 GMT</pubDate>
             <content:encoded><![CDATA[92,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/387c861d809c67b7908370d20d172636.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Anri / Heaven Beach / Bi・Ki・Ni SPECIAL BOX (전세계 단 45세트만 제작/ 판매하는 한정 패키지 - 안리의 사인이 들어있는 LP 2종 + 일련번호가 프린트된 티셔츠 2종) *예약상품 (2월 22일 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23860&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23860&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 23 Jan 2024 17:36:02 GMT</pubDate>
-            <content:encoded><![CDATA[435,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/11f99e4da80afcdea8ea9d551064b909.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chet Baker / Four (Vinyl, 2024 Pressing, Limited Edition)  *예약판매 (3월말에 배송이 진행될 예정입니다.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17277&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17277&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Jan 2024 17:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202109/14851fafc63180b179cd6a2922ec97ed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
