@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Movies/Merch</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 17:36:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 05:37:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Mon, 11 Sep 2023 05:35:46 GMT</pubDate>
             <content:encoded><![CDATA[38,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/8a0378599c30b2f61e38409a866fd485.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[L!stener 리스너 매거진 Vol.1 (Magazine)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22755&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22755&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Thu, 04 Jan 2024 17:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[22,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/4ea953dfb8e5ce27d1deff6418b5a4f3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ATN3600L 교체형 스타일러스(턴테이블 바늘) - 오디오 테크니카(Audio Technica) 턴테이블 AT-LP60X 시리즈 교체형 스타일러스]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Fri, 02 Jun 2023 17:35:30 GMT</pubDate>
             <content:encoded><![CDATA[30,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/0d7e009acd82c552165c53b49f58a014.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Discwasher RD2007Z D4+ Record Care System (청소용 용액, 청소용 브러쉬, 미니 브러쉬, 파우치)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22188&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22188&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Jan 2024 05:35:57 GMT</pubDate>
+            <content:encoded><![CDATA[30,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/f66ac6d3964960f0af01d8eccf9e1359.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
