@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 05:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 17:36:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Chick Corea / Chick Corea Elektric Band (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24125&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24125&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Jan 2024 17:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/1fe090210bd434e688d99019b4b9a118.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eliane Elias, Chick Corea, Chucho Valdés / Mirror Mirror (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24118&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24118&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Jan 2024 17:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/8fba99b265a27b171c1995c975ea5ccc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ariana Grande / My Everything (CD) *한정 수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23949&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 26 Jan 2024 17:34:46 GMT</pubDate>
             <content:encoded><![CDATA[24,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/6631c6ebb61ef0a0571c78fff118406d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Teddy Pendergrass / Original Album Series (5CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23920&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23920&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Jan 2024 17:34:46 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/40b410c2dff75090f8f671ece2fbbbe9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Corrs / Original Album Series (5CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23919&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23919&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Jan 2024 17:34:46 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/f0ff2164f11358fb4b4b6cecbd41e0bd.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
