@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 05:36:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 17:36:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MGMT / Loss Of Life (CD + 접이식 포스터 (가사가 인쇄된 프린트)) *예약상품 (3월 첫째주 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24400&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24400&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 02 Feb 2024 17:34:26 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/af0b5be5eb54ad334c34484fc73449df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[생각의 여름 / EP 시냇가 (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24331&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 26 Jan 2024 17:34:46 GMT</pubDate>
             <content:encoded><![CDATA[23,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/2c435c888d68664061b594af9baafda7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Viagra Boys / Welfare Jazz (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23921&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23921&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Jan 2024 17:34:46 GMT</pubDate>
-            <content:encoded><![CDATA[24,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/6631c6ebb61ef0a0571c78fff118406d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

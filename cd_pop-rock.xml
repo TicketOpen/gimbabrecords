@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 05:36:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 17:36:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MGMT / Loss Of Life (CD + 접이식 포스터 (가사가 인쇄된 프린트)) *예약상품 (3월 첫째주 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24400&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24400&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 02 Feb 2024 17:35:10 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/af0b5be5eb54ad334c34484fc73449df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Metallica / 72 Seasons (CD) *2023 블랙프라이데이 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24330&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 26 Jan 2024 17:35:30 GMT</pubDate>
             <content:encoded><![CDATA[27,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/f0ff2164f11358fb4b4b6cecbd41e0bd.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Damon Albarn / The Nearer The Fountain, More Pure The Stream Flows (CD, Digisleeve, 흑백 아트워크 버전) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23918&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23918&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Jan 2024 17:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/85b62f2aa67e66ce9ede4279b87757ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
