@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Feb 2024 05:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 17:36:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/2c435c888d68664061b594af9baafda7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[La Casa Azul / La Gran Esfera (Vinyl, Magenta Color, Limited Edition) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24416&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24416&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 03 Feb 2024 17:34:41 GMT</pubDate>
+            <content:encoded><![CDATA[32,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/aa2404c8418dce16b3061cd0e7d4e212.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Doves / The Last Broadcast (Vinyl, 2LP) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24415&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24415&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 02 Feb 2024 17:34:33 GMT</pubDate>
             <content:encoded><![CDATA[38,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/1f2fb929cdb58380e4f0d92867737205.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Laufey / Bewitched (Vinyl, Orange Colored, Gatefold Sleeve, Limited Edition) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24404&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24404&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 02 Feb 2024 17:34:33 GMT</pubDate>
-            <content:encoded><![CDATA[43,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/08097538e4464dfa4d0d05c9f9ba273b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Grey October Sound / Lo-Fi City Pop (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/f66ac6d3964960f0af01d8eccf9e1359.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Lana Del Rey / Candy Necklace (Limited 7" Picture Disc) *예약상품 (2월 13일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23787&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23787&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 03 Feb 2024 17:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[29,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/4093c3496d72e0bfd3d38d765f608717.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[MGMT / Loss Of Life (Limited Blue Jay Opaque Colored Vinyl, 독립매장 한정반) *예약상품 (3월 첫째주 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24402&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24402&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 26 Jan 2024 05:35:26 GMT</pubDate>
             <content:encoded><![CDATA[43,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/abacb2bece889dc18403241def4c8f02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Norah Jones 외 여러 아티스트) / My Blueberry Nights 마이 블루베리 나이츠 (Jettone 25th Anniversary Edition, Hybrid SACD) *예약상품 (2월 20일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23872&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23872&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Jan 2024 05:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[43,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/ccd8911d136c0680c03f9cf5ecc32008.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Maroon 5 / Jordi (Purple Vinyl) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>

@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Feb 2024 05:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 17:36:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[La Casa Azul / La Gran Esfera (Vinyl, Magenta Color, Limited Edition) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24416&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24416&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 03 Feb 2024 17:34:41 GMT</pubDate>
+            <content:encoded><![CDATA[32,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/aa2404c8418dce16b3061cd0e7d4e212.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Doves / The Last Broadcast (Vinyl, 2LP) *2023 블랙프라이데이 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24415&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 02 Feb 2024 17:34:33 GMT</pubDate>
             <content:encoded><![CDATA[38,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/1f2fb929cdb58380e4f0d92867737205.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Laufey / Bewitched (Vinyl, Orange Colored, Gatefold Sleeve, Limited Edition) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24404&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24404&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 02 Feb 2024 17:34:33 GMT</pubDate>
-            <content:encoded><![CDATA[43,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/08097538e4464dfa4d0d05c9f9ba273b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
