@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Feb 2024 17:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 05:36:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[곽태풍 / 나는야 락스타 ! (Red Vinyl, Limited Edition) *예약상품 (2월 16일 발매 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24417&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24417&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 05 Feb 2024 05:36:14 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/09219a269ec188398e267bc150018278.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홍이삭,진수영 - EP everland (Marble Vinyl) *예약상품 (4월 26일 발매 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24325&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 19 Jan 2024 05:37:02 GMT</pubDate>
             <content:encoded><![CDATA[44,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/29cfda4264441f11f1f71e87cc2fe20f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김오키 / 러브플라워 (180g Opaque Purple Vinyl, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23708&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23708&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Fri, 19 Jan 2024 05:37:02 GMT</pubDate>
-            <content:encoded><![CDATA[44,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/6367734e01139cd1f14495c39afd7911.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
