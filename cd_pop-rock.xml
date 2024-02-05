@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 05:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 17:37:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Cure / Wish (Remastered CD, 30th Anniversary Edition) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24418&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24418&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 05 Feb 2024 17:36:28 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/d66ab442d1362d320243718f78dd11c9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MGMT / Loss Of Life (CD + 접이식 포스터 (가사가 인쇄된 프린트)) *예약상품 (3월 첫째주 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24400&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 26 Jan 2024 17:35:30 GMT</pubDate>
             <content:encoded><![CDATA[24,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/6631c6ebb61ef0a0571c78fff118406d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Corrs / Original Album Series (5CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23919&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23919&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Jan 2024 17:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/f0ff2164f11358fb4b4b6cecbd41e0bd.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
