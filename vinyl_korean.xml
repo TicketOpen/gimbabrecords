@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 05:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 17:36:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Mon, 05 Feb 2024 05:36:14 GMT</pubDate>
             <content:encoded><![CDATA[45,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/09219a269ec188398e267bc150018278.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍이삭,진수영 - EP everland (Marble Vinyl) *예약상품 (4월 26일 발매 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24325&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24325&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 01 Feb 2024 17:36:16 GMT</pubDate>
-            <content:encoded><![CDATA[51,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/2de5c87455b841ceeee85341b3609cc6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[산울림 / Evening Breeze (180g Vinyl, 2LP, 수입 완제품) *예약상품 (3월 15일 발매 예정) / 2월 12일까지 결제가 완료된 주문에 대해 2,750원 추가 적립]]></title>
@@ -64,44 +56,52 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/405edf5c0cdca1d14038df10273b4483.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카더가든 / APARTMENT (Clear & Black Marble Colored Vinyl, 2LP, Final Pressing) *1인 1매만 구매 가능 / 별도의 입금기한 설정]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24127&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24127&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Jan 2024 17:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[66,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/b8374eeca0a909231265202253a3760b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Parannoul (파란노을), Asian Glow (아시안 글로우) , sonhos tomam conta / Downfall of the Neon Youth (“Blue Ether” Colored Vinyl, 2LP, Limited Edition) *1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24110&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24110&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Jan 2024 17:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[55,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/acc3fc9108914cc21d7cf879ae308545.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Asian Glow 아시안 글로우 / Stalled Flutes, means ("Fish Scale Swirl" Colored Vinyl, 2LP, Limited Edition) *1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24109&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24109&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Jan 2024 17:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[55,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/10791b4b463defbfb23097a8d04d6019.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Asian Glow 아시안 글로우 / Cull Ficle (Black Vinyl, 2LP, Limited Edition) *1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24108&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24108&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Jan 2024 17:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[55,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/74b79725abd2e7bfc44f9d94d7f1cf76.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[전유동 / 정규 1집 관찰자로서의 숲 (내추럴 브라운 Vinyl, Limited Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23709&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23709&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Fri, 19 Jan 2024 05:37:02 GMT</pubDate>
             <content:encoded><![CDATA[44,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/29cfda4264441f11f1f71e87cc2fe20f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[끝없는잔향속에서우리는 / 우연의 연속에 의한 필연 (180g Vinyl) *예약상품 (4월 4일 발매 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23695&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23695&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 06 Feb 2024 17:36:20 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/b331b7f1fa080640f5bc60f866019884.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[산울림 / 11집 그대 떠나는 날 비가 오는가? (180g Black Vinyl, 2,000장 넘버링 한정반)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23694&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23694&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 06 Feb 2024 17:36:20 GMT</pubDate>
+            <content:encoded><![CDATA[46,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/df4382e3f85a945d9c3b476dca53207b.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[산울림 / 10집 너의 의미 (180g Black Vinyl, 2,000장 넘버링 한정반) *예약상품 (3월 14일 발매 예정) / 1인 2매까지 구매 가능 / 별도의 입금기한 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23693&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23693&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 06 Feb 2024 17:36:20 GMT</pubDate>
+            <content:encoded><![CDATA[46,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/10b6ca224c725530707092507229eec2.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (이재진) / 서울의 봄 Original Soundtrack (Vinyl, 2LP, Limited Edition) *예약상품 (2월 23일 발매 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23692&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23692&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 06 Feb 2024 17:36:20 GMT</pubDate>
+            <content:encoded><![CDATA[64,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/c394fb6d7ef9bcac04d29c6d0eed4199.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[머드 더 스튜던트 (Mudd the Student) / Field Trip (7" Single Black Vinyl x 2, 45RPM)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23678&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23678&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 06 Feb 2024 17:36:20 GMT</pubDate>
+            <content:encoded><![CDATA[37,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/cb859253f007eaccec9068d42acc56bd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
