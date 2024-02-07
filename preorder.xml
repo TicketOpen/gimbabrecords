@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 17:36:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 05:36:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/776af03c5531498b2bb9e86603c3b222.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[홍이삭,진수영 - EP everland (Marble Vinyl) *예약상품 (4월 26일 발매 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24325&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24325&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 01 Feb 2024 17:34:51 GMT</pubDate>
-            <content:encoded><![CDATA[51,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/2de5c87455b841ceeee85341b3609cc6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[산울림 / Evening Breeze (180g Vinyl, 2LP, 수입 완제품) *예약상품 (3월 15일 발매 예정) / 2월 12일까지 결제가 완료된 주문에 대해 2,750원 추가 적립]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24324&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24324&amp;cate_no=42&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Thu, 01 Feb 2024 17:34:51 GMT</pubDate>
             <content:encoded><![CDATA[48,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/642b9e56a1a1d465226f2c7fe76bf019.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Various) / Fallen Angels 墮落天使  타락천사 (Jettone 25th Anniversary Edition, Hybrid SACD) *예약상품 (2월 20일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23873&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23873&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 07 Feb 2024 05:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[43,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/abacb2bece889dc18403241def4c8f02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
