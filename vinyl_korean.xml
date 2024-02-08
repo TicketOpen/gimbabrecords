@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 17:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 05:36:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cosmic Boy (코스믹 보이) / Can I love? (Vinyl) *예약상품 (2월 15일 발매 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24557&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24557&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Thu, 08 Feb 2024 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[55,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/2cfab1a2badde58b5fe93f9d3a893e04.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Yaeji 예지 / With A Hammer (Black Vinyl) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24556&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 06 Feb 2024 17:36:20 GMT</pubDate>
             <content:encoded><![CDATA[46,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/10b6ca224c725530707092507229eec2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (이재진) / 서울의 봄 Original Soundtrack (Vinyl, 2LP, Limited Edition) *예약상품 (2월 23일 발매 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23692&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23692&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 06 Feb 2024 17:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[64,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/c394fb6d7ef9bcac04d29c6d0eed4199.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
