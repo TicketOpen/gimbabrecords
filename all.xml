@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Feb 2024 05:37:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Feb 2024 17:36:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/163ff3e5d137df9352687eea610dbc1c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Peter Gabriel / i/o ( Bright-Side Mix) (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24572&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24572&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 08 Feb 2024 17:35:02 GMT</pubDate>
-            <content:encoded><![CDATA[65,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/0c6c447a8a69a18bad03ed6f2265d4ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Taylor Swift / Evermore (Vinyl, 2LP, Green Colored, Deluxe Edition) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24567&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24567&amp;cate_no=25&amp;display_group=1</guid>
@@ -198,6 +190,14 @@
             <pubDate>Thu, 08 Feb 2024 05:35:14 GMT</pubDate>
             <content:encoded><![CDATA[55,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/2cfab1a2badde58b5fe93f9d3a893e04.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yaeji 예지 / With A Hammer (Black Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24556&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24556&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 10 Feb 2024 17:34:22 GMT</pubDate>
+            <content:encoded><![CDATA[46,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/c9b3273b8af1f131a47ff0d9f1bc0cf7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Grey October Sound / Lo-Fi City Pop (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/2e5adf6462db196b4bf2a3f834c1946d.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[OST (Music by Frankie Chan Fan Kei and Roel A. Garcia) / Chungking Express 중경삼림 (Limited Sensuous Forest Vinyl, 3색컬러 한정반) *아래 유의사항을 반드시 확인해 주세요. (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18566&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18566&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 10 Feb 2024 17:34:40 GMT</pubDate>
+            <content:encoded><![CDATA[103,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/e7a5772222d8fe68d440436e2fdba47c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Cosmic Boy (코스믹 보이) / Can I love? (Vinyl) *예약상품 (2월 15일 발매 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24557&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24557&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 01 Feb 2024 17:34:51 GMT</pubDate>
             <content:encoded><![CDATA[48,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/cb740ac4b9cfda07bcd3bb80c1fca151.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 / Vol. 1: Already Now (아니벌써) (180g Vinyl, 수입 완제품) *예약상품 (3월 15일 발매 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24321&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24321&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 01 Feb 2024 17:34:51 GMT</pubDate>
-            <content:encoded><![CDATA[48,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/642b9e56a1a1d465226f2c7fe76bf019.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Doves / The Last Broadcast (Vinyl, 2LP) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>

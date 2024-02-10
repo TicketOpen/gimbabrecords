@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Feb 2024 05:37:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Feb 2024 17:36:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 09 Feb 2024 17:36:07 GMT</pubDate>
             <content:encoded><![CDATA[30,700원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/163ff3e5d137df9352687eea610dbc1c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Peter Gabriel / i/o ( Bright-Side Mix) (Vinyl, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24572&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24572&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 08 Feb 2024 17:35:02 GMT</pubDate>
-            <content:encoded><![CDATA[65,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/0c6c447a8a69a18bad03ed6f2265d4ab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Taylor Swift / Evermore (Vinyl, 2LP, Green Colored, Deluxe Edition) *한정수량 할인]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Thu, 08 Feb 2024 05:35:14 GMT</pubDate>
             <content:encoded><![CDATA[55,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/2cfab1a2badde58b5fe93f9d3a893e04.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yaeji 예지 / With A Hammer (Black Vinyl) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24556&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24556&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 10 Feb 2024 17:34:22 GMT</pubDate>
+            <content:encoded><![CDATA[46,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/c9b3273b8af1f131a47ff0d9f1bc0cf7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

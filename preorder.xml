@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Feb 2024 05:37:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Feb 2024 17:36:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Music by Frankie Chan Fan Kei and Roel A. Garcia) / Chungking Express 중경삼림 (Limited Sensuous Forest Vinyl, 3색컬러 한정반) *아래 유의사항을 반드시 확인해 주세요.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18566&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18566&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 10 Feb 2024 17:34:40 GMT</pubDate>
+            <content:encoded><![CDATA[103,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/e7a5772222d8fe68d440436e2fdba47c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cosmic Boy (코스믹 보이) / Can I love? (Vinyl) *예약상품 (2월 15일 발매 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24557&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 01 Feb 2024 17:34:51 GMT</pubDate>
             <content:encoded><![CDATA[48,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/cb740ac4b9cfda07bcd3bb80c1fca151.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 / Vol. 1: Already Now (아니벌써) (180g Vinyl, 수입 완제품) *예약상품 (3월 15일 발매 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24321&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24321&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 01 Feb 2024 17:34:51 GMT</pubDate>
-            <content:encoded><![CDATA[48,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/642b9e56a1a1d465226f2c7fe76bf019.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
