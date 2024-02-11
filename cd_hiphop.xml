@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Hip Hop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Feb 2024 17:36:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Feb 2024 05:36:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Logic / Confessions Of A Dangerous Mind (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24574&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24574&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Sun, 11 Feb 2024 05:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/197877229efebb16f70b858f3888487b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[McKinley Dixon / Beloved! Paradise! Jazz!? (CD, gatefold)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23727&amp;cate_no=45&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 08 Jan 2024 17:35:43 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/50594d99c0046a8c643a65234599a1e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2Pac / Greatest Hits (2CD, US Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23267&amp;cate_no=45&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23267&amp;cate_no=45&amp;display_group=1</guid>
-            <pubDate>Mon, 08 Jan 2024 17:35:43 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/20191205/71567280c27b2f4533ab1c37eeefc78d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
