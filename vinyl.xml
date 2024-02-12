@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Feb 2024 05:37:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 17:36:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/4b158df6db5335110ae1cb10b614cfc0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Vince Staples / Summertime '06: Segment 1 (Vinyl, Gatefold)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24563&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24563&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 11 Feb 2024 17:34:30 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/98e8d1651f08eba737bbe69c5eed2b51.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Jill Scott / Who Is Jill Scott? - Words And Sounds Vol. 1 (Remastered Black Vinyl, 2LP)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24562&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24562&amp;cate_no=25&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Thu, 08 Feb 2024 17:35:02 GMT</pubDate>
             <content:encoded><![CDATA[64,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/fe407797523dd6627cafdc48cee5600c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / Nuggets Original Artyfacts From The First Psychedelic Era Vol. 2 (1964-1968) (Psychedelic Psplatter Vinyl, 2LP, 2024 SYEOR 캠페인 한정반)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24558&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24558&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 12 Feb 2024 17:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[64,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/4efd9ab7bd4bad5d45299d285a1bfff2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
