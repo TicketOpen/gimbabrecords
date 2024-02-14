@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Bargain Bin</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 17:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 05:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Mon, 12 Feb 2024 17:35:23 GMT</pubDate>
             <content:encoded><![CDATA[11,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/8eebcfa82046140e5fbbb1d0aa28a1d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Doves / The Last Broadcast (Vinyl, 2LP) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24415&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24415&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Wed, 07 Feb 2024 17:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/0529e74eceab8d806580b9004b1d499e.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Sex Pistols / The Original Recordings (Vinyl, 2LP) *2023 블랙프라이데이 할인]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 07 Feb 2024 17:35:45 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/57767bf2dfb8f395d4b709a461c67efb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Temples / Sun Structures (CD) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23913&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23913&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Wed, 14 Feb 2024 05:37:16 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201509/962_shop1_882922.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
