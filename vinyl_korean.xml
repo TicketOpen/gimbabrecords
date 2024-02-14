@@ -4,11 +4,35 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 05:38:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 17:37:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Cosmic Boy (코스믹 보이) / Can I love? (Vinyl) *예약상품 (2월 15일 발매 예정)]]></title>
+            <title><![CDATA[김사월 / 3집 헤븐 (Vinyl) *예약상품 (7월 1일 발매 예정, 2월 21일 자정 주문 마감)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24582&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24582&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 14 Feb 2024 17:37:05 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/7c5f86dee37227bb308096350136608c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김사월 / 2집 로맨스 (Vinyl) *예약상품 (7월 1일 발매 예정, 2월 21일 자정 주문 마감)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24581&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24581&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 14 Feb 2024 17:37:05 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/f6322fd6bb8213e78a4d0e77f9fc9bd0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김사월 / 1집 수잔 (Vinyl) *예약상품 (7월 1일 발매 예정, 2월 21일 자정 주문 마감)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24580&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24580&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 14 Feb 2024 17:37:05 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/47331dd43edc561ee8caf5daa02addcc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cosmic Boy (코스믹 보이) / Can I love? (Vinyl) *예약상품 (3월 셋째 주 발매 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24557&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24557&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Thu, 08 Feb 2024 05:36:45 GMT</pubDate>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 13 Feb 2024 05:38:31 GMT</pubDate>
             <content:encoded><![CDATA[64,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/c394fb6d7ef9bcac04d29c6d0eed4199.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[머드 더 스튜던트 (Mudd the Student) / Field Trip (7" Single Black Vinyl x 2, 45RPM)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23678&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23678&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 13 Feb 2024 17:36:22 GMT</pubDate>
-            <content:encoded><![CDATA[37,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/cb859253f007eaccec9068d42acc56bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김도언 / Damage (180g Black Vinyl, Gatefold)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23677&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23677&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 13 Feb 2024 17:36:22 GMT</pubDate>
-            <content:encoded><![CDATA[37,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/eb313abc95859739e653a040d210d488.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다브다 / Yonder EP (Cloudy Clear Vinyl, 45RPM)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23676&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23676&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 13 Feb 2024 17:36:22 GMT</pubDate>
-            <content:encoded><![CDATA[35,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/fba1dba367c4f405390f405af74361b4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
