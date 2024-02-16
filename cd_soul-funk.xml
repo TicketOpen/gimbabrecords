@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 05:36:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 17:36:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Weldon Irvine / In Harmony (CD + OBI)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24606&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24606&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 16 Feb 2024 17:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[29,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/36305845efdbad2a8ea49a3266dac811.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weldon Irvine / Weldon & The Kats (CD + Japanese OBI)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24605&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24605&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 16 Feb 2024 17:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[29,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/7d0268fb58879edd509212de612f22bd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Babyface / A Collection Of His Greatest Hits (CD) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24597&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24597&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 16 Feb 2024 17:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[11,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/8e0a849c6566a03f468298c3ede66d4d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ray Charles / Genius Loves Company (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23932&amp;cate_no=44&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Fri, 19 Jan 2024 17:35:41 GMT</pubDate>
             <content:encoded><![CDATA[25,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/35c77ba146f8faf57315ce1f83edd02f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joao Selva / Passarinho (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23657&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23657&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Mon, 08 Jan 2024 17:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[21,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/2ae2c2aaf612e7e160b524ba8e474f0e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[edbl & friends / Jackson Method (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23616&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23616&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Fri, 29 Dec 2023 17:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/6e2ed1d94bc22f9d701e8c07646a3dc6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[edbl & friends / JPRK (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23615&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23615&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Fri, 29 Dec 2023 17:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/e5aa8710036096aa9e754744b94b6c43.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
