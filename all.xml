@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Feb 2024 05:37:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Feb 2024 17:36:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Fri, 16 Feb 2024 17:34:32 GMT</pubDate>
             <content:encoded><![CDATA[29,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/f115fc086f1c315a94b077936f4c14f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Weldon Irvine / In Harmony (CD + OBI) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24606&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24606&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 16 Feb 2024 17:34:32 GMT</pubDate>
-            <content:encoded><![CDATA[29,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/36305845efdbad2a8ea49a3266dac811.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Weldon Irvine / Weldon & The Kats (CD + Japanese OBI) (김밥레코즈 ─ CD)]]></title>
@@ -104,6 +96,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/8eebcfa82046140e5fbbb1d0aa28a1d8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Logic / Confessions Of A Dangerous Mind (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24574&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24574&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sat, 17 Feb 2024 17:34:34 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/197877229efebb16f70b858f3888487b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Weldon Irvine / Weldon & The Kats (Vinyl + OBI) *예약상품 (3월 6일 이후 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24602&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24602&amp;cate_no=25&amp;display_group=1</guid>
@@ -142,14 +142,6 @@
             <pubDate>Fri, 16 Feb 2024 17:34:39 GMT</pubDate>
             <content:encoded><![CDATA[29,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/3d7931124b3b9cc6424b98b57077df2f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Asia / Live At The Budokan Tokyo 1983 - MTV Satellite Telecast To America 6 December 1983 (Vinyl, 2LP) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24591&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24591&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 16 Feb 2024 17:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/4f4db432128c68a891205fb505d4fcff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Oumou Sangare / Timbuktu (180g Vinyl, OBI + 4p 책자 포함) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Vinyl)]]></title>
@@ -198,6 +190,14 @@
             <pubDate>Thu, 15 Feb 2024 17:34:46 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/3e1ffe7f50a89fb29f78006dfce86d11.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryo Fukui / Scenery (Limited Colored Vinyl) *예약상품 (6월 17일 이후 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24584&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24584&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 17 Feb 2024 17:34:41 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/1680e084adea06de647cf388f78711ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Grey October Sound / Lo-Fi City Pop (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -536,14 +536,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/aba70c9d29355e85e141277f3eccfa39.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Asia / Live At The Budokan Tokyo 1983 - MTV Satellite Telecast To America 6 December 1983 (Vinyl, 2LP) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24591&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24591&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Fri, 16 Feb 2024 17:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/4f4db432128c68a891205fb505d4fcff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Oumou Sangare / Timbuktu (180g Vinyl, OBI + 4p 책자 포함) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24590&amp;cate_no=43&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24590&amp;cate_no=43&amp;display_group=1</guid>
@@ -582,6 +574,14 @@
             <pubDate>Wed, 07 Feb 2024 17:35:45 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/0a52b1622a6e4ec6021ce55a7913a91d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Go-Go's / Beauty And The Beat (Vinyl) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24328&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24328&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Sat, 17 Feb 2024 17:35:05 GMT</pubDate>
+            <content:encoded><![CDATA[29,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/526105e8bfe53a873b4de3fd7b91bf6b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김뜻돌 / 정규 1집 꿈에서 걸려온 전화 (CD, Digipak) (김밥레코즈 ─ CD ─ Korean)]]></title>
@@ -1760,28 +1760,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/47331dd43edc561ee8caf5daa02addcc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Cosmic Boy (코스믹 보이) / Can I love? (Vinyl) *예약상품 (3월 셋째 주 발매 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24557&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24557&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 08 Feb 2024 05:36:45 GMT</pubDate>
-            <content:encoded><![CDATA[55,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/2cfab1a2badde58b5fe93f9d3a893e04.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[Yaeji 예지 / With A Hammer (Black Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24556&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24556&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Wed, 07 Feb 2024 17:37:05 GMT</pubDate>
             <content:encoded><![CDATA[46,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/c9b3273b8af1f131a47ff0d9f1bc0cf7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[곽태풍 / 나는야 락스타 ! (Red Vinyl, Limited Edition) *예약상품 (2월 16일 발매 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24417&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24417&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Mon, 05 Feb 2024 05:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/09219a269ec188398e267bc150018278.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[터치드 (TOUCHED) / EP 2집 Yellow Supernova Remnant (180g Yellow Splatter Vinyl) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
@@ -1830,6 +1814,22 @@
             <pubDate>Tue, 13 Feb 2024 05:38:31 GMT</pubDate>
             <content:encoded><![CDATA[64,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/c394fb6d7ef9bcac04d29c6d0eed4199.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[머드 더 스튜던트 (Mudd the Student) / Field Trip (7" Single Black Vinyl x 2, 45RPM) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23678&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23678&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Sat, 17 Feb 2024 17:36:23 GMT</pubDate>
+            <content:encoded><![CDATA[37,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/cb859253f007eaccec9068d42acc56bd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김도언 / Damage (180g Black Vinyl, Gatefold) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23677&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23677&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Sat, 17 Feb 2024 17:36:23 GMT</pubDate>
+            <content:encoded><![CDATA[37,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/eb313abc95859739e653a040d210d488.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Beatles / 1+ (CD+2장의 Blu-Ray 디스크 - 진귀한 영상을 서라운드 사운드로 만날 수 있는 27편의 프로모션 비디오 및 23편의 영상, 총 50편의 영상과 멤버들의 코멘터리 수록) *매장 10주년 기념 한정수량 할 (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
