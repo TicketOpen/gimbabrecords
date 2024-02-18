@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Feb 2024 05:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2024 17:36:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Weldon Irvine / In Harmony (Vinyl + OBI) *예약상품 (3월 6일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24604&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24604&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 18 Feb 2024 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[46,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/71e1a48129e940a5ba7d98f8dfe5ba50.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Weldon Irvine / Weldon & The Kats (Vinyl + OBI) *예약상품 (3월 6일 이후 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24602&amp;cate_no=25&amp;display_group=1</link>
@@ -38,14 +46,6 @@
             <pubDate>Fri, 16 Feb 2024 17:34:39 GMT</pubDate>
             <content:encoded><![CDATA[34,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/aba70c9d29355e85e141277f3eccfa39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bob Andy & Marcia Griffiths / Young Gifted and Black (Vinyl) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24592&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24592&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 16 Feb 2024 17:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/3d7931124b3b9cc6424b98b57077df2f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Oumou Sangare / Timbuktu (180g Vinyl, OBI + 4p 책자 포함) *2023 블랙프라이데이 할인]]></title>
