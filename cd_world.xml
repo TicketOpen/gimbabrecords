@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 05:37:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 17:36:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pedro Martins / Radio Misterio (CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24620&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24620&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Mon, 19 Feb 2024 17:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/1e4b7838f54788f2e5895a83551a8a92.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Daniel Santiago & Pedro Martins / Movement (CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24619&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24619&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Mon, 19 Feb 2024 17:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[27,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/90e3217b18d9ebab784dc28a728e72b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bebel Gilberto / Agora (CD) *2023 블랙프라이데이 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23890&amp;cate_no=79&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 15 Sep 2023 17:36:52 GMT</pubDate>
             <content:encoded><![CDATA[26,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/372a35539c889aacead60d7e918aadb3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mario Rui Silva / Stories From Another Time 1982​-​1988 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22795&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22795&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Sat, 09 Sep 2023 17:36:29 GMT</pubDate>
-            <content:encoded><![CDATA[22,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/767a28fb8db47bdbdd1af6d921183fc1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cesaria Evora / Cafe Atlantico (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22783&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22783&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Thu, 07 Sep 2023 17:37:04 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/17f515ee6833a1c24dfc2eda55bbe3a5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

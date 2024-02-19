@@ -4,17 +4,9 @@
         <title>김밥레코즈 ─ Bargain Bin</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 05:37:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 17:36:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Ludovico Einaudi / Live In Berlin (2CD) *유니버설 재즈 클래식 베스트셀러 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24601&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24601&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Fri, 16 Feb 2024 17:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/d6a451beed2dc0e7ea9eee0f4c7997a0.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[London Symphony Orchestra, Krystian Zimerman, Simon Rattle / Beethoven : Complete Piano Concertos (3CD Box Set + Bonus Blu-Ray) *2023 블랙프라이데이 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24600&amp;cate_no=43&amp;display_group=1</link>
@@ -72,14 +64,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/8eebcfa82046140e5fbbb1d0aa28a1d8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sex Pistols / The Original Recordings (Vinyl, 2LP) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24414&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24414&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Wed, 07 Feb 2024 17:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[41,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/52fd9dbfc42f95b4d93f75613dd8397d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Ariana Grande / Dangerous Woman (Vinyl, 2LP) *2023 블랙프라이데이 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24405&amp;cate_no=43&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24405&amp;cate_no=43&amp;display_group=1</guid>
@@ -102,6 +86,22 @@
             <pubDate>Sat, 17 Feb 2024 17:35:05 GMT</pubDate>
             <content:encoded><![CDATA[29,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/526105e8bfe53a873b4de3fd7b91bf6b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japan / Quiet Life (Red Vinyl, Half-Speed Remastered, Limited Edition) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24327&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24327&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Mon, 19 Feb 2024 17:35:05 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/fc9d5ad762281138827ed5bf2d1b14d0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Uriah Heep / Magician's Birthday (180g Vinyl) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24326&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24326&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Mon, 19 Feb 2024 17:35:05 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/0717b4010e756f1f3fa2617f88942751.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

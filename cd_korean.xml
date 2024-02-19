@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 05:37:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 17:36:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김효은, 던말릭 / 49 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24626&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24626&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 19 Feb 2024 17:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[16,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/3dd7e69b1daf3666de9f8c496b0a14f5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김뜻돌 / 정규 1집 꿈에서 걸려온 전화 (CD, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24427&amp;cate_no=29&amp;display_group=1</link>
@@ -40,7 +48,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/041808ff6f84edb8d0981ec3cb6bd681.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[실리카겔 / 정규 2집 POWER ANDRE 99 (2CD + Booklet + 3D 렌티큘러 카드) *예약상품 (2월 15일 발매 예정)]]></title>
+            <title><![CDATA[실리카겔 / 정규 2집 POWER ANDRE 99 (2CD + Booklet + 3D 렌티큘러 카드)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23758&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23758&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Mon, 22 Jan 2024 17:35:18 GMT</pubDate>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 02 Jan 2024 05:35:22 GMT</pubDate>
             <content:encoded><![CDATA[19,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/db943cf6b7cf52028d62002a73fe34a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천진우 / 3집 천진우 캐롤 모음집 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23613&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23613&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Fri, 29 Dec 2023 17:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/bc780d25f06f41c408ea760fa40c6143.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

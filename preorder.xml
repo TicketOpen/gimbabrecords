@@ -4,16 +4,56 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 05:37:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 17:36:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[곽태풍 / 나는야 락스타 ! (Red Vinyl, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24417&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24417&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 19 Feb 2024 05:36:38 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/09219a269ec188398e267bc150018278.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Tatsuro Yamashita / For You (Vinyl, 2023 Remaster) *예약상품 (5월 10일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22003&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22003&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 19 Feb 2024 17:34:59 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/2a869e39c9776c9b3739e7f804224104.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryo Fukui / Scenery (Limited Colored Vinyl) *예약상품 (6월 17일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24584&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24584&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 15 Feb 2024 17:35:05 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/1680e084adea06de647cf388f78711ac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryo Fukui / Mellow Dream (Limited Colored Vinyl) *예약상품 (6월 17일 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24585&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24585&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 15 Feb 2024 17:35:05 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/3e1ffe7f50a89fb29f78006dfce86d11.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이문세 / 4집 사랑이 지나가면 / 깊은 밤을 날아서 (180g Black Vinyl) *예약상품 (2월 22일 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=13516&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=13516&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 19 Feb 2024 17:34:59 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/066bcb5a254178f7ad0cf1631be33fb3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이문세 / 3집 - 난 아직 모르잖아요 / 휘파람 (180g Black Vinyl) *예약상품 (2월 22일 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=13517&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=13517&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 19 Feb 2024 17:34:59 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/5c234b599b8a563c8c61990d55e854ef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이문세 / 5집 (180g Black Vinyl) *예약상품 (2월 22일 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15435&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15435&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 19 Feb 2024 17:34:59 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/707dd1e457a24e03fe64d590a080a609.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Weldon Irvine / In Harmony (Vinyl + OBI) *예약상품 (3월 6일 이후 배송 예정)]]></title>
@@ -56,52 +96,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/4884f2ea1a3fd4b5849c6c7f6cc71640.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ryo Fukui / Scenery (Limited Colored Vinyl) *예약상품 (6월 17일 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24584&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24584&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 15 Feb 2024 17:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/1680e084adea06de647cf388f78711ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tsuyoshi Yamamoto / Sweet For K (Vinyl) *예약상품 (5월초 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24586&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24586&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Thu, 15 Feb 2024 17:35:05 GMT</pubDate>
             <content:encoded><![CDATA[51,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/2ebc8ca7639c05b19d02885aca20bfa1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryo Fukui / Mellow Dream (Limited Colored Vinyl) *예약상품 (6월 17일 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24585&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24585&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 15 Feb 2024 17:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/3e1ffe7f50a89fb29f78006dfce86d11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cosmic Boy (코스믹 보이) / Can I love? (Vinyl) *예약상품 (3월 셋째 주 발매 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24557&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24557&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 08 Feb 2024 05:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[55,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/2cfab1a2badde58b5fe93f9d3a893e04.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[김사월 / 3집 헤븐 (Vinyl) *예약상품 (7월 1일 발매 예정, 2월 21일 자정 주문 마감)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24582&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24582&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 14 Feb 2024 17:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/7c5f86dee37227bb308096350136608c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김사월 / 2집 로맨스 (Vinyl) *예약상품 (7월 1일 발매 예정, 2월 21일 자정 주문 마감)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24581&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24581&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 14 Feb 2024 17:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/f6322fd6bb8213e78a4d0e77f9fc9bd0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

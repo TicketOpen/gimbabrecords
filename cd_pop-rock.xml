@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 05:37:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 17:36:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sakamoto Shintaro / Love if Possible (2CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24615&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24615&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 19 Feb 2024 17:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[32,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/78eaf30b2b5e2dd1e5be4eb5752d2f64.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shintaro Sakamoto / Let's Dance Raw ナマで踊ろう (2CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24614&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24614&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 19 Feb 2024 17:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[33,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/d5b6c09edbf7f6896f5cc12da4fda8e8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shintaro Sakamoto / How To Live With A Phantom (Maboroshi tono Tsukiai Kata) (CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24613&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24613&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 19 Feb 2024 17:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[31,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/4342b7589985f7126fb004e8df007677.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bill Bruford / Making A Song And Dance (A Complete-Career Collection) (Deluxe 6CD Box Set) *2023 블랙프라이데이 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24598&amp;cate_no=30&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 13 Feb 2024 17:35:25 GMT</pubDate>
             <content:encoded><![CDATA[23,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/92c84ff063b9ce98a3f465b61e0b9cc5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Papooz / Night Sketches (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24465&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24465&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 13 Feb 2024 17:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/1199f90ccd691d540c85a63133a99b55.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Deafheaven / Sunbather : 10th Anniversary Remix / Remaster (CD, Digi Gatefold)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24455&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24455&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 13 Feb 2024 17:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/5a3cdcf4c12cb496eeaea915417f67f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dent May / Late Checkout (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24451&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24451&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 13 Feb 2024 17:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[22,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/a8821c7316a9b68f0f034740b4101056.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
