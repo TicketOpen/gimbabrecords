@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Feb 2024 05:36:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 17:37:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 23 Feb 2024 17:36:05 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/1090f5439b550873e2d8f5eb52ca3461.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박지윤 / Parkjiyoon 20th Anniversary Photo & Live Album (White Vinyl, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24654&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24654&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Sat, 24 Feb 2024 05:36:05 GMT</pubDate>
-            <content:encoded><![CDATA[69,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/a7b3d7f2e5f9d2c5d80ee1a06f1200d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[wave to earth (웨이브투어스) / uncounted 0.00 (투명 블루 Vinyl, Limited Edition) *예약상품 (7월 19일 발매 예정, 3월 14일 주문 마감) *2월 25일까지 결제가 완료된 예약 주문에 한해 3,000원을 추가 적립해 드립니다.)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Tue, 06 Feb 2024 17:36:20 GMT</pubDate>
             <content:encoded><![CDATA[46,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/df4382e3f85a945d9c3b476dca53207b.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[산울림 / 10집 너의 의미 (180g Black Vinyl, 2,000장 넘버링 한정반) *예약상품 (3월 14일 발매 예정) / 1인 2매까지 구매 가능 / 별도의 입금기한 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23693&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23693&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Sat, 24 Feb 2024 17:37:01 GMT</pubDate>
+            <content:encoded><![CDATA[46,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/10b6ca224c725530707092507229eec2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
