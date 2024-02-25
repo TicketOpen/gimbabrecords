@@ -4,17 +4,9 @@
         <title>김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Feb 2024 05:36:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Feb 2024 17:36:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[The Beatles / 1+ (CD+2장의 Blu-Ray 디스크 - 진귀한 영상을 서라운드 사운드로 만날 수 있는 27편의 프로모션 비디오 및 23편의 영상, 총 50편의 영상과 멤버들의 코멘터리 수록) *매장 10주년 기념 한정수량 할]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23009&amp;cate_no=64&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23009&amp;cate_no=64&amp;display_group=1</guid>
-            <pubDate>Sat, 14 Oct 2023 17:36:48 GMT</pubDate>
-            <content:encoded><![CDATA[55,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/85c4966fc0d11afbcc4a914e670c33f9.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[The Beatles / 1 (CD + Blu-Ray, "1"에 수록된 모든 곡 (27곡)의 프로모션 비디오 + 5.1채널 서라운드 사운드, 폴 매카트니, 링고 스타의 코멘터리 추가 수록) *매장 10주년 기념 한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23008&amp;cate_no=64&amp;display_group=1</link>
@@ -102,6 +94,14 @@
             <pubDate>Sun, 17 Dec 2023 17:36:44 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/9d3b0e77ec5487f17e5962b4a2f21bb2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Keith Jarrett / The Art Of Improvisation (Documentary) (Blu-ray)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18779&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18779&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Sun, 25 Feb 2024 17:36:13 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/a81d047aa4c871b1f2e985615a398138.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
