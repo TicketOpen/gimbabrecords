@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Bargain Bin</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 05:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 17:36:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201804/10758_shop1_108440.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Vikingur Olafsson / Philip Glass: Piano Works (필립 글래스: 피아노 작품집 - 비킹구르 올라프손) (180g Vinyl, 2LP) *유니버설 재즈 클래식 베스트셀러 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24655&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24655&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Feb 2024 05:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/49ad395a7b3689be6eb2e080caa389b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Ariana Grande / Thank U, Next (Vinyl, 2LP) *2023 블랙프라이데이 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24641&amp;cate_no=43&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24641&amp;cate_no=43&amp;display_group=1</guid>
             <pubDate>Sun, 25 Feb 2024 17:34:58 GMT</pubDate>
             <content:encoded><![CDATA[40,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/383b02404a9bdaf06fe1189dad2b9123.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Def Leppard / Adrenalize (Vinyl) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24636&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24636&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Feb 2024 17:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[25,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/18575173c26422e29cdcd40a11c6c8b5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

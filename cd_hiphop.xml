@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Hip Hop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 05:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 17:36:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[slowthai / Tyron (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24716&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24716&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Feb 2024 17:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/e523c199e79b31ac1e6a9b7772846dcf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vince Staples / Vince Staples (CD) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24715&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24715&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Feb 2024 17:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/6a9a5a2c9f57fa45b11cb7e073dfc4ce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OI' Dirty Bastard / Return To The 36 Chambers (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24699&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24699&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Feb 2024 17:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201607/4517_shop1_696256.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Logic / Confessions Of A Dangerous Mind (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24574&amp;cate_no=45&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Mon, 08 Jan 2024 17:35:43 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/0d0b78829cd1f531307c533048788f73.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DJ Quik / The Best Of DJ Quik : Da Finale (CD, US Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23270&amp;cate_no=45&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23270&amp;cate_no=45&amp;display_group=1</guid>
-            <pubDate>Mon, 08 Jan 2024 17:35:43 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/de9b12433bcfe160e987f1c0e1e60e87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cypress Hill / Black Sunday (CD, US Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23269&amp;cate_no=45&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23269&amp;cate_no=45&amp;display_group=1</guid>
-            <pubDate>Mon, 08 Jan 2024 17:35:43 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202104/169304af4bbd98c87e41dde76d18c017.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beastie Boys / Paul's Boutique (CD, 20th Anniversary Edition, US Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23268&amp;cate_no=45&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23268&amp;cate_no=45&amp;display_group=1</guid>
-            <pubDate>Mon, 08 Jan 2024 17:35:43 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/50594d99c0046a8c643a65234599a1e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
