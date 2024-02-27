@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 17:36:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 05:37:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22541&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Sun, 25 Feb 2024 17:34:53 GMT</pubDate>
             <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/201602/2723_shop1_968546.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201602/2723_shop1_968546.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tsuyoshi Yamamoto / Sweet For K (Vinyl) *예약상품 (5월초 배송 예정)]]></title>
@@ -21,7 +21,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24586&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Sat, 24 Feb 2024 17:35:33 GMT</pubDate>
             <content:encoded><![CDATA[51,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/2ebc8ca7639c05b19d02885aca20bfa1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/2ebc8ca7639c05b19d02885aca20bfa1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tatsuro Yamashita / For You (Vinyl, 2023 Remaster) *예약상품 (3월 8일 이후 배송 예정)]]></title>
@@ -29,7 +29,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22003&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Sat, 24 Feb 2024 17:35:33 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202305/2a869e39c9776c9b3739e7f804224104.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/2a869e39c9776c9b3739e7f804224104.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Fabiano do Nascimento / Mundo Solo (Vinyl) *예약상품 (3월 8일 이후 배송 예정)]]></title>
@@ -37,7 +37,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24647&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Sat, 24 Feb 2024 17:35:33 GMT</pubDate>
             <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/402f88b34e2901f1df7452aad8f9998f.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/402f88b34e2901f1df7452aad8f9998f.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Azymuth / Outubro (Limited Colored Vinyl - Deep Aqua 색상) *예약상품 (3월 8일 이후 배송 예정)]]></title>
@@ -45,7 +45,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24646&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Wed, 21 Feb 2024 17:36:11 GMT</pubDate>
             <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/072c73d357094ef2fb435d649a052024.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/072c73d357094ef2fb435d649a052024.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Antonio Adolfo / Viralata (Vinyl) *예약상품 (3월 8일 이후 배송 예정)]]></title>
@@ -53,7 +53,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24648&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Wed, 21 Feb 2024 17:36:11 GMT</pubDate>
             <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/1be4bdf9d17aaddfb62b4612ca851f2d.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/1be4bdf9d17aaddfb62b4612ca851f2d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Joao Donato / Serotonina (Vinyl) *예약상품 (4월 22일 이후 배송 예정)]]></title>
@@ -61,7 +61,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24649&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Wed, 21 Feb 2024 17:36:11 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/62b45f4a1cd2296115dff6739c7d3a4e.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/62b45f4a1cd2296115dff6739c7d3a4e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OST (이재진) / 서울의 봄 Original Soundtrack (Vinyl, 2LP, Limited Edition) *예약상품 (3월 8일 발매 예정)]]></title>
@@ -69,7 +69,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23692&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Thu, 22 Feb 2024 17:35:13 GMT</pubDate>
             <content:encoded><![CDATA[64,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202401/c394fb6d7ef9bcac04d29c6d0eed4199.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/c394fb6d7ef9bcac04d29c6d0eed4199.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Ryo Fukui / Mellow Dream (Limited Colored Vinyl) *예약상품 (6월 17일 이후 배송)]]></title>
@@ -77,7 +77,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24585&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Thu, 15 Feb 2024 17:35:05 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/3e1ffe7f50a89fb29f78006dfce86d11.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/3e1ffe7f50a89fb29f78006dfce86d11.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Weldon Irvine / In Harmony (Vinyl + OBI) *예약상품 (3월 6일 이후 배송 예정)]]></title>
@@ -85,7 +85,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24604&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Thu, 22 Feb 2024 05:34:46 GMT</pubDate>
             <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/71e1a48129e940a5ba7d98f8dfe5ba50.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/71e1a48129e940a5ba7d98f8dfe5ba50.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김사월 / 3집 헤븐 (Vinyl) *예약상품 (7월 1일 발매 예정, 2월 21일 자정 주문 마감)]]></title>
@@ -93,7 +93,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24582&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Thu, 22 Feb 2024 05:34:46 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/7c5f86dee37227bb308096350136608c.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/7c5f86dee37227bb308096350136608c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김사월 / 1집 수잔 (Vinyl) *예약상품 (7월 1일 발매 예정, 2월 21일 자정 주문 마감)]]></title>
@@ -101,7 +101,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24580&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Thu, 22 Feb 2024 05:34:46 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/47331dd43edc561ee8caf5daa02addcc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/47331dd43edc561ee8caf5daa02addcc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
