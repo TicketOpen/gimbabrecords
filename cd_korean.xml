@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 17:36:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 05:37:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보이콜드 / EP Sick of Love (CD + 가사집 + 스티커 3종 + 북마크)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24723&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24723&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Wed, 28 Feb 2024 05:35:43 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/623ac45d863ec38893e6bd0e2fa30a7d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김효은, 던말릭 / 49 (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24626&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 04 Jan 2024 17:35:25 GMT</pubDate>
             <content:encoded><![CDATA[16,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/056dc4ef896629b9d04369c27f2d1b48.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이민휘 / 빌린 입 (CD, Remastered)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23631&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23631&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Tue, 02 Jan 2024 05:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[19,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/db943cf6b7cf52028d62002a73fe34a0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
