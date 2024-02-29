@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 05:36:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 17:36:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Faye Webster / Underdressed at the Symphony (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24747&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24747&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Feb 2024 17:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[18,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/daa1635df829e285d06bd90bfe58d23f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jill Barber / Chansons (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24735&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24735&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Feb 2024 17:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/20200116/731729622a3542296c185220be65fafd.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Lukas Graham / Lukas Graham (CD) *2023 블랙프라이데이 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24714&amp;cate_no=30&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 27 Feb 2024 17:35:15 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201607/4516_shop1_200838.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Green Day / Nimrod (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24695&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24695&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Feb 2024 17:35:15 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201903/01ed8445237d0d0716040bb599a37d04.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Camel / Rain Dances (CD + Bonus tracks) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24694&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24694&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Feb 2024 17:35:15 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/6aff9061cf27516e142300cb927ae4e3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
