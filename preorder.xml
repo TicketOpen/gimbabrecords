@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Mar 2024 05:38:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Mar 2024 17:42:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pete Jolly / Seasons (Clear Amber Colored Vinyl) *예약상품 (4월 12일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24752&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24752&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 01 Mar 2024 17:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[45,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/1582f17ec420eb79891205dd2c3e4047.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pete Jolly / Seasons (Clear Green Colored Vinyl) *예약상품 (4월 12일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24753&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24753&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 01 Mar 2024 17:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[45,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/97ee41360349e8375a4f059b127d98d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[POiSON GiRL FRiEND / Melting Moment (Vinyl) *예약상품 (4월말 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24718&amp;cate_no=42&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Sat, 24 Feb 2024 17:35:33 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/2a869e39c9776c9b3739e7f804224104.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fabiano do Nascimento / Mundo Solo (Vinyl) *예약상품 (3월 8일 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24647&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24647&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sat, 24 Feb 2024 17:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/402f88b34e2901f1df7452aad8f9998f.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Azymuth / Outubro (Limited Colored Vinyl - Deep Aqua 색상) *예약상품 (3월 8일 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24646&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24646&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 21 Feb 2024 17:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/072c73d357094ef2fb435d649a052024.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
