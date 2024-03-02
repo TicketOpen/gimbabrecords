@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Mar 2024 17:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Mar 2024 05:37:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/2e5adf6462db196b4bf2a3f834c1946d.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[OST (Sufan Stevens, Ryuichi Sakamoto 외) / Call Me By Your Name 콜 미 바이 유어 네임 (25,000매 한정반, 180g 2LP 투명 핑크 색상 바이닐) *할인상품 (제품 측면에 작은 자국이 있습니다.) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23684&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23684&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 02 Mar 2024 05:35:54 GMT</pubDate>
+            <content:encoded><![CDATA[51,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/fe08a919e2bef69b6df3ad04bd5dfc24.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Pete Jolly / Seasons (Clear Amber Colored Vinyl) *예약상품 (4월 12일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24752&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24752&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 24 Feb 2024 17:35:33 GMT</pubDate>
             <content:encoded><![CDATA[51,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/2ebc8ca7639c05b19d02885aca20bfa1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tatsuro Yamashita / For You (Vinyl, 2023 Remaster) *예약상품 (3월 8일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22003&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22003&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sat, 24 Feb 2024 17:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/2a869e39c9776c9b3739e7f804224104.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kristjan Jarvi / Max Richter: Exiles 막스 리히터: 생귈리에르 오디세이를 위한 음악 (CD) *유니버설 재즈 클래식 베스트셀러 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
