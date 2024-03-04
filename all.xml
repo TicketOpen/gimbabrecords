@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 06:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 17:36:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/b8500824dfd86f30faaba16ef2fba041.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Dina Ogon / Dina Ogon  (Yellow Colored Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24754&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24754&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 02 Mar 2024 17:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[50,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/414c25a07b92ef2038037b0ea45d7aad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Pete Jolly / Seasons (Clear Green Colored Vinyl) *예약상품 (4월 12일 이후 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24753&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24753&amp;cate_no=25&amp;display_group=1</guid>
@@ -198,6 +190,14 @@
             <pubDate>Thu, 29 Feb 2024 17:34:44 GMT</pubDate>
             <content:encoded><![CDATA[38,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/a5585a25a71532b3b80d1e7fda68702b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charles Mingus / Mingus (Remastered 180g Vinyl, Stereo) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24740&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24740&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Mar 2024 17:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c03532c7ce977b1f319050defde6accf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Faye Webster / Underdressed at the Symphony (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,12 +392,28 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/2e5adf6462db196b4bf2a3f834c1946d.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[OST (Sufan Stevens, Ryuichi Sakamoto 외) / Call Me By Your Name 콜 미 바이 유어 네임 (25,000매 한정반, 180g 2LP 투명 핑크 색상 바이닐) *할인상품 (제품 측면에 작은 자국이 있습니다.) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23684&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23684&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sat, 02 Mar 2024 05:35:54 GMT</pubDate>
-            <content:encoded><![CDATA[51,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/fe08a919e2bef69b6df3ad04bd5dfc24.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이문세 / 4집 사랑이 지나가면 / 깊은 밤을 날아서 (180g Black Vinyl) *예약상품 (3월 8일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=13516&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=13516&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Mar 2024 17:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/066bcb5a254178f7ad0cf1631be33fb3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이문세 / 3집 - 난 아직 모르잖아요 / 휘파람 (180g Black Vinyl) *예약상품 (3월 8일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=13517&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=13517&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Mar 2024 17:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/5c234b599b8a563c8c61990d55e854ef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이문세 / 5집 (180g Black Vinyl) *예약상품 (3월 8일 이후 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=15435&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=15435&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Mar 2024 17:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/707dd1e457a24e03fe64d590a080a609.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pete Jolly / Seasons (Clear Amber Colored Vinyl) *예약상품 (4월 12일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -472,22 +488,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/49b02b96c5e4daccfbb691b72cdfe797.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Alvvays / Alvvays (Black Vinyl + Download, UK / EU Import) *2023 블랙프라이데이 할인 / 예약상품 (3월 13일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22541&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22541&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sun, 25 Feb 2024 17:34:53 GMT</pubDate>
-            <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201602/2723_shop1_968546.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tsuyoshi Yamamoto / Sweet For K (Vinyl) *예약상품 (5월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24586&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24586&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sat, 24 Feb 2024 17:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[51,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/2ebc8ca7639c05b19d02885aca20bfa1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Kristjan Jarvi / Max Richter: Exiles 막스 리히터: 생귈리에르 오디세이를 위한 음악 (CD) *유니버설 재즈 클래식 베스트셀러 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24733&amp;cate_no=43&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24733&amp;cate_no=43&amp;display_group=1</guid>
@@ -552,14 +552,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/7c1ca67309fb240fca61102143c3e34d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Rufus Wainwright / Poses (180g Vinyl, 2LP) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24682&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24682&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Fri, 01 Mar 2024 17:40:52 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/48a8921cf53d1783f2d39c76c4a54584.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Janet Jackson / Control (180g Vinyl) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24681&amp;cate_no=43&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24681&amp;cate_no=43&amp;display_group=1</guid>
@@ -582,6 +574,14 @@
             <pubDate>Fri, 23 Feb 2024 17:34:56 GMT</pubDate>
             <content:encoded><![CDATA[29,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/23e4d4c9ab17a95d81867c25e0d184ce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mura Masa / Demon Time (Exclusive Neon Green Vinyl) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24677&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24677&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Mar 2024 17:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[26,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/42504fb1220affe552ae94031c921a34.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[홍다빈 / Giggles (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>

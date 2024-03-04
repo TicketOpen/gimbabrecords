@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 06:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 17:36:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Sat, 02 Mar 2024 17:36:00 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/b8500824dfd86f30faaba16ef2fba041.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dina Ogon / Dina Ogon  (Yellow Colored Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24754&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24754&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 02 Mar 2024 17:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[50,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/414c25a07b92ef2038037b0ea45d7aad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pete Jolly / Seasons (Clear Green Colored Vinyl) *예약상품 (4월 12일 이후 배송 예정)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Thu, 29 Feb 2024 17:34:44 GMT</pubDate>
             <content:encoded><![CDATA[38,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/a5585a25a71532b3b80d1e7fda68702b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charles Mingus / Mingus (Remastered 180g Vinyl, Stereo)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24740&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24740&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Mar 2024 17:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c03532c7ce977b1f319050defde6accf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
