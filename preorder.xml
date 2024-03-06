@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 05:39:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 17:38:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권진아 / 우리의 방식 (180g White Vinyl) *예약상품 (5월 13일 발매, 3월 13일까지 결제가 완료 시 2,500원 추가 적립) / 1인 2매까지 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24773&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24773&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 06 Mar 2024 17:36:57 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/e7784010982755121920eb250235df62.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이문세 / 4집 사랑이 지나가면 / 깊은 밤을 날아서 (180g Black Vinyl) *예약상품 (3월 8일 이후 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=13516&amp;cate_no=42&amp;display_group=1</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 28 Feb 2024 17:37:27 GMT</pubDate>
             <content:encoded><![CDATA[59,400원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/555197dd040ec3d46af15255ea271fde.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Antonio Adolfo / Viralata (Vinyl) *예약상품 (3월 8일 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24648&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24648&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 21 Feb 2024 17:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/1be4bdf9d17aaddfb62b4612ca851f2d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Rashinban 나침반 / Rago (Vinyl) *예약상품 (6월말 배송 예정)]]></title>
