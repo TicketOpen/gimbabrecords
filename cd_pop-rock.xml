@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 05:36:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 17:37:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Novo Amor / Cannot Be, Whatsoever (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24783&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24783&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 07 Mar 2024 17:36:18 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/872508270ae3cdda74f2106e4c26ec02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Novo Amor / Birthplace (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24782&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24782&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 07 Mar 2024 17:36:18 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/30eeab4f6d75d3a33420123f05be7199.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fever Ray / Radical Romantics (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24781&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24781&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 07 Mar 2024 17:36:18 GMT</pubDate>
+            <content:encoded><![CDATA[16,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/2a35c7e1e23f712d6ec1900a4cd83d21.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Faye Webster / Underdressed at the Symphony (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24747&amp;cate_no=30&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 27 Feb 2024 17:35:15 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/0d7c608ee31d20d76454a4782743072c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[My Chemical Romance / The Black Parade (CD, Explicit version) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24698&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24698&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Feb 2024 17:35:15 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/b712cb71d6eada332af46859eec77140.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gorillaz / The Singles Collection 2001-2011 (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24697&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24697&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Feb 2024 17:35:15 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/d42bcff6980071f9be5a4643b3df8586.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Muse / Black Holes And Revelations (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24696&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24696&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Feb 2024 17:35:15 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201607/4516_shop1_200838.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

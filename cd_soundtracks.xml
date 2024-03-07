@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ CD ─ Soundtracks</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 05:36:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 17:37:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 23 Feb 2024 17:35:39 GMT</pubDate>
             <content:encoded><![CDATA[21,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/bf2a6d3d3a7e6992fd2c5ac83038556a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jarvis Cocker / Chansons D'Ennui Tip-Top (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24349&amp;cate_no=48&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24349&amp;cate_no=48&amp;display_group=1</guid>
+            <pubDate>Thu, 07 Mar 2024 17:36:52 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/6d83281ce398a5acee92aa46ee1a5af2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[OST (Various) / 愛神之手 Eros : The Hand 에로스 (Jettone 25th Anniversary Edition, Hybrid SACD)]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 03 Nov 2023 17:36:00 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/c4c73f2933487107ce2b6ad5bf307c30.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST / Little Mermaid 인어공주 (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23086&amp;cate_no=48&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23086&amp;cate_no=48&amp;display_group=1</guid>
-            <pubDate>Mon, 23 Oct 2023 17:36:51 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/47fdc2c107617b0d22f705e4dadfcae2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

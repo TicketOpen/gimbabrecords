@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 05:36:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 17:37:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Agustin Pereyra Lucena / Agustin Pereyra Lucena (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24787&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24787&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 07 Mar 2024 17:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/7238a3c2fa3e28781a78294ebc4dccd4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Charles Mingus / Presents Charles Mingus (Remastered CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24738&amp;cate_no=46&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 27 Feb 2024 17:35:36 GMT</pubDate>
             <content:encoded><![CDATA[12,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/f7e5ae6e0ceef7e3e4a5096e8b21b83e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Eleni Karaindrou) / Eternity And A Day 영원과 하루 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24689&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24689&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 23 Feb 2024 17:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[21,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/bf2a6d3d3a7e6992fd2c5ac83038556a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
