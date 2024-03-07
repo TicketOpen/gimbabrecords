@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 17:38:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 05:36:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,14 +160,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/5c8547c626ac5a0e50b03591be148d55.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[OST (Ryuichi Sakamoto) / Emily Bronte's Wuthering Heights (180g Clear Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24766&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24766&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 06 Mar 2024 17:36:41 GMT</pubDate>
-            <content:encoded><![CDATA[73,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/f7228560e9053df86b88acbc2a9c9f94.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Brittany Howard / What Now (Vinyl, Gatefold) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24765&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24765&amp;cate_no=25&amp;display_group=1</guid>
@@ -198,6 +190,14 @@
             <pubDate>Wed, 06 Mar 2024 17:36:41 GMT</pubDate>
             <content:encoded><![CDATA[39,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/917114c8174d8e8ae0182749c01ffca8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pia Fraus / Evening Colours (Vinyl+ OBI, Limited Edition, JPN Import) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24761&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24761&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 07 Mar 2024 05:35:12 GMT</pubDate>
+            <content:encoded><![CDATA[48,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/4bf829ab8b36c03b9b1dd2ab413cd059.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Faye Webster / Underdressed at the Symphony (Cassette) (김밥레코즈 ─ Cassette)]]></title>
