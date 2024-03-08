@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Soundtracks</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Mar 2024 05:36:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 17:36:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Various) / O Brother, Where Art Thou? 오! 형제여 어디에 있는가 (CD, 한정수량 할인)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24806&amp;cate_no=48&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24806&amp;cate_no=48&amp;display_group=1</guid>
+            <pubDate>Fri, 08 Mar 2024 17:36:11 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/05754a4f59d7bd26c985360b97502bf4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST (Alexandre Desplat) / The French Dispatch 프렌치 디스패치 (CD) *2023 블랙프라이데이 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24711&amp;cate_no=48&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 15 Nov 2023 05:36:12 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/bf311b372309064a523290bf5ada437d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST / Sister Act 시스터 액트 (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23185&amp;cate_no=48&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23185&amp;cate_no=48&amp;display_group=1</guid>
-            <pubDate>Fri, 03 Nov 2023 17:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/c4c73f2933487107ce2b6ad5bf307c30.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
