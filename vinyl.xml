@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Mar 2024 17:36:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Mar 2024 05:36:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Fri, 08 Mar 2024 17:35:01 GMT</pubDate>
             <content:encoded><![CDATA[47,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/0c46326abe3dd387597dde124a5c18df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[O'Donel Levy / Simba (Vinyl, Mr. Bongo Reissue) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24791&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24791&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 08 Mar 2024 17:35:01 GMT</pubDate>
-            <content:encoded><![CDATA[39,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/04dbcac4d5b5016643402cbcfd4407c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Minas / Num Dia Azul (Vinyl, Mr. Bongo Reissue) *한정수량 할인]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Sat, 09 Mar 2024 05:34:27 GMT</pubDate>
             <content:encoded><![CDATA[32,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/d2ace858187cad47a126522d7d5e3ef5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권진아 / 우리의 방식 (180g White Vinyl) *예약상품 (5월 13일 발매, 3월 13일까지 결제가 완료 시 2,500원 추가 적립) / 1인 2매까지 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24773&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24773&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 10 Mar 2024 05:34:34 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/e7784010982755121920eb250235df62.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
