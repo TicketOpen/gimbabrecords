@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Hip Hop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 05:36:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 17:36:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ice Cube / Death Certificate (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24814&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24814&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Mon, 11 Mar 2024 17:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/948868428ea8406c2f7a9d553659a626.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[slowthai / Tyron (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24716&amp;cate_no=45&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 08 Jan 2024 17:35:43 GMT</pubDate>
             <content:encoded><![CDATA[25,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/e3605011aec550fcd94c6a1cb9bf56ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KRS-ONE / KRS ONE (CD, US Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23273&amp;cate_no=45&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23273&amp;cate_no=45&amp;display_group=1</guid>
-            <pubDate>Mon, 08 Jan 2024 17:35:43 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/0d0b78829cd1f531307c533048788f73.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

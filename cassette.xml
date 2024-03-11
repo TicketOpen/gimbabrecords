@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 05:36:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 17:36:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bruno Berle / No Reino Dos Afetos 2 (Cassette) *예약상품 (4월 12일경 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24812&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24812&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Mon, 11 Mar 2024 17:35:02 GMT</pubDate>
+            <content:encoded><![CDATA[25,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/26afd6a7ffafde45322ce0dd83a89cc3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Faye Webster / Underdressed at the Symphony (Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24748&amp;cate_no=26&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 15 Nov 2023 17:34:44 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/c12cbe94c296630ca6c8331bf299c84d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grandaddy / Sumday: The Cassette Demos (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22888&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22888&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Mon, 04 Mar 2024 06:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[24,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/2cff3b35eb035bd046580ac98a92e9d1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

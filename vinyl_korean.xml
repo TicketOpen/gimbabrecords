@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 05:36:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 17:36:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Wed, 14 Feb 2024 17:37:05 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/7c5f86dee37227bb308096350136608c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김사월 / 1집 수잔 (Vinyl) *예약상품 (7월 1일 발매 예정, 2월 21일 자정 주문 마감)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24580&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24580&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Wed, 14 Feb 2024 17:37:05 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/47331dd43edc561ee8caf5daa02addcc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yaeji 예지 / With A Hammer (Black Vinyl) *한정수량 할인]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 06 Mar 2024 05:39:50 GMT</pubDate>
             <content:encoded><![CDATA[44,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/6367734e01139cd1f14495c39afd7911.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[끝없는잔향속에서우리는 / 우연의 연속에 의한 필연 (180g Vinyl) *예약상품 (4월 4일 발매 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23695&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23695&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 11 Mar 2024 17:36:35 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/b331b7f1fa080640f5bc60f866019884.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
