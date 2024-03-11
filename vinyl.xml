@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Mar 2024 17:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 05:36:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 08 Mar 2024 17:35:01 GMT</pubDate>
             <content:encoded><![CDATA[47,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/0c46326abe3dd387597dde124a5c18df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Minas / Num Dia Azul (Vinyl, Mr. Bongo Reissue) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24790&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24790&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 11 Mar 2024 05:34:44 GMT</pubDate>
+            <content:encoded><![CDATA[39,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/85fc94da44c8ae344af5a955cf59c77f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bebel Gilberto / Joao (Black Vinyl)]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 10 Mar 2024 05:34:34 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/e7784010982755121920eb250235df62.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shigeo Sekito / Special Sound Series Vol. 3 華麗なるエレクトーン (ザ・ワード) (Vinyl, Reissue)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24772&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24772&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 10 Mar 2024 17:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[51,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/2c0cdadffc615bed4bf689c27efc9aee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
