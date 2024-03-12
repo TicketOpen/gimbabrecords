@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Bargain Bin</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 05:36:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 17:37:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 07 Mar 2024 17:36:07 GMT</pubDate>
             <content:encoded><![CDATA[39,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/79291792b77918fc702b7be10c8134ae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Art Blakey & Jazz Messengers / Reflections In Blue (180g Translucent Blue Vinyl, Limited Numbered Edition) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24779&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24779&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Tue, 12 Mar 2024 17:36:25 GMT</pubDate>
+            <content:encoded><![CDATA[28,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/f3a07e21688dd2e46ce62a9ab546f338.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Elvis Costello / Spike (180g Black Vinyl, 2LP) *2023 블랙프라이데이 할인]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 08 Mar 2024 17:35:24 GMT</pubDate>
             <content:encoded><![CDATA[32,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/7c1ca67309fb240fca61102143c3e34d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Janet Jackson / Control (180g Vinyl) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24681&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24681&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Sat, 09 Mar 2024 05:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/92f935bb8487405d81f9722d790c8e38.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
