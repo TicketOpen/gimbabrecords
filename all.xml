@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 17:37:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 05:36:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/2e5adf6462db196b4bf2a3f834c1946d.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[산울림 / 10집 너의 의미 (180g Black Vinyl, 2,000장 넘버링 한정반) *예약상품 (3월 27일 발매 예정) / 1인 2매까지 구매 가능 / 별도의 입금기한 설정 (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23693&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23693&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Mar 2024 05:34:54 GMT</pubDate>
+            <content:encoded><![CDATA[46,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/10b6ca224c725530707092507229eec2.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[김사월 / 정규 4집 디폴트 (DEFAULT) (CD) *예약상품 (3월 19일 발매) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24839&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24839&amp;cate_no=42&amp;display_group=1</guid>
@@ -480,28 +488,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/1582f17ec420eb79891205dd2c3e4047.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Pete Jolly / Seasons (Clear Green Colored Vinyl) *예약상품 (4월 12일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24753&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24753&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 01 Mar 2024 17:40:47 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/97ee41360349e8375a4f059b127d98d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tigran Hamasyan / A Fable (Vinyl, 2LP) *유니버설 재즈 클래식 베스트셀러 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24780&amp;cate_no=43&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24780&amp;cate_no=43&amp;display_group=1</guid>
             <pubDate>Thu, 07 Mar 2024 17:36:07 GMT</pubDate>
             <content:encoded><![CDATA[39,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/79291792b77918fc702b7be10c8134ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Art Blakey & Jazz Messengers / Reflections In Blue (180g Translucent Blue Vinyl, Limited Numbered Edition) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24779&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24779&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Mar 2024 17:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/f3a07e21688dd2e46ce62a9ab546f338.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Elvis Costello / Spike (180g Black Vinyl, 2LP) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -582,6 +574,14 @@
             <pubDate>Fri, 08 Mar 2024 17:35:24 GMT</pubDate>
             <content:encoded><![CDATA[32,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/7c1ca67309fb240fca61102143c3e34d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Janet Jackson / Control (180g Vinyl) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24681&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24681&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Mar 2024 05:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[27,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/92f935bb8487405d81f9722d790c8e38.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[김사월 / 정규 4집 디폴트 (DEFAULT) (CD) *예약상품 (3월 19일 발매) (김밥레코즈 ─ CD ─ Korean)]]></title>
@@ -840,6 +840,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/df454f1c65e10d0dc07335892e04d4cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Jonah Yano / Portrait Of A Dog (CD, Digipak) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24473&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24473&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Mar 2024 05:35:16 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/da7671eb6f9e1b9076329aee74d3e071.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jonah Yano / Souvenir (CD, Digipak) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24472&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24472&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Mar 2024 05:35:16 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/eaf508a196a08b2445fef3791517c85b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Peter Ivers / Becoming Peter Ivers (CD) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24466&amp;cate_no=31&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24466&amp;cate_no=31&amp;display_group=1</guid>
@@ -854,22 +870,6 @@
             <pubDate>Tue, 13 Feb 2024 17:35:30 GMT</pubDate>
             <content:encoded><![CDATA[17,700원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/cc92c1277973e67e83c7314a932957e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oliver Sim / Hideous Bastard (CD, Digipak) *국내반 (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24461&amp;cate_no=31&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24461&amp;cate_no=31&amp;display_group=1</guid>
-            <pubDate>Tue, 13 Feb 2024 17:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[16,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/bca15b1133694457edb75192649c9bc6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Donato Dozzy / K (CD) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24459&amp;cate_no=31&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24459&amp;cate_no=31&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Mar 2024 17:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[29,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/1e4cd6a34ca13a514d5ad32aee81a97b.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Vulfpeck / Mr. Finish Line (CD, Japanese Pressing + 보너스 트랙) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
@@ -928,44 +928,44 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/8e0a849c6566a03f468298c3ede66d4d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Rihanna / A Girl Like Me (CD, Special Edition) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24502&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24502&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Mar 2024 05:35:22 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/c5e4f8d0fbdc2f55e1b83dbe34208986.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rihanna / Good Girl Gone Bad (CD) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24501&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24501&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Mar 2024 05:35:22 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/39251b116727e20c89d8fd651a925469.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Rihanna / Loud (CD) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24500&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24500&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Mar 2024 05:35:22 GMT</pubDate>
+            <content:encoded><![CDATA[21,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/952d8f55d0859bf43a5fc77f9e4de611.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Keshi / Gabriel (CD, Signed, Indie Exclusive Limited Edition) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24499&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24499&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Mar 2024 05:35:22 GMT</pubDate>
+            <content:encoded><![CDATA[24,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/83eb87a900136ce8f9ae87d65f4750ac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Pink Sweat$ / Pink Planet (CD) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24464&amp;cate_no=44&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24464&amp;cate_no=44&amp;display_group=1</guid>
             <pubDate>Tue, 12 Mar 2024 17:36:49 GMT</pubDate>
             <content:encoded><![CDATA[22,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/9f3406ca4a2ef5ae901b55ea696f879a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Diasonics / Origin Of Forms (CD) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24452&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24452&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Mar 2024 17:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[24,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/719ca13d3a9d34d71de8459d14de1d69.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cautious Clay ‎/ Deadpan Love (CD) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24440&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24440&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Mar 2024 17:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[21,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/e738c5ae0c881734daf3fddae0b390ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Skinshape / Life & Love (CD) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24370&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24370&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Mar 2024 17:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/8078c7801f1b7c164a873be98ec4766d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Snoh Aalegra / Temporary Highs In The Violet (CD) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24363&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24363&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Mar 2024 17:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[21,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/e41d08e5d8b7d0cd2347ae7b26a745f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ice Cube / Death Certificate (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Hip Hop)]]></title>
@@ -1520,6 +1520,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/51ffa0a77f422504a87bcf965d5e0b83.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Jean-Michel Blais / Aubades (CD, Gatefold Sleeve) (김밥레코즈 ─ CD ─ Classical/Crossover)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24471&amp;cate_no=50&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24471&amp;cate_no=50&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Mar 2024 05:35:54 GMT</pubDate>
+            <content:encoded><![CDATA[25,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/2d8b4654df79585d6e1d6f44cd598133.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Yann Tiersen / Dust Lane (CD) *2023 블랙프라이데이 할인 (김밥레코즈 ─ CD ─ Classical/Crossover)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23916&amp;cate_no=50&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23916&amp;cate_no=50&amp;display_group=1</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Fri, 26 Jan 2024 17:36:19 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202010/fb1b75cb853a02f6bd62662b9acc0fd8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Max Richter / The New Four Seasons - Vivaldi Recomposed 새로운 사계: 비발디 리컴포즈드 (CD) *유니버설 재즈 클래식 베스트셀러 할인 (김밥레코즈 ─ CD ─ Classical/Crossover)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23541&amp;cate_no=50&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23541&amp;cate_no=50&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Dec 2023 17:36:29 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/33f63c182522a379b2336164896f07d9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Gregory Porter / Christmas Wish (CD, Paper sleeve) (김밥레코즈 ─ CD ─ Holiday)]]></title>

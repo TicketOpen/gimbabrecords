@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ CD ─ Electronic/Dance</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 17:37:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 05:36:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/df454f1c65e10d0dc07335892e04d4cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Jonah Yano / Portrait Of A Dog (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24473&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24473&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Mar 2024 05:35:16 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/da7671eb6f9e1b9076329aee74d3e071.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jonah Yano / Souvenir (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24472&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24472&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Mar 2024 05:35:16 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/eaf508a196a08b2445fef3791517c85b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Peter Ivers / Becoming Peter Ivers (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24466&amp;cate_no=31&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24466&amp;cate_no=31&amp;display_group=1</guid>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 13 Feb 2024 17:35:30 GMT</pubDate>
             <content:encoded><![CDATA[17,700원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/cc92c1277973e67e83c7314a932957e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oliver Sim / Hideous Bastard (CD, Digipak) *국내반]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24461&amp;cate_no=31&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24461&amp;cate_no=31&amp;display_group=1</guid>
-            <pubDate>Tue, 13 Feb 2024 17:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[16,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/bca15b1133694457edb75192649c9bc6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Donato Dozzy / K (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24459&amp;cate_no=31&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24459&amp;cate_no=31&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Mar 2024 17:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[29,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/1e4cd6a34ca13a514d5ad32aee81a97b.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
