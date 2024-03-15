@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 05:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 17:36:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Laufey / Everything I Know About Love (CD, Digi Gatefold Sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24868&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24868&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Mar 2024 17:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[25,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/b9e73d5e0054d0ed87135d059f1c79a3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[O'Donel Levy / Simba (CD, EU Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24821&amp;cate_no=46&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 27 Feb 2024 17:35:36 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/03230046dba794ff901f435ee6105053.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ella Fitzgerald & Joe Pass / Speak Love (Remastered CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24707&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24707&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Feb 2024 17:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/fcd7bfa3b1b739d39666a5d460e8a3ac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

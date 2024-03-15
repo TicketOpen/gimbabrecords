@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 05:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 17:36:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Fishmans / Uchu Best Of Fishmans (Limited Clear Orange Colored Vinyl, 2LP) *예약상품 (8월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24576&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24576&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Mar 2024 17:35:24 GMT</pubDate>
+            <content:encoded><![CDATA[68,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/b338a8103ae8991a21138c80e3b046eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fishmans / Kuchu The Best of Fishmans (Limited Sky Blue 2LP) *예약상품 (8월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24575&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24575&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Mar 2024 17:35:24 GMT</pubDate>
+            <content:encoded><![CDATA[68,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/7799237d66ee8e3e3e3bec92191d81f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bruno Berle / No Reino Dos Afetos 2 (Limited White Vinyl) *예약상품 (4월 12일경 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24809&amp;cate_no=42&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 13 Mar 2024 17:35:56 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/42e64c81dc1940980b8d88214cd69e6a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권진아 / 우리의 방식 (180g White Vinyl) *예약상품 (5월 13일 발매, 3월 13일까지 결제가 완료 시 2,500원 추가 적립) / 1인 2매까지 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24773&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24773&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 14 Mar 2024 05:35:34 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/e7784010982755121920eb250235df62.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hakushi Hasegawa / Somoku Hodo (Limited Edition Translucent Green Vinyl) *예약상품 (3월말 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24844&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24844&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Mar 2024 17:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[48,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/6a81e1712d9ee2f285b7292c33c57089.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

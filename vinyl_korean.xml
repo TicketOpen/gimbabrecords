@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 05:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 17:36:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/74de15f8d212d1e48113013653bc3b9c.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 (BTS) / LOVE YOURSELF 承 'Her' (Vinyl) *할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24249&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24249&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Mar 2024 17:36:35 GMT</pubDate>
+            <content:encoded><![CDATA[39,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/b511a3fc1573f257617131a917919d31.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[터치드 (TOUCHED) / EP 2집 Yellow Supernova Remnant (180g Yellow Splatter Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24128&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24128&amp;cate_no=52&amp;display_group=1</guid>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 06 Mar 2024 05:39:50 GMT</pubDate>
             <content:encoded><![CDATA[44,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/6367734e01139cd1f14495c39afd7911.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[끝없는잔향속에서우리는 / 우연의 연속에 의한 필연 (180g Vinyl) *예약상품 (4월 4일 발매 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23695&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23695&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Mon, 11 Mar 2024 17:36:35 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/b331b7f1fa080640f5bc60f866019884.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
