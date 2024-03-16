@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 17:36:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 05:37:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[David Bowie / Heroes (Vinyl, Vinilos De Colección Series)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24871&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24871&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 16 Mar 2024 05:35:56 GMT</pubDate>
+            <content:encoded><![CDATA[33,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/b8db76495e3d88aa78e71cd104916dc4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[glass beach / the first glass beach album (Electric Blue Vinyl, 2LP)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24870&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 14 Mar 2024 17:34:45 GMT</pubDate>
             <content:encoded><![CDATA[54,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/7aa7b5748381a70aa041a64286346ddf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bahamadia / Kollage (Vinyl, 2LP, 2024 UK reissue) *예약상품 (3월 29일 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24845&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24845&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Mar 2024 17:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[54,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/5a358f292d3fcbdd0cabccfd9f90ea63.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
