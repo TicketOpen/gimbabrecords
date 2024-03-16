@@ -4,15 +4,31 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Mar 2024 05:37:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 17:36:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hakushi Hasegawa / Air Ni Ni by (Limited Edition, Gray Marble Colored Vinyl) *예약상품 (3월 25일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24874&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24874&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 16 Mar 2024 17:34:42 GMT</pubDate>
+            <content:encoded><![CDATA[48,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/034dc42323c165468482d428c8e4edc8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dabeull / Analog Love (Vinyl) *예약상품 (4월 24일 전후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24873&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24873&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 16 Mar 2024 17:34:42 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/723ca30b3bdb158b5cfe94f94fbdd268.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[David Bowie / Heroes (Vinyl, Vinilos De Colección Series)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24871&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24871&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Sat, 16 Mar 2024 05:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[33,000원]]></content:encoded>
+            <content:encoded><![CDATA[32,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/b8db76495e3d88aa78e71cd104916dc4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -56,15 +72,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/90b24f4dd1b4d6b5e7e0b3fa8a3e0692.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Pharcyde / Bizarre Ride II (Vinyl, 2LP, Translucent Yellow & Blue Colored, 25th Anniversary Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24851&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24851&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 14 Mar 2024 17:34:45 GMT</pubDate>
-            <content:encoded><![CDATA[57,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/367ff76c07e33c99e9c5a72a50068709.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Pharcyde / Labcabincalifornia (Vinyl, 2LP, Gatefold Sleeve, EU/UK Import)]]></title>
+            <title><![CDATA[The Pharcyde / Labcabincalifornia (Vinyl, 2LP, Gatefold Sleeve)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24850&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24850&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Thu, 14 Mar 2024 17:34:45 GMT</pubDate>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 14 Mar 2024 17:34:45 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/85dd64c864ee12f5c9e00ddd8dde9835.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fastball / All The Pain Money Can Buy (Vinyl, 2LP, 20th Anniversary Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24846&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24846&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 14 Mar 2024 17:34:45 GMT</pubDate>
-            <content:encoded><![CDATA[54,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/7aa7b5748381a70aa041a64286346ddf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
