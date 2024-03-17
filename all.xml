@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Mar 2024 17:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Mar 2024 05:36:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,12 +96,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/5f766265992d0db7d2581044cfcb4796.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Kinoko Teikoku きのこ帝国 / Fake World Wonderlandフェイクワールドワンダーランド (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24835&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24835&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sat, 16 Mar 2024 17:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[35,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/17d45ba8276d2a46dfb58532ee56f97e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Kinoko Teikoku きのこ帝国 / Nekoto Allergy 猫とアレルギー (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24834&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24834&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sun, 17 Mar 2024 05:34:40 GMT</pubDate>
+            <content:encoded><![CDATA[34,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/7c02a09627354a2441bf2f0d01b19630.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Hakushi Hasegawa / Air Ni Ni by (Limited Edition, Gray Marble Colored Vinyl) *예약상품 (3월 25일 이후 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
