@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Mar 2024 05:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Mar 2024 17:36:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/b2fb02f04fb4836752496b55a13e4127.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bobby Patterson / It's Just A Matter Of Time (Vinyl, Limited Edition, Reissue)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24849&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24849&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 14 Mar 2024 17:34:45 GMT</pubDate>
-            <content:encoded><![CDATA[32,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/a82b1bb84453ea9829a3dcdd06d0c5d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Geese / 3D Country (Crystal Clear Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24848&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24848&amp;cate_no=25&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Thu, 14 Mar 2024 17:34:45 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/85dd64c864ee12f5c9e00ddd8dde9835.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fastball / All The Pain Money Can Buy (Vinyl, 2LP, 20th Anniversary Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24846&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24846&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 17 Mar 2024 17:34:28 GMT</pubDate>
+            <content:encoded><![CDATA[54,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/7aa7b5748381a70aa041a64286346ddf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
