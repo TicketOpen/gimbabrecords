@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 05:36:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 17:37:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dabeull / Analog Love (CD) *예약상품 (4월 24일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24884&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24884&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 18 Mar 2024 17:35:51 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/0391984539d455a0e39a7a35fc3c2075.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kiefer / It's Ok B U (CD, US Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24867&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 18 Mar 2024 05:35:02 GMT</pubDate>
             <content:encoded><![CDATA[31,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/c38bc7b726d04b9eb2183c57103b83e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Asha Puthli / The Essential Asha Puthli (CD, UK Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24822&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24822&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Mar 2024 05:35:02 GMT</pubDate>
-            <content:encoded><![CDATA[25,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/beb7ce32eed4d14fe6ad5af103c8bad9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
