@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 05:36:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 17:36:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/98509c5fe3219044417e6c219000650e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Toshiyuki Miyama & The New Herd Favorites / Nio To Hato (Limited Colored Vinyl) *예약상품 (4월초 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24889&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24889&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Mar 2024 17:34:50 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/4b9a23785aa5cb79fbd221e1e7e03019.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Lewis Capaldi / Broken By Desire To Be Heavenly Sent (Black Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24883&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24883&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Sat, 16 Mar 2024 17:34:42 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/723ca30b3bdb158b5cfe94f94fbdd268.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[David Bowie / Heroes (Vinyl, Vinilos De Colección Series) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24871&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24871&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 16 Mar 2024 05:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[32,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/b8db76495e3d88aa78e71cd104916dc4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Earl Sweatshirt & The Alchemist / VOIR DIRE (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,6 +392,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/2e5adf6462db196b4bf2a3f834c1946d.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Toshiyuki Miyama & The New Herd Favorites / Nio To Hato (Limited Colored Vinyl) *예약상품 (4월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24889&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24889&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Mar 2024 17:35:12 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/4b9a23785aa5cb79fbd221e1e7e03019.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jiro Inagaki & Soul Media / Funky Stuff (Limited Clear Pink Vinyl) *예약상품 (4월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=12794&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=12794&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Mar 2024 17:35:12 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/3712e97590fbe116c9c00fbf635134c7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tomoko Aran / 浮遊空間 (Fuyü-Kükan) (Pink Vinyl, 2024 Pressing) *예약상품 (4월초 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22085&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22085&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Mar 2024 17:35:12 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/823fc2de9e2f2a188640cdc186ec2a6e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Pete Jolly / Seasons (Clear Green Colored Vinyl) *예약상품 (4월 12일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24753&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24753&amp;cate_no=42&amp;display_group=1</guid>
@@ -462,30 +486,6 @@
             <pubDate>Fri, 15 Mar 2024 17:35:24 GMT</pubDate>
             <content:encoded><![CDATA[68,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/b338a8103ae8991a21138c80e3b046eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fishmans / Kuchu The Best of Fishmans (Limited Sky Blue 2LP) *예약상품 (8월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24575&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24575&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 15 Mar 2024 17:35:24 GMT</pubDate>
-            <content:encoded><![CDATA[68,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/7799237d66ee8e3e3e3bec92191d81f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bruno Berle / No Reino Dos Afetos 2 (Limited White Vinyl) *예약상품 (4월 12일경 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24809&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24809&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 15 Mar 2024 05:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[38,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/cfb782a4a7aefd17fdc223e1812903d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bruno Berle / No Reino Dos Afetos 2 (Black Vinyl) *예약상품 (4월 12일경 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24810&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24810&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 15 Mar 2024 05:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/dd81d4c8af63d8b8f34bb8a45b01bed6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tigran Hamasyan / A Fable (Vinyl, 2LP) *유니버설 재즈 클래식 베스트셀러 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -1792,6 +1792,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/09219a269ec188398e267bc150018278.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[산울림 / Evening Breeze (180g Vinyl, 2LP, 수입 완제품) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24324&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24324&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Mar 2024 17:36:52 GMT</pubDate>
+            <content:encoded><![CDATA[57,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/496d1fb2afd7862e010d4955bbb9700a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산울림 / Vol. 3: My Heart - My Soul Is A Wasteland (내 마음) (180g Vinyl, 수입 완제품) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24323&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24323&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Mar 2024 17:36:52 GMT</pubDate>
+            <content:encoded><![CDATA[48,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/8a1ab25faf34e1c0ce83c2ce852e0fff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산울림 / Vol. 1: Already Now (아니벌써) (180g Vinyl, 수입 완제품) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24321&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24321&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Mar 2024 17:36:52 GMT</pubDate>
+            <content:encoded><![CDATA[48,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/642b9e56a1a1d465226f2c7fe76bf019.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KERO ONE / Early Believers (Vinyl, 2LP, JPN Import) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24252&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24252&amp;cate_no=52&amp;display_group=1</guid>
@@ -1806,30 +1830,6 @@
             <pubDate>Fri, 15 Mar 2024 17:36:35 GMT</pubDate>
             <content:encoded><![CDATA[39,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/b511a3fc1573f257617131a917919d31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[터치드 (TOUCHED) / EP 2집 Yellow Supernova Remnant (180g Yellow Splatter Vinyl) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24128&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24128&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Jan 2024 17:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[50,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/405edf5c0cdca1d14038df10273b4483.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전유동 / 정규 1집 관찰자로서의 숲 (내추럴 브라운 Vinyl, Limited Edition) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23709&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23709&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Fri, 19 Jan 2024 05:37:02 GMT</pubDate>
-            <content:encoded><![CDATA[44,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/29cfda4264441f11f1f71e87cc2fe20f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김오키 / 러브플라워 (180g Opaque Purple Vinyl, Limited Edition) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23708&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23708&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Wed, 06 Mar 2024 05:39:50 GMT</pubDate>
-            <content:encoded><![CDATA[44,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/6367734e01139cd1f14495c39afd7911.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[King Crimson / In The Court Of The Crimson King - King Crimson at 50 (A Film By Toby Amies) (Blu-Ray + DVD) *한정수량 할인 (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
