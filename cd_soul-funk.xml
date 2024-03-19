@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 17:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 05:36:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Raye / My 21st Century Blues (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24887&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24887&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Mar 2024 05:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/868f8de2df1d3e6b4ceb18dfd1a1b333.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dabeull / Analog Love (CD) *예약상품 (4월 24일 이후 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24884&amp;cate_no=44&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 13 Mar 2024 05:35:22 GMT</pubDate>
             <content:encoded><![CDATA[21,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/952d8f55d0859bf43a5fc77f9e4de611.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Keshi / Gabriel (CD, Signed, Indie Exclusive Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24499&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24499&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Mar 2024 05:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[24,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/83eb87a900136ce8f9ae87d65f4750ac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

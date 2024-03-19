@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 17:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 05:36:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Raye / My 21st Century Blues (CD, Digipak) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24887&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24887&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Mar 2024 05:34:24 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/868f8de2df1d3e6b4ceb18dfd1a1b333.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Easy Life / Maybe In Another Life (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24886&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24886&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Mar 2024 05:34:24 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/d6ebb713a9066273525365dd2bfe7da4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oasis / (What's The Story) Morning Glory (CD, EU Import) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24885&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24885&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Mar 2024 05:34:24 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201604/3617_shop1_509455.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dabeull / Analog Love (CD) *예약상품 (4월 24일 이후 배송 예정) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24884&amp;cate_no=24&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 12 Mar 2024 17:35:55 GMT</pubDate>
             <content:encoded><![CDATA[29,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/98509c5fe3219044417e6c219000650e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vulfpeck / Mr. Finish Line (CD, Japanese Pressing + 보너스 트랙) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24837&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24837&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Mar 2024 17:35:55 GMT</pubDate>
-            <content:encoded><![CDATA[32,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/853780a40b3909b277692b705041d9d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aoba Ichiko (Ichiko Aoba) / qp (CD + OBI) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24836&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24836&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Mar 2024 17:35:55 GMT</pubDate>
-            <content:encoded><![CDATA[34,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/5f766265992d0db7d2581044cfcb4796.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Novelbright / Wonderland (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24833&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24833&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Mar 2024 05:35:02 GMT</pubDate>
-            <content:encoded><![CDATA[31,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/c38bc7b726d04b9eb2183c57103b83e4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lewis Capaldi / Broken By Desire To Be Heavenly Sent (Black Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/5659920bae67f552856d24301b6fc4c5.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Beach Fossils / Other Side Of Life: Piano Ballads (Cassette, Pink Case, Blue Shell) (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24533&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24533&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Mar 2024 05:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/1d31248f92fd7bb8af13662c91be5e97.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Beach Fossils / Bunny (Cassette, Powder Blue Colored) (김밥레코즈 ─ Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24532&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24532&amp;cate_no=26&amp;display_group=1</guid>
@@ -286,14 +294,6 @@
             <pubDate>Tue, 12 Mar 2024 17:36:07 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/a3d37794d0231bdf35b78f2f96b03562.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sam Gendel & Antonia Cytrynowicz / Live A Little (Cassette, Obi) (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24529&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24529&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Mar 2024 17:36:07 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/305655ff1eb3486b5544b17f82ed8d12.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Audio Technica Turntable - AT-SB727 YE (옐로우 색상) 휴대용 무선 블루투스 턴테이블 (선착순 5대 한정 결제가 완료된 주문에 한해 15,000원을 추가 적립해드립니다.) (김밥레코즈 ─ Movies/Merch)]]></title>
@@ -680,6 +680,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/c9d871699975acb7cf5bc6b30565dd11.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Raye / My 21st Century Blues (CD, Digipak) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24887&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24887&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Mar 2024 05:35:07 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/868f8de2df1d3e6b4ceb18dfd1a1b333.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Easy Life / Maybe In Another Life (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24886&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24886&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Mar 2024 05:35:07 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/d6ebb713a9066273525365dd2bfe7da4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oasis / (What's The Story) Morning Glory (CD, EU Import) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24885&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24885&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Mar 2024 05:35:07 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201604/3617_shop1_509455.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Laufey / Everything I Know About Love (CD, Digi Gatefold Sleeve) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24868&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24868&amp;cate_no=30&amp;display_group=1</guid>
@@ -750,30 +774,6 @@
             <pubDate>Mon, 11 Mar 2024 17:35:32 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/e1b1c9604994ca13893275b829a42ba4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift / Fearless (Taylor's Version) (2CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24805&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24805&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 08 Mar 2024 17:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/7b41f29c543e3d6310ce48d3a8faf34e.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift / Fearless: Platinum Edition (CD + DVD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24804&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24804&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 08 Mar 2024 17:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[19,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/90b24f4dd1b4d6b5e7e0b3fa8a3e0692.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift / Fearless (2009 Edition) (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24803&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24803&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 08 Mar 2024 17:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/f719ba0a444b38fa83e4b3c4b1779cb6.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Fever Ray / Radical Romantics (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
@@ -872,6 +872,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/cc92c1277973e67e83c7314a932957e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Raye / My 21st Century Blues (CD, Digipak) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24887&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24887&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Mar 2024 05:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/868f8de2df1d3e6b4ceb18dfd1a1b333.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Dabeull / Analog Love (CD) *예약상품 (4월 24일 이후 배송 예정) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24884&amp;cate_no=44&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24884&amp;cate_no=44&amp;display_group=1</guid>
@@ -958,14 +966,6 @@
             <pubDate>Wed, 13 Mar 2024 05:35:22 GMT</pubDate>
             <content:encoded><![CDATA[21,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/952d8f55d0859bf43a5fc77f9e4de611.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Keshi / Gabriel (CD, Signed, Indie Exclusive Limited Edition) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24499&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24499&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Mar 2024 05:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[24,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/83eb87a900136ce8f9ae87d65f4750ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kiefer / It's Ok B U (CD, US Import) (김밥레코즈 ─ CD ─ Hip Hop)]]></title>

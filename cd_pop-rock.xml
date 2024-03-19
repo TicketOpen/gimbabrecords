@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 17:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 05:36:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Raye / My 21st Century Blues (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24887&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24887&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Mar 2024 05:35:07 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/868f8de2df1d3e6b4ceb18dfd1a1b333.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Easy Life / Maybe In Another Life (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24886&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24886&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Mar 2024 05:35:07 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/d6ebb713a9066273525365dd2bfe7da4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oasis / (What's The Story) Morning Glory (CD, EU Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24885&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24885&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Mar 2024 05:35:07 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201604/3617_shop1_509455.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Laufey / Everything I Know About Love (CD, Digi Gatefold Sleeve)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24868&amp;cate_no=30&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Mon, 11 Mar 2024 17:35:32 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/e1b1c9604994ca13893275b829a42ba4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift / Fearless (Taylor's Version) (2CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24805&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24805&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 08 Mar 2024 17:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/7b41f29c543e3d6310ce48d3a8faf34e.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift / Fearless: Platinum Edition (CD + DVD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24804&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24804&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 08 Mar 2024 17:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[19,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/90b24f4dd1b4d6b5e7e0b3fa8a3e0692.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift / Fearless (2009 Edition) (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24803&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24803&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 08 Mar 2024 17:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/f719ba0a444b38fa83e4b3c4b1779cb6.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

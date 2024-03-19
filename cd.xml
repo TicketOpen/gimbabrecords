@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 17:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 05:36:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Raye / My 21st Century Blues (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24887&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24887&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Mar 2024 05:34:24 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/868f8de2df1d3e6b4ceb18dfd1a1b333.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Easy Life / Maybe In Another Life (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24886&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24886&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Mar 2024 05:34:24 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/d6ebb713a9066273525365dd2bfe7da4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oasis / (What's The Story) Morning Glory (CD, EU Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24885&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24885&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Mar 2024 05:34:24 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201604/3617_shop1_509455.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dabeull / Analog Love (CD) *예약상품 (4월 24일 이후 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24884&amp;cate_no=24&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 12 Mar 2024 17:35:55 GMT</pubDate>
             <content:encoded><![CDATA[29,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/98509c5fe3219044417e6c219000650e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vulfpeck / Mr. Finish Line (CD, Japanese Pressing + 보너스 트랙)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24837&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24837&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Mar 2024 17:35:55 GMT</pubDate>
-            <content:encoded><![CDATA[32,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/853780a40b3909b277692b705041d9d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aoba Ichiko (Ichiko Aoba) / qp (CD + OBI)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24836&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24836&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Mar 2024 17:35:55 GMT</pubDate>
-            <content:encoded><![CDATA[34,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/5f766265992d0db7d2581044cfcb4796.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Novelbright / Wonderland (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24833&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24833&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Mar 2024 05:35:02 GMT</pubDate>
-            <content:encoded><![CDATA[31,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/c38bc7b726d04b9eb2183c57103b83e4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
