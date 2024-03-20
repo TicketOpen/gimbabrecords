@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 17:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 05:36:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,12 +192,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/034dc42323c165468482d428c8e4edc8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Dabeull / Analog Love (Vinyl) *예약상품 (4월 24일 전후 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24873&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24873&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 16 Mar 2024 17:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/723ca30b3bdb158b5cfe94f94fbdd268.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[David Bowie / Heroes (Vinyl, Vinilos De Colección Series) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24871&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24871&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 20 Mar 2024 05:35:01 GMT</pubDate>
+            <content:encoded><![CDATA[32,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/b8db76495e3d88aa78e71cd104916dc4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Earl Sweatshirt & The Alchemist / VOIR DIRE (Cassette) (김밥레코즈 ─ Cassette)]]></title>
