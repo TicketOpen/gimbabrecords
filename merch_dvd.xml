@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 05:36:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 05:36:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Roy Orbison / Black & White Night (DVD, NTSC) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24902&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24902&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Mar 2024 05:36:47 GMT</pubDate>
+            <content:encoded><![CDATA[13,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/3e7812d4b2b2d1a0a096776cf58260a3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[King Crimson / In The Court Of The Crimson King - King Crimson at 50 (A Film By Toby Amies) (Blu-Ray + DVD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20701&amp;cate_no=64&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 25 Feb 2024 17:36:13 GMT</pubDate>
             <content:encoded><![CDATA[38,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/a81d047aa4c871b1f2e985615a398138.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A Charlie Brown Christmas 찰리 브라운 크리스마스 (Blu-Ray 블루레이)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17873&amp;cate_no=64&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17873&amp;cate_no=64&amp;display_group=1</guid>
-            <pubDate>Fri, 01 Mar 2024 17:42:02 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202112/7f3840e839c140a8854281df44a6eb31.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

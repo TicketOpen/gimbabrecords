@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Classical/Crossover</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 05:36:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 05:36:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Philip Glass / Solo Piano (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24897&amp;cate_no=50&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24897&amp;cate_no=50&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Mar 2024 05:36:27 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/37e30ba6863a0ecec78523ce45389740.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kristjan Jarvi / Max Richter: Exiles 막스 리히터: 생귈리에르 오디세이를 위한 음악 (CD) *유니버설 재즈 클래식 베스트셀러 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24733&amp;cate_no=50&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 14 Mar 2024 17:36:12 GMT</pubDate>
             <content:encoded><![CDATA[24,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/f67de6cfeef6b56d86fdc910885e9ecd.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Yann Tiersen / Dust Lane (CD) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23916&amp;cate_no=50&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23916&amp;cate_no=50&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Jan 2024 17:36:19 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/57767bf2dfb8f395d4b709a461c67efb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

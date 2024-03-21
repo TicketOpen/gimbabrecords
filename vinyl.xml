@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 05:36:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 05:36:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Taylor Swift  / The Tortured Poets Department  (Standard Ghosted White Vinyl 2LP, Bonus Track “The Manuscript” 수록, 24페이지 책자가 담긴 Book-bound 쟈켓) *예약상품 (4월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24903&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24903&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Mar 2024 05:35:13 GMT</pubDate>
+            <content:encoded><![CDATA[72,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/3836e406a48f0e006a9b856a718627c8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / Our Town: Jazz Fusion, Funky Pop & Bossa Gayo Tracks from Dong-A Records  동아기획 컴필레이션 (Pink Vinyl, 해외 판매용)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24890&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24890&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Mar 2024 05:35:13 GMT</pubDate>
+            <content:encoded><![CDATA[37,100원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/a7773c3c3781d22854a9fc403c62dc93.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Toshiyuki Miyama & The New Herd Favorites / Nio To Hato (Limited Colored Vinyl) *예약상품 (4월초 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24889&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 18 Mar 2024 17:35:57 GMT</pubDate>
             <content:encoded><![CDATA[29,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201907/e9969697e72509cb9099e00e9920880e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hakushi Hasegawa / Air Ni Ni by (Limited Edition, Gray Marble Colored Vinyl) *예약상품 (3월 25일 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24874&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24874&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 16 Mar 2024 17:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[48,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/034dc42323c165468482d428c8e4edc8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[David Bowie / Heroes (Vinyl, Vinilos De Colección Series)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24871&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24871&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 20 Mar 2024 05:35:01 GMT</pubDate>
-            <content:encoded><![CDATA[32,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/b8db76495e3d88aa78e71cd104916dc4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 05:36:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 05:36:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jamiroquai / The Return Of The Space Cowboy (Expanded 2CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24900&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24900&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Mar 2024 05:35:54 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/a2bb1da3d4609f0f8996782f28ca3d78.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamiroquai / Emergency on Planet Earth (Expanded 2CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24899&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24899&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Mar 2024 05:35:54 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201510/1319_shop1_869586.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Raye / My 21st Century Blues (CD, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24887&amp;cate_no=44&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 13 Mar 2024 05:35:22 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/c5e4f8d0fbdc2f55e1b83dbe34208986.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rihanna / Good Girl Gone Bad (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24501&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24501&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Mar 2024 05:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/39251b116727e20c89d8fd651a925469.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Rihanna / Loud (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24500&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24500&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Mar 2024 05:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[21,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/952d8f55d0859bf43a5fc77f9e4de611.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
