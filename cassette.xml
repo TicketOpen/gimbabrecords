@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 05:36:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 17:37:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/5659920bae67f552856d24301b6fc4c5.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Beach Fossils / Other Side Of Life: Piano Ballads (Cassette, Pink Case, Blue Shell)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24533&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24533&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Tue, 19 Mar 2024 05:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/1d31248f92fd7bb8af13662c91be5e97.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[Beach Fossils / Bunny (Cassette, Powder Blue Colored)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24532&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24532&amp;cate_no=26&amp;display_group=1</guid>
@@ -88,20 +80,28 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/d435303fcb8fbc9217ebd49adbec2576.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Duster / Contemporary Movement (Cassette, Light Grey Shell, Numero Group NUM1287)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24531&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24531&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Mar 2024 17:36:07 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/a68c848e99ee46d0173c8792647d1d98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Everyone Asked About You / Paper Airplanes, Paper Hearts (Cassette,White Shell, Numero Group NUM217)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24530&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24530&amp;cate_no=26&amp;display_group=1</guid>
             <pubDate>Tue, 12 Mar 2024 17:36:07 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/a3d37794d0231bdf35b78f2f96b03562.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sam Gendel & Antonia Cytrynowicz / Live A Little (Cassette, Obi)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24529&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24529&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Mar 2024 17:35:02 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/305655ff1eb3486b5544b17f82ed8d12.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sam Gendel / Fresh Bread (3 Cassette Set, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24528&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24528&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Mar 2024 17:35:02 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/55be74ce83a65c7c680c2dc359a87072.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

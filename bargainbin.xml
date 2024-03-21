@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Bargain Bin</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 05:36:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 17:37:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/d379161d707c65e285f89a187c551204.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ennio Morricone / 60 Years of Music (180g Vinyl, 2LP) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24684&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24684&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Sat, 09 Mar 2024 17:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/020caa1a4ef41efb5a48ad90c7b7c66d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Janet Jackson / Control (180g Vinyl) *2023 블랙프라이데이 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24681&amp;cate_no=43&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24681&amp;cate_no=43&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Fri, 15 Mar 2024 05:35:23 GMT</pubDate>
             <content:encoded><![CDATA[26,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/42504fb1220affe552ae94031c921a34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[O.M.D (Orchestral Manoeuvres In The Dark) / Architecture & Morality (Vinyl, Abbey Road Half Speed Mastering) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24676&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24676&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Mar 2024 17:35:23 GMT</pubDate>
+            <content:encoded><![CDATA[27,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/5f4de47885f288b63fbc1fad1aa701c2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
