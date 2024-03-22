@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 17:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 05:37:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/c90121d1efeb153a76a02ce7c61f6603.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤지영 / 고향 가는 길 (180g Vinyl) *절판 레코드 특별전]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24910&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24910&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 21 Mar 2024 17:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[40,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/c613a761ba7a65c693bd3824d7155f1a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Michael Hurley / Sweetkorn (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24909&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24909&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Thu, 21 Mar 2024 17:34:55 GMT</pubDate>
             <content:encoded><![CDATA[33,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/e5d5327a04391adf558d7661581f69d7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Karen Dalton / It's So Hard To Tell Who's Going To Love You The Best (Vinyl, Gatefold)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24908&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24908&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 22 Mar 2024 05:35:52 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/4f2d460861d57bb5565732599bbd889a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
