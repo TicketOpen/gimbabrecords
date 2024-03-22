@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 05:37:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 17:36:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Yard Act / Where's My Utopia? (Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24937&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24937&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Fri, 22 Mar 2024 17:34:55 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/a771e2233d710c04bf06249001a70908.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Earl Sweatshirt & The Alchemist / VOIR DIRE (Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24856&amp;cate_no=26&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 21 Mar 2024 17:35:02 GMT</pubDate>
             <content:encoded><![CDATA[17,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/305655ff1eb3486b5544b17f82ed8d12.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sam Gendel / Fresh Bread (3 Cassette Set, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24528&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24528&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Thu, 21 Mar 2024 17:35:02 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/55be74ce83a65c7c680c2dc359a87072.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
