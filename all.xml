@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Mar 2024 05:36:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Mar 2024 17:37:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Yeule / Serotonin II (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24939&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24939&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sat, 23 Mar 2024 17:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/ec4e3684a236c06488e3640cba90f45a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Terrace Martin, Robert Glasper, 9th Wonder, Kamasi Washington / Dinner Party & Dessert (CD, DIgipak) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24938&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 21 Mar 2024 05:35:07 GMT</pubDate>
             <content:encoded><![CDATA[12,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/18ae5c163c168cf787e5852ec83bbee2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Maria Rita / Brasileira (CD, Mr. Bongo Reissue) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24892&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24892&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 21 Mar 2024 05:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[26,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/5c8547c626ac5a0e50b03591be148d55.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yard Act / Where's My Utopia? (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/2e5adf6462db196b4bf2a3f834c1946d.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Bahamadia / Kollage (Vinyl, 2LP, 2024 UK reissue) *예약상품 (3월 29일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24845&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24845&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 23 Mar 2024 17:35:45 GMT</pubDate>
+            <content:encoded><![CDATA[54,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/5a358f292d3fcbdd0cabccfd9f90ea63.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Chet Baker / Memories - In Tokyo (Vinyl, 3rd Pressing, Limited Edition) *예약판매  (4월 12일 이후 순차 배송 진행될 예정입니다.) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17261&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17261&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 18 Mar 2024 17:36:15 GMT</pubDate>
             <content:encoded><![CDATA[23,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/0391984539d455a0e39a7a35fc3c2075.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ray Charles / Modern Sounds In Country And Western Music (Vinyl, 2LP) *예약상품 (4월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=14149&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=14149&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Mar 2024 17:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[54,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201911/379b2329b36bab4134c1a1ad5008ed6e.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Tigran Hamasyan / A Fable (Vinyl, 2LP) *유니버설 재즈 클래식 베스트셀러 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/beb7ce32eed4d14fe6ad5af103c8bad9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Yeule / Serotonin II (CD) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24939&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24939&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Sat, 23 Mar 2024 17:36:10 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/ec4e3684a236c06488e3640cba90f45a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Fever Ray / Radical Romantics (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24781&amp;cate_no=31&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24781&amp;cate_no=31&amp;display_group=1</guid>
@@ -862,14 +870,6 @@
             <pubDate>Tue, 12 Mar 2024 17:36:43 GMT</pubDate>
             <content:encoded><![CDATA[19,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/3a9ee60e500f60e97fb17215706bb61d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oliver Sim / Hideous Bastard (CD, Digipak) *수입음반 (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24462&amp;cate_no=31&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24462&amp;cate_no=31&amp;display_group=1</guid>
-            <pubDate>Tue, 13 Feb 2024 17:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[17,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/cc92c1277973e67e83c7314a932957e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Terrace Martin, Robert Glasper, 9th Wonder, Kamasi Washington / Dinner Party & Dessert (CD, DIgipak) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
@@ -1352,6 +1352,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/a7e6b52c57e77d9ca3da1195c22321c9.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Various Artists / Space Echo - The Mystery Behind the Cosmic Sound of Cabo Verde Finally Revealed!  (CD+44p booklet) *절판된 시디 (김밥레코즈 ─ CD ─ World)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24940&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24940&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Sat, 23 Mar 2024 17:36:48 GMT</pubDate>
+            <content:encoded><![CDATA[25,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/528ecc4e1a0f71c2894c729c8cd3e2bb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Maria Rita / Brasileira (CD, Mr. Bongo Reissue) (김밥레코즈 ─ CD ─ World)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24892&amp;cate_no=79&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24892&amp;cate_no=79&amp;display_group=1</guid>
@@ -1438,14 +1446,6 @@
             <pubDate>Mon, 08 Jan 2024 17:36:07 GMT</pubDate>
             <content:encoded><![CDATA[21,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/2ae2c2aaf612e7e160b524ba8e474f0e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arooj Aftab, Vijay Iyer, Shahzad Ismaily / Love In Exile (CD) *유니버설 재즈 클래식 베스트셀러 할인 (김밥레코즈 ─ CD ─ World)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23540&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23540&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Dec 2023 17:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/bb395353eedaf1ad47cc839b60b4a2af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Philip Glass / Solo Piano (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Classical/Crossover)]]></title>
@@ -1776,6 +1776,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/04573aa641fb4bf6d873c6ad2d99d528.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤지영 / 고향 가는 길 (180g Vinyl) *절판 레코드 특별전 (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24910&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24910&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Sat, 23 Mar 2024 17:37:12 GMT</pubDate>
+            <content:encoded><![CDATA[40,100원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/c613a761ba7a65c693bd3824d7155f1a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[권진아 / 우리의 방식 (180g White Vinyl) *예약상품 (5월 13일 발매, 3월 13일까지 결제가 완료 시 2,500원 추가 적립) / 1인 2매까지 구매 가능 (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24773&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24773&amp;cate_no=52&amp;display_group=1</guid>
@@ -1822,14 +1830,6 @@
             <pubDate>Mon, 19 Feb 2024 17:36:25 GMT</pubDate>
             <content:encoded><![CDATA[45,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/09219a269ec188398e267bc150018278.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 / Evening Breeze (180g Vinyl, 2LP, 수입 완제품) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24324&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24324&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Mar 2024 05:37:32 GMT</pubDate>
-            <content:encoded><![CDATA[57,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/496d1fb2afd7862e010d4955bbb9700a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Roy Orbison / Black & White Night (DVD, NTSC) *한정수량 할인 (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>

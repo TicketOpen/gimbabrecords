@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Electronic/Dance</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Mar 2024 05:36:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Mar 2024 17:37:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Yeule / Serotonin II (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24939&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24939&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Sat, 23 Mar 2024 17:36:10 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/ec4e3684a236c06488e3640cba90f45a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fever Ray / Radical Romantics (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24781&amp;cate_no=31&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 12 Mar 2024 17:36:43 GMT</pubDate>
             <content:encoded><![CDATA[19,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/3a9ee60e500f60e97fb17215706bb61d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oliver Sim / Hideous Bastard (CD, Digipak) *수입음반]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24462&amp;cate_no=31&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24462&amp;cate_no=31&amp;display_group=1</guid>
-            <pubDate>Tue, 13 Feb 2024 17:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[17,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/cc92c1277973e67e83c7314a932957e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
