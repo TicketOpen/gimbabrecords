@@ -4,16 +4,32 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 05:36:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 17:36:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Bahamadia / Kollage (Vinyl, 2LP, 2024 UK reissue) *예약상품 (3월 29일 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24845&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24845&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sat, 23 Mar 2024 17:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[54,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/5a358f292d3fcbdd0cabccfd9f90ea63.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Various / Ultra High Frequencies: The Chicago Party (NUMERO 056) (2LP) *한정수량 할인 / 예약 상품 (4월 11일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=1794&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=1794&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 22 Mar 2024 17:35:05 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201511/1794_shop1_297805.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dabeull / Analog Love (Vinyl) *예약상품 (4월 24일 전후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24873&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24873&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 16 Mar 2024 17:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/723ca30b3bdb158b5cfe94f94fbdd268.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bone Thugs-N-Harmony / E. 1999 Eternal (CD, bonus track) *예약상품 (4월 5일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24942&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24942&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 25 Mar 2024 17:35:13 GMT</pubDate>
+            <content:encoded><![CDATA[24,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/507a35c4d8125e0af4cd631ab048bfce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Chet Baker / Memories - In Tokyo (Vinyl, 3rd Pressing, Limited Edition) *예약판매  (4월 12일 이후 순차 배송 진행될 예정입니다.)]]></title>
@@ -24,6 +40,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/c0ff3d190a2c241e032879c702f27ec4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[OST / One Day (원 데이, 넷플릭스 시리즈) (Orange Colored Vinyl, 2LP) *예약상품 (4월 4일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24941&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24941&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 25 Mar 2024 17:35:13 GMT</pubDate>
+            <content:encoded><![CDATA[61,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/85080a5f6bef92f6a76f99fe2207c928.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Bahamadia / Kollage (Vinyl, 2LP, 2024 UK reissue) *예약상품 (3월 29일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24845&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24845&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 23 Mar 2024 17:35:45 GMT</pubDate>
+            <content:encoded><![CDATA[54,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/5a358f292d3fcbdd0cabccfd9f90ea63.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Chet Baker / Four (Vinyl, 2024 Pressing, Limited Edition)  *예약판매 (4월 12일 이후 순차 배송 진행될 예정입니다.)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17277&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17277&amp;cate_no=42&amp;display_group=1</guid>
@@ -32,28 +64,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202109/14851fafc63180b179cd6a2922ec97ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Various / Ultra High Frequencies: The Chicago Party (NUMERO 056) (2LP) *한정수량 할인 / 예약 상품 (4월 11일 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=1794&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=1794&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Mar 2024 17:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[38,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201511/1794_shop1_297805.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Taylor Swift  / The Tortured Poets Department  (Standard Ghosted White Vinyl 2LP, Bonus Track “The Manuscript” 수록, 24페이지 책자가 담긴 Book-bound 쟈켓) *예약상품 (4월말 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24903&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24903&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Thu, 21 Mar 2024 05:35:29 GMT</pubDate>
             <content:encoded><![CDATA[72,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/3836e406a48f0e006a9b856a718627c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dabeull / Analog Love (Vinyl) *예약상품 (4월 24일 전후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24873&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24873&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sat, 16 Mar 2024 17:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/723ca30b3bdb158b5cfe94f94fbdd268.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Toshiyuki Miyama & The New Herd Favorites / Nio To Hato (Limited Colored Vinyl) *예약상품 (4월초 배송 예정)]]></title>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 21 Mar 2024 05:35:29 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/2f16c7fe7c5f1f3d93bcee989f197459.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pete Jolly / Seasons (Clear Green Colored Vinyl) *예약상품 (4월 12일 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24753&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24753&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Mar 2024 17:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/97ee41360349e8375a4f059b127d98d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dabeull / Analog Love (CD) *예약상품 (4월 24일 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24884&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24884&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Mar 2024 17:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/0391984539d455a0e39a7a35fc3c2075.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
