@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Mar 2024 05:38:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2024 17:37:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Strokes / Comedown Machine (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24945&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24945&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 26 Mar 2024 17:36:36 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/51922a996e733c25b27cede3f7351082.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[John Mayer / Continuum & Heavier Things & Room For Squares (3CD Box Set) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24944&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24944&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 26 Mar 2024 17:36:36 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/36ac05e272e7c7b0435307837540de5b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bleachers / Bleachers (CD, Gatefold)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24934&amp;cate_no=30&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 19 Mar 2024 05:35:07 GMT</pubDate>
             <content:encoded><![CDATA[17,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201604/3617_shop1_509455.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Laufey / Everything I Know About Love (CD, Digi Gatefold Sleeve)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24868&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24868&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 15 Mar 2024 17:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[25,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/b9e73d5e0054d0ed87135d059f1c79a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Asha Puthli / The Essential Asha Puthli (CD, UK Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24822&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24822&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Mar 2024 17:36:37 GMT</pubDate>
-            <content:encoded><![CDATA[25,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/beb7ce32eed4d14fe6ad5af103c8bad9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
