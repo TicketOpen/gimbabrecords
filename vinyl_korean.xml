@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 05:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 17:36:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Thu, 21 Mar 2024 17:36:53 GMT</pubDate>
             <content:encoded><![CDATA[46,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/4c5d5f3e75e7ebe89df500ad001d2f70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 / 어린이에게 보내는 산울림의 동요 선물 제2집 : 산할아버지 (140g 투명 블루 Vinyl, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24916&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24916&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 21 Mar 2024 17:36:53 GMT</pubDate>
-            <content:encoded><![CDATA[46,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/1a5bc628ae8782525019968f2019f0d9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전인권 & 허성욱 / 1979~1987 추억들국화 (180g Vinyl)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 27 Mar 2024 05:36:29 GMT</pubDate>
             <content:encoded><![CDATA[57,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/496d1fb2afd7862e010d4955bbb9700a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KERO ONE / Early Believers (Vinyl, 2LP, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24252&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24252&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Mar 2024 17:36:39 GMT</pubDate>
+            <content:encoded><![CDATA[65,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/74de15f8d212d1e48113013653bc3b9c.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

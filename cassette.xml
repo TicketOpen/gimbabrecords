@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 05:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 17:36:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Thu, 14 Mar 2024 17:34:52 GMT</pubDate>
             <content:encoded><![CDATA[23,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/b43a19d2a4c953f9aed8084c18c9ba77.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bruno Berle / No Reino Dos Afetos 2 (Cassette) *예약상품 (4월 12일경 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24812&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24812&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Mon, 11 Mar 2024 17:35:02 GMT</pubDate>
-            <content:encoded><![CDATA[25,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/26afd6a7ffafde45322ce0dd83a89cc3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Faye Webster / Underdressed at the Symphony (Cassette)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Sun, 24 Mar 2024 17:36:37 GMT</pubDate>
             <content:encoded><![CDATA[14,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/deb8acccf41684d1a46d58040bf08d48.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Bonnie / 90 In November (Cassette, Green Shell)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24526&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24526&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Mar 2024 17:35:16 GMT</pubDate>
+            <content:encoded><![CDATA[17,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/1349c49b0c999eb0a8f70eaebf3cb624.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
