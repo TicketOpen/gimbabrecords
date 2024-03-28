@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 17:36:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 05:37:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Wed, 27 Mar 2024 17:35:11 GMT</pubDate>
             <content:encoded><![CDATA[31,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/ba8dbedd32ee72ff3578a0c4e92837ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Booker T & The MGs / Green Onions (60th Anniversary, Limited Green Colored Vinyl, Remastered) *예약상품 (4월 12일 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24954&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24954&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 27 Mar 2024 17:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[43,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/fdda31002ce6a570574998218008efe5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ducks Ltd. / Harm's Way (Limited 'Garden Fountain' Coloured Vinyl)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 27 Mar 2024 17:35:11 GMT</pubDate>
             <content:encoded><![CDATA[38,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/2c009f62f8513895752c0df5ce121135.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Matt Maltese / Songs That Aren't Mine (White Vinyl) *예약상품 (4월 15일 전후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24931&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24931&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Mar 2024 05:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/27f869353dfe01a68b11bd879b743e36.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
