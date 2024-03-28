@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 05:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 17:36:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nirvana / Nevermind (5CD + 1 Blu-Ray Box Set + 미공개 사진이 포함된 40p 하드커버 북, 30th Anniversary Edition) *2023 블랙프라이데이 할인 (구매시 유의사항을 확인하세요.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24963&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24963&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Mar 2024 17:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[115,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/9c457a7e12cd9c091e6a7a1c80749c62.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swift / Speak Now (Taylor's Version) (2CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24962&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24962&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Mar 2024 17:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[35,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/e8a4302b22f0e0b019bfaefc37c62b37.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Strokes / Comedown Machine (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24945&amp;cate_no=30&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 19 Mar 2024 05:35:07 GMT</pubDate>
             <content:encoded><![CDATA[21,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/868f8de2df1d3e6b4ceb18dfd1a1b333.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Easy Life / Maybe In Another Life (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24886&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24886&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 19 Mar 2024 05:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[19,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/d6ebb713a9066273525365dd2bfe7da4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oasis / (What's The Story) Morning Glory (CD, EU Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24885&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24885&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 19 Mar 2024 05:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201604/3617_shop1_509455.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
