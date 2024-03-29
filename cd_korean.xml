@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 05:36:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 17:37:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Naivesign (나이브사인) / EP You will never know till it happens to you (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24969&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24969&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Fri, 29 Mar 2024 17:36:27 GMT</pubDate>
+            <content:encoded><![CDATA[29,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/387b7e76ad2d556929f7f54d3728c12a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Herhums (허험스) / 정규 2집 To Save Us All (CD, Limited Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24943&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 25 Jan 2024 17:35:40 GMT</pubDate>
             <content:encoded><![CDATA[20,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/ad08e64551a92f43b7c1671a579fa447.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소섬 / EP 1집 22 (CD, Digipak)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23861&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23861&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Jan 2024 17:35:16 GMT</pubDate>
-            <content:encoded><![CDATA[10,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/041808ff6f84edb8d0981ec3cb6bd681.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
