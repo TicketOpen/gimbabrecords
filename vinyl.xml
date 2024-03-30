@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Mar 2024 05:38:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Mar 2024 17:37:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Armin Van Buuren / Armin Anthems: Ultimate Singles Collected (Vinyl, 2LP, Limited Numbered Edition - Blue, Black & White Colored) *한정수량 할인 / 예약상품 (4월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24972&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24972&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 30 Mar 2024 17:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/b0583a9c7f9d684597f45659fe0c9aee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST (Naozumi Yamamoto) / Branded to Kill 살인의 낙인 (Limited Pink Colored Vinyl) *예약상품 (8월초 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24970&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 27 Mar 2024 17:35:11 GMT</pubDate>
             <content:encoded><![CDATA[38,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/c9886f302fab91d81815c8680b702304.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sagittarius / Blue Marble (White Vinyl, Reissue)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24952&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24952&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 27 Mar 2024 17:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[36,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/6cae648da7ad1245a5a1b7935ce1bd2d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
