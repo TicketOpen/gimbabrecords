@@ -4,17 +4,9 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Mar 2024 05:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Mar 2024 17:36:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[The Supreme Jubilees / It'll All Be Over (Opaque Maroon & Transparent Yellow Vinyl) *2023 블랙프라이데이할인 / 예약상품 (4월 중순 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22568&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22568&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 27 Mar 2024 17:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201711/8932_shop1_324880.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[공중도둑 (Mid-Air-Thief, aka 공중도덕) / 무너지기 (6th Pressing, Amber Coastline Color Vinyl + Download) *예약상품 (4월말 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=14080&amp;cate_no=42&amp;display_group=1</link>
@@ -22,6 +14,46 @@
             <pubDate>Sat, 30 Mar 2024 17:36:16 GMT</pubDate>
             <content:encoded><![CDATA[37,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202105/374deaecee28a068bc7670152c45e6b0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[음반 매장에서 듣는 음악 강의 시리즈 1] 재즈를 어떻게 즐겨야 할까? - 재즈 칼럼리스트 황덕호와 함께 하는 재즈 강의 + 음악 감상 (1강 "음악 감상과 재즈"  - 4월 9일 저녁 8시)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24967&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24967&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Mar 2024 17:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/2e9dc0e8b6bd708e62b9343b35021bcd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[음반 매장에서 듣는 음악 강의 시리즈 1] 재즈를 어떻게 즐겨야 할까? - 재즈 칼럼리스트 황덕호와 함께 하는 재즈 강의 + 음악 감상 (2강 "재즈란 무엇인가" 4월 23일 저녁 8시)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24968&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24968&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Mar 2024 17:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/fcc305121cad73aa35f48f7cdc5909ee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST / Branded To Kill 살인의 낙인 (CD) *예약상품 (8월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24971&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24971&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 29 Mar 2024 17:36:15 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/7b476474cd44c07124185c1e1bb87600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Naozumi Yamamoto) / Branded to Kill 살인의 낙인 (Limited Pink Colored Vinyl) *예약상품 (8월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24970&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24970&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 29 Mar 2024 17:36:15 GMT</pubDate>
+            <content:encoded><![CDATA[73,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/e7dbf434c74069e579ec1184eccb5ddd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Supreme Jubilees / It'll All Be Over (Opaque Maroon & Transparent Yellow Vinyl) *2023 블랙프라이데이할인 / 예약상품 (4월 중순 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22568&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22568&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Mar 2024 17:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201711/8932_shop1_324880.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[toe / The Future Is Now (Green & Yellow Color-In-Color 10" Vinyl, 24x48 Poster Insert) *예약상품 (4월말 배송 예정)]]></title>
@@ -64,44 +96,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/ba8dbedd32ee72ff3578a0c4e92837ff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[음반 매장에서 듣는 음악 강의 시리즈 1] 재즈를 어떻게 즐겨야 할까? - 재즈 칼럼리스트 황덕호와 함께 하는 재즈 강의 + 음악 감상 (1강 "음악 감상과 재즈"  - 4월 9일 저녁 8시)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24967&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24967&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Mar 2024 17:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[10,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/2e9dc0e8b6bd708e62b9343b35021bcd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[음반 매장에서 듣는 음악 강의 시리즈 1] 재즈를 어떻게 즐겨야 할까? - 재즈 칼럼리스트 황덕호와 함께 하는 재즈 강의 + 음악 감상 (4회차 강의를 모두 들을 수 있는 할인 패키지)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24966&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24966&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Thu, 28 Mar 2024 17:35:00 GMT</pubDate>
             <content:encoded><![CDATA[30,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/b30a40dfb555e47225a645c4bf4c20b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Naozumi Yamamoto) / Branded to Kill 살인의 낙인 (Limited Pink Colored Vinyl) *예약상품 (8월초 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24970&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24970&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 29 Mar 2024 17:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[73,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/e7dbf434c74069e579ec1184eccb5ddd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST / Branded To Kill 살인의 낙인 (CD) *예약상품 (8월초 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24971&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24971&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 29 Mar 2024 17:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[36,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/7b476474cd44c07124185c1e1bb87600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[음반 매장에서 듣는 음악 강의 시리즈 1] 재즈를 어떻게 즐겨야 할까? - 재즈 칼럼리스트 황덕호와 함께 하는 재즈 강의 + 음악 감상 (2강 "재즈란 무엇인가" 4월 23일 저녁 8시)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24968&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24968&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Mar 2024 17:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[10,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/fcc305121cad73aa35f48f7cdc5909ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
