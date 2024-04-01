@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Mar 2024 17:36:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 05:37:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Taylor Swift  / The Tortured Poets Department  (Standard Ghosted White Vinyl 2LP, Bonus Track “The Manuscript” 수록, 24페이지 책자가 담긴 Book-bound 쟈켓) *예약상품 (4월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24903&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24903&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 01 Apr 2024 05:35:58 GMT</pubDate>
+            <content:encoded><![CDATA[72,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/3836e406a48f0e006a9b856a718627c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공중도둑 (Mid-Air-Thief, aka 공중도덕) / 무너지기 (6th Pressing, Amber Coastline Color Vinyl + Download) *예약상품 (4월말 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=14080&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 27 Mar 2024 17:35:26 GMT</pubDate>
             <content:encoded><![CDATA[31,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/ba8dbedd32ee72ff3578a0c4e92837ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[음반 매장에서 듣는 음악 강의 시리즈 1] 재즈를 어떻게 즐겨야 할까? - 재즈 칼럼리스트 황덕호와 함께 하는 재즈 강의 + 음악 감상 (4회차 강의를 모두 들을 수 있는 할인 패키지)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24966&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24966&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Mar 2024 17:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[30,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/b30a40dfb555e47225a645c4bf4c20b5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
